@@ -1,0 +1,17 @@
+output/
+build/
+
+*.pyc
+
+*-eps-converted-to.pdf
+*.dvi
+*.log
+*.blg
+*.bbl
+*.aux
+*.backup
+*.tmp
+*.synctex.gz
+*.out
+*.ps
+*.toc

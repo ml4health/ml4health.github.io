@@ -2,9 +2,12 @@
 
 Usage
 -----
+
+```
 $ make html         # Build static site on local machine under output/
 $ make serve        # Serve website locally. Point browser to localhost:8000
 $ make rsync_upload # TODO this doesnt work yet, but will once we setup a server
+```
 
 Dependencies
 -----

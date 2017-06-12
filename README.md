@@ -19,6 +19,9 @@ pip install pelican
 
 Theme
 -----
+
+Uses custom theme already included in repo (themes/customized-pelican-alchemy/)
+
 Based on Pelican-Alchemy (https://nairobilug.github.io/pelican-alchemy/)
 
 Changelog from default theme

@@ -12,9 +12,18 @@ $ make rsync_upload # TODO this doesnt work yet, but will once we setup a server
 Dependencies
 -----
 * Pelican: http://blog.getpelican.com/
+* Markdown
 
+## With conda
 ```
-pip install pelican
+$ conda install -c conda-forge pelican=3.7.0
+$ conda install markdown
+```
+
+## With pip
+```
+$ pip install pelican
+$ pip install markdown
 ```
 
 Theme

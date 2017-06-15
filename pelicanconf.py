@@ -33,6 +33,11 @@ THEME = 'themes/customized-pelican-alchemy/alchemy'
 
 SITEIMAGE = '/images/logo.png'
 
+STATIC_PATHS = ['images', 'extra/favicon.ico']
+EXTRA_PATH_METADATA = {
+    'extra/favicon.ico': {'path': 'favicon.ico'}
+}
+
 # Theme-specific settings
 SITESUBTITLE = 'Workshop at NIPS 2017'
 DISPLAY_ARCHIVES_ON_MENU = False
@@ -42,6 +47,7 @@ DISPLAY_PAGES_ON_MENU = True
 DESCRIPTION = 'TODO'
 # Links
 LINKS = ()
+#        ('somedates', 'call-for-papers.html#dates'),
 #        ('Pelican', 'http://getpelican.com/'),
 #         ('Python.org', 'http://python.org/'),
 #         ('Jinja2', 'http://jinja.pocoo.org/'),

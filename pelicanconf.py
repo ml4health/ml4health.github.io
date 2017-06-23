@@ -4,9 +4,10 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Mike Hughes'
 SITENAME = u'Machine Learning for Health'
-SITEURL = ''
+SITEURL = 'ml4health.github.io/2017/'
 
-PATH = 'content'
+OUTPUT_PATH = '2017/'
+PATH = 'content_2017/'
 
 TIMEZONE = 'Europe/Paris'
 

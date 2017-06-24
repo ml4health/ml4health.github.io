@@ -6,7 +6,7 @@ save_as: index.html
 <div class="row">
 
 <div style="float:left; padding-right:1em">
-<img width=500px src="{filename}/images/long-beach.jpg"/>
+<img width=500px src="images/long-beach.jpg"/>
 </div>
     <p>This workshop will bring together machine learning researchers, clinicians and healthcare data experts. The program consists of invited talks, contributions and clinical challenges.</p>
     <p> <b>NIPS 2017</b> <br>

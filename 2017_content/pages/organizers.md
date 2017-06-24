@@ -83,9 +83,9 @@ Date: 2017-06-01
     <div class="col-xs-6 col-md-4"> 
     <div class="thumbnail">
         <img 
-            src="{filename}/images/tmp_100x100.jpg"
+            src="{filename}/images/ina.png"
             alt="Ina Fiterau headshot"
-            style="width:88%"
+            style="width:200px"
             align="center">
         <div class="caption">
             <h5>Ina Fiterau</h5>
@@ -102,9 +102,9 @@ Date: 2017-06-01
     <div class="col-xs-6 col-md-4"> 
     <div class="thumbnail">
         <img 
-            src="{filename}/images/tmp_100x100.jpg"
+            src="{filename}/images/jason.png"
             alt="Jason Fries headshot"
-            style="width:88%"
+            style="width:200px"
             align="center">
         <div class="caption">
             <h5>Jason Fries</h5>

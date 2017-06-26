@@ -1,6 +1,10 @@
 Title: Organizers
 Date: 2017-06-01
 
+
+<!-- THIS PAGE SRC IS AUTO GENERATED. At terminal: $ make organizers -->
+
+
 <div class="row">
 
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
@@ -83,9 +87,9 @@ Date: 2017-06-01
     <div class="col-xs-6 col-md-4"> 
     <div class="thumbnail">
         <img 
-            src="{filename}/images/ina.jpg"
+            src="{filename}/images/tmp_100x100.jpg"
             alt="Ina Fiterau headshot"
-            style="width:200px"
+            style="width:88%"
             align="center">
         <div class="caption">
             <h5>Ina Fiterau</h5>
@@ -102,9 +106,9 @@ Date: 2017-06-01
     <div class="col-xs-6 col-md-4"> 
     <div class="thumbnail">
         <img 
-            src="{filename}/images/jason.jpg"
+            src="{filename}/images/tmp_100x100.jpg"
             alt="Jason Fries headshot"
-            style="width:200px"
+            style="width:88%"
             align="center">
         <div class="caption">
             <h5>Jason Fries</h5>

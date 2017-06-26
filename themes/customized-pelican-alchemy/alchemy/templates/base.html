@@ -79,7 +79,9 @@
             {% if LINKS and loop.first %}
             <li class="list-inline-item text-muted">|</li>
             {% endif %}
+            {% if page.title|length > 0 %}
             <li class="list-inline-item"><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
+            {% endif %}
             {% endfor %}
             {% endif %}
             {% for icon, link in ICONS %}

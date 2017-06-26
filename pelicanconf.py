@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Mike Hughes'
 SITENAME = u'Machine Learning for Health'
-SITEURL = 'https://ml4health.github.io/2017/'
+SITEURL = 'https://ml4health.github.io/2017'
 
 OUTPUT_PATH = '2017/'
 PATH = 'content_2017/'
@@ -47,7 +47,8 @@ DISPLAY_PAGES_ON_MENU = True
 
 DESCRIPTION = 'TODO'
 # Links
-LINKS = ()
+LINKS = []
+#LINKS = ()
 #        ('somedates', 'call-for-papers.html#dates'),
 #        ('Pelican', 'http://getpelican.com/'),
 #         ('Python.org', 'http://python.org/'),

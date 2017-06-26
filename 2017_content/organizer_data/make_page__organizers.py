@@ -3,27 +3,6 @@ import pandas as pd
 csv_df = pd.read_csv("organizers.csv")
 csv_df['LASTNAME'] = [name.split()[-1] for name in csv_df['NAME'].values]
 csv_df.sort_values("LASTNAME", inplace=True)
-"""
-data = [
-    ("Peter Schulam", "pschulam@gmail.com"),
-    ("Jason Fries", "jason-fries@cs.stanford.edu"),
-    ("Dave Kale", "davekale@gmail.com"),
-    ("Ina Fiterau", "mfiterau@cs.stanford.edu")
-    ("Rajesh Ranganath", "rajeshr@cs.princeton.edu"),
-    ("Bruno Jedynak", "bruno.jedynak@pdx.edu"),
-    ("Mike Hughes", "mike@michaelchughes.com"),
-    ("Tristan Naumann", "tjn@mit.edu"),
-    ("Natasha Antropova", "antropova@uchicago.edu"),
-    ("Adrian Dalca", "adalca@mit.edu"),
-    ("Shubhi Asthana", "sasthan@us.ibm.com"),
-    ("Prateek Tandon", "prtandon@ucsd.edu"),
-    ("Jasvinder Kandola", "j.kandola@imperial.ac.uk"),
-    ("Uri Shalit", "urish22@gmail.com"),
-    ("Marzyeh Ghassemi", "mghassem@gmail.com"),
-    ("Tim Althoff", "althoff@cs.stanford.edu"),
-    ("Alex Ratner", "ajratner@stanford.edu"),
-    ]
-"""
 
 item_template_str = \
 """\n
@@ -46,6 +25,10 @@ item_template_str = \
 \n"""
 
 out_md_str = "Title: Organizers\nDate: 2017-06-01\n"
+out_md_str += (
+"""\n
+<!-- THIS PAGE SRC IS AUTO GENERATED. At terminal: $ make organizers -->
+\n""")
 
 n_per_row = 100
 

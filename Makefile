@@ -62,7 +62,7 @@ help:
 	@echo '                                                                          '
 
 organizers:
-	cd content/src_data/ && python make_page__organizers.py
+	cd $(INPUTDIR)/organizer_data/ && python make_page__organizers.py
 
 html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)

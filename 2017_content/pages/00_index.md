@@ -1,4 +1,4 @@
-Title: Home
+Title:
 Date: 2017-06-01
 save_as: index.html
 

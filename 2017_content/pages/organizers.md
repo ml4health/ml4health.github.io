@@ -32,7 +32,7 @@ Date: 2017-06-01
     <div class="thumbnail">
         <a href="#">
         <img 
-            src="{filename}/images/headshots_500x500/placeholder.jpg"
+            src="{filename}/images/headshots_500x500/natasha.jpg"
             alt="Natasha Antropova headshot"
             style="width:88%"
             align="center">
@@ -332,7 +332,7 @@ Date: 2017-06-01
     <div class="thumbnail">
         <a href="https://tandonp.wordpress.com/">
         <img 
-            src="{filename}/images/headshots_500x500/placeholder.jpg"
+            src="{filename}/images/headshots_500x500/prateek.jpg"
             alt="Prateek Tandon headshot"
             style="width:88%"
             align="center">

@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Mike Hughes'
 SITENAME = u'Machine Learning for Health'
-SITEURL = 'https://ml4health.github.io/2017'
+SITEURL = '' #https://ml4health.github.io/2017'
 
 OUTPUT_PATH = '2017/'
 PATH = 'content_2017/'

@@ -1,18 +1,18 @@
-NAME,EMAIL,AFFIL,TITLE,ROLE
-Peter Schulam,pschulam@gmail.com,Johns Hopkins,todo,connection
-Jason Fries,jason-fries@cs.stanford.edu,Stanford,Postdoc,connection
-Dave Kale,davekale@gmail.com,USD,todo,connection
-Ina Fiterau,mfiterau@cs.stanford.edu,Stanford,todo,program
-Rajesh Ranganath,rajeshr@cs.princeton.edu,Princeton,todo,program
-Bruno Jedynak,bruno.jedynak@pdx.edu,Portland State,todo,program
-Mike Hughes,mike@michaelchughes.com,Harvard SEAS,Postdoc,submission
-Tristan Naumann,tjn@mit.edu,MIT,todo,submission
-Natasha Antropova,antropova@uchicago.edu,U. Chicago,todo,finance
-Adrian Dalca,adalca@mit.edu,MIT,todo,clinical
-Shubhi Asthana,sasthan@us.ibm.com,IBM,todo,clinical
-Prateek Tandon,prtandon@ucsd.edu,UCSD,todo,clinical
-Jasvinder Kandola,j.kandola@imperial.ac.uk,Imperial College London,todo,clinical
-Uri Shalit,urish22@gmail.com,Technion,faculty,general
-Marzyeh Ghassemi,mghassem@gmail.com,MIT,todo,general
-Tim Althoff,althoff@cs.stanford.edu,Stanford,todo,general
-Alex Ratner,ajratner@stanford.edu,Stanford,todo,general
+NAME,EMAIL,WEBSITE,AFFIL,TITLE,ROLE,IMGFILE,
+Peter Schulam,pschulam@gmail.com,http://pschulam.com/,Johns Hopkins,PhD candidate,connection,peter.jpg,
+Jason Fries,jason-fries@cs.stanford.edu,http://nmbl.stanford.edu/people/jason-fries/,Stanford,Postdoc,connection,jason.jpg,
+Dave Kale,davekale@gmail.com,http://www-scf.usc.edu/~dkale/,USC,PhD candidate,connection,dave.jpg,
+Ina Fiterau,mfiterau@cs.stanford.edu,http://www.cs.cmu.edu/~mfiterau/,Stanford,Postdoc,program,ina.jpg,
+Rajesh Ranganath,rajeshr@cs.princeton.edu,https://www.cs.princeton.edu/~rajeshr/,Princeton,PhD candidate,program,rajesh.jpg,
+Bruno Jedynak,bruno.jedynak@pdx.edu,https://sites.google.com/site/brunomjedynak/,Portland State,Faculty,program,bruno.jpg,
+Mike Hughes,mike@michaelchughes.com,https://www.michaelchughes.com,Harvard SEAS,Postdoc,submission,mike.jpg,
+Tristan Naumann,tjn@mit.edu,,MIT,PhD candidate,submission,tristan.jpg,
+Natasha Antropova,antropova@uchicago.edu,,U. Chicago,PhD candidate,finance,,
+Adrian Dalca,adalca@mit.edu,http://www.mit.edu/~adalca/,MIT,Postdoc,clinical,adrian.jpg,
+Shubhi Asthana,sasthan@us.ibm.com,,IBM,Research software engineer,clinical,shubhi.jpg,
+Prateek Tandon,prtandon@ucsd.edu,https://tandonp.wordpress.com/,UCSD,Postdoc,clinical,prateek.jpg,
+Jasvinder Kandola,j.kandola@imperial.ac.uk,,Imperial College London,,clinical,,
+Uri Shalit,urish22@gmail.com,https://www.cs.nyu.edu/~shalit,Technion,Faculty,general,uri.jpg,
+Marzyeh Ghassemi,mghassem@gmail.com,http://mghassem.mit.edu/,MIT/Verily,Postdoc,general,marzyeh.jpg,
+Tim Althoff,althoff@cs.stanford.edu,http://timalthoff.de/,Stanford,PhD candidate,general,tim.jpg,
+Alex Ratner,ajratner@stanford.edu,https://scholar.google.com/citations?user=rfwwtFYAAAAJ&hl=en,Stanford,PhD candidate,general,alex.jpg,

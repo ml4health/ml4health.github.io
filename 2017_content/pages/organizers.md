@@ -150,7 +150,7 @@ Date: 2017-06-01
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
     <div class="col-xs-6 col-md-4"> 
     <div class="thumbnail">
-        <a href="https://www.michaelchughes.com">
+        <a href="http://www.michaelchughes.com">
         <img 
             src="{filename}/images/headshots_500x500/mike.jpg"
             alt="Mike Hughes headshot"

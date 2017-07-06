@@ -198,7 +198,7 @@ Date: 2017-06-01
             align="center">
         <div class="caption">
             <h5>Dave Kale</h5>
-            <p>USC, PhD candidate</p>
+            <p>Skymind/USC, PhD candidate</p>
             <p></p>
         </div>
         </a>

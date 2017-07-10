@@ -210,15 +210,15 @@ Date: 2017-06-01
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
     <div class="col-xs-6 col-md-4"> 
     <div class="thumbnail">
-        <a href="#">
+        <a href="http://www.phc.ox.ac.uk/~jazkandola">
         <img 
-            src="{filename}/images/headshots_500x500/placeholder.jpg"
+            src="{filename}/images/headshots_500x500/jaz.jpg"
             alt="Jasvinder Kandola headshot"
             style="width:88%"
             align="center">
         <div class="caption">
             <h5>Jasvinder Kandola</h5>
-            <p>Imperial College London, </p>
+            <p>Oxford (Nuffield Dept of Health Sci.), </p>
             <p></p>
         </div>
         </a>

@@ -9,7 +9,9 @@ TODO2017: NOTE THIS IS STILL AN UNOFFICIAL DRAFT.
 
 
 Friday, December 8, 2017
+
 Long Beach Convention Center, Long Beach, CA, USA
+
 [https://ml4health.github.io/2017/](https://ml4health.github.io/2017/
 )
 

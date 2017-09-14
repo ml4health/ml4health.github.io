@@ -1,30 +1,30 @@
-NIPS 2017 Workshop on Machine Learning for Health (ML4H)
+NIPS 2017 Workshop on Machine Learning for Health (NIPS ML4H 2017)
 
-What parts of Healthcare are Ripe for Disruption by Machine Learning
-Right Now?
+A workshop at the Thirty-First Annual Conference on Neural Information Processing Systems (NIPS 2017).
 
-
-Saturday, December 8, 2017
+Friday, December 8, 2017
 Long Beach Convention Center, Long Beach, CA, USA
 https://ml4health.github.io/2017/
-
-A workshop at the Thirty-First Annual Conference on Neural Information
-Processing Systems (NIPS 2017) in Long Beach, CA, USA.
 
 Please direct questions to: ml4h.workshop.nips.2017@gmail.com
 
 
 DATES
 
-* Mon Oct 30, 2017: Submission Deadline at 11:59pm
-* Fri Nov 10, 2017: Acceptance Notification (Poster or Spotlight+Poster)
-* Fri Dec 01, 2017: Final papers posted (with permission)
+* Tue Oct 24, 2017: NIPS early registration deadline
+* Mon Oct 30, 2017: Submission deadline at 11:59pm 
+* Fri Nov 10, 2017: Acceptance notification (Poster or Spotlight+Poster)
+* Thu Nov 16, 2017: NIPS deadline to cancel registration (with full refund)
+* Fri Dec 01, 2017: Final papers posted online (with permission)
 * Fri Dec 08, 2017: Workshop
 
 
 ABSTRACT
 
-The goal of the NIPS 2017 Machine Learning for Health Workshop (ML4H) is to
+What parts of Healthcare are Ripe for Disruption by Machine Learning
+Right Now?
+
+The goal of the Machine Learning for Health Workshop (NIPS ML4H 2017) is to
 foster collaborations that meaningfully impact medicine by bringing
 together clinicians, health data experts, and machine learning researchers.
 We aim to build on the success of the last two NIPS ML4H workshops which

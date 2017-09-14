@@ -8,12 +8,12 @@ Date: 2017-06-01
 TODO2017: NOTE THIS IS STILL AN UNOFFICIAL DRAFT.
 
 
-Saturday, December 8, 2017
+Friday, December 8, 2017
 Long Beach Convention Center, Long Beach, CA, USA
 [https://ml4health.github.io/2017/](https://ml4health.github.io/2017/
 )
 
-A workshop at the Thirty-First Annual Conference on Neural Information Processing Systems (NIPS 2017) in Long Beach, CA, USA.
+A workshop at the Thirty-First Annual Conference on Neural Information Processing Systems (NIPS 2017).
 
 * [Dates](#dates)
 * [Abstract](#abstract)
@@ -23,14 +23,16 @@ Please direct questions to: <mailto:ml4h.workshop.nips.2017@gmail.com>
 
 ### <a id="dates"></a> DATES
 
-* Mon Oct 30, 2017: Submission Deadline at 11:59pm [easy chair link]
-* Fri Nov 10, 2017: Acceptance Notification (Poster or Spotlight+Poster)
-* Fri Dec 01, 2017: Final papers posted (with permission)
+* Tue Oct 24, 2017: NIPS early registration deadline
+* Mon Oct 30, 2017: Submission deadline at 11:59pm 
+* Fri Nov 10, 2017: Acceptance notification (Poster or Spotlight+Poster)
+* Thu Nov 16, 2017: NIPS deadline to cancel registration (with full refund)
+* Fri Dec 01, 2017: Final papers posted online (with permission)
 * Fri Dec 08, 2017: Workshop
 
 ### <a id="abstract"></a> ABSTRACT
 
-The goal of the NIPS 2017 Machine Learning for Health Workshop (ML4H) is to foster collaborations that meaningfully impact medicine by bringing together clinicians, health data experts, and machine learning researchers. We aim to build on the success of the last two NIPS ML4H workshops which were widely attended and helped form the foundations of a new research community.
+The goal of the Machine Learning for Health Workshop (NIPS ML4H 2017) is to foster collaborations that meaningfully impact medicine by bringing together clinicians, health data experts, and machine learning researchers. We aim to build on the success of the last two NIPS ML4H workshops which were widely attended and helped form the foundations of a new research community.
                             
 This year’s program emphasizes identifying previously unidentified problems in healthcare that the machine learning community hasn't addressed, or seeing old challenges through a new lens. While healthcare and medicine are often touted as prime examples for disruption by AI and machine learning, there has been vanishingly little evidence of this disruption to date. To interested parties who are outside of the medical establishment (e.g. machine learning researchers), the healthcare system can appear byzantine and impenetrable, which results in a high barrier to entry. In this workshop, we hope to reduce this activation energy by bringing together leaders at the forefront of both machine learning and healthcare for a dialog on areas of medicine that have immediate opportunities for machine learning. Attendees at this workshop will quickly gain an understanding of the key problems that are unique to healthcare and how machine learning can be applied to addressed these challenges.
 
@@ -49,6 +51,7 @@ Please submit via our ML4H EasyChair website: [https://easychair.org/conferences
 Papers should adhere to the NIPS conference paper format, 
 via the NIPS LaTeX style file:
 [https://nips.cc/Conferences/2017/PaperInformation/StyleFiles](https://nips.cc/Conferences/2017/PaperInformation/StyleFiles).
+
 Workshop papers should be at most 4 pages of content, including text and figures. Additional pages containing only bibliographic references can be included without penalty.
 
 #### Relevant Topics

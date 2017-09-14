@@ -70,6 +70,26 @@ Date: 2017-06-01
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
     <div class="col-xs-6 col-md-4"> 
     <div class="thumbnail">
+        <a href="https://scholar.harvard.edu/beam">
+        <img 
+            src="{filename}/images/headshots_500x500/andrew.jpg"
+            alt="Andrew Beam headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Andrew Beam</h5>
+            <p>Harvard DBMI, Postdoc</p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
         <a href="http://www.mit.edu/~adalca/">
         <img 
             src="{filename}/images/headshots_500x500/adrian.jpg"
@@ -230,6 +250,26 @@ Date: 2017-06-01
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
     <div class="col-xs-6 col-md-4"> 
     <div class="thumbnail">
+        <a href="http://dbmi.hms.harvard.edu/zak">
+        <img 
+            src="{filename}/images/headshots_500x500/zak.jpg"
+            alt="Isaac (Zak) Kohane headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Isaac (Zak) Kohane</h5>
+            <p>Harvard DBMI, Professor</p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
         <a href="#">
         <img 
             src="{filename}/images/headshots_500x500/tristan.jpg"
@@ -330,6 +370,26 @@ Date: 2017-06-01
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
     <div class="col-xs-6 col-md-4"> 
     <div class="thumbnail">
+        <a href="https://scholar.google.com/citations?user=FM2DTXwAAAAJ&hl=en">
+        <img 
+            src="{filename}/images/headshots_500x500/jasper.jpg"
+            alt="Jasper Snoek headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Jasper Snoek</h5>
+            <p>Google Brain, Research Scientist</p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
         <a href="https://tandonp.wordpress.com/">
         <img 
             src="{filename}/images/headshots_500x500/prateek.jpg"
@@ -339,6 +399,26 @@ Date: 2017-06-01
         <div class="caption">
             <h5>Prateek Tandon</h5>
             <p>UCSD, Postdoc</p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="https://scholar.google.com/citations?user=GPnusKcAAAAJ&hl=en">
+        <img 
+            src="{filename}/images/headshots_500x500/wiltschko.jpg"
+            alt="Alexander Wiltschko headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Alexander Wiltschko</h5>
+            <p>Google Brain, Research Scientist</p>
             <p></p>
         </div>
         </a>

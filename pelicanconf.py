@@ -1,10 +1,15 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import os
 
 AUTHOR = u'Mike Hughes'
 SITENAME = u'Machine Learning for Health'
-SITEURL = 'https://ml4health.github.io/2017'
+
+if 'SITEURL' in os.environ:
+    SITEURL = os.environ['SITEURL']
+else:
+    SITEURL = 'https://ml4health.github.io/2017'
 
 OUTPUT_PATH = '2017/'
 PATH = 'content_2017/'

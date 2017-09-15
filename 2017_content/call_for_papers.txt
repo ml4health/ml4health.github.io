@@ -47,11 +47,10 @@ the key problems that are unique to healthcare and how machine learning can
 be applied to addressed these challenges.
 
 The workshop will feature invited talks from leading voices in both
-medicine and machine learning. Some invited clinicians will make a
-*clinician pitch*: a short presentation of open clinical problems where
-data-driven solutions can make an immediate difference. The workshop will
-conclude with an interactive a panel discussion where all speakers respond
-to questions provided by the audience.
+medicine and machine learning. Invited clinicians will discuss open clinical 
+problems where data-driven solutions can make an immediate difference. The 
+workshop will conclude with an interactive a panel discussion where all 
+speakers respond to questions provided by the audience.
 
 From the research community, we welcome short paper submissions
 highlighting novel research contributions at the intersection of machine

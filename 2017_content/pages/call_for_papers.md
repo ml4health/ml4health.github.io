@@ -38,9 +38,13 @@ The goal of the Machine Learning for Health Workshop (NIPS ML4H 2017) is to fost
                             
 This year’s program emphasizes identifying previously unidentified problems in healthcare that the machine learning community hasn't addressed, or seeing old challenges through a new lens. While healthcare and medicine are often touted as prime examples for disruption by AI and machine learning, there has been vanishingly little evidence of this disruption to date. To interested parties who are outside of the medical establishment (e.g. machine learning researchers), the healthcare system can appear byzantine and impenetrable, which results in a high barrier to entry. In this workshop, we hope to reduce this activation energy by bringing together leaders at the forefront of both machine learning and healthcare for a dialog on areas of medicine that have immediate opportunities for machine learning. Attendees at this workshop will quickly gain an understanding of the key problems that are unique to healthcare and how machine learning can be applied to addressed these challenges.
 
-The workshop will feature invited talks from leading voices in both medicine and machine learning. Some invited clinicians will make a *clinician pitch*: a short presentation of open clinical problems where data-driven solutions can make an immediate difference. The workshop will conclude with an interactive a panel discussion where all speakers respond to questions provided by the audience.  
+The workshop will feature invited talks from leading voices in both
+medicine and machine learning. Invited clinicians will discuss open clinical 
+problems where data-driven solutions can make an immediate difference. The 
+workshop will conclude with an interactive panel discussion where all 
+speakers respond to questions provided by the audience.
 
-From the research community, we welcome short paper submissions highlighting novel research contributions at the intersection of machine learning and healthcare. Accepted submissions will be featured as poster presentations or (in select cases) as short oral spotlight presentations.
+From the research community, we welcome short paper submissions highlighting novel research contributions at the intersection of machine learning and healthcare. Accepted submissions will be featured as poster presentations and (in select cases) as short oral spotlight presentations.
 
 
 ### <a id="submission_instructions"></a> PAPER SUBMISSION INSTRUCTIONS

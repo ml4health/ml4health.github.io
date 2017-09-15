@@ -5,6 +5,8 @@ Date: 2017-06-01
 
 #### What parts of Healthcare are Ripe for Disruption by Machine Learning Right Now?
 
+A workshop at the Thirty-First Annual Conference on Neural Information Processing Systems (NIPS 2017).
+
 TODO2017: NOTE THIS IS STILL AN UNOFFICIAL DRAFT.
 
 
@@ -14,8 +16,6 @@ Long Beach Convention Center, Long Beach, CA, USA
 
 [https://ml4health.github.io/2017/](https://ml4health.github.io/2017/
 )
-
-A workshop at the Thirty-First Annual Conference on Neural Information Processing Systems (NIPS 2017).
 
 * [Dates](#dates)
 * [Abstract](#abstract)

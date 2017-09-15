@@ -1,6 +1,7 @@
 NIPS 2017 Workshop on Machine Learning for Health (NIPS ML4H 2017)
 
-A workshop at the Thirty-First Annual Conference on Neural Information Processing Systems (NIPS 2017).
+A workshop at the Thirty-First Annual Conference on Neural Information
+Processing Systems (NIPS 2017).
 
 Friday, December 8, 2017
 Long Beach Convention Center, Long Beach, CA, USA
@@ -12,7 +13,7 @@ Please direct questions to: ml4h.workshop.nips.2017@gmail.com
 DATES
 
 * Tue Oct 24, 2017: NIPS early registration deadline
-* Mon Oct 30, 2017: Submission deadline at 11:59pm 
+* Mon Oct 30, 2017: Submission deadline at 11:59PM
 * Fri Nov 10, 2017: Acceptance notification (Poster or Spotlight+Poster)
 * Thu Nov 16, 2017: NIPS deadline to cancel registration (with full refund)
 * Fri Dec 01, 2017: Final papers posted online (with permission)
@@ -21,8 +22,8 @@ DATES
 
 ABSTRACT
 
-What parts of Healthcare are Ripe for Disruption by Machine Learning
-Right Now?
+What parts of Healthcare are Ripe for Disruption by Machine Learning Right
+Now?
 
 The goal of the Machine Learning for Health Workshop (NIPS ML4H 2017) is to
 foster collaborations that meaningfully impact medicine by bringing
@@ -47,10 +48,10 @@ the key problems that are unique to healthcare and how machine learning can
 be applied to addressed these challenges.
 
 The workshop will feature invited talks from leading voices in both
-medicine and machine learning. Invited clinicians will discuss open clinical 
-problems where data-driven solutions can make an immediate difference. The 
-workshop will conclude with an interactive panel discussion where all 
-speakers respond to questions provided by the audience.
+medicine and machine learning. Invited clinicians will discuss open
+clinical problems where data-driven solutions can make an immediate
+difference. The workshop will conclude with an interactive panel discussion
+where all speakers respond to questions provided by the audience.
 
 From the research community, we welcome short paper submissions
 highlighting novel research contributions at the intersection of machine
@@ -97,7 +98,6 @@ the workshop's goals. All accepted papers will be included in one of two
 poster presentation sessions on the day of the workshop. Some accepted
 papers will be invited to give short oral spotlight presentations at the
 workshop.
-
 
 #### Copyright for Accepted Papers
 

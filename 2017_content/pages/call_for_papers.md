@@ -7,9 +7,6 @@ Date: 2017-06-01
 
 A workshop at the Thirty-First Annual Conference on Neural Information Processing Systems (NIPS 2017).
 
-TODO2017: NOTE THIS IS STILL AN UNOFFICIAL DRAFT.
-
-
 Friday, December 8, 2017
 
 Long Beach Convention Center, Long Beach, CA, USA

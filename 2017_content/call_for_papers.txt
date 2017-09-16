@@ -9,10 +9,10 @@ https://ml4health.github.io/2017/
 
 Please direct questions to: ml4h.workshop.nips.2017@gmail.com
 
-NOTE: The main NIPS 2017 conference is currently sold out. A limited
-number of workshop registrations are still available, so please
+NOTE 2017/09/16: The main NIPS 2017 conference is currently sold out. A
+limited number of workshop registrations are still available, so please
 register ASAP if you intend to submit a paper. Registrations can be
-cancelled before Nov. 16, 2017 for a full refund. 
+cancelled before Nov. 16, 2017 for a full refund.
 
 DATES
 

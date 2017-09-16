@@ -20,9 +20,14 @@ Long Beach Convention Center, Long Beach, CA, USA
 
 Please direct questions to: <mailto:ml4h.workshop.nips.2017@gmail.com>
 
+*NOTE 2017/09/16*: The main NIPS 2017 conference is currently sold out. A
+limited number of workshop registrations are still available, so please
+register ASAP if you intend to submit a paper. Registrations can be
+cancelled before Nov. 16, 2017 for a full refund.
+
+
 ### <a id="dates"></a> DATES
 
-* Tue Oct 24, 2017: NIPS early registration deadline
 * Mon Oct 30, 2017: Submission deadline at 11:59pm 
 * Fri Nov 10, 2017: Acceptance notification (Poster or Spotlight+Poster)
 * Thu Nov 16, 2017: NIPS deadline to cancel registration (with full refund)

@@ -7,7 +7,7 @@ save_as: index.html
             <h4>What Parts of Healthcare are Ripe for Disruption by Machine Learning Right Now?</h4>
 
             <p>
-                <b>A workshop at <a href="https://nips.cc">NIPS 2017</a></b> <br>
+                <b>NIPS ML4H 2017: a workshop at <a href="https://nips.cc">NIPS 2017</a></b> <br>
             Friday December 08, 2017 <br>
             <a href="https://www.google.com/maps/place/Long+Beach+Convention+%26+Entertainment+Center/@33.7606839,-118.1892951,16z/data=!3m1!5s0x80dd313b1d738beb:0xb11de026a4091d6e!4m2!3m1!1s0x80dd313b68c4eae7:0x69f1fff3cb508d42">Long Beach Convention Center, Long Beach, CA </a>
             </p>

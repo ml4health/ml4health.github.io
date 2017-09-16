@@ -1,4 +1,4 @@
-NIPS 2017 Workshop on Machine Learning for Health (NIPS ML4H 2017)
+NIPS Workshop on Machine Learning for Health (NIPS ML4H 2017)
 
 A workshop at the Thirty-First Annual Conference on Neural Information
 Processing Systems (NIPS 2017).

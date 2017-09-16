@@ -1,7 +1,7 @@
 Title: Call for Papers
 Date: 2017-06-01
 
-### NIPS 2017 Workshop on Machine Learning for Health (ML4H)
+### NIPS Workshop on Machine Learning for Health (NIPS ML4H 2017)
 
 #### What parts of Healthcare are Ripe for Disruption by Machine Learning Right Now?
 

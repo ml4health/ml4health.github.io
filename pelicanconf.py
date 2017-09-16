@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 import os
 
 AUTHOR = u'Mike Hughes'
-SITENAME = u'Machine Learning for Health'
+SITENAME = u'ML4H: Machine Learning for Health'
 
 if 'SITEURL' in os.environ:
     SITEURL = os.environ['SITEURL']

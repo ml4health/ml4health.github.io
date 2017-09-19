@@ -78,7 +78,7 @@ Date: 2017-06-01
             align="center">
         <div class="caption">
             <h5>Andrew Beam</h5>
-            <p>Harvard DBMI, Postdoc</p>
+            <p>Harvard DBMI, Instructor/Faculty</p>
             <p></p>
         </div>
         </a>

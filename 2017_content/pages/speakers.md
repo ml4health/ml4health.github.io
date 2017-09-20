@@ -8,6 +8,7 @@ Date: 2017-06-01
 <li><a href="#corrado">Greg Corrado</a></li>
 <li><a href="#kohane">Isaac (Zak) Kohane</a></li>
 <li><a href="#leskovec">Jure Leskovec</a></li>
+<li><a href="#li">Fei-Fei Li</a></li>
 <li><a href="#mesirov">Jill Mesirov</a></li>
 <li><a href="#murphy">Susan Murphy</a></li>
 <li><a href="#van_der_schaar">Mihaela van der Schaar</a></li>
@@ -72,8 +73,10 @@ Website: https://dbmi.hms.harvard.edu/person/faculty/zak-kohane
 ### <a id="leskovec"></a> Jure Leskovec
 
 Jure Leskovec is an Associate Professor of Computer Science at Stanford University. His research focuses on mining and modeling large social and information networks, their evolution, and diffusion of information and influence over them. The problems he investigates are motivated by large scale data, the Web and on-line media. Dr. Leskovec is also Chief Scientists at Pinterest, leading Pinterest Labs. Dr. Leskovec is the recipient of the Lagrange Prize in 2015 and the Alfred P. Sloan Fellowship in 2012.
-Fei-Fei Li, Stanford University
-Fei-Fei works on computer vision, cognitive neuroscience and computational neuroscience, and Big Data analysis. She has authored more than 100 scientific articles. Her work appears in computer science and neuroscience journals including Nature, the Journal of Neuroscience and IEEE Transactions on Pattern Analysis and Machine Intelligence. Among her best-known work is the ImageNet project, which has revolutionized the field of large-scale visual recognition. Fei-Fei is the recipient of the 2014 IBM Faculty Fellow Award, the 2011 Alfred Sloan Faculty Award, the 2012 Yahoo Labs FREP Award, the 2009 NSF CAREER Award, and the 2006 Microsoft Research New Faculty Fellowship. She has been featured in media venues such as the New York Times and Science Magazine.   
+
+### <a id="li"></a> Fei-Fei Li
+
+Fei-Fei Li, of Stanford University, works on computer vision, cognitive neuroscience and computational neuroscience, and Big Data analysis. She has authored more than 100 scientific articles. Her work appears in computer science and neuroscience journals including Nature, the Journal of Neuroscience and IEEE Transactions on Pattern Analysis and Machine Intelligence. Among her best-known work is the ImageNet project, which has revolutionized the field of large-scale visual recognition. Fei-Fei is the recipient of the 2014 IBM Faculty Fellow Award, the 2011 Alfred Sloan Faculty Award, the 2012 Yahoo Labs FREP Award, the 2009 NSF CAREER Award, and the 2006 Microsoft Research New Faculty Fellowship. She has been featured in media venues such as the New York Times and Science Magazine.   
 
 ### <a id="mesirov"></a> Jill Mesirov
 

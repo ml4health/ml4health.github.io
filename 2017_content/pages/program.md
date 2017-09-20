@@ -41,8 +41,6 @@ NIPS ML4H 2017 program
 <li>Susann Beier, U. Auckland</li>
 <li>James Priest, Stanford</li>
 <li>Irina Strigo, UCSF</li>
-<li>Prashanti Vemuri, Mayo Clinic</li>
-<li>Hollis Potter, Hospital for Special Surgery</li>
 <li>Enrique Velazquez, Rady Children’s Hospital</li>
 </ul>     
             </td>

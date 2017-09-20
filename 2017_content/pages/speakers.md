@@ -20,12 +20,12 @@ Date: 2017-06-01
 <h3>Invited clinician panelists:</h3>
 <ul>
 <li><a href="#beier">Susann Beier</a></li>
-<li><a href="#potter">Hollis Potter</a></li>
 <li><a href="#priest">James Priest</a></li>
 <li><a href="#strigo">Irina Strigo</a></li>
 <li><a href="#velazquez">Enrique Velazquez</a></li>
-<li><a href="#vemuri">Prashanthi Vemuri</a></li>
 </ul>
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -101,11 +101,6 @@ Website: https://www.gv.com/team/krishna-yeshwant/
 
 Susann Beier is a passionate researcher, scientist and teacher with interest in science and engineering applied for human aid. Her mixed background in Materials and Biomedical Engineering enables unique insights into how we can learn from nature to advance technology. Dr. Beier works as a Research Fellow at the University of Auckland Medical School in New Zealand and assists with teaching at the Engineering School. Her research interests are in the areas of computational fluid dynamics, image analysis and machine learning applied to biomedical engineering research fields. One area of interest is the combination of experimental and computational research areas, such as combination of in vitro 4D flow MRI and computational fluid dynamics. Pitch topic: Creation of a statistical atlas of coronary flow for disease prediction, risk assessment and treatment advances.
                  
-### <a id="potter"></a> Hollis Potter
-
-Hollis Potter, Hospital for Special Surgery
-Dr. Hollis Potter is a Board-Certified Radiologist specializing in Musculoskeletal MR Imaging since 1990. She has published 205 scientific articles and 60 book chapters. Dr. Potter has presented and been invited to speak locally, nationally, and internationally at orthopedic and radiologic scientific meetings. She is funded for MR research in both clinical and basic science projects. Her MRI laboratory is actively funded by the NIH NIAMS for translational MRI research. Dr. Potter is nationally and internationally recognized for her expertise in developing MR applications for orthopedic conditions.
-
 ### <a id="priest"></a> James Priest
 
 Dr. James Priest is an Assistant Professor of Pediatric Cardiology at the Stanford University Medical Center. His research interests are in the area of genetics and pathogenesis of congenital heart disease, intended to complement and enhance the surgical and clinical care of infants with this group of disorders. With his research training in genomics and clinical training in pediatric cardiology, Dr. Priest is well positioned to close this gap by investigating into the genetic basis of congenital heart malformations and developing new models of disease. His research objective is to translate an improved molecular genetic and developmental understanding of congenital heart disease from the laboratory into clinically actionable models, diagnostics, and ultimately therapeutic interventions. Pitch topic: Computer vision techniques for the recovery of measures of interest of the aortic valve from heart MRI videos.
@@ -118,6 +113,13 @@ Irina Strigo, Ph.D. is Associate Professor in the Department of Psychiatry at UC
 
 Dr. Velazquez is a Fellow at Rady Children’s Hospital. His research is primarily concerned with integrating clinical and genomic data for Precision Medicine, at the intersection of bioinformatics, statistical analysis, genetics, epidemiology, clinical medicine and public & global health. Dr. Velazquez’ current projects include studies of regulation of cellular immunity in humans with specific relevance to understanding transplantation immunity and development of biomarkers for clinical translation that also extend our understanding of immunity and individualized immunosuppressive therapy in transplant patients (pharmacogenomics). In addition to the integrated study of transplantation immunology, he is also involved in highly technical bioinformatics and statistical research, which describes the integration of multiple genome sequencing technologies.
 
+<!---
+### <a id="potter"></a> Hollis Potter
+
+Hollis Potter, Hospital for Special Surgery
+Dr. Hollis Potter is a Board-Certified Radiologist specializing in Musculoskeletal MR Imaging since 1990. She has published 205 scientific articles and 60 book chapters. Dr. Potter has presented and been invited to speak locally, nationally, and internationally at orthopedic and radiologic scientific meetings. She is funded for MR research in both clinical and basic science projects. Her MRI laboratory is actively funded by the NIH NIAMS for translational MRI research. Dr. Potter is nationally and internationally recognized for her expertise in developing MR applications for orthopedic conditions.
+
 ### <a id="vemuri"></a> Prashanthi Vemuri
 
 The research of Prashanthi Vemuri, Ph.D., is geared toward developing and validating imaging biomarkers for early diagnosis, prognosis, tracking disease progression and answering key mechanistic questions related to neurodegenerative diseases and dementias using multimodal imaging. She develops technology based on MRI and PET scans. A major problem with the current clinical diagnostic criteria for Alzheimer's disease is that once patients begin to show symptoms, substantial brain damage has already occurred. From a public health perspective, diagnostic instruments for early diagnosis are urgently needed. Dr. Vemuri's research contributes to the development of such instruments. Pitch topic: Clinical problems in aging and dementia where machine learning can be applied to make a difference.
+-->

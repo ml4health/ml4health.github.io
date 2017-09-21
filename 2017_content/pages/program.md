@@ -1,7 +1,8 @@
 Title: Program
 Date: 2017-06-01
 
-NIPS ML4H 2017 program
+
+*Draft* schedule for the NIPS ML4H 2017 workshop.
 
 
 <div class="table-responsive">
@@ -13,11 +14,11 @@ NIPS ML4H 2017 program
         </tr>
         <tr>
             <td>08:20-09:00</td>
-            <td>Keynote I: Zak Kohane, Harvard DBMI</td>
+            <td>Keynote: Zak Kohane, Harvard DBMI</td>
         </tr>
         <tr>
             <td>09:00-09:30</td>
-            <td>Mustafa Suleyman, Google DeepMind</td>
+            <td>Keynote: Mustafa Suleyman, Google DeepMind</td>
         </tr>
         <tr>
             <td>09:30-10:00</td>
@@ -48,7 +49,7 @@ NIPS ML4H 2017 program
 
         <tr>
             <td>12:00-12:40</td>
-            <td>Keynote II: Fei-Fei Li, Stanford
+            <td>Keynote: Fei-Fei Li, Stanford
             </td>
         </tr>
 
@@ -60,7 +61,7 @@ NIPS ML4H 2017 program
 
         <tr>
             <td>13:40-14:20</td>
-            <td>Keynote III: Susan Murphy, U. Michigan
+            <td>Keynote: Susan Murphy, U. Michigan
             </td>
         </tr>
         <tr>
@@ -108,7 +109,7 @@ DeepMind, IBM, Google, MSR
         <tr>
             <td>16:20-17:00</td>
             <td>
-                Keynote IV: Atul Butte 
+                Keynote: Atul Butte 
             </td>
         </tr>
         <tr>

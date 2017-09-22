@@ -102,6 +102,15 @@ poster presentation sessions on the day of the workshop. Some accepted
 papers will be invited to give short oral spotlight presentations at the
 workshop.
 
+To promote community interaction, we do require at least one presenting
+author to attend the workshop. Thus, please register ASAP for NIPS
+Workshops here: https://nips.cc/Conferences/2017/Pricing
+
+Acceptance notifications will go out a few days before the deadline for
+full refunds. If your paper is accepted and circumstances arise that
+prevent your attendance, please contact us and we’ll deal with them on a
+case-by-case basis.
+
 #### Copyright for Accepted Papers
 
 This workshop will be informally published online but not officially

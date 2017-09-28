@@ -20,11 +20,10 @@ Long Beach Convention Center, Long Beach, CA, USA
 
 Please direct questions to: <mailto:ml4h.workshop.nips.2017@gmail.com>
 
-*NOTE 2017/09/16*: The main NIPS 2017 conference is currently sold out. A
-limited number of workshop registrations are still available, so please
-register ASAP if you intend to submit a paper. Registrations can be
-cancelled before Nov. 16, 2017 for a full refund.
-
+**NOTE 2017/09/28**: NIPS 2017 workshop registrations are now sold out. If you
+have not registered you may still submit a paper. During submission, please
+indicate an author that will attend or could attend in the unlikely event
+that more registrations became available as a "corresponding author."
 
 ### <a id="dates"></a> DATES
 
@@ -74,16 +73,20 @@ All submissions will undergo double-blind peer review. It will be up to the auth
 
 Accepted papers will be chosen based on technical merit and suitability to the workshop's goals. All accepted papers will be included in one of two poster presentation sessions on the day of the workshop. Some accepted papers will be invited to give short oral spotlight presentations at the workshop.
 
+#### Registration and Attendance
 
-To promote community interaction, we do require at least one presenting
-author to attend the workshop. Thus, please register ASAP for NIPS
-Workshops here:
-[https://nips.cc/Conferences/2017/Pricing](https://nips.cc/Conferences/2017/Pricing)
+To promote community interaction, we hope at least one presenting author
+has registered and can attend the workshop. However, because NIPS workshop
+registration has sold out, we encourage all researchers to submit a paper
+regardless of their registration status.
 
-Acceptance notifications will go out a few days before the deadline for
-full refunds. If your paper is accepted and circumstances arise that
-prevent your attendance, please contact us and we’ll deal with them on a
-case-by-case basis.
+Accepted papers that cannot attend will at least be listed on our website.
+It is unlikely that we will be able to create new registration spots for
+accepted papers, but we are exploring possibilities. If your paper is
+accepted and you cannot attend due to registration or other issues, please
+contact us after you are accepted and we'll find solutions on a
+case-by-case basis. Acceptance notifications will go out a few days before
+the NIPS deadline for full refunds.
 
 #### Copyright for Accepted Papers
 

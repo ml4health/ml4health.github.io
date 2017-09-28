@@ -9,10 +9,10 @@ https://ml4health.github.io/2017/
 
 Please direct questions to: ml4h.workshop.nips.2017@gmail.com
 
-NOTE 2017/09/25: NIPS 2017 workshop registrations are now sold out. If you
+NOTE 2017/09/28: NIPS 2017 workshop registrations are now sold out. If you
 have not registered you may still submit a paper. During submission, please
-indicate an author that could attend if more registrations became available
-as a "corresponding author."
+indicate an author that will attend or could attend in the unlikely event
+that more registrations became available as a "corresponding author."
 
 DATES
 
@@ -102,10 +102,12 @@ poster presentation sessions on the day of the workshop. Some accepted
 papers will be invited to give short oral spotlight presentations at the
 workshop.
 
+#### Registration and Attendance
+
 To promote community interaction, we hope at least one presenting author
 has registered and can attend the workshop. However, because NIPS workshop
 registration has sold out, we encourage all researchers to submit a paper
-regardless of their registration status. We no longer require registration.
+regardless of their registration status.
 
 Accepted papers that cannot attend will at least be listed on our website.
 It is unlikely that we will be able to create new registration spots for

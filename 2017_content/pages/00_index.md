@@ -2,8 +2,9 @@ Title:
 Date: 2017-06-01
 save_as: index.html
 
-<div class="container"><div class="row">
-        <div class="col-md-6">
+<div class="container">
+<div class="row">
+        <div class="col-md-7">
             <h4>What Parts of Healthcare are Ripe for Disruption by Machine Learning Right Now?</h4>
 
             <p>
@@ -16,27 +17,28 @@ save_as: index.html
             </p>
 
             <p>
-                <i>If you wish to attend, please <a href="https://nips.cc/Conferences/2017/Pricing">
-                register for NIPS Workshops</a>
-                soon. </i> The main conference is already sold out.
-            </p>
-
-            <p>
-                Please consider
+                Please 
                 <a href="pages/call-for-papers.html#submission_instructions">
-                    submitting a short paper
+                    submit a short paper
                 </a>
                     to be featured in our poster session.
             </p>
 
             <p>Direct questions to:
-                <a href=“mailto:ml4h.workshop.nips.2017@gmail.com”>
+                <a href="mailto:ml4h.workshop.nips.2017@gmail.com">
                     ml4h.workshop.nips.2017@gmail.com
                 </a>
             </p>
+
+            <p>Join our
+                <a href="https://groups.google.com/d/forum/ml4health">
+                ML4Health Google Group
+                </a>
+                to receive announcements.
+            </p>
         </div>
 
-<div class="col-md-6" style="padding-left: 0px;  padding-right: 0px;">
+<div class="col-md-5" style="padding-left: 0px;  padding-right: 0px;">
 <figure class="figure">
 <img
     src="images/Long_Beach_California-02.jpg"
@@ -48,7 +50,27 @@ save_as: index.html
 </figcaption>
 </figure>
 </div>
-</div></div>
+</div>
+
+<div class="row">
+    <h4>Announcements </h4>
+<div class="alert alert-warning" role="alert">
+<p> UPDATE 2017/09/28:
+<emph><b>We now encourage all researchers to submit a paper
+regardless of registration status.</b></emph>
+<emph>
+NIPS 2017 workshop registrations are now sold out.
+Accepted papers that cannot attend will at least be listed on our website.
+It is unlikely that we will be able to create new registration spots for
+accepted papers, but we are exploring possibilities.
+</emph>
+</p>
+</div>
+</div>
+
+
+
+</div><!-- END CONTAINER -->
 
 <!---
 <div class="row">

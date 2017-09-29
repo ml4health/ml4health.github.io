@@ -3,6 +3,23 @@ Date: 2017-06-01
 save_as: index.html
 
 <div class="container">
+
+<div class="row">
+<div class="alert alert-warning" role="alert">
+<p> UPDATE 2017/09/28:
+<emph><b>We now encourage all researchers to submit a paper
+regardless of registration status.</b></emph>
+<emph>
+NIPS 2017 workshop registrations are now sold out.
+Accepted papers that cannot attend will at least be listed on our website.
+It is unlikely that we will be able to create new registration spots for
+accepted papers, but we are exploring possibilities.
+</emph>
+</p>
+</div>
+</div>
+
+
 <div class="row">
         <div class="col-md-7">
             <h4>What Parts of Healthcare are Ripe for Disruption by Machine Learning Right Now?</h4>
@@ -52,21 +69,7 @@ save_as: index.html
 </div>
 </div>
 
-<div class="row">
-    <h4>Announcements </h4>
-<div class="alert alert-warning" role="alert">
-<p> UPDATE 2017/09/28:
-<emph><b>We now encourage all researchers to submit a paper
-regardless of registration status.</b></emph>
-<emph>
-NIPS 2017 workshop registrations are now sold out.
-Accepted papers that cannot attend will at least be listed on our website.
-It is unlikely that we will be able to create new registration spots for
-accepted papers, but we are exploring possibilities.
-</emph>
-</p>
-</div>
-</div>
+
 
 
 

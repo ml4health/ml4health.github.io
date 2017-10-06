@@ -93,12 +93,7 @@ Date: 2017-06-01
         </tr>
         <tr>
             <td>16:20-16:40</td>
-            <td>Award session and a word from affiliates 
-              <ul>
-                <li>Eunho Yang, KAIST, Korea</li>
-                <li>Sung-ju Hwang, UNIST, Korea</li>
-              </ul>     
-              representing <a href="https://www.aitrics.com">Altrics</a>, DeepMind, IBM, Google, and Microsoft Research
+            <td>Award session and message from affiliates/sponsors
             </td>
         </tr>
         <tr>

@@ -1,6 +1,7 @@
 Title: Program
 Date: 2017-06-01
-
+<!-- 35 minutes for keynotes -->
+<!-- 25 minutes for non-keynotes -->
 
 *Draft* schedule for the NIPS ML4H 2017 workshop.
 
@@ -13,24 +14,24 @@ Date: 2017-06-01
             <td>Welcome and opening remarks</td>
         </tr>
         <tr>
-            <td>08:20-09:00</td>
+            <td>08:20-08:55</td>
             <td>Keynote: Zak Kohane, Harvard DBMI</td>
         </tr>
         <tr>
-            <td>09:00-09:30</td>
+            <td>08:55-09:20</td>
             <td>Jennifer Chayes, Microsoft Research New England</td>
         </tr>
         <tr>
-            <td>09:30-10:00</td>
+            <td>09:20-09:55</td>
             <td>Keynote: Susan Murphy, U. Michigan</td>
         </tr>
         <tr>
-            <td>10:00-10:30</td>
+            <td>09:55-10:20</td>
             <td><strong>Contributed spotlights</strong>
             </td>
         </tr>
         <tr>
-            <td>10:30-11:00</td>
+            <td>10:20-11:00</td>
             <td>
                 <strong>Poster Session I</strong> and <i>coffee break</i>
             </td>
@@ -47,12 +48,12 @@ Date: 2017-06-01
             </td>
         </tr>
         <tr>
-            <td>12:00-12:40</td>
+            <td>12:00-12:35</td>
             <td>Keynote: Fei-Fei Li, Stanford
             </td>
         </tr>
         <tr>
-            <td>12:40-13:40</td>
+            <td>12:35-13:40</td>
             <td><i>Lunch</i>
             </td>
         </tr>
@@ -70,52 +71,52 @@ Date: 2017-06-01
             </td>
         </tr>
         <tr>
-            <td>14:40-15:00</td>
+            <td>14:40-15:05</td>
             <td>Jill Mesirov, UCSD
             </td>
         </tr>
         <tr>
-            <td>15:00-15:20</td>
+            <td>15:05-15:30</td>
             <td>Greg Corrado, Google
             </td>
         </tr>
         <tr>
-            <td>15:20-15:50</td>
+            <td>15:30-15:50</td>
             <td>
                 <strong>Poster Session II</strong>
                 and <i>coffee break</i>
             </td>
         </tr>
         <tr>
-            <td>15:50-16:20</td>
+            <td>15:50-16:25</td>
             <td>Keynote: Mustafa Suleyman, Google DeepMind
             </td>
         </tr>
         <tr>
-            <td>16:20-16:40</td>
+            <td>16:25-16:45</td>
             <td>Award session and message from affiliates/sponsors
             </td>
         </tr>
         <tr>
-            <td>16:40-17:10</td>
+            <td>16:45-17:10</td>
             <td>
                 Mihaela Van Der Schaar, Oxford
             </td>
         </tr>
         <tr>
-            <td>17:10-17:30</td>
+            <td>17:10-17:35</td>
             <td>
                 Krishna Yeshwant, GV
             </td>
         </tr>
         <tr>
-            <td>17:30-17:50</td>
+            <td>17:35-18:00</td>
             <td>
                 Jure Leskovec, Stanford
             </td>
         </tr>
         <tr>
-            <td>17:50-18:30</td>
+            <td>18:00-18:35</td>
             <td>
                 Keynote: Atul Butte
             </td>

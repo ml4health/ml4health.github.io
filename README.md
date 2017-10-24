@@ -14,6 +14,8 @@ To push any local changes to the real site, just push to origin (assuming origin
 $ git push origin master
 ```
 
+Remember, only content that you've turned into proper HTML files inside 2017/ with `make html` will be displayed on the website. Edits to the markdown source files in 2017_content/ do *not* automatically become html when pushed.
+
 Hint: Adjust SITEURL inside pelicanconf.py to get links right when building locally.
 
 ## Dependencies

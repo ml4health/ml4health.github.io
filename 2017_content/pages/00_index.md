@@ -6,6 +6,18 @@ save_as: index.html
 
 <div class="row">
 <div class="alert alert-warning" role="alert">
+<p> UPDATE 2017/10/26:
+<emph>
+We will grant a few travel awards to presenting authors. To be considered, please 
+<a href="https://goo.gl/forms/aM2uSGZtNQ9O7w563">
+complete this form</a>  by 11/08.
+</emph>
+</p>
+</div>
+</div>
+
+<div class="row">
+<div class="alert alert-warning" role="alert">
 <p> UPDATE 2017/09/28:
 <emph><b>We now encourage all researchers to submit a paper
 regardless of registration status.</b></emph>

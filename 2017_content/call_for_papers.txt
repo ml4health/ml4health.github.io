@@ -9,11 +9,11 @@ https://ml4health.github.io/2017/
 
 Please direct questions to: ml4h.workshop.nips.2017@gmail.com
 
-NOTE 2017/10/23: We will grant up to 10 travel awards to students and postdocs
-selected to present a paper. Awards can reimburse relevant travel expenses (up
-to $500 US or $1000 international). To be considered, please fill out the form
-at https://goo.gl/forms/aM2uSGZtNQ9O7w563 and list yourself as corresponding
-author when submitting via EasyChair.
+NOTE 2017/10/23: We will grant a limited number of travel awards to students
+and postdocs selected to present a paper. Awards can reimburse relevant travel
+expenses (up to $500 US or $1000 international). To be considered, please fill
+out the form at https://goo.gl/forms/aM2uSGZtNQ9O7w563 and list yourself as
+corresponding author when submitting via EasyChair.
 
 NOTE 2017/09/28: NIPS 2017 workshop registrations are now sold out. If you
 have not registered you may still submit a paper. During submission, please

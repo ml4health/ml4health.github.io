@@ -69,6 +69,8 @@ via the NIPS LaTeX style file:
 
 Workshop papers should be at most 4 pages of content, including text and figures. Additional pages containing only bibliographic references can be included without penalty.
 
+Authors will not be penalized for including an appendix of supplementary material after the references. However, reviewers will not be required to consult any appendices to make their decisions. The main 4-page paper should adequately describe the work and its contributions.
+
 #### Relevant Topics
 
 Submitted papers should describe innovative machine learning research focused on relevant problems in health and medicine. 

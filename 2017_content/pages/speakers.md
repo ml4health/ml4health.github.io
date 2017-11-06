@@ -13,14 +13,12 @@ Date: 2017-06-01
 <li><a href="#murphy">Susan Murphy</a></li>
 <li><a href="#van_der_schaar">Mihaela van der Schaar</a></li>
 <li><a href="#suleyman">Mustafa Suleyman</a></li>
-<li><a href="#yeshwant">Krishna Yeshwant</a></li>
 </ul>
 </div>
 
 <div class="col-xs-6">
 <h3>Invited clinician panelists:</h3>
 <ul>
-<li><a href="#beier">Susann Beier</a></li>
 <li><a href="#priest">James Priest</a></li>
 <li><a href="#strigo">Irina Strigo</a></li>
 <li><a href="#velazquez">Enrique Velazquez</a></li>
@@ -98,10 +96,6 @@ Mihaela van der Schaar is Man Professor of Quantitative Finance in the Oxford �
 
 Mustafa Suleyman is co-founder and Head of Applied AI at DeepMind, where he is responsible for the application of DeepMind’s technology to real-world problems, as part of DeepMind’s commitment to use intelligence to make the world a better place. In February 2016 he launched DeepMind Health, which builds clinician-led technology in the NHS. Mustafa was Chief Product Officer before DeepMind was bought in 2014 by Google in their largest European acquisition to date. At 19, Mustafa dropped out of Oxford University to help set up a telephone counselling service, building it to become one of the largest mental health support services of its kind in the UK, and then worked as policy officer for then Mayor of London, Ken Livingstone. He went on to help start Reos Partners, a consultancy with seven offices across four continents specializing in designing and facilitating large-scale multi-stakeholder ‘Change Labs’ aimed at navigating complex problems. As a skilled negotiator and facilitator Mustafa has worked across the world for a wide range of clients such as the UN, the Dutch Government and WWF.
 
-### <a id="yeshwant"></a> Krishna Yeshwant
-
-Dr. Krishna Yeshwant, MD, is a physician, programmer, and entrepreneur who has been working with GV since its inception. He first joined Google as part of the New Business Development team. Prior to Google he helped start an electronic data interchange company that was acquired by Hewlett-Packard and a network security company that was acquired by Symantec. He also co-authored the business plan for Diagnostics For All, which won both the Harvard Business School and MIT $100k business plan competitions. Previously, Krishna published several book chapters and journal articles in the field of computer-guided surgery, completed research in tissue engineering, and developed and licensed multiple surgical devices. He has worked with the technology transfer offices of MIT, Harvard, and Massachusetts General Hospital.
-Website: https://www.gv.com/team/krishna-yeshwant/
  
                 
 ### <a id="beier"></a> Susann Beier

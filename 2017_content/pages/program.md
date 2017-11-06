@@ -106,7 +106,7 @@ Date: 2017-06-01
         <tr>
             <td>17:10-17:35</td>
             <td>
-                Krishna Yeshwant, GV
+                Networking break
             </td>
         </tr>
         <tr>

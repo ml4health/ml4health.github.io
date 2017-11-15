@@ -17,7 +17,7 @@ Date: 2017-06-01
 </div>
 
 <div class="col-xs-6">
-<h3>Invited clinician panelists:</h3>
+<h3>Invited clinicians:</h3>
 <ul>
 <li><a href="#priest">James Priest</a></li>
 <li><a href="#strigo">Irina Strigo</a></li>

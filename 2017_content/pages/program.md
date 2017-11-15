@@ -27,7 +27,11 @@ Date: 2017-06-01
         </tr>
         <tr>
             <td>09:55-10:20</td>
-            <td><strong>Contributed spotlights</strong>
+            <td><strong>
+                <a href="/pages/spotlights.html">
+                Contributed spotlight talks
+                </a>
+                </strong>
             </td>
         </tr>
         <tr>
@@ -38,9 +42,8 @@ Date: 2017-06-01
         </tr>
         <tr>
             <td>10:50-11:50</td>
-            <td>Invited clinical panel
+            <td>Invited clinical pitches
               <ul>
-                <li>Susann Beier, U. Auckland</li>
                 <li>James Priest, Stanford</li>
                 <li>Irina Strigo, UCSF</li>
                 <li>Enrique Velazquez, Rady Children’s Hospital</li>

@@ -5,34 +5,6 @@ save_as: index.html
 <div class="container">
 
 <div class="row">
-<div class="alert alert-warning" role="alert">
-<p> UPDATE 2017/10/26:
-<emph>
-We will grant a few travel awards to presenting authors. To be considered, please 
-<a href="https://goo.gl/forms/aM2uSGZtNQ9O7w563">
-complete this form</a>  by 11/08.
-</emph>
-</p>
-</div>
-</div>
-
-<div class="row">
-<div class="alert alert-warning" role="alert">
-<p> UPDATE 2017/09/28:
-<emph><b>We now encourage all researchers to submit a paper
-regardless of registration status.</b></emph>
-<emph>
-NIPS 2017 workshop registrations are now sold out.
-Accepted papers that cannot attend will at least be listed on our website.
-It is unlikely that we will be able to create new registration spots for
-accepted papers, but we are exploring possibilities.
-</emph>
-</p>
-</div>
-</div>
-
-
-<div class="row">
         <div class="col-md-7">
             <h4>What Parts of Healthcare are Ripe for Disruption by Machine Learning Right Now?</h4>
 
@@ -46,11 +18,7 @@ accepted papers, but we are exploring possibilities.
             </p>
 
             <p>
-                Please 
-                <a href="pages/call-for-papers.html#submission_instructions">
-                    submit a short paper
-                </a>
-                    to be featured in our poster session.
+                We have accepted 97 submitted papers to be featured in our poster session. Check back after Dec. 1 for the full list of camera-ready paper PDFs
             </p>
 
             <p>Direct questions to:
@@ -81,6 +49,58 @@ accepted papers, but we are exploring possibilities.
 </div>
 </div>
 
+<h4>Announcements</h4>
+
+<div class="row">
+<div class="alert alert-warning" role="alert">
+<p> UPDATE 2017/11/15:
+<emph>
+All presenting authors who have not registered should check their email and fill out the "NIPS ML4H 2017 Presenting Author" form we sent, so they can be added to the official program at www.nips.cc and thus access a pool of reserved registrations (assuming this pool has not run out). 
+</emph>
+</p>
+<p>
+We will add just one author per paper until we're sure all papers are covered.
+</p>
+</div>
+</div>
+
+
+<div class="row">
+<div class="alert alert-warning" role="alert">
+<p> UPDATE 2017/11/15:
+<emph>
+We have selected 10 papers for <a href="/pages/spotlights.html">spotlight presentation</a>. Congrats to those authors!
+</emph>
+</p>
+</div>
+</div>
+
+<div class="row">
+<div class="alert alert-info" role="alert">
+<p> 2017/10/26:
+<emph>
+We will grant a few travel awards to presenting authors. To be considered, please 
+<a href="https://goo.gl/forms/aM2uSGZtNQ9O7w563">
+complete this form</a>  by 11/08.
+</emph>
+</p>
+</div>
+</div>
+
+<div class="row">
+<div class="alert alert-info" role="alert">
+<p> 2017/09/28:
+<emph><b>We now encourage all researchers to submit a paper
+regardless of registration status.</b></emph>
+<emph>
+NIPS 2017 workshop registrations are now sold out.
+Accepted papers that cannot attend will at least be listed on our website.
+It is unlikely that we will be able to create new registration spots for
+accepted papers, but we are exploring possibilities.
+</emph>
+</p>
+</div>
+</div>
 
 
 

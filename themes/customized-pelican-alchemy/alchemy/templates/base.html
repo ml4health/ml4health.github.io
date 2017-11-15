@@ -79,7 +79,7 @@
             {% if LINKS and loop.first %}
             <li class="list-inline-item text-muted">|</li>
             {% endif %}
-            {% if page.title|length > 0 %}
+            {% if page.title|length > 0 and not page.skipnavbar is defined %}
             <li class="list-inline-item"><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
             {% endif %}
             {% endfor %}

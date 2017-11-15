@@ -51,7 +51,7 @@ Date: 2017-06-01
                 Camera-ready deadline. Final papers posted here (with permission)
                 <ul>
                     <li> Final papers should meet our 
-                        <a href="/pages/call-for-papers.html#submission_instructions">
+                        <a href="call-for-papers.html#submission_instructions">
                         formatting guidelines (4 pages, NIPS style, unlimited appendix).</a>
                         Please do list the authors (no anonymity).
                     </li>

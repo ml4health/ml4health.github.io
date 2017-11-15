@@ -28,7 +28,7 @@ Date: 2017-06-01
         <tr>
             <td>09:55-10:20</td>
             <td><strong>
-                <a href="/pages/spotlights.html">
+                <a href="spotlights.html">
                 Contributed spotlight talks
                 </a>
                 </strong>

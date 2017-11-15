@@ -9,7 +9,7 @@ SITENAME = u'ML4H: Machine Learning for Health'
 if 'SITEURL' in os.environ:
     SITEURL = os.environ['SITEURL']
 else:
-    SITEURL = 'https://ml4health.github.io/2017'
+    SITEURL = 'https://ml4health.github.io/2017/'
 
 OUTPUT_PATH = '2017/'
 PATH = 'content_2017/'
@@ -33,7 +33,7 @@ AUTHOR_FEED_RSS = None
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 THEME = 'themes/customized-pelican-alchemy/alchemy'
 

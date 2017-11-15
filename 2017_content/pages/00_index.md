@@ -69,7 +69,7 @@ We will add just one author per paper until we're sure all papers are covered.
 <div class="alert alert-warning" role="alert">
 <p> UPDATE 2017/11/15:
 <emph>
-We have selected 10 papers for <a href="/pages/spotlights.html">spotlight presentation</a>. Congrats to those authors!
+We have selected 10 papers for <a href="pages/spotlights.html">spotlight presentation</a>. Congrats to those authors!
 </emph>
 </p>
 </div>

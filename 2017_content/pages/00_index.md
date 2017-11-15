@@ -53,10 +53,15 @@ save_as: index.html
 
 <div class="row">
 <div class="alert alert-warning" role="alert">
-<p> UPDATE 2017/11/15:
+<p> REGISTRATIONS UPDATE 2017/11/15:
 <emph>
 All presenting authors who have not registered should check their email and fill out the "NIPS ML4H 2017 Presenting Author" form we sent, so they can be added to the official program at www.nips.cc and thus access a pool of reserved registrations (assuming this pool has not run out). 
 </emph>
+</p>
+<p> Please fill out our form with the same email address as in the official nips.cc system.
+    If you don't have an nips.cc account already, create one at <a href="https://nips.cc/Profile/create">https://nips.cc/Profile/create</a> now.
+    If you do have an account, login at <a href="https://nips.cc/Profile">https://nips.cc/Profile</a> to see your listed email address.
+    You should monitor your account page for a listing as an official presenter. When you see this, you should also be able to register.
 </p>
 <p>
 We will add just one author per paper until we're sure all papers are covered.

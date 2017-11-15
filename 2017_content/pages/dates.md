@@ -6,19 +6,19 @@ Date: 2017-06-01
     <tbody>
         <tr>
             <td>
-                2017/10/24
+                <s>2017/10/24</s>
             </td>
             <td>
-                NIPS early registration deadline
+                <s>NIPS early registration deadline</s>
             </td>
         </tr>
 
         <tr>
             <td>
-                2017/10/30
+                <s>2017/10/30</s>
             </td>
             <td>
-                submission deadline (11:59 PM, timezone of your choice)
+                <s>submission deadline (11:59 PM, timezone of your choice)</s>
                 <ul> <li>
                     <a href="https://easychair.org/conferences/?conf=nipsml4h2017">EasyChair submission website</a>
                 </li></ul>
@@ -27,10 +27,10 @@ Date: 2017-06-01
 
         <tr>
             <td>
-                2017/11/10
+                <s>2017/11/10</s>
             </td>
             <td>
-                acceptance notification (Poster or Spotlight+Poster)
+                <s>acceptance notification for all papers</s>
             </td>
         </tr>
 
@@ -49,6 +49,22 @@ Date: 2017-06-01
             </td>
             <td>
                 Camera-ready deadline. Final papers posted here (with permission)
+                <ul>
+                    <li> Final papers should meet our 
+                        <a href="/pages/call-for-papers.html#submission_instructions">
+                        formatting guidelines (4 pages, NIPS style, unlimited appendix).</a>
+                        Please do list the authors (no anonymity).
+                    </li>
+                    <li> Post your final PDF to <a href="https://arxiv.org">arXiv.org</a>
+                    under cs.AI, stat.ML, or similar subjects.
+                    </li>
+                    <li> Fill out 
+                        <a href="https://goo.gl/forms/25Zarl6LRppSt84D2">
+                        our submission form 
+                        </a>
+                        to send us the public arXiv URL.
+                    </li>
+                </ul>
             </td>
         </tr>
 

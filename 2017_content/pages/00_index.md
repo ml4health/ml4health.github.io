@@ -18,7 +18,7 @@ save_as: index.html
             </p>
 
             <p>
-                We have accepted 97 submitted papers to be featured in our poster session. Check back after Dec. 1 for the full list of camera-ready paper PDFs
+                We have accepted 97 submitted papers to be featured in our poster session. Check back after Dec. 1 for the full list of camera-ready paper PDFs.
             </p>
 
             <p>Direct questions to:

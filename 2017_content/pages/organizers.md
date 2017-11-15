@@ -4,6 +4,13 @@ Date: 2017-06-01
 
 <!-- THIS PAGE SRC IS AUTO GENERATED. At terminal: $ make organizers -->
 
+Our team of organizers is listed below.
+
+Thanks also to the
+<a href="program-committee.html">many members of our program committee</a>
+for helping peer review over 120 submissions.
+
+
 
 <div class="row display-flex">
 

@@ -29,6 +29,13 @@ out_md_str = "Title: Organizers\nDate: 2017-06-01\n"
 out_md_str += (
 """\n
 <!-- THIS PAGE SRC IS AUTO GENERATED. At terminal: $ make organizers -->
+
+Our team of organizers is listed below.
+
+Thanks also to the
+<a href="program-committee.html">many members of our program committee</a>
+for helping peer review over 120 submissions.
+
 \n""")
 
 #n_per_row = 100

@@ -67,6 +67,9 @@ organizers:
 spotlights:
 	cd $(INPUTDIR)/organizer_data/ && python make_page__spotlights.py
 
+program_committee:
+	cd $(INPUTDIR)/organizer_data/ && python make_page__program_committee.py
+
 html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 

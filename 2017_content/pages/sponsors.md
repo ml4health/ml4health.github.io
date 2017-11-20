@@ -57,5 +57,16 @@ Many thanks for the support of our sponsors (more coming soon).
         </a>
       </figure>
     </div>
+    <div class="col-xs-4">
+      <figure>
+        <a href="https://www.verily.com/">
+        <img
+            src="{filename}/images/sponsors/V_Mark_CMYK_500x200.png"
+            class="img-fluid"
+            alt="Logo for Verily">
+        </a>
+      </figure>
+    </div>
+
   </div>
 </div>

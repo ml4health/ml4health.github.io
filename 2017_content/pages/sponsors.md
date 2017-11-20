@@ -47,5 +47,15 @@ Many thanks for the support of our sponsors (more coming soon).
         </a>
       </figure>
     </div>
+    <div class="col-xs-4">
+      <figure>
+        <a href="https://www.amazon.com/">
+        <img
+            src="{filename}/images/sponsors/Amazon_logo_500x200.png"
+            class="img-fluid"
+            alt="Logo for Amazon">
+        </a>
+      </figure>
+    </div>
   </div>
 </div>

@@ -51,6 +51,16 @@ save_as: index.html
 
 <h4>Announcements</h4>
 
+
+<div class="row">
+<div class="alert alert-warning" role="alert">
+<p> UPDATE 2017/11/20:
+<a href="pages/poster-instructions.html">Poster instructions have been posted.</a>. Please keep posters to the required size (portrait, 20 in. wide by 30 in. tall).
+</p>
+</div>
+</div>
+
+
 <div class="row">
 <div class="alert alert-warning" role="alert">
 <p> REGISTRATIONS UPDATE 2017/11/15:

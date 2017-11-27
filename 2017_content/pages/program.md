@@ -19,7 +19,10 @@ Date: 2017-06-01
         </tr>
         <tr>
             <td>08:55-09:20</td>
-            <td>Jennifer Chayes, Microsoft Research New England</td>
+            <td>Jennifer Chayes, Microsoft Research
+                <p><i>Opportunities for Machine Learning in Cancer Immunotherapy
+                </i></p>
+            </td>
         </tr>
         <tr>
             <td>09:20-09:55</td>
@@ -37,7 +40,12 @@ Date: 2017-06-01
         <tr>
             <td>10:20-10:50</td>
             <td>
-                <strong>Poster Session I</strong> and <i>coffee break</i>
+                <strong>Poster Session 1</strong> and <i>coffee break</i>
+                <ul><li>
+                <a href="accepted-posters.html#session1">
+                    List of posters by title and author
+                </a>
+                </li></ul>
             </td>
         </tr>
         <tr>
@@ -69,7 +77,6 @@ Date: 2017-06-01
                 <li>Fei-Fei Li</li>
                 <li>Jill Mesirov</li>
                 <li>Susan Murphy</li>
-                <li>Mustafa Suleyman</li>
               </ul>     
             </td>
         </tr>
@@ -86,13 +93,18 @@ Date: 2017-06-01
         <tr>
             <td>15:20-15:50</td>
             <td>
-                <strong>Poster Session II</strong>
+                <strong>Poster Session 2</strong>
                 and <i>coffee break</i>
+                <ul><li>
+                <a href="accepted-posters.html#session2">
+                    List of posters by title and author
+                </a>
+                </li></ul>
             </td>
         </tr>
         <tr>
             <td>15:50-16:25</td>
-            <td>Keynote: Mustafa Suleyman, Google DeepMind
+            <td>Keynote: TBD
             </td>
         </tr>
         <tr>

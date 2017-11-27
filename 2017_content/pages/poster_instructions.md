@@ -10,9 +10,9 @@ We have about 50 posters at each session, so PLEASE keep your posters within thi
 
 *Note that this is different than the suggested poster size for the main NIPS conference.*
 
-### Poster Session Assignments [COMING SOON]
+### Poster Session Assignments
 
-Please check our <a href="accepted-posters.html">accepted posters page</a> for the location and time of your poster presentation at the conference, and instructions about when to setup, present, and take down your posters.
+Please check our <a href="accepted-posters.html">accepted posters page</a> for the assigned time of your poster presentation at the conference, as well as instructions about when to setup, present, and take down your posters.
 
 ### Suggested Tips for an effective poster at NIPS ML4H
 

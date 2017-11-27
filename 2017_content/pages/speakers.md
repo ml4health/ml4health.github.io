@@ -12,7 +12,6 @@ Date: 2017-06-01
 <li><a href="#mesirov">Jill Mesirov</a></li>
 <li><a href="#murphy">Susan Murphy</a></li>
 <li><a href="#van_der_schaar">Mihaela van der Schaar</a></li>
-<li><a href="#suleyman">Mustafa Suleyman</a></li>
 </ul>
 </div>
 
@@ -92,10 +91,11 @@ Susan Murphy is a statistician developing new methodologies to evaluate courses 
                     
 Mihaela van der Schaar is Man Professor of Quantitative Finance in the Oxford – Man Institute of Quantitative Finance (OMI) and the Department of Engineering Science at Oxford, Fellow of Christ Church College and Faculty Fellow of the Alan Turing Institute, London. Mihaela's research interests and expertise are in machine learning, data science and decisions for a better planet. In particular, she is interested in developing machine learning and decision theory for finance, medicine and personalized education. She also has research interests and expertise in game theory and applications, and in social, economic and biological networks. She leads the Data Science and Decisions Research Group.
 
+<!--
 ### <a id="suleyman"></a> Mustafa Suleyman
 
 Mustafa Suleyman is co-founder and Head of Applied AI at DeepMind, where he is responsible for the application of DeepMind’s technology to real-world problems, as part of DeepMind’s commitment to use intelligence to make the world a better place. In February 2016 he launched DeepMind Health, which builds clinician-led technology in the NHS. Mustafa was Chief Product Officer before DeepMind was bought in 2014 by Google in their largest European acquisition to date. At 19, Mustafa dropped out of Oxford University to help set up a telephone counselling service, building it to become one of the largest mental health support services of its kind in the UK, and then worked as policy officer for then Mayor of London, Ken Livingstone. He went on to help start Reos Partners, a consultancy with seven offices across four continents specializing in designing and facilitating large-scale multi-stakeholder ‘Change Labs’ aimed at navigating complex problems. As a skilled negotiator and facilitator Mustafa has worked across the world for a wide range of clients such as the UN, the Dutch Government and WWF.
-
+-->
  
                 
 ### <a id="beier"></a> Susann Beier

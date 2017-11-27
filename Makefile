@@ -70,6 +70,9 @@ spotlights:
 program_committee:
 	cd $(INPUTDIR)/organizer_data/ && python make_page__program_committee.py
 
+accepted_posters:
+	cd $(INPUTDIR)/organizer_data/ && python make_page__accepted_posters.py
+
 html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 

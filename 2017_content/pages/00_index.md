@@ -55,7 +55,7 @@ save_as: index.html
 <div class="row">
 <div class="alert alert-warning" role="alert">
 <p> UPDATE 2017/11/20:
-<a href="pages/poster-instructions.html">Poster instructions have been posted.</a>. Please keep posters to the required size (portrait, 20 in. wide by 30 in. tall).
+<a href="pages/poster-instructions.html">Poster instructions have been posted</a>. Please keep posters to the required size (portrait, 20 in. wide by 30 in. tall).
 </p>
 </div>
 </div>

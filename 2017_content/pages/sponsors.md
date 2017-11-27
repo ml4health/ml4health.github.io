@@ -85,6 +85,21 @@ Many thanks for the support of our sponsors (more coming soon).
       </figure>
       </a>
     </div>
-
   </div>
+
+  <!--- NEW ROW -->
+  <div class="row text-center">
+    <div class="col-xs-4">
+      <a href="https://evidation.com">
+      <figure>
+        <img
+            src="{filename}/images/sponsors/evidation_logo_500x200.png"
+            class="img-fluid"
+            alt="Logo for Evidation">
+        <div class="caption center-block">
+            <p>Evidation</p>
+        </div>
+      </figure>
+      </a>
+    </div>  
 </div>

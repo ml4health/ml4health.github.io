@@ -3,14 +3,14 @@ Date: 2017-06-01
 <!-- 35 minutes for keynotes -->
 <!-- 25 minutes for non-keynotes -->
 
-*Draft* schedule for the NIPS ML4H 2017 workshop.
+Below is the schedule for the NIPS ML4H 2017 workshop.
 
 
 <div class="table-responsive">
   <table class="table table-bordered">
     <tbody>
         <tr>
-            <td>08:15-08:20</td>
+            <td>08:00-08:20</td>
             <td>Welcome and opening remarks</td>
         </tr>
         <tr>
@@ -103,37 +103,38 @@ Date: 2017-06-01
             </td>
         </tr>
         <tr>
-            <td>15:50-16:25</td>
-            <td>Keynote: TBD
-            </td>
-        </tr>
-        <tr>
-            <td>16:25-16:45</td>
+            <td>15:50-16:10</td>
             <td>Award session and message from affiliates/sponsors
             </td>
         </tr>
         <tr>
-            <td>16:45-17:10</td>
+            <td>16:10-16:35</td> 
             <td>
                 Mihaela Van Der Schaar, Oxford
             </td>
         </tr>
         <tr>
-            <td>17:10-17:35</td>
+            <td>16:35-17:00</td>
             <td>
                 Networking break
             </td>
         </tr>
         <tr>
-            <td>17:35-18:00</td>
+            <td>17:00-17:25</td> 
             <td>
                 Jure Leskovec, Stanford
             </td>
         </tr>
         <tr>
-            <td>18:00-18:35</td>
+            <td>17:25-18:00</td> 
             <td>
                 Keynote: Atul Butte
+            </td>
+        </tr>
+         <tr>
+            <td>18:00-18:05</td> 
+            <td>
+                Closing remarks
             </td>
         </tr>
     </tbody>

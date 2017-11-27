@@ -26,7 +26,7 @@ Below is the schedule for the NIPS ML4H 2017 workshop.
         </tr>
         <tr>
             <td>09:20-09:55</td>
-            <td>Keynote: Susan Murphy, U. Michigan</td>
+            <td>Keynote: Susan Murphy, Harvard</td>
         </tr>
         <tr>
             <td>09:55-10:20</td>

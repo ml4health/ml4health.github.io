@@ -36,10 +36,10 @@ Date: 2017-06-01
 
         <tr>
             <td>
-                2017/11/16
+                <s>2017/11/16</s>
             </td>
             <td>
-                NIPS deadline to cancel registration (with full refund)
+                <s>NIPS deadline to cancel registration (with full refund)</s>
             </td>
         </tr>
 
@@ -56,7 +56,7 @@ Date: 2017-06-01
                         Please do list the authors (no anonymity).
                     </li>
                     <li> Post your final PDF to <a href="https://arxiv.org">arXiv.org</a>
-                    under cs.AI, stat.ML, or similar subjects.
+                    under cs.LG, stat.ML, or similar subjects.
                     </li>
                     <li> Fill out 
                         <a href="https://goo.gl/forms/25Zarl6LRppSt84D2">

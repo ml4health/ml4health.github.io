@@ -10,8 +10,7 @@ item_template_str = \
 <div class="thumbnail">
     <div class="caption">
         <p>
-        <strong>{{FIRSTNAME}} {{LASTNAME}}</strong><br />
-        {{AFFIL}}
+        <strong>{{FIRSTNAME}} {{LASTNAME}}</strong><br />{{AFFIL}}
         </p>
     </div>
 </div>
@@ -35,7 +34,6 @@ Many thanks to the 100+ members of our program committee who reviewed submitted 
 for item_id, row_obj in enumerate(csv_df.itertuples()):
     row_dict = row_obj.__dict__
     item_str = item_template_str + ""
-    #from IPython import embed; embed()
     for key, val in row_dict.items():
         default_val = ""
         cur_val = str(val)

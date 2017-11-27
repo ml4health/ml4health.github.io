@@ -117,10 +117,9 @@ accepted papers, but we are exploring possibilities.
 </div>
 </div>
 
+<!-- END CONTAINER -->
+</div>
 
-
-
-</div><!-- END CONTAINER -->
 
 <!---
 <div class="row">

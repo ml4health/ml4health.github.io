@@ -69,7 +69,6 @@ Date: 2017-06-01
                 <li>Fei-Fei Li</li>
                 <li>Jill Mesirov</li>
                 <li>Susan Murphy</li>
-                <li>Mustafa Suleyman</li>
               </ul>     
             </td>
         </tr>

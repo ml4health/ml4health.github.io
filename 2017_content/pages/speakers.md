@@ -112,7 +112,10 @@ Irina Strigo, Ph.D. is Associate Professor in the Department of Psychiatry at UC
 
 ### <a id="velazquez"></a> Enrique Velazquez
 
-Dr. Velazquez is a Fellow at Rady Children’s Hospital. His research is primarily concerned with integrating clinical and genomic data for Precision Medicine, at the intersection of bioinformatics, statistical analysis, genetics, epidemiology, clinical medicine and public & global health. Dr. Velazquez’ current projects include studies of regulation of cellular immunity in humans with specific relevance to understanding transplantation immunity and development of biomarkers for clinical translation that also extend our understanding of immunity and individualized immunosuppressive therapy in transplant patients (pharmacogenomics). In addition to the integrated study of transplantation immunology, he is also involved in highly technical bioinformatics and statistical research, which describes the integration of multiple genome sequencing technologies.
+Enrique Velazquez, M.D., Ph.D., M.S., M.P.H., is Assistant Professor
+at The University of Southern California (USC). His research is
+primarily concerned with integrating clinical and genomic data for
+Precision Medicine, at the intersection of bioinformatics, statistical analysis, genetics, epidemiology, clinical medicine and public & global health. Dr. Velazquez’ current projects include studies of regulation of cellular immunity in humans with specific relevance to understanding transplantation immunity and development of biomarkers for clinical translation that also extend our understanding of immunity and individualized immunosuppressive therapy in transplant patients (pharmacogenomics). In addition to the integrated study of transplantation immunology, he is also involved in highly technical bioinformatics and statistical research, which describes the integration of multiple genome sequencing technologies.
 
 <!---
 ### <a id="potter"></a> Hollis Potter

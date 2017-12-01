@@ -54,7 +54,7 @@ Below is the schedule for the NIPS ML4H 2017 workshop.
               <ul>
                 <li>James Priest, Stanford</li>
                 <li>Irina Strigo, UCSF</li>
-                <li>Enrique Velazquez, Rady Children’s Hospital</li>
+                <li>Enrique Velazquez, USC</li>
               </ul>     
             </td>
         </tr>

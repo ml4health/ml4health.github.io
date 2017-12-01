@@ -51,6 +51,29 @@ save_as: index.html
 
 <h4>Announcements</h4>
 
+<div class="row">
+<div class="alert alert-warning" role="alert">
+<p> UPDATE 2017/12/01:
+    Camera ready instruction clarifications: 
+    <li> By end of day 12/01, post your final PDF to <a href="https://arxiv.org">arXiv.org</a>
+                    under cs.LG, stat.ML or similar.
+    </li>
+    <li>
+    Be sure submit ASAP. arXiv waits a few days before the URL is posted to the public.
+    </li>
+    <li> When the public arXiv URL is ready (by Monday 12/04), send it to us via
+        <a href="https://goo.gl/forms/25Zarl6LRppSt84D2">
+                        our submission form 
+        </a>
+    </li>
+    <li>
+        If you need endorsement for stat.ML, send the request to                 <a href="mailto:ml4h.workshop.nips.2017@gmail.com">
+                    ml4h.workshop.nips.2017@gmail.com
+                </a>
+    </li>
+</p>
+</div>
+</div>
 
 <div class="row">
 <div class="alert alert-warning" role="alert">
@@ -63,6 +86,16 @@ save_as: index.html
 
 <div class="row">
 <div class="alert alert-warning" role="alert">
+<p> UPDATE 2017/11/15:
+<emph>
+We have selected 10 papers for <a href="pages/spotlights.html">spotlight presentation</a>. Congrats to those authors!
+</emph>
+</p>
+</div>
+</div>
+
+<div class="row">
+<div class="alert alert-info" role="alert">
 <p> REGISTRATIONS UPDATE 2017/11/15:
 <emph>
 All presenting authors who have not registered should check their email and fill out the "NIPS ML4H 2017 Presenting Author" form we sent, so they can be added to the official program at www.nips.cc and thus access a pool of reserved registrations (assuming this pool has not run out). 
@@ -80,15 +113,6 @@ We will add just one author per paper until we're sure all papers are covered.
 </div>
 
 
-<div class="row">
-<div class="alert alert-warning" role="alert">
-<p> UPDATE 2017/11/15:
-<emph>
-We have selected 10 papers for <a href="pages/spotlights.html">spotlight presentation</a>. Congrats to those authors!
-</emph>
-</p>
-</div>
-</div>
 
 <div class="row">
 <div class="alert alert-info" role="alert">

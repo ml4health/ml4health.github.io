@@ -1,0 +1,113 @@
+## Review Summary
+
+Overall, the paper's paper core claim, that increasing batch sizes at a linear
+rate during training is as effective as decaying learning rates, is
+interesting but doesn't seem to be too surprising given other recent work in
+this space. The most useful part of the paper is the empirical evidence to
+backup this claim, which I can't easily find in previous literature. I wish
+the paper had explored a wider variety of dataset tasks and models to better
+show how well this claim generalizes, better situated the practical benefits
+of the approach (how much wallclock time is actually saved? how well can it be
+integrated into a distributed workflow?), and included some comparisons with
+other recent recommended ways to increase batch size over time.
+
+
+## Pros / Strengths
+
++ effort to assess momentum / Adam / other modern methods
+
++ effort to compare to previous experimental setups
+
+
+## Cons / Limitations
+
+- lack of wallclock measurements in experiments
+
+- only ~2 models / datasets examined, so difficult to assess generalization
+
+- lack of discussion about distributed/asynchronous SGD
+
+
+## Significance
+
+Many recent previous efforts have looked at the importance of batch sizes
+during training, so topic is relevant to the community. Smith and Le (2017)
+present a differential equation model for the scale of gradients in SGD,
+finding a linear scaling rule proportional to eps N/B, where eps = learning
+rate, N = training set size, and B = batch size. Goyal et al (2017) show how
+to train deep models on ImageNet effectively with large (but fixed) batch
+sizes by using a linear scaling rule.
+
+A few recent works have directly tested increasing batch sizes during
+training. De et al (AISTATS 2017) have a method for gradually increasing batch
+sizes, as do Friedlander and Schmidt (2012). Thus, it is already reasonable to
+practitioners that the proposed linear scaling of batch sizes during training
+would be effective.
+
+While increasing batch size at the proposed linear scale is simple and seems
+to be effective, a careful reader will be curious how much more could be
+gained from the backtracking line search method proposed in De et al.
+
+
+## Quality
+
+Overall, only single training runs from a random initialization are used. It
+would be better to take the best of many runs or to somehow show error bars,
+to avoid the reader wondering whether gains are due to changes in algorithm or
+to poor exploration due to bad initialization. This happens a lot in Sec. 5.2.
+
+Some of the experimental setting seem a bit haphazard and not very systematic.
+In Sec. 5.2, only two learning rate scales are tested (0.1 and 0.5). Why not
+examine a more thorough range of values?
+
+Why not report actual wallclock times? Of course having reduced number of
+parameter updates is useful, but it's difficult to tell how big of a win this
+could be.
+
+What about distributed SGD or asyncronous SGD (hogwild)? Small batch sizes
+sometimes make it easier for many machines to be working simultaneously. If we
+scale up to batch sizes of ~ N/10, we can only get 10x speedups in
+parallelization (in terms of number of parameter updates). I think there is
+some subtle but important discussion needed on how this framework fits into
+modern distributed systems for SGD.
+
+
+## Clarity
+
+Overall the paper reads reasonably well.
+
+Offering a related work "feature matrix" that helps readers keep track of how
+previous efforts scale learning rates or minibatch sizes for specific
+experiments could be valueable. Right now, lots of this information is just
+provided in text, so it's not easy to make head-to-head comparisons.
+
+Several figure captions should be updated to clarify which model and dataset
+are studied. For example, when skimming Fig. 3's caption there is no such
+information.
+
+## Paper Summary
+
+The paper examines the influence of batch size on the behavior of stochastic
+gradient descent to minimize cost functions. The central thesis is that
+instead of the "conventional wisdom" to fix the batch size during training and
+decay the learning rate, it is equally effective (in terms of training/test
+error reached) to gradually increase batch size during training while fixing
+the learning rate. These two strategies are thus "equivalent". Furthermore,
+using larger batches means fewer parameter updates per epoch, so training is
+potentially much faster.
+
+Section 2 motivates the suggested linear scaling using previous SGD analysis
+from Smith and Le (2017). Section 3 makes connections to previous work on
+finding optimal batch sizes to close the generaization gap. Section 4 extends
+analysis to include SGD methods with momentum.
+
+In Section 5.1, experiments training a 16-4 ResNet on CIFAR-10 compare three
+possible SGD schedules: * increasing batch size * decaying learning rate *
+hybrid (increasing batch size and decaying learning rate) Fig. 2, 3 and 4 show
+that across a range of SGD variants (+/- momentum, etc) these three schedules
+have similar error vs. epoch curves. This is the core claimed contribution:
+empirical evidence that these strategies are "equivalent".
+
+In Section 5.3, experiments look at Inception-ResNet-V2 on ImageNet, showing
+the proposed approach can reach comparable accuracies to previous work at even
+fewer parameter updates (2500 here, vs. ∼14000 for Goyal et al 2007)

@@ -1,7 +1,9 @@
 Title: Sponsors
 Date: 2017-06-01
 
-Many thanks for the support of our sponsors (more coming soon).
+Many thanks to our sponsors.
+
+Their support made <a href="travel-awards.html">travel awards</a> and other aspects of our workshop possible.
 
 <div class="container">
   <div class="row text-center">

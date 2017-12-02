@@ -42,7 +42,7 @@ Below is the schedule for the NIPS ML4H 2017 workshop.
             <td>
                 <strong>Poster Session 1</strong> and <i>coffee break</i>
                 <ul><li>
-                <a href="accepted-posters.html#session1">
+                <a href="posters.html#session1">
                     List of posters by title and author
                 </a>
                 </li></ul>
@@ -96,7 +96,7 @@ Below is the schedule for the NIPS ML4H 2017 workshop.
                 <strong>Poster Session 2</strong>
                 and <i>coffee break</i>
                 <ul><li>
-                <a href="accepted-posters.html#session2">
+                <a href="posters.html#session2">
                     List of posters by title and author
                 </a>
                 </li></ul>

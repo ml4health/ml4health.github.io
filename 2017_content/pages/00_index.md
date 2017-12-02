@@ -17,10 +17,6 @@ save_as: index.html
             <p>This workshop will bring together machine learning researchers, clinicians, and healthcare data experts. The program consists of invited talks, contributed posters and panel discussions.
             </p>
 
-            <p>
-                We have accepted 97 submitted papers to be featured in our poster session. Check back after Dec. 1 for the full list of camera-ready paper PDFs.
-            </p>
-
             <p>Direct questions to:
                 <a href="mailto:ml4h.workshop.nips.2017@gmail.com">
                     ml4h.workshop.nips.2017@gmail.com
@@ -53,6 +49,13 @@ save_as: index.html
 
 <div class="row">
 <div class="alert alert-warning" role="alert">
+<p> UPDATE 2017/12/02: <a href="pages/posters.html">Poster presentations</a> with arXiv links posted! More coming soon.
+</p>
+</div>
+</div>
+
+<div class="row">
+<div class="alert alert-warning" role="alert">
 <p> UPDATE 2017/12/01:
     Camera ready instruction clarifications: 
     <li> By end of day 12/01, post your final PDF to <a href="https://arxiv.org">arXiv.org</a>
@@ -71,6 +74,13 @@ save_as: index.html
                     ml4h.workshop.nips.2017@gmail.com
                 </a>
     </li>
+</p>
+</div>
+</div>
+
+<div class="row">
+<div class="alert alert-warning" role="alert">
+<p> UPDATE 2017/12/01: <a href="pages/travel-awards.html">Travel Award</a> winners posted. Congratulations!
 </p>
 </div>
 </div>

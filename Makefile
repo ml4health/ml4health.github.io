@@ -64,6 +64,9 @@ help:
 organizers:
 	cd $(INPUTDIR)/organizer_data/ && python make_page__organizers.py
 
+travel_awards:
+	cd $(INPUTDIR)/organizer_data/ && python make_page__travel_awards.py
+
 spotlights:
 	cd $(INPUTDIR)/organizer_data/ && python make_page__spotlights.py
 

@@ -5,6 +5,7 @@ Date: 2017-06-01
 
 Below is the schedule for the NIPS ML4H 2017 workshop.
 
+All events take place in Room 104A of the Long Beach Convention Center.
 
 <div class="table-responsive">
   <table class="table table-bordered">

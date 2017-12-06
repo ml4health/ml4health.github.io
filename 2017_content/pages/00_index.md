@@ -11,6 +11,7 @@ save_as: index.html
             <p>
                 <b>NIPS ML4H 2017: a workshop at <a href="https://nips.cc">NIPS 2017</a></b> <br>
             Friday December 08, 2017 <br>
+            Room 104A, 
             <a href="https://www.google.com/maps/place/Long+Beach+Convention+%26+Entertainment+Center/@33.7606839,-118.1892951,16z/data=!3m1!5s0x80dd313b1d738beb:0xb11de026a4091d6e!4m2!3m1!1s0x80dd313b68c4eae7:0x69f1fff3cb508d42">Long Beach Convention Center, Long Beach, CA </a>
             </p>
 
@@ -49,13 +50,30 @@ save_as: index.html
 
 <div class="row">
 <div class="alert alert-warning" role="alert">
-<p> UPDATE 2017/12/02: <a href="pages/posters.html">Poster presentations</a> with arXiv links posted! More coming soon.
+<p> UPDATE 2017/12/02: <a href="pages/posters.html">Poster presentations</a> with arXiv links posted!
 </p>
 </div>
 </div>
 
 <div class="row">
 <div class="alert alert-warning" role="alert">
+<p> UPDATE 2017/12/01: <a href="pages/travel-awards.html">Travel Award</a> winners posted. Congratulations!
+</p>
+</div>
+</div>
+
+<div class="row">
+<div class="alert alert-warning" role="alert">
+<p> UPDATE 2017/11/15:
+<emph>
+We have selected 10 papers for <a href="pages/spotlights.html">spotlight presentation</a>. Congrats to those authors!
+</emph>
+</p>
+</div>
+</div>
+
+<div class="row">
+<div class="alert alert-info" role="alert">
 <p> UPDATE 2017/12/01:
     Camera ready instruction clarifications: 
     <li> By end of day 12/01, post your final PDF to <a href="https://arxiv.org">arXiv.org</a>
@@ -79,30 +97,13 @@ save_as: index.html
 </div>
 
 <div class="row">
-<div class="alert alert-warning" role="alert">
-<p> UPDATE 2017/12/01: <a href="pages/travel-awards.html">Travel Award</a> winners posted. Congratulations!
-</p>
-</div>
-</div>
-
-<div class="row">
-<div class="alert alert-warning" role="alert">
+<div class="alert alert-info" role="alert">
 <p> UPDATE 2017/11/20:
 <a href="pages/poster-instructions.html">Poster instructions have been posted</a>. Please keep posters to the required size (portrait, 20 in. wide by 30 in. tall).
 </p>
 </div>
 </div>
 
-
-<div class="row">
-<div class="alert alert-warning" role="alert">
-<p> UPDATE 2017/11/15:
-<emph>
-We have selected 10 papers for <a href="pages/spotlights.html">spotlight presentation</a>. Congrats to those authors!
-</emph>
-</p>
-</div>
-</div>
 
 <div class="row">
 <div class="alert alert-info" role="alert">

@@ -30,3 +30,24 @@ PAPERID,TITLE,AUTHORS,PDFURL
 53,An Encoder-Decoder Model for ICD-10 Coding of Death Certificates,Elena Tutubalina and Zulfat Miftahutdinov,https://www.arxiv.org
 42,Subject Selection on a Riemannian Manifold for Unsupervised Cross-subject Seizure Detection,"Samaneh Nasiri Ghosheh Bolagh , Gari. D. Clifford",https://arxiv.org/submit/2090485
 88,Learning Neural Markers of Schizophrenia Disorder Using Recurrent Neural  Networks,"Jumana Dakka, Pouya Bashivan, Mina Gheiratmand",https://arxiv.org/submit/2090674/view
+31,Correlational Dueling Bandits with Application to Clinical Treatment in Large Decision Spaces,"Yanan Sui, Yisong Yue, Joel W. Burdick",https://arxiv.org/pdf/1707.02375.pdf
+24,On the importance of normative data in speech-based assessment,"Zeinab Noorian, Chloé Pou-Prom, Frank Rudzicz",https://arxiv.org/pdf/1712.00069.pdf
+93,Distributed Stratified Locality Sensitive Hashing for Critical Event Prediction in the Cloud,"Alessandro De Palma, Erik Hemberg, and Una-May O’Reilly",https://arxiv.org/pdf/1712.00206.pdf
+82,Generative Adversarial Networks for Electronic Health Records: A Framework for Exploring and Evaluating Methods for Predicting Drug-Induced Laboratory Test Trajectories,"Alexandre Yahi, Rami Vanguri, Noémie Elhadad, Nicholas P. Tatonetti",https://arxiv.org/abs/1712.00164
+37,Highrisk Prediction from Electronic Medical Records via Deep Attention Networks,"You Jin Kim, Yun-Geun Lee, Jeong Whun Kim, Jin Joo Park, Borim Ryu, and Jung-Woo Ha",http://arxiv.org/abs/1712.00010
+111,Tool Detection and Operative Skill Assessment in Surgical Videos Using Region-Based Convolutional Neural Networks,"Amy Jin, Serena Yeung, Jeffrey Jopling, Jonathan Krause, Dan Azagury, Arnold Milstein, and Li Fei-Fei",https://arxiv.org
+92,Towards Personalized Modeling of the Female Hormonal Cycle: Experiments with Mechanistic Models and Gaussian Processes,"Iñigo Urteaga, David J. Albers, Marija Vlajic Wheeler, Anna Druet, Hans Raffauf and Noémie Elhadad",https://arxiv.org/abs/1712.00117
+18,Deep Learning for Metagenomic Data: using 2D Embeddings and Convolutional Neural Networks,"Thanh Hai Nguyen, Yann Chevaleyre, Edi Prifti, Nataliya Sokolovska and Jean-Daniel Zucker",http://arxiv.org/abs/1712.00244
+18,Deep Learning for Metagenomic Data: using 2D Embeddings and Convolutional Neural Networks,"Thanh Hai Nguyen, Yann Chevaleyre, Edi Prifti, Nataliya Sokolovska and Jean-Daniel Zucker",http://arxiv.org/abs/1712.00244
+122,Delineation of Skin Strata in Reflectance Confocal Microscopy Images using Recurrent Convolutional Networks with Toeplitz Attention,"Alican Bozkurt, Kivanc Kose, Jaume Coll-Font, Christi Alessi-Fox, Dana H. Brooks, Jennifer G. Dy, Milind Rajadhyaksha",https://arxiv.org/pdf/1712.00192.pdf
+102,Rapid point-of-care Hemoglobin measurement through low-cost optics and Convolutional Neural Network based validation,"Chris Wu, Tanay Tandon",https://arxiv.org/pdf/1712.00174.pdf
+95,Personalized Gaussian Processes for Future Prediction of Alzheimer's Disease Progression,"Kelly Peterson, Ognjen (Oggi) Rudovic, Ricardo Guerrero, and Rosalind W. Picard",http://arxiv.org/abs/1712.00181
+121,Anesthesiologist-level forecasting of hypoxemia with only SpO2 data using deep learning,"Gabriel Erion, Hugh Chen, Scott M. Lundberg, Su-In Lee",https://arxiv.org/pdf/1712.00563.pdf
+22,Survival-Supervised Topic Modeling with Anchor Words: Characterizing Pancreatitis Outcomes,"George H. Chen, Jeremy C. Weiss",https://arxiv.org/pdf/1712.00535
+69,Bayesian Semi-nonnegative Tri-matrix Factorization to Identify Pathways Associated with Cancer Types,Sunho Park and Tae Hyun Hwang,https://arxiv.org/abs/1712.00520
+45,Prediction-Constrained Topic Models for Antidepressant Recommendation,"Michael C. Hughes, Gabriel Hope, Leah Weiner, Thomas H. McCoy, Roy H.   Perlis, Erik B. Sudderth, Finale Doshi-Velez",http://arxiv.org/pdf/1712.00499.pdf
+98,A global feature extraction model for the effective computer aided diagnosis of mild cognitive impairment using structural MRI images,"Chen Fang, Panuwat Janwattanapong, Chunfei Li, and Malek Adjouadi",https://arxiv.org/pdf/1712.00556.pdf
+85,An Ensemble of Deep Convolutional Neural Networks for Alzheimer’s Disease Detection and Classification,Jyoti Islam and Yanqing Zhang,https://arxiv.org/abs/1712.01675
+113,ntelligent EHRs: Predicting Procedure Codes From Diagnosis Codes,"Hasham Ul Haq, Rameel Ahmad, and Sibt Ul Hussain",https://arxiv.org/pdf/1712.00481.pdf
+79,Sum of previous inpatient serum creatinine measurements; a practical model for acute kidney injury in rehospitalized patients,"Sam Weisenthal, Haofu Liao, Philip Ng, Martin Zand",https://arxiv.org
+49,AWE-CM Vectors: Augmenting Word Embeddings with a Clinical Metathesaurus,"Willie Boag, Mohamed Kane",https://arxiv.org/pdf/1712.01460.pdf

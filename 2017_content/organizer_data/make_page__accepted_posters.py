@@ -31,19 +31,14 @@ We have accepted 97 short papers for poster presentation at the workshop.
 
 These are listed below, with links to the paper on arXiv if provided by the authors.
 
-These will appear at two possible poster sessions:
+These will appear at two possible poster sessions on Fri. Dec. 8 in Room 104A of Long Beach Convention Center:
 <ul>
 <li><a href="#session1"> Poster Session 1 (10:20-10:50) </a></li>
 <li><a href="#session2"> Poster Session 2 (15:20-15:50) </a></li>
 </ul>
 
-These are currently *draft* session assignments, pending last minute author availability issues. Please check back on December 2 for final assignments.
-
+<b>Presenters</b>: 
 Remember to follow the <a href="poster-instructions.html">posted poster instructions</a>: **Portrait format. Max size: 20 inches wide and 30 inches tall.**
-
-<b>Presenters</b>: if you cannot make your assigned session please fill out this form:
-<a href="https://goo.gl/forms/87BCJeTMVfnevKrv2">https://goo.gl/forms/87BCJeTMVfnevKrv2</a>
-We will try to reassign you to the opposite session if space is available, but we can make no guarantees.
 """
 
 open_div_str = \

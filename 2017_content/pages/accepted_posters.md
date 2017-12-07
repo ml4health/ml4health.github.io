@@ -277,8 +277,8 @@ Remember to follow the <a href="poster-instructions.html">posted poster instruct
 <div class="col-xs-12 col-md-6"> 
 <div class="thumbnail">
     <div class="caption">
-        <h5><a href="javascript:void(0);">A Novel Data-Driven Framework for Risk Characterization and Prediction from Electronic Medical Records: A Case Study of Renal Failure</a></h5>
-        <p>Prithwish Chakraborty, Vishrawas Gopalakrishnan, Faisal Farooq and Sharon M.H. Alford</p>
+        <h5><a href="https://arxiv.org/pdf/1711.11022.pdf">A Novel Data-Driven Framework for Risk Characterization and Prediction from Electronic Medical Records: A Case Study of Renal Failure</a></h5>
+        <p>Prithwish Chakraborty, Vishrawas Gopalakrishnan, Sharon M.H. Alford, and Faisal Farooq</p>
     </div>
 </div>
 </div>
@@ -445,7 +445,7 @@ Remember to follow the <a href="poster-instructions.html">posted poster instruct
 <div class="col-xs-12 col-md-6"> 
 <div class="thumbnail">
     <div class="caption">
-        <h5><a href="javascript:void(0);"> Deep Learning for Metagenomic Data: using 2D Embeddings and Convolutional Neural Networks</a></h5>
+        <h5><a href="http://arxiv.org/abs/1712.00244">Deep Learning for Metagenomic Data: using 2D Embeddings and Convolutional Neural Networks</a></h5>
         <p>Thanh Hai Nguyen, Yann Chevaleyre, Edi Prifti, Nataliya Sokolovska and Jean-Daniel Zucker</p>
     </div>
 </div>
@@ -518,7 +518,7 @@ Remember to follow the <a href="poster-instructions.html">posted poster instruct
 <div class="thumbnail">
     <div class="caption">
         <h5><a href="https://arxiv.org/pdf/1712.01460.pdf">AWE-CM Vectors: Augmenting Word Embeddings with a Clinical Metathesaurus</a></h5>
-        <p>Willie Boag, Mohamed Kane</p>
+        <p>Willie Boag and Mohamed Kane</p>
     </div>
 </div>
 </div>
@@ -987,7 +987,7 @@ Remember to follow the <a href="poster-instructions.html">posted poster instruct
 <div class="col-xs-12 col-md-6"> 
 <div class="thumbnail">
     <div class="caption">
-        <h5><a href="https://arxiv.org/pdf/1712.00481.pdf">ntelligent EHRs: Predicting Procedure Codes From Diagnosis Codes</a></h5>
+        <h5><a href="https://arxiv.org/pdf/1712.00481.pdf">Intelligent EHRs: Predicting Procedure Codes From Diagnosis Codes</a></h5>
         <p>Hasham Ul Haq, Rameel Ahmad, and Sibt Ul Hussain</p>
     </div>
 </div>
@@ -1095,8 +1095,8 @@ Remember to follow the <a href="poster-instructions.html">posted poster instruct
 <div class="col-xs-12 col-md-6"> 
 <div class="thumbnail">
     <div class="caption">
-        <h5><a href="https://arxiv.org">Sum of previous inpatient serum creatinine measurements; a practical model for acute kidney injury in rehospitalized patients</a></h5>
-        <p>Sam Weisenthal, Haofu Liao, Philip Ng, Martin Zand</p>
+        <h5><a href="javascript:void(0);">Sum of previous inpatient serum creatinine measurements predicts acute kidney injury in rehospitalized patients</a></h5>
+        <p>Samuel Weisenthal, Haofu Liao and Martin Zand</p>
     </div>
 </div>
 </div>

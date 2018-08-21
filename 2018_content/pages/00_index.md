@@ -21,7 +21,7 @@ save_as: index.html
                 <a href="mailto:ml4h.workshop.nips.2018@gmail.com">
                     ml4h.workshop.nips.2018@gmail.com
                 </a>
-            </p>
+    </p>        
 
     <p>Join the
         <a href="https://groups.google.com/d/forum/ml4health">

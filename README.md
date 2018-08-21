@@ -1,11 +1,10 @@
-# This repository contains all the source materials for draft website for NIPS ML4Health workshop website. 
+This repository contains all the source materials for NIPS ML4Health workshop website. 
 
-Usage
------
+# Usage for 2018
 
 ```
 $ make organizers   # Build the organizers page from .csv file of raw data
-$ make html         # Build static site on local machine under 2017/ output folder
+$ make html         # Build static site on local machine under 2018/ output folder
 $ make serve        # Serve website locally. Point browser to: localhost:8000
 ```
 
@@ -33,6 +32,18 @@ $ conda install markdown
 $ pip install pelican
 $ pip install markdown
 ```
+
+## Usage for 2017 (historical)
+
+All the 2017 Makefiles, etc are preserved in the "release_v2017" branch. 
+
+```
+$ git checkout release_v2017
+$ make organizers   # Build the organizers page from .csv file of raw data
+$ make html         # Build static site on local machine under 2017/ output folder
+$ make serve        # Serve website locally. Point browser to: localhost:8000
+```
+
 
 ## Theme
 

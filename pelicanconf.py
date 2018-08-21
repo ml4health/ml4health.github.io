@@ -9,10 +9,10 @@ SITENAME = u'ML4H: Machine Learning for Health'
 if 'SITEURL' in os.environ:
     SITEURL = os.environ['SITEURL']
 else:
-    SITEURL = 'https://ml4health.github.io/2017/'
+    SITEURL = 'https://ml4health.github.io/2018/'
 
-OUTPUT_PATH = '2017/'
-PATH = 'content_2017/'
+OUTPUT_PATH = '2018/'
+PATH = 'content_2018/'
 
 TIMEZONE = 'Europe/Paris'
 
@@ -45,7 +45,7 @@ EXTRA_PATH_METADATA = {
 }
 
 # Theme-specific settings
-SITESUBTITLE = 'Workshop at NIPS 2017'
+SITESUBTITLE = 'Workshop at NIPS 2018'
 DISPLAY_ARCHIVES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = True

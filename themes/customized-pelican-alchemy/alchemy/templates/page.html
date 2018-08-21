@@ -6,7 +6,11 @@
 {% endblock %}
 
 {% block title %}
-{{ page.title|striptags }} {{ super() }}
+{% if page.title %}
+{{ page.title }} | {{ super() }}
+{% else %}
+{{ super() }}
+{% endif %}
 {% endblock %}
 
 {% block page_header %}

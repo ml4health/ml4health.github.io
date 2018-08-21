@@ -1,21 +1,21 @@
 Title: Dates
 Date: 2018-06-01
 
-TODO FIX ALL THESE
+Please check back later for updated details about the submission deadline and acceptance dates.
 
 <div class="table-responsive">
   <table class="table table-bordered">
     <tbody>
         <tr>
             <td>
-                <s>2017/10/24</s>
+                2018/10/24
             </td>
             <td>
-                <s>NIPS early registration deadline</s>
+                NIPS early registration deadline
             </td>
         </tr>
 
-        <tr>
+        <!-- <tr>
             <td>
                 <s>2017/10/30</s>
             </td>
@@ -68,14 +68,14 @@ TODO FIX ALL THESE
                     </li>
                 </ul>
             </td>
-        </tr>
+        </tr> -->
 
         <tr>
             <td>
-                2017/12/08
+                2018/12/08
             </td>
             <td>
-                workshop
+                Machine Learning for Health Workshop
             </td>
         </tr>
 
@@ -83,4 +83,6 @@ TODO FIX ALL THESE
     </tbody>
   </table>
 </div>
-Please direct questions to: TODO
+Please direct questions to: <a href="mailto:ml4h.workshop.nips.2018@gmail.com">
+                    ml4h.workshop.nips.2018@gmail.com
+                </a>

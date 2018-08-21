@@ -1,15 +1,15 @@
 Title: Speakers
 Date: 2018-06-01
 
-TODO UPDATE
+Please check back later for more details on our speakers.
 
-<div class="col-xs-6">
+<!-- <div class="col-xs-6">
 <h3>Invited speakers</h3>
 <ul>
 <li>TODO</li>
 <li>TBD</li>
 </ul>
-</div>
+</div> -->
 
 
 <!--- DEPRECATED FROM 2017 BELOW

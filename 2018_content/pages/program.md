@@ -3,12 +3,9 @@ Date: 2018-08-01
 <!-- 35 minutes for keynotes -->
 <!-- 25 minutes for non-keynotes -->
 
-TODO UPDATE
+Please check back later for program details.
 
-Below is the schedule for the NIPS ML4H 2018 workshop.
-
-
-<div class="table-responsive">
+<!-- <div class="table-responsive">
   <table class="table table-bordered">
     <tbody>
         <tr>
@@ -141,4 +138,4 @@ Below is the schedule for the NIPS ML4H 2018 workshop.
         </tr>
     </tbody>
     </table>
-</div>
+</div> -->

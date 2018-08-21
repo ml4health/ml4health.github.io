@@ -8,7 +8,7 @@ A workshop at the Thirty-Second Annual Conference on Neural Information Processi
 
 Saturday, December 8, 2018
 
-Long Beach Convention Center, Long Beach, CA, USA
+Palais des Congrès de Montréal, Montréal, Canada
 
 [https://ml4health.github.io/2018/](https://ml4health.github.io/2018/
 )

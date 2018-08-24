@@ -1,7 +1,9 @@
 Title: Call for Papers
 Date: 2018-08-01
 
-### NIPS Workshop on Machine Learning for Health (NIPS ML4H 2018)
+Please check back soon for our Call for Papers.
+
+<!-- ### NIPS Workshop on Machine Learning for Health (NIPS ML4H 2018)
 
 
 A workshop at the Thirty-Second Annual Conference on Neural Information Processing Systems (NIPS 2018).
@@ -85,3 +87,4 @@ We encourage (but do not require) accepted papers to be posted on arXiv. With au
 
 Our workshop does allow submission of papers that are under review or have been recently published in a conference or a journal. Authors should clearly state any overlapping published work at time of submission.
 
+ -->

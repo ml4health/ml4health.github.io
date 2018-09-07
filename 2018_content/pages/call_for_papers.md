@@ -33,7 +33,7 @@ This year’s workshop will focus on fostering innovative new strategies for app
 
 The workshop will feature invited talks from leading voices in both medicine and machine learning. Invited clinicians will discuss open clinical problems where data-driven solutions can make an immediate difference. The workshop will conclude with an interactive panel discussion where all speakers respond to questions provided by the audience.
 
-From the research community, we welcome short paper submissions highlighting novel research contributions at the intersection of machine learning and healthcare. Accepted submissions will be featured as poster presentations and (in select cases) as short oral spotlight presentations. While our emphasis this year will focus on moving beyond supervised learning, we welcome any innovative submission seeking to use ML to improve healthcare.
+From the research community, we welcome short paper submissions highlighting novel research contributions at the intersection of machine learning and healthcare. Accepted submissions will be featured as poster presentations and (in select cases) as short oral spotlight presentations. While our emphasis this year will focus on moving beyond supervised learning, we welcome any innovative submission seeking to use ML to improve healthcare. We encourage submissions from all researchers, regardless of background or prior experience.
 
 
 SUBMISSION INSTRUCTIONS:

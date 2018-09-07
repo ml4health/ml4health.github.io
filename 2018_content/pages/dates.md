@@ -15,6 +15,43 @@ Please check back later for updated details about the submission deadline and ac
             </td>
         </tr>
 
+        <tr>
+            <td>
+                2018/10/26
+            </td>
+            <td>
+                Workshop submission deadline at 11:59pm
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                2018/11/12
+            </td>
+            <td>
+                Acceptance notification (Poster or Spotlight+Poster)
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                2018/11/15
+            </td>
+            <td>
+                NIPS deadline to cancel registration (with full refund)
+
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                2018/11/30
+            </td>
+            <td>
+                Final papers posted online (with permission)
+            </td>
+        </tr>
+
         <!-- <tr>
             <td>
                 <s>2017/10/30</s>

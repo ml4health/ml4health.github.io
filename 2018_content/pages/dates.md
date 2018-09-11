@@ -1,8 +1,6 @@
 Title: Dates
 Date: 2018-06-01
 
-Please check back later for updated details about the submission deadline and acceptance dates.
-
 <div class="table-responsive">
   <table class="table table-bordered">
     <tbody>

@@ -82,21 +82,30 @@ Our workshop does allow submission of papers that are under review or have been 
 
 ORGANIZERS:
 
-- Andrew Beam (Harvard Medical School)
 - Tristan Naumann (Microsoft Research)
+- Andrew Beam (Harvard Medical School)
+- Brett Beaulieu-Jones (Harvard Medical School)
+- Samuel Finlayson (Harvard Medical School)
 - Marzyeh Ghassemi (Verily, MIT, UToronto, Vector)
+- Irene Chen (Massachusetts Institute of Technology)
 - Matthew McDermott (Massachusetts Institute of Technology)
 - Madalina Fiterau (Stanford, UMass Amherst)
-- Irene Chen (Massachusetts Institute of Technology)
-- Brett Beaulieu-Jones (Harvard Medical School)
 - Michael Hughes (Tufts University and Harvard)
 - Farah Shamout (Oxford)
 - Corey Chivers (University of Pennsylvania)
 - Jaz Kandola (Imperial College London)
 - Alexandre Yahi (Columbia University)
-- Samuel Finlayson (Harvard Medical School)
 - Bruno Jedynak (Portland State University)
 - Peter Schulam (Johns Hopkins University)
 - Natalia Antropova (University of Chicago)
 - Jason Fries (Stanford)
 - Adrian Dalca (MIT and Harvard Medical School)
+
+INVITED SPEAKERS:
+
+- Miguel Hernan (Harvard) 
+- Finale Doshi-Velez (Harvard) 
+- Barbara Engelhardt (Princeton) 
+- Katherine Heller (Duke) 
+- Paul Varghese (Verily) 
+- Suchi Saria (Hopkins) 

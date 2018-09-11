@@ -12,7 +12,7 @@ else:
     SITEURL = 'https://ml4health.github.io/2018/'
 
 OUTPUT_PATH = '2018/'
-PATH = 'content_2018/'
+PATH = '2018_content/'
 
 TIMEZONE = 'Europe/Paris'
 

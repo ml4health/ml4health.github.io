@@ -1,6 +1,8 @@
 build/
 2017/images/headshots_raw/
 
+.DS_Store
+
 *.pyc
 
 *-eps-converted-to.pdf

@@ -65,7 +65,17 @@ where all speakers respond to questions provided by the audience.
 From the research community, we welcome short paper submissions
 highlighting novel research contributions at the intersection of machine
 learning and healthcare. Accepted submissions will be featured as poster
-presentations and (in select cases) as short oral spotlight presentations.
+presentations and (in select cases) as short oral spotlight presentations. We encourage submissions from all researchers, regardless of background or prior experience
+
+
+INVITED SPEAKERS
+
+Miguel Hernan (Harvard) 
+Finale Doshi-Velez (Harvard) 
+Barbara Engelhardt (Princeton) 
+Katherine Heller (Duke) 
+Paul Varghese (Verily) 
+Suchi Saria (Hopkins) 
 
 
 PAPER SUBMISSION INSTRUCTIONS

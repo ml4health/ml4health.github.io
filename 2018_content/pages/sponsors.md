@@ -1,7 +1,9 @@
 Title: Sponsors
 Date: 2018-08-01
 
-TODO UPDATE
+Please check back later for more details about our wonderful sponsors.
+
+<!-- TODO UPDATE
 
 Many thanks to our sponsors.
 
@@ -48,7 +50,6 @@ Their support made <a href="travel-awards.html">travel awards</a> and other aspe
     </div>
   </div>
 
-  <!--- NEW ROW -->
   <div class="row text-center">
     <div class="col-xs-4">
       <a href="http://imagentechnologies.com/">
@@ -91,7 +92,6 @@ Their support made <a href="travel-awards.html">travel awards</a> and other aspe
     </div>
   </div>
 
-  <!--- NEW ROW -->
   <div class="row text-center">
     <div class="col-xs-4">
       <a href="https://evidation.com">
@@ -106,4 +106,4 @@ Their support made <a href="travel-awards.html">travel awards</a> and other aspe
       </figure>
       </a>
     </div>  
-</div>
+</div> -->

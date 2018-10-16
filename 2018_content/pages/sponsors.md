@@ -5,8 +5,8 @@ Many thanks to the Robert Wood Johnson Foundation for the generous support to ma
 
 <div class="container">
   <div class="row text-center">
-    <div class="col-xs-8">
-      <a href="https://www.aitrics.com/">
+    <div class="col-xs-7">
+      <a href="https://www.rwjf.org">
       <figure>
         <img
             src="{filename}/images/rwjf.png"

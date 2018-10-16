@@ -1,7 +1,23 @@
 Title: Sponsors
 Date: 2018-08-01
 
-Please check back later for more details about our wonderful sponsors.
+Many thanks to the Robert Wood Johnson Foundation for the generous support to make our workshop possible.
+
+<div class="container">
+  <div class="row text-center">
+    <div class="col-xs-8">
+      <a href="https://www.aitrics.com/">
+      <figure>
+        <img
+            src="{filename}/images/rwjf.png"
+            class="img-fluid"
+            alt="Logo for RWJF">
+        <!-- <div class="caption center-block">
+            <p></p>
+        </div> -->
+      </figure>
+      </a>
+    </div>
 
 <!-- TODO UPDATE
 

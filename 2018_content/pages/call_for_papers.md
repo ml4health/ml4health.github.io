@@ -9,15 +9,15 @@ A workshop at the Thirty-Second Annual Conference on Neural Information Processi
 
 Saturday, December 8, 2018
 Palais des Congrès de Montréal, Montréal Canada
-https://ml4health.github.io/2018/
+[https://ml4health.github.io/2018/](https://ml4health.github.io/2018/)
 
-Please direct questions to: ml4h.workshop.nips.2018@gmail.com
+Please direct questions to: [ml4h.workshop.nips.2018@gmail.com](mailto:someone@ml4h.workshop.nips.2018@gmail.com)
 
-NOTE: Historically the main NIPS conference has sold out quickly, and this may extend to workshop registrations. If you plan to submit a paper, please register as soon as possible. Registration opens Sep. 4, 2018 (https://nips.cc/Register/view-registration) can be cancelled before November 15, 2018, 11:59 pacific time for a full refund (https://nips.cc/Help/CancellationPolicy).
+NOTE: Historically the main NIPS conference has sold out quickly, and this may extend to workshop registrations. If you plan to submit a paper, please register as soon as possible. Registration opens Sep. 4, 2018 [https://nips.cc/Register/view-registration](https://nips.cc/Register/view-registration) can be cancelled before November 15, 2018, 11:59 pacific time for a full refund [https://nips.cc/Help/CancellationPolicy](https://nips.cc/Help/CancellationPolicy).
 
 DATES:
 
-- Mon Oct 29, 2018: Submission deadline at 11:59pm
+- Mon Oct 29, 2018: [Submission deadline](https://easychair.org/conferences/?conf=nipsml4h2018) at 11:59pm
 - Mon Nov 12, 2018: Acceptance notification (Poster or Spotlight+Poster)
 - Fri Nov 15, 2018: NIPS deadline to cancel registration (with full refund)
 - Fri Nov 30, 2018: Final papers posted online (with permission)
@@ -63,9 +63,9 @@ Accepted papers will be chosen based on technical merit and suitability to the w
 #### Registration and Attendance
 To promote community interaction, at least one presenting author should register for the workshop.
 
-Historically the main NIPS conference has sold out quickly, and this may extend to workshop registrations. If you plan to submit a paper, please register as soon as possible. Registration opens Sep. 4, 2018 (https://nips.cc/Register/view-registration) can be cancelled before November 15, 2018, 11:59 pacific time for a full refund (https://nips.cc/Help/CancellationPolicy). If you have already registered, confirm that you have a valid workshop registration.
+Historically the main NIPS conference has sold out quickly, and this may extend to workshop registrations. If you plan to submit a paper, please register as soon as possible. Registration opens Sep. 4, 2018 [https://nips.cc/Register/view-registration](https://nips.cc/Register/view-registration) can be cancelled before November 15, 2018, 11:59 pacific time for a full refund [https://nips.cc/Help/CancellationPolicy](https://nips.cc/Help/CancellationPolicy). If you have already registered, confirm that you have a valid workshop registration.
 
-If NIPS workshop registration has sold out, we encourage researchers to submit a paper regardless of their registration status; however, they should notify the organizers in case additional workshop registrations are made available: ml4h.workshop.nips.2018@gmail.com.
+If NIPS workshop registration has sold out, we encourage researchers to submit a paper regardless of their registration status; however, they should notify the organizers in case additional workshop registrations are made available: [ml4h.workshop.nips.2018@gmail.com](mailto:someone@ml4h.workshop.nips.2018@gmail.com)
 
 If your paper is accepted and you cannot attend due to registration or other issues, please contact us after you are accepted and we'll find solutions on a case-by-case basis. Acceptance notifications will go out a few days before the NIPS deadline for full refunds.
 

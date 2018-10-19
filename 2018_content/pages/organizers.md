@@ -207,6 +207,75 @@ for helping peer review all submissions.
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
     <div class="col-xs-6 col-md-4"> 
     <div class="thumbnail">
+        <a href="https://scholar.harvard.edu/beam/home">
+        <img 
+            src="{filename}/images/headshots_200x200/andrew.jpg"
+            alt="Andrew Beam headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Andrew Beam</h5>
+            <p>Harvard Med, Faculty
+            <br />
+            <emph>Senior Advisory Committee</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="">
+        <img 
+            src="{filename}/images/headshots_200x200/"
+            alt="Madalina Fiterau headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Madalina Fiterau</h5>
+            <p>U. Mass Amherst, Faculty
+            <br />
+            <emph>Senior Advisory Committee</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="http://www.marzyehghassemi.com/">
+        <img 
+            src="{filename}/images/headshots_200x200/marzyeh.jpg"
+            alt="Marzyeh Ghassemi headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Marzyeh Ghassemi</h5>
+            <p>U. Toronto, Faculty
+            <br />
+            <emph>Senior Advisory Committee</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
         <a href="http://www.mit.edu/~adalca/">
         <img 
             src="{filename}/images/headshots_200x200/adrian.jpg"
@@ -248,29 +317,6 @@ for helping peer review all submissions.
     </div>
     </div>
 
-
-
-    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
-    <div class="col-xs-6 col-md-4"> 
-    <div class="thumbnail">
-        <a href="https://scholar.harvard.edu/beam/home">
-        <img 
-            src="{filename}/images/headshots_200x200/andrew.jpg"
-            alt="Andrew Beam headshot"
-            style="width:88%"
-            align="center">
-        <div class="caption">
-            <h5>Andrew Beam</h5>
-            <p>Harvard Med, Faculty
-            <br />
-            <emph>Sponsor liaison</emph>
-            </p>
-            <p></p>
-        </div>
-        </a>
-    </div>
-    </div>
-
 </div>
 </div>
 
@@ -285,53 +331,8 @@ for helping peer review all submissions.
     <div class="thumbnail">
         <a href="">
         <div class="caption">
-            <h5>Tim Althoff</h5>
-            <p>Stanford, </p>
-            <p></p>
-        </div>
-        </a>
-    </div>
-    </div>
-
-
-
-    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
-    <div class="col-xs-6 col-md-4"> 
-    <div class="thumbnail">
-        <a href="">
-        <div class="caption">
             <h5>Natalia Antropova</h5>
             <p>U. Chicago, </p>
-            <p></p>
-        </div>
-        </a>
-    </div>
-    </div>
-
-
-
-    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
-    <div class="col-xs-6 col-md-4"> 
-    <div class="thumbnail">
-        <a href="">
-        <div class="caption">
-            <h5>Shubhi Asthana</h5>
-            <p>IBM, </p>
-            <p></p>
-        </div>
-        </a>
-    </div>
-    </div>
-
-
-
-    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
-    <div class="col-xs-6 col-md-4"> 
-    <div class="thumbnail">
-        <a href="">
-        <div class="caption">
-            <h5>Madalina Fiterau</h5>
-            <p>U. Mass Amherst, </p>
             <p></p>
         </div>
         </a>
@@ -360,53 +361,8 @@ for helping peer review all submissions.
     <div class="thumbnail">
         <a href="">
         <div class="caption">
-            <h5>Marzyeh Ghassemi</h5>
-            <p>U. Toronto, </p>
-            <p></p>
-        </div>
-        </a>
-    </div>
-    </div>
-
-
-
-    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
-    <div class="col-xs-6 col-md-4"> 
-    <div class="thumbnail">
-        <a href="">
-        <div class="caption">
             <h5>Bruno Jedynak</h5>
             <p>Portland State, </p>
-            <p></p>
-        </div>
-        </a>
-    </div>
-    </div>
-
-
-
-    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
-    <div class="col-xs-6 col-md-4"> 
-    <div class="thumbnail">
-        <a href="">
-        <div class="caption">
-            <h5>David Kale</h5>
-            <p>USC / Netflix, </p>
-            <p></p>
-        </div>
-        </a>
-    </div>
-    </div>
-
-
-
-    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
-    <div class="col-xs-6 col-md-4"> 
-    <div class="thumbnail">
-        <a href="">
-        <div class="caption">
-            <h5>Rajesh Ranganath</h5>
-            <p>Princeton, </p>
             <p></p>
         </div>
         </a>
@@ -437,21 +393,6 @@ for helping peer review all submissions.
         <div class="caption">
             <h5>Peter Schulam</h5>
             <p>Johns Hopkins, </p>
-            <p></p>
-        </div>
-        </a>
-    </div>
-    </div>
-
-
-
-    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
-    <div class="col-xs-6 col-md-4"> 
-    <div class="thumbnail">
-        <a href="">
-        <div class="caption">
-            <h5>Uri Shalit</h5>
-            <p>Technion, </p>
             <p></p>
         </div>
         </a>

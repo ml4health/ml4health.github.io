@@ -18,7 +18,7 @@ Date: 2018-06-01
                 2018/10/29
             </td>
             <td>
-                Workshop submission deadline at 11:59pm, anywhere on Earth
+                Workshop submission deadline at 11:59pm
             </td>
         </tr>
 

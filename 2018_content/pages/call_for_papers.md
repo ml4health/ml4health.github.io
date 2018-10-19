@@ -40,9 +40,9 @@ SUBMISSION INSTRUCTIONS:
 
 Researchers interested in contributing should upload short, anonymized papers of up to 4 pages in PDF format by Friday, October 26, 2018, 11:59 PM in the timezone of your choice.
 
-Please submit via our ML4H EasyChair website: https://easychair.org/conferences/?conf=nipsml4h2018
+Please submit via our ML4H EasyChair website: [https://easychair.org/conferences/?conf=nipsml4h2018](https://easychair.org/conferences/?conf=nipsml4h2018)
 
-Papers should adhere to the NIPS conference paper format, via the NIPS LaTeX style file: https://nips.cc/Conferences/2018/PaperInformation/StyleFiles
+Papers should adhere to the NIPS conference paper format, via the NIPS LaTeX style file: [https://nips.cc/Conferences/2018/PaperInformation/StyleFiles](https://nips.cc/Conferences/2018/PaperInformation/StyleFiles)
 
 Workshop papers should be at most 4 pages of content, including text and figures. Additional pages containing only bibliographic references can be included without penalty.
 

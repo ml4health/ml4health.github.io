@@ -232,7 +232,7 @@ for helping peer review all submissions.
     <div class="thumbnail">
         <a href="">
         <img 
-            src="{filename}/images/headshots_200x200/"
+            src="{filename}/images/headshots_200x200/madalina.jpg"
             alt="Madalina Fiterau headshot"
             style="width:88%"
             align="center">

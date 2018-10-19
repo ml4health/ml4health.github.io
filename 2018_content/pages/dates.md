@@ -6,7 +6,7 @@ Date: 2018-06-01
     <tbody>
         <tr>
             <td>
-                2018/10/24
+                2018/10/20
             </td>
             <td>
                 NIPS early registration deadline
@@ -15,10 +15,10 @@ Date: 2018-06-01
 
         <tr>
             <td>
-                2018/10/26
+                2018/10/29
             </td>
             <td>
-                Workshop submission deadline at 11:59pm
+                Workshop submission deadline at 11:59pm, anywhere on Earth
             </td>
         </tr>
 

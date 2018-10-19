@@ -61,7 +61,10 @@ help:
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    '
 	@echo '                                                                          '
 
-organizers:
+organizer_images:
+	cd $(INPUTDIR)/images/ && bash create_folder_of_square_crops.sh headshots_raw/ headshots_200x200/ 200
+
+organizers: organizer_images
 	cd $(INPUTDIR)/organizer_data/ && python make_page__organizers.py
 
 travel_awards:

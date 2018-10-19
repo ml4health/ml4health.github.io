@@ -1,22 +1,24 @@
-NAME,EMAIL,WEBSITE,AFFIL,TITLE,ROLE,IMGFILE,
-Peter Schulam,pschulam@gmail.com,http://pschulam.com/,Johns Hopkins,PhD candidate,connection,peter.jpg,
-Jason Fries,jason-fries@cs.stanford.edu,http://nmbl.stanford.edu/people/jason-fries/,Stanford,Postdoc,connection,jason.jpg,
-Dave Kale,davekale@gmail.com,http://www-scf.usc.edu/~dkale/,Skymind/USC,PhD candidate,connection,dave.jpg,
-Ina Fiterau,mfiterau@cs.stanford.edu,http://www.cs.cmu.edu/~mfiterau/,Stanford,Postdoc,program,ina.jpg,
-Rajesh Ranganath,rajeshr@cs.princeton.edu,https://www.cs.princeton.edu/~rajeshr/,Princeton,PhD candidate,program,rajesh.jpg,
-Bruno Jedynak,bruno.jedynak@pdx.edu,https://sites.google.com/site/brunomjedynak/,Portland State,Faculty,program,bruno.jpg,
-Mike Hughes,mike@michaelchughes.com,http://www.michaelchughes.com,Harvard SEAS,Postdoc,submission,mike.jpg,
-Tristan Naumann,tjn@mit.edu,,MIT,PhD candidate,submission,tristan.jpg,
-Natasha Antropova,antropova@uchicago.edu,,U. Chicago,PhD candidate,finance,natasha.jpg,
-Adrian Dalca,adalca@mit.edu,http://www.mit.edu/~adalca/,MIT,Postdoc,clinical,adrian.jpg,
-Shubhi Asthana,sasthan@us.ibm.com,,IBM,Research software engineer,clinical,shubhi.jpg,
-Prateek Tandon,prtandon@ucsd.edu,https://tandonp.wordpress.com/,UCSD,Postdoc,clinical,prateek.jpg,
-Jasvinder Kandola,j.kandola@imperial.ac.uk,http://www.phc.ox.ac.uk/~jazkandola,Oxford (Nuffield Dept of Health Sci.),,clinical,jaz.jpg,
-Uri Shalit,urish22@gmail.com,https://www.cs.nyu.edu/~shalit,Technion,Faculty,general,uri.jpg,
-Marzyeh Ghassemi,mghassem@gmail.com,http://mghassem.mit.edu/,MIT/Verily,Postdoc,general,marzyeh.jpg,
-Tim Althoff,althoff@cs.stanford.edu,http://timalthoff.de/,Stanford,PhD candidate,general,tim.jpg,
-Alex Ratner,ajratner@stanford.edu,https://scholar.google.com/citations?user=rfwwtFYAAAAJ&hl=en,Stanford,PhD candidate,general,alex.jpg,
-Andrew Beam,andrew_beam@hms.harvard.edu,https://scholar.harvard.edu/beam,Harvard DBMI,Instructor/Faculty,,andrew.jpg
-Isaac (Zak) Kohane,isaac_kohane@hms.harvard.edu,http://dbmi.hms.harvard.edu/zak,Harvard DBMI,Professor,,zak.jpg
-Jasper Snoek,jsnoek@google.com,https://scholar.google.com/citations?user=FM2DTXwAAAAJ&hl=en,Google Brain,Research Scientist,,jasper.jpg
-Alexander Wiltschko,alexbw@google.com,https://scholar.google.com/citations?user=GPnusKcAAAAJ&hl=en,Google Brain,Research Scientist,,wiltschko.jpg
+NAME,EMAIL,WEBSITE,AFFIL,TITLE,WORKSHOP_ROLE,IMGFILE
+Tristan Naumann,tjn@mit.edu,http://tjn.mit.edu/,Microsoft Research,,General chair,tristan.jpg
+Corey Chivers,"corey.chivers@uphs.upenn.edu,",https://bayesianbiologist.com/,U. Penn,Data Scientist,Onsite coordinator,corey.jpg
+Mike Hughes,mike@michaelchughes.com,https://www.michaelchughes.com,Tufts,Faculty,PR chair,mike.jpg
+Irene Chen,iychen@mit.edu,http://irenechen.net/,MIT,PhD student,PR chair,irene.jpg
+Sam Finlayson,samuel_finlayson@hms.harvard.edu,https://avillach-lab.hms.harvard.edu/people/samuel-g-finlayson,Harvard Med,MD/PhD student,Program chair,sam.jpg
+"Beaulieu-Jones, Brett K.",brett_beaulieu-jones@hms.harvard.edu,http://dbmi.hms.harvard.edu/person/postdoctoral-fellows/brett-beaulieu-jones,Harvard Med,Postdoc,Program chair,brett.jpg
+Alexandre Yahi,alexandre.yahi@columbia.edu,https://www.dbmi.columbia.edu/people/alexandre-yahi/,Columbia,PhD student,Publication chair,alexandre.jpg
+Farah Shamout,"farah.shamout@balliol.ox.ac.uk,",http://www.ibme.ox.ac.uk/people/current-members/farah-shamout,Oxford,DPhil student,Publication chair,farah.jpg
+Adrian Dalca,adalca@mit.edu,http://www.mit.edu/~adalca/,MIT,Postdoc,Speaker coordinator,adrian.jpg
+Matthew McDermott,mmd@mit.edu,https://www.csail.mit.edu/person/matthew-mcdermott,MIT,PhD student,Speaker coordinator,matthew.jpg
+Andrew Beam,Andrew_Beam@hms.harvard.edu,https://scholar.harvard.edu/beam/home,Harvard Med,Faculty,Sponsor liaison,andrew.jpg
+Natalia Antropova,antropova@uchicago.edu,,U. Chicago,,,
+"Kandola, Jasvinder S",j.kandola@imperial.ac.uk,,Imperial College London,,,
+Marzyeh Ghassemi,mghassem@gmail.com,,U. Toronto,,,
+Peter Schulam,pschulam@gmail.com,,Johns Hopkins,,,
+Shubhi Asthana,sasthan@us.ibm.com,,IBM,,,
+Madalina Fiterau,ina.fiterau@gmail.com,,U. Mass Amherst,,,
+Bruno Jedynak,bruno.jedynak@pdx.edu,,Portland State,,,
+Uri Shalit,urish22@gmail.com,,Technion,,,
+Tim Althoff,althoff@cs.stanford.edu,,Stanford,,,
+Rajesh Ranganath,rajeshr@cs.princeton.edu,,Princeton,,,
+David Kale,dkale@usc.edu,,USC / Netflix,,,
+Jason Alan Fries,jfries@stanford.edu,,Stanford,,,

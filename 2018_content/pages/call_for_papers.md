@@ -17,7 +17,7 @@ NOTE: Historically the main NIPS conference has sold out quickly, and this may e
 
 DATES:
 
-- Fri Oct 26, 2018: Submission deadline at 11:59pm
+- Mon Oct 29, 2018: Submission deadline at 11:59pm
 - Mon Nov 12, 2018: Acceptance notification (Poster or Spotlight+Poster)
 - Fri Nov 15, 2018: NIPS deadline to cancel registration (with full refund)
 - Fri Nov 30, 2018: Final papers posted online (with permission)

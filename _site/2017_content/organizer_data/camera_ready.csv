@@ -1,0 +1,55 @@
+PAPERID,TITLE,AUTHORS,PDFURL
+13,Unsupervised patient representations from clinical notes with interpretable classification decisions,"Madhumita Sushil, Simon Šuster, Kim Luyckx, Walter Daelemans",http://arxiv.org/abs/1711.05198
+6,Evaluating deep variational autoencoders trained on pan-cancer gene expression,Gregory P. Way and Casey S. Greene,https://arxiv.org/pdf/1711.04828.pdf
+29,End-to-end Training for Whole Image Breast Cancer Diagnosis using An All Convolutional Design,Li Shen,https://arxiv.org/pdf/1711.05775.pdf
+10,Personalized Driver Stress Detection with Multi-task Neural Networks using Physiological Signals,Aaqib Saeed and Stojan Trajanovski,https://arxiv.org/pdf/1711.06116.pdf
+72,Segmenting Brain Tumors with Symmetry,"Hejia Zhang, Xia Zhu, and Theodore L. Willke",https://arxiv.org/pdf/1711.06636.pdf
+34,Wrist Sensor Fusion Enables Robust Gait Quantification Across Walking Scenarios,"Zeev Waks, Itzik Mazeh, Chen Admati, Michal Afek, Yonatan Dolan, and Avishai Wagner",https://arxiv.org/pdf/1711.06974.pdf
+3,A deep learning-based method for relative location prediction in CT scan images,"Jiajia Guo, Hongwei Du , Bensheng Qiu and Xiao Liang",https://arxiv.org/abs/1711.07624
+12,Finding Algebraic Structure of Care in Time: A Deep Learning Approach,"Phuoc Nguyen, Truyen Tran and Svetha Venkatesh",https://arxiv.org/pdf/1711.07980.pdf
+76,Riemannian tangent space mapping and elastic net regularization for cost-effective EEG markers of brain atrophy in Alzheimer's disease,"Wolfgang Fruehwirt, Matthias Gerstgrasser, Pengfei Zhang, Leonard Weydemann, Markus Waser, Reinhold Schmidt, Thomas Benke, Peter Dal-Bianco, Gerhard Ransmayr, Dieter Grossegger, Heinrich Garn, Gareth W. Peters, Stephen Roberts, Georg Dorffner",https://arxiv.org/pdf/1711.08359.pdf
+120,Towards Deep Learning Models for Psychological State Prediction using Smartphone Data: Challenges and Opportunities,"Gatis Mikelsons, Matthew Smith, Abhinav Mehrotra, and Mirco Musolesi",https://arxiv.org/pdf/1711.06350.pdf
+118,Detection of Tooth caries in Bitewing Radiographs using Deep Learning,"Muktabh Mayank Srivastava, Pratyush Kumar, Lalit Pradhan and Srikrishna Varadarajan",https://arxiv.org/pdf/1711.07312v2.pdf
+21,Deep Reinforcement Learning for Sepsis Treatment,"Aniruddh Raghu, Matthieu Komorowski, Imran Ahmed, Leo Celi, Peter Szolovits, Marzyeh Ghassemi",https://arxiv.org/pdf/1711.09602.pdf
+50,Cost-Effective Active Learning for Melanoma Segmentation,"Marc Gorriz, Axel Carlier, Emmanuel Faure and Xavier Giro-i-Nieto",https://arxiv.org/pdf/1711.09168
+27,Learning Deep Representations of Medical Images using Siamese CNNs with Application to Content-Based Image Retrieval,"Yu-An Chung, and Wei-Hung Weng",https://arxiv.org/abs/1711.08490
+86,Physiological and behavioral proﬁling for nociceptive pain estimation using personalized multitask learning ,"Daniel Lopez-Martinez, Ognjen Rudovic and Rosalind Picard ",https://arxiv.org/pdf/1711.04036.pdf
+75,Mondrian Processes for Flow Cytometry Analysis,"Disi Ji, Eric Nalisnick, Padhraic Smyth",https://arxiv.org/pdf/1711.07673.pdf
+15,Adversarial Networks for Prostate Cancer Detection," Simon Kohl, David Bonekamp, Heinz-Peter Schlemmer, Kaneschka Yaqubi, Markus Hohenfellner, Boris Hadaschik, Jan-Philipp Radtke, Klaus Maier-Hein",https://arxiv.org/pdf/1711.10400.pdf
+103,Synthetic Medical Images from Dual Generative Adversarial Networks,"John Guibas, Tejpal Virdi, and Peter Li",https://arxiv.org/pdf/1709.01872.pdf
+63,Smartphone-based paroxysmal atrial fibrillation monitoring with robust generalization,"Tamas Madl, David Madl",https://arxiv.org/pdf/1711.10862.pdf
+84,Predicting readmission risk from doctors' notes,"Erin Craig, Carlos Arias, David Gillman",https://arxiv.org/abs/1711.10663
+46,Cross-modal Recurrent Models for Weight Objective Prediction from Multimodal Time-series Data,"Petar Veličković, Laurynas Karazija, Nicholas D. Lane, Sourav Bhattacharya, Edgar Liberis, Pietro Liò, Angela Chieh, Otmane Bellahsen, and Matthieu Vegreville",https://arxiv.org/pdf/1709.08073.pdf
+64,Causality Refined Diagnostic Prediction ,"Marcus Klasson, Kun Zhang, Bo C. Bertilson, Cheng Zhang, Hedvig Kjellström",https://arxiv.org/abs/1711.10915
+11,Predicting Severe Sepsis Using Text from the Electronic Health Record,"Phil Culliton, Michael Levinson, Alice Ehresman RN, Joshua Wherry, Jay S. Steingrub MD, Stephen I. Gallant",http://arxiv.org/abs/1711.11536
+90,Convolutional Neural Networks for Breast Cancer Screening: Transfer Learning with Exponential Decay,"Hiba Chougrad, Hamid Zouaki, and Omar Alheyane",https://arxiv.org/pdf/1711.10752.pdf
+40,Embedded Real-Time Fall Detection Using Deep Learning For Elderly Care,"Hyunwoo Lee, Jooyoung Kim, Dojun Yang and Joon-Ho Kim",https://arxiv.org/abs/1711.11200
+54,Predicting Adolescent Suicide Attempts with Neural Networks,"Harish S. Bhat, Sidra J. Goldman-Mellor",https://arxiv.org/pdf/1711.10057.pdf
+123,A multiobjective deep learning approach for predictive classification in Neuroblastoma,"Valerio Maggio, Marco Chierici, Giuseppe Jurman, Cesare Furlanello",https://arxiv.org/pdf/1711.08198.pdf
+67,BioMM: Biologically-informed Multi-stage Machine learning for identification of epigenetic fingerprints,Junfang Chen and Emanuel Schwarz,https://arxiv.org/submit/2090191
+53,An Encoder-Decoder Model for ICD-10 Coding of Death Certificates,Elena Tutubalina and Zulfat Miftahutdinov,https://www.arxiv.org
+42,Subject Selection on a Riemannian Manifold for Unsupervised Cross-subject Seizure Detection,"Samaneh Nasiri Ghosheh Bolagh , Gari. D. Clifford",https://arxiv.org/submit/2090485
+88,Learning Neural Markers of Schizophrenia Disorder Using Recurrent Neural  Networks,"Jumana Dakka, Pouya Bashivan, Mina Gheiratmand",https://arxiv.org/submit/2090674/view
+31,Correlational Dueling Bandits with Application to Clinical Treatment in Large Decision Spaces,"Yanan Sui, Yisong Yue, Joel W. Burdick",https://arxiv.org/pdf/1707.02375.pdf
+24,On the importance of normative data in speech-based assessment,"Zeinab Noorian, Chloé Pou-Prom, Frank Rudzicz",https://arxiv.org/pdf/1712.00069.pdf
+93,Distributed Stratified Locality Sensitive Hashing for Critical Event Prediction in the Cloud,"Alessandro De Palma, Erik Hemberg, and Una-May O’Reilly",https://arxiv.org/pdf/1712.00206.pdf
+82,Generative Adversarial Networks for Electronic Health Records: A Framework for Exploring and Evaluating Methods for Predicting Drug-Induced Laboratory Test Trajectories,"Alexandre Yahi, Rami Vanguri, Noémie Elhadad, Nicholas P. Tatonetti",https://arxiv.org/abs/1712.00164
+37,Highrisk Prediction from Electronic Medical Records via Deep Attention Networks,"You Jin Kim, Yun-Geun Lee, Jeong Whun Kim, Jin Joo Park, Borim Ryu, and Jung-Woo Ha",http://arxiv.org/abs/1712.00010
+111,Tool Detection and Operative Skill Assessment in Surgical Videos Using Region-Based Convolutional Neural Networks,"Amy Jin, Serena Yeung, Jeffrey Jopling, Jonathan Krause, Dan Azagury, Arnold Milstein, and Li Fei-Fei",https://arxiv.org/abs/1802.08774
+92,Towards Personalized Modeling of the Female Hormonal Cycle: Experiments with Mechanistic Models and Gaussian Processes,"Iñigo Urteaga, David J. Albers, Marija Vlajic Wheeler, Anna Druet, Hans Raffauf and Noémie Elhadad",https://arxiv.org/abs/1712.00117
+18,Deep Learning for Metagenomic Data: using 2D Embeddings and Convolutional Neural Networks,"Thanh Hai Nguyen, Yann Chevaleyre, Edi Prifti, Nataliya Sokolovska and Jean-Daniel Zucker",http://arxiv.org/abs/1712.00244
+122,Delineation of Skin Strata in Reflectance Confocal Microscopy Images using Recurrent Convolutional Networks with Toeplitz Attention,"Alican Bozkurt, Kivanc Kose, Jaume Coll-Font, Christi Alessi-Fox, Dana H. Brooks, Jennifer G. Dy, Milind Rajadhyaksha",https://arxiv.org/pdf/1712.00192.pdf
+102,Rapid point-of-care Hemoglobin measurement through low-cost optics and Convolutional Neural Network based validation,"Chris Wu, Tanay Tandon",https://arxiv.org/pdf/1712.00174.pdf
+95,Personalized Gaussian Processes for Future Prediction of Alzheimer's Disease Progression,"Kelly Peterson, Ognjen (Oggi) Rudovic, Ricardo Guerrero, and Rosalind W. Picard",http://arxiv.org/abs/1712.00181
+121,Anesthesiologist-level forecasting of hypoxemia with only SpO2 data using deep learning,"Gabriel Erion, Hugh Chen, Scott M. Lundberg, Su-In Lee",https://arxiv.org/pdf/1712.00563.pdf
+22,Survival-Supervised Topic Modeling with Anchor Words: Characterizing Pancreatitis Outcomes,"George H. Chen, Jeremy C. Weiss",https://arxiv.org/pdf/1712.00535
+69,Bayesian Semi-nonnegative Tri-matrix Factorization to Identify Pathways Associated with Cancer Types,Sunho Park and Tae Hyun Hwang,https://arxiv.org/abs/1712.00520
+45,Prediction-Constrained Topic Models for Antidepressant Recommendation,"Michael C. Hughes, Gabriel Hope, Leah Weiner, Thomas H. McCoy, Roy H.   Perlis, Erik B. Sudderth, Finale Doshi-Velez",http://arxiv.org/pdf/1712.00499.pdf
+98,A global feature extraction model for the effective computer aided diagnosis of mild cognitive impairment using structural MRI images,"Chen Fang, Panuwat Janwattanapong, Chunfei Li, and Malek Adjouadi",https://arxiv.org/pdf/1712.00556.pdf
+85,An Ensemble of Deep Convolutional Neural Networks for Alzheimer’s Disease Detection and Classification,Jyoti Islam and Yanqing Zhang,https://arxiv.org/abs/1712.01675
+113,Intelligent EHRs: Predicting Procedure Codes From Diagnosis Codes,"Hasham Ul Haq, Rameel Ahmad, and Sibt Ul Hussain",https://arxiv.org/pdf/1712.00481.pdf
+79,Sum of previous inpatient serum creatinine measurements; a practical model for acute kidney injury in rehospitalized patients,"Sam Weisenthal, Haofu Liao, Philip Ng, Martin Zand",https://arxiv.org
+49,AWE-CM Vectors: Augmenting Word Embeddings with a Clinical Metathesaurus,"Willie Boag and Mohamed Kane",https://arxiv.org/pdf/1712.01460.pdf
+66,"A Novel Data-Driven Framework for Risk Characterization and Prediction from Electronic Medical Records: A Case Study of Renal Failure","Prithwish Chakraborty, Vishrawas Gopalakrishnan, Sharon M.H. Alford, and Faisal Farooq",https://arxiv.org/pdf/1711.11022.pdf
+79,"Sum of previous inpatient serum creatinine measurements predicts acute  kidney injury in rehospitalized patients","Sam Weisenthal, Haofu Liao, Philip Ng, Martin Zand",https://arxiv.org/pdf/1712.01880.pdf
+7,"Image Segmentation to Distinguish Between Overlapping Human Chromosomes","R. Lily Hu, Jeremy Karnowski, Ross Fadely and Jean-Patrick Pommier",https://arxiv.org/abs/1712.07639

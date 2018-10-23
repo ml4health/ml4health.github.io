@@ -45,7 +45,10 @@ aux_item_template_str = \
         <a href="{{WEBSITE}}">
         <div class="caption">
             <h5>{{NAME}}</h5>
-            <p>{{AFFIL}}, {{TITLE}}</p>
+            <p>{{AFFIL}}, {{TITLE}}
+            <br />
+            <emph>{{WORKSHOP_ROLE}}</emph>
+            </p>
             <p></p>
         </div>
         </a>
@@ -93,7 +96,7 @@ out_md_str += "</div>\n"
 out_md_str += "</div>\n"
 
 out_md_str += '\n\n\n<div class="container">'
-out_md_str += "\n<h2><a name='additional'>Additional Organizers</a></h2>"
+out_md_str += "\n<h2><a name='additional'>Senior Advisory Committee</a></h2>"
 ## Auxiliary team names + links
 out_md_str += '\n<div class="row display-flex">'
 for item_id, row_obj in enumerate(aux_team_df.itertuples()):

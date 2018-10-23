@@ -250,11 +250,89 @@ for helping peer review all submissions.
 
 </div>
 </div>
+<br />
 
 
 
 <div class="container">
 <h2><a name='additional'>Senior Advisory Committee</a></h2>
+<div class="row display-flex">
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="https://scholar.harvard.edu/beam/home">
+        <img 
+            src="{filename}/images/headshots_200x200/andrew.jpg"
+            alt="Andrew Beam headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Andrew Beam</h5>
+            <p>Harvard Med, Faculty
+            <br />
+            <emph>Senior Advisory Committee</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="">
+        <img 
+            src="{filename}/images/headshots_200x200/madalina.jpg"
+            alt="Madalina Fiterau headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Madalina Fiterau</h5>
+            <p>U. Mass Amherst, Faculty
+            <br />
+            <emph>Senior Advisory Committee</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="http://www.marzyehghassemi.com/">
+        <img 
+            src="{filename}/images/headshots_200x200/marzyeh.jpg"
+            alt="Marzyeh Ghassemi headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Marzyeh Ghassemi</h5>
+            <p>U. Toronto, Faculty
+            <br />
+            <emph>Senior Advisory Committee</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+</div>
+</div>
+<br />
+
+
+
+<div class="container">
+<h2><a name='additional'>Other Organizers</a></h2>
 <div class="row display-flex">
 
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
@@ -278,64 +356,10 @@ for helping peer review all submissions.
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
     <div class="col-xs-6 col-md-4"> 
     <div class="thumbnail">
-        <a href="https://scholar.harvard.edu/beam/home">
-        <div class="caption">
-            <h5>Andrew Beam</h5>
-            <p>Harvard Med, Faculty
-            <br />
-            <emph></emph>
-            </p>
-            <p></p>
-        </div>
-        </a>
-    </div>
-    </div>
-
-
-
-    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
-    <div class="col-xs-6 col-md-4"> 
-    <div class="thumbnail">
-        <a href="">
-        <div class="caption">
-            <h5>Madalina Fiterau</h5>
-            <p>U. Mass Amherst, Faculty
-            <br />
-            <emph></emph>
-            </p>
-            <p></p>
-        </div>
-        </a>
-    </div>
-    </div>
-
-
-
-    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
-    <div class="col-xs-6 col-md-4"> 
-    <div class="thumbnail">
         <a href="">
         <div class="caption">
             <h5>Jason Alan Fries</h5>
             <p>Stanford, 
-            <br />
-            <emph></emph>
-            </p>
-            <p></p>
-        </div>
-        </a>
-    </div>
-    </div>
-
-
-
-    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
-    <div class="col-xs-6 col-md-4"> 
-    <div class="thumbnail">
-        <a href="http://www.marzyehghassemi.com/">
-        <div class="caption">
-            <h5>Marzyeh Ghassemi</h5>
-            <p>U. Toronto, Faculty
             <br />
             <emph></emph>
             </p>

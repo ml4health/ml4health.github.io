@@ -9,7 +9,8 @@ csv_df['LASTNAME'] = [name.split()[-1] for name in csv_df['NAME'].values]
 csv_df.sort_values(["WORKSHOP_ROLE", "LASTNAME"], inplace=True)
 
 # Two categories: main folks with defined roles and aux folks
-main_team_df = csv_df.query("WORKSHOP_ROLE != ''")
+main_team_df = csv_df.query("WORKSHOP_ROLE != '' & WORKSHOP_ROLE != 'Senior Advisory Committee'")
+advise_team_df = csv_df.query("WORKSHOP_ROLE == 'Senior Advisory Committee'")
 aux_team_df = csv_df.query("WORKSHOP_ROLE == ''")
 assert aux_team_df.shape[0] > 0
 
@@ -94,9 +95,33 @@ for item_id, row_obj in enumerate(main_team_df.itertuples()):
     out_md_str += item_str
 out_md_str += "</div>\n"
 out_md_str += "</div>\n"
+out_md_str += "<br />\n"
 
 out_md_str += '\n\n\n<div class="container">'
 out_md_str += "\n<h2><a name='additional'>Senior Advisory Committee</a></h2>"
+## Auxiliary team names + links
+out_md_str += '\n<div class="row display-flex">'
+for item_id, row_obj in enumerate(advise_team_df.itertuples()):
+    row_dict = row_obj.__dict__
+    item_str = main_item_template_str + ""
+    for key, val in row_dict.items():
+        if key == 'IMGFILE':
+            default_val = "placeholder.jpg"
+        elif key == 'WEBSITE':
+            default_val = "#"
+        else:
+            default_val = ""
+        cur_val = str(val)
+        if len(cur_val) == '' or cur_val == 'nan':
+            cur_val = default_val
+        item_str = item_str.replace("{{%s}}" % str(key), cur_val)
+    out_md_str += item_str
+out_md_str += "</div>\n"
+out_md_str += "</div>\n"
+out_md_str += "<br />\n"
+
+out_md_str += '\n\n\n<div class="container">'
+out_md_str += "\n<h2><a name='additional'>Other Organizers</a></h2>"
 ## Auxiliary team names + links
 out_md_str += '\n<div class="row display-flex">'
 for item_id, row_obj in enumerate(aux_team_df.itertuples()):

@@ -38,7 +38,7 @@ From the research community, we welcome short paper submissions highlighting nov
 
 SUBMISSION INSTRUCTIONS:
 
-Researchers interested in contributing should upload short, anonymized papers of up to 4 pages in PDF format by Friday, October 26, 2018, 11:59 PM in the timezone of your choice.
+Researchers interested in contributing should upload short, anonymized papers of up to 4 pages in PDF format by Mon, October 29, 2018, 11:59 PM in the timezone of your choice.
 
 Please submit via our ML4H EasyChair website: [https://easychair.org/conferences/?conf=nipsml4h2018](https://easychair.org/conferences/?conf=nipsml4h2018)
 

@@ -115,7 +115,7 @@ for helping peer review all submissions.
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
     <div class="col-xs-6 col-md-4"> 
     <div class="thumbnail">
-        <a href="https://avillach-lab.hms.harvard.edu/people/samuel-g-finlayson">
+        <a href="https://sgfin.github.io/">
         <img 
             src="{filename}/images/headshots_200x200/sam.jpg"
             alt="Sam Finlayson headshot"

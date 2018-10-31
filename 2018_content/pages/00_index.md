@@ -47,6 +47,17 @@ save_as: index.html
 </div>
 
 <h4>Announcements</h4>
+<div class="row">
+<div class="alert alert-info" role="alert">
+<p> 2017/10/26:
+<emph>
+We will be granting a number of travel awards. To be considered, please 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSf76i0MygQDo_4PtCyomjr9VYqKi6zZ0cCmGfWIHYSpcRumGA/viewform">
+complete this form</a> as soon as possible. Travel awards will be awarded on a rolling basis.
+</emph>
+</p>
+</div>
+</div>
 
 <div class="row">
 <div class="alert alert-info" role="alert">

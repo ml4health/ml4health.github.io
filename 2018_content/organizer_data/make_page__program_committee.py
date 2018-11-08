@@ -1,6 +1,6 @@
 import pandas as pd
 
-csv_df = pd.read_csv("2017_pc_members_public.csv")
+csv_df = pd.read_csv("2018_pc_members_public.csv")
 csv_df.sort_values("LASTNAME", inplace=True)
 
 item_template_str = \
@@ -17,7 +17,7 @@ item_template_str = \
 </div>
 \n"""
 
-out_md_str = "Title: Program Committee\nDate: 2017-11-15\nSkipNavBar: 1"
+out_md_str = "Title: Program Committee\nDate: 2018-11-08\nSkipNavBar: 1"
 out_md_str += (
 """\n
 <!-- THIS PAGE SRC IS AUTO GENERATED. At terminal: $ make program_committee -->

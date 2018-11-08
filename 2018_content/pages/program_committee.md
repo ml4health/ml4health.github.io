@@ -5,7 +5,7 @@ SkipNavBar: 1
 <!-- THIS PAGE SRC IS AUTO GENERATED. At terminal: $ make program_committee -->
 
 
-Many thanks to the Senior Program Committee for their nomination of committee members below.
+Many thanks to the Senior Program Committee their help and nomination of program committee members.
 
 <div class="row display-flex" style="display:flex; display:-webkit-flex;  flex-wrap:wrap;">
 

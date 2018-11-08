@@ -29,7 +29,7 @@ out_md_str += (
 # New SPC Members code
 out_md_str += \
 """
-Many thanks to the Senior Program Committee for their nomination of committee members below.
+Many thanks to the Senior Program Committee their help and nomination of program committee members.
 
 <div class="row display-flex" style="display:flex; display:-webkit-flex;  flex-wrap:wrap;">
 """

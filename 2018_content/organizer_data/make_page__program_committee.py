@@ -1,7 +1,10 @@
 import pandas as pd
 
-csv_df = pd.read_csv("2018_pc_members_public.csv")
-csv_df.sort_values("LASTNAME", inplace=True)
+pc_df = pd.read_csv("2018_pc_members_public.csv")
+pc_df.sort_values("LASTNAME", inplace=True)
+
+spc_df = pd.read_csv("2018_spc_members_public.csv")
+spc_df.sort_values("LASTNAME", inplace=True)
 
 item_template_str = \
 """\n
@@ -23,6 +26,28 @@ out_md_str += (
 <!-- THIS PAGE SRC IS AUTO GENERATED. At terminal: $ make program_committee -->
 \n""")
 
+# New SPC Members code
+out_md_str += \
+"""
+Many thanks to the Senior Program Committee for their nomination of committee members below.
+
+<div class="row display-flex" style="display:flex; display:-webkit-flex;  flex-wrap:wrap;">
+"""
+
+for item_id, row_obj in enumerate(spc_df.itertuples()):
+    row_dict = row_obj.__dict__
+    item_str = item_template_str + ""
+    for key, val in row_dict.items():
+        default_val = ""
+        cur_val = str(val)
+        if len(cur_val) == '' or cur_val == 'nan':
+            cur_val = default_val
+        item_str = item_str.replace("{{%s}}" % str(key), cur_val)
+    out_md_str += item_str
+
+out_md_str += "</div>\n"
+
+# Existing PC Members code
 #n_per_row = 100
 out_md_str += \
 """
@@ -31,7 +56,7 @@ Many thanks to the 100+ members of our program committee who reviewed submitted 
 <div class="row display-flex" style="display:flex; display:-webkit-flex;  flex-wrap:wrap;">
 """
 
-for item_id, row_obj in enumerate(csv_df.itertuples()):
+for item_id, row_obj in enumerate(pc_df.itertuples()):
     row_dict = row_obj.__dict__
     item_str = item_template_str + ""
     for key, val in row_dict.items():

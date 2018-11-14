@@ -1,99 +1,133 @@
 FIRSTNAME,LASTNAME,AFFIL
-Tong,Wang,University of Iowa
-Erika,Strandberg,Stanford University
-Hossein,Soleimani,Pennsylvania State University
-Berk,Ustun,Massachusetts Institute of Technology
-Shalmali,Joshi,The University of Texas at Austin
-Bharat,Srikishan,Columbia University
-Eduardo,De Leon,
-Matt,Barnes,Carnegie Mellon University
-Ya,Le,Stanford University
-Yanbo,Xu,Carnegie Mellon University
-Harini,Suresh,MIT
-Theofanis,Karaletsos,Max Planck Institutes Tuebingen
-Jen,Gong,Massachusetts Institute of Technology
-Paroma,Varma,Stanford University
-Katie,Henry,Johns Hopkins University
-Kimis,Perros,Georgia Institute of Technology
-Ian,Fox,University of Michigan
-Edward,Choi,Georgia Institute of Technology
-David,Ledbetter,Children's Hospital Los Angeles
-Natasha,Jaques,MIT Media Lab
+Bryce,Allen,Harvard University
+Emily,Alsentzer,MIT
 Amelia,Averitt,Columbia University
-Suriya,Gunasekar,University of Texas at Austin
-Devendra,Deshmukh,University of Michigan
-Siong,Goh,Massachusetts Institute of Technology
-Zack,Lipton,"University of California, San Diego"
-Ken,Jung,Stanford University
-Jette,Henderson,The University of Texas at Austin
-Rahul,Krishnan,New York University
-Karen,Chen,Carnegie Mellon University
+Homa,B Hashemi,Microsoft
+Mohammad Taha,Bahadori,Georgia Institute of Technology
+Annamarie,Bair,Massachusetts Institute of Technology
+Jeya Balaji,Balasubramanian,University of Pittsburgh
+Matt,Barnes,Carnegie Mellon University
+Pouya,Bashivan,MIT
+Andrew,Beam,Harvard University
+Brett,Beaulieu-Jones,University of Pennsylvania
+Heather,Berlin,Massachusetts Institute of Technology
+Gabriela,Berner,Harvard University
+Davis,Blalock,Massachusetts Institute of Technology
 Willie,Boag,MIT
-Matthew,McDermott,MIT
-Wei-Hung,Weng,MIT
-Maggie,Makar,MIT
-Tom,Pollard,MIT
-Alistair,Johnson,MIT
+James,Brown,Harvard University
+Alison,Callahan,Stanford University
+Pashmina,Cameron,Microsoft
+David,Carlson,Columbia University
+Ken,Chang,MIT
+Geeticka,Chauhan,MIT
+Lujie,Chen,Carnegie Mellon University
+Chaofan,Chen,Duke University
+George,Chen,Carnegie Mellon University
 Irene,Chen,MIT
-Fredrik,Johansson,MIT
-Mohammad,Bahadori,Amazon
-Mahdi,Pakdaman,Harvard
-Melanie,Pradier,Harvard
-Omer,Gottesman,Harvard
-Taylor,Killian,MIT Lincoln Laboratory
-Sonali,Parbhoo,University of Basel
-Li,Li,Harvard DBMI
-Soumya,Ghosh,IBM Watson
-Jian,Zhang,Stanford University
-Davis,Blalock,MIT
-Damian,Murezzan,University of Basel
-Sebastian Mathias,Keller,University of Basel
-Adarsh,Subbaswamy,Johns Hopkins University
-Weiwei,Pan,Harvard
-Arjumand,Masood,Harvard
-Haishuai,Wang,
-Kun-Hsing,Yu,
-Fattaneh,Jabbari,
-Sandhya,Prabhakaran,Memorial Sloan Kettering Cancer Center
-Alfredo,Nazabal,
-Jeya,Balasubramanian,
-Pablo,Moreno-Muñoz,
-Homa Baradaran,Hashemi,
-Isabel,Valera,
-Javier Zazo,Ruiz,
-Bryce ,Allen,Harvard Medical School
-Ben ,Huynh,Stanford University
-Brett,Beaulieu-Jones,Harvard Medical School
-Zhaonan,Sun,IBM
-Hossein,Estiri,MGH
-Dustin,Doss,MIT
-Steve,Gallant,MultiModel Research
-Aniruddh,Raghu,Cambridge
-Matthieu,Komorowski,Harvard
-George,Chen,CMU
-Jeremy,Weiss,CMU
-Elena,Sergeeva,MIT
-Charles,Kuang,UW-Madison
-Wei,Zhang,UW-Madison
-Sarah,Wiegreffe,GA Tech
+Li-Fang,Cheng,Princeton University
+Corey,Chivers,University of Pennsylvania
+Edward,Choi,Georgia Institute of Technology
+Giles,Clermont,University fo Pittsburgh
+Evan,Cofer,Princeton University
+Adrian,Dalca,Massachusetts Institute of Technology
+Iman,Deznabi,Bilkent University
+Rasheed,El-Bouri,University of Oxford
+Hossein,Estiri,Harvard University
+Melanie,F. Pradier,Harvard University
+Chen,Fang,Florida International University
+Sam,Finlayson,"Harvard Medical School, MIT"
+Madalina,Fiterau,Stanford University
+Scott,Fleming,"Department of Biomedical Data Science, Stanford University"
+Jessica,Forde,Columbia University
 Luca,Foschini,Evidation Health
-Yoonyoung,Park,
-Míriam,Bellver,
-Ioakeim,Perros,
-Madhumita,Sushil,
-Jesse,Hu,
-Gregory P.,Way,
-Carlo Mario,Bertoncelli,
-Tingting,Zhu,
-Samaneh Nasiri Ghosheh,Bolagh,
-Benjamin,Huynh,
-Wei-Hung,Weng,
-Shashank,Gupta,
-Joseph,Futoma,
-Sanjay,Purushotham,
-Marc-Andre,Schulz,
-Chen,Chen Fang,
-Tejpal,Virdi,
-Michelle,Guo,
-Hejia,Zhang,
-Pouya,Bashivan,
+Ian,Fox,University of Michigan
+Jason,Fries,Stanford University
+Steve,Gallant,MultiModel Research
+Siong Thye,Goh,Massachusetts Institute of Technology
+Jen,Gong,"University of California, Berkeley"
+Omer,Gottesman,Harvard University
+Dev,Goyal,University of Michigan
+Sean,Grullon,GlaxoSmithKline
+Michelle,Guo,Stanford University
+Shashank,Gupta,"International Institute of Information Technology, Hyderabad, India"
+Katharine,Henry,Johns Hopkins University
+Tzu-Ming,Hsu,Massachusetts Institute of Technology
+Michael,Hughes,Tufts University
+Nathan,Hunt,Massachusetts Institute of Technology
+Benjamin,Huynh,University of Chicago
+Stephanie,Hyland,ETH Zurich
+Fattaneh,Jabbari,University of Pittsburgh
+Natasha,Jaques,Massachusetts Institute of Technology
+Bruno,Jedynak,Portland State University
+Di,Jin,MIT
+Alistair,Johnson,Massachusetts Institute of Technology
+Kipp,Johnson,Icahn School of Medicine at Mount Sinai
+Shalmali,Joshi,The University of Texas at Austin
+Kenneth Jung,Jung,Stanford University
+Theofanis,Karaletsos,Uber AI Labs
+Taylor,Killian,Harvard University
+Shilpa,Kobren,Harvard University
+Zhaobin,Kuang,Stanford University
+Eric,Laber,North Carolina State University
+Ya,Le,Stanford University
+David,Ledbetter,Children's Hospital Los Angeles
+Hyunkwang,Lee,Harvard University
+Maggie,Makar,Massachusetts Institute of Technology
+Muhammad,Masood,Harvard University
+Matthew,Mcdermott,MIT
+Andrew,Miller,Harvard University
+Ramin,Moghaddass,University of Miami
+Pablo,Moreno-Munoz,Universidad Carlos III de Madrid
+Bilgel,Murat,National Institute on Aging
+Samaneh,Nasiri Ghosheh Bolagh,Emory University
+Tristan,Naumann,MIT
+Sarvesh,Nikumbh,"Max Planck Institute for Informatics, Computational Biology and Applied Algorithmics"
+Jeeheh,Oh,University of Michigan
+Mahdi,Pakdaman Naeini,University of Pittburgh
+Konstantina,Palla,University of Oxford
+Weiwei,Pan,Harvard University
+Kruti,Pandya,Portland State University
+Sonali,Parbhoo,University of Basel
+Yoonyoung,Park,IBM
+Ioakeim,Perros,Georgia Institute of Technology
+Tom,Pollard,Massachusetts Institute of Technology
+Sandhya,Prabhakaran,Memorial Sloan Kettering Cancer Centre
+Niranjani,Prasad,Princeton University
+Sanjay,Purushotham,University of Southern California
+Aniruddh,Raghu,University of Cambridge
+Ognjen Oggi,Rudovic,Massachusetts Institute of Technology
+Marc-Andre,Schulz,RWTH Aachen University
+Martin,Seneviratne,Stanford
+Elena,Sergeeva,MIT
+Farah,Shamout,University of Oxford
+Bhanu Pratap,Singh,University of Massachusetts
+Nataliya,Sokolovska,"Sorbonne University, INSERM, NutriOmics"
+Hossein,Soleimani,Johns Hopkins University
+Erika,Strandberg,Stanford University
+Adarsh,Subbaswamy,Johns Hopkins University
+Zhaonan,Sun,IBM
+Madhumita,Sushil,Antwerp University Hospital; University of Antwerp
+Sara,Taylor,Massachusetts Institute of Technology
+Jessica,Torres,Stanford University
+Berk,Ustun,Harvard University
+Isabel,Valera,MPI for Intelligent Systems
+Tempest,van Schaik,Microsoft
+Paroma,Varma,Stanford University
+Rielly,Victor,Portland State University
+Julia E.,Vogt,University of Basel
+Haishuai,Wang,Harvard University
+Gregory,Way,University of Pennsylvania
+Wei-Hung,Weng,"Computer Science and Artificial Intelligence Laboratory, MIT"
+Sarah,Wiegreffe,Georgia Institute of Technology
+Zhiwei Steven,Wu,University of Pennsylvania
+Yanbo,Xu,Carnegie Mellon University
+Alexandre,Yahi,Columbia University
+Hector,Yee,Google
+Kun-Hsing,Yu,Harvard University
+William,Yuan,Harvard University
+Lee,Zamparo,University of Toronto
+Javier,Zazo,Harvard University
+John,Zech,California Pacific Medical Center
+Hejia,Zhang,Princeton University
+Wei,Zhang,University of Wisconsin-Madison
+Tingting,Zhu,University of Oxford

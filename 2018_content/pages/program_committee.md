@@ -297,7 +297,7 @@ Many thanks to the 100+ members of our program committee who reviewed submitted 
 <div class="thumbnail">
     <div class="caption">
         <p>
-        <strong>Brett Beaulieu-Jones</strong><br />University of Pennsylvania
+        <strong>Brett Beaulieu-Jones</strong><br />Harvard Medical School
         </p>
     </div>
 </div>

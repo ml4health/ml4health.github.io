@@ -52,7 +52,7 @@ save_as: index.html
 <div class="alert alert-info" role="alert">
 <p> 2017/11/20:
 <emph>
-We closed the travel grant form and will be awarding travel grants on a rolling basis. If you are an accepted author (digital, poster, or spotlight) and are interested in our limited pool of reserve tickets, please email us ASAP at <a href="mailto:ml4h.workshop.nips.2018@gmail.com">
+We closed the travel grant form and will be awarding travel grants on a rolling basis. If you are an accepted author (digital, poster, or spotlight) and are interested in our limited pool of workshop registrations, please email us ASAP at <a href="mailto:ml4h.workshop.nips.2018@gmail.com">
                     ml4h.workshop.nips.2018@gmail.com
                 </a>.
 </emph>

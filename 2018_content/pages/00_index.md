@@ -62,6 +62,16 @@ We closed the travel grant form and will be awarding travel grants on a rolling 
 
 <div class="row">
 <div class="alert alert-info" role="alert">
+<p>  2018/11/16: NeurIPS 2018
+<emph>
+We have updated our site to use the conference's new acronym, NeurIPS. Note that previously "published" materials (e.g., the CFP) will remain unmodified. For additional details, see <a href="https://nips.cc/Conferences/2018/News?article=2118">https://nips.cc/Conferences/2018/News?article=2118</a>.
+</emph>
+</p>
+</div>
+</div>
+
+<div class="row">
+<div class="alert alert-info" role="alert">
 <p> 2017/10/26:
 <emph>
 We will be granting a number of travel awards. To be considered, please 

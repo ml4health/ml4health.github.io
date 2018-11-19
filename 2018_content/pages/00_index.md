@@ -47,6 +47,19 @@ save_as: index.html
 </div>
 
 <h4>Announcements</h4>
+
+<div class="row">
+<div class="alert alert-info" role="alert">
+<p> 2017/11/20:
+<emph>
+We closed the travel grant form and will be awarding travel grants on a rolling basis. If you are an accepted author (digital, poster, or spotlight) and are interested in our limited pool of reserve tickets, please email us ASAP at <a href="mailto:ml4h.workshop.nips.2018@gmail.com">
+                    ml4h.workshop.nips.2018@gmail.com
+                </a>.
+</emph>
+</p>
+</div>
+</div>
+
 <div class="row">
 <div class="alert alert-info" role="alert">
 <p> 2017/10/26:

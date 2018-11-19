@@ -47,9 +47,20 @@ save_as: index.html
 </div>
 
 <h4>Announcements</h4>
+
 <div class="row">
 <div class="alert alert-info" role="alert">
-<p> 2017/10/26:
+<p>  2018/11/16: NeurIPS 2018
+<emph>
+We have updated our site to use the conference's new acronym, NeurIPS. Note that previously "published" materials (e.g., the CFP) will remain unmodified. For additional details, see [https://nips.cc/Conferences/2018/News?article=2118](https://nips.cc/Conferences/2018/News?article=2118).
+</emph>
+</p>
+</div>
+</div>
+
+<div class="row">
+<div class="alert alert-info" role="alert">
+<p> 2018/10/26:
 <emph>
 We will be granting a number of travel awards. To be considered, please 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSf76i0MygQDo_4PtCyomjr9VYqKi6zZ0cCmGfWIHYSpcRumGA/viewform">

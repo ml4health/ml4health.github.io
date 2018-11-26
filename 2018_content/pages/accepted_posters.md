@@ -124,18 +124,6 @@ Remember to follow the <a href="poster-and-slide-instructions.html">poster and s
 <div class="col-xs-12 col-md-6"> 
 <div class="thumbnail">
     <div class="caption">
-        <h5> Predicting pregnancy using large-scale data from a women's health tracking mobile application</h5>
-        <p>Bo Liu, Shuyang Shi, Yongshang Wu, Laura Symul, Emma Pierson and Jure Leskovec</p>
-    </div>
-</div>
-</div>
-
-
-
-<!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
-<div class="col-xs-12 col-md-6"> 
-<div class="thumbnail">
-    <div class="caption">
         <h5> PatchNet: Context-Restricted Architectures to Provide Visual Features for Image Classification</h5>
         <p>Adityanarayanan Radhakrishnan, Charles Durham, Ali Soylemezoglu and Caroline Uhler</p>
     </div>
@@ -620,6 +608,18 @@ Remember to follow the <a href="poster-and-slide-instructions.html">poster and s
     <div class="caption">
         <h5> Radiotherapy Target Contouring with Convolutional Gated Graph Neural Network</h5>
         <p>Chun-Hung Chao, Yen-Chi Cheng, Hsien-Tzu Cheng, Chi-Wen Huang, Tsung-Ying Ho, Chen-Kan Tseng, Le Lu and Min Sun</p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
+<div class="col-xs-12 col-md-6"> 
+<div class="thumbnail">
+    <div class="caption">
+        <h5> Predicting pregnancy using large-scale data from a women's health tracking mobile application</h5>
+        <p>Bo Liu, Shuyang Shi, Yongshang Wu, Laura Symul, Emma Pierson and Jure Leskovec</p>
     </div>
 </div>
 </div>

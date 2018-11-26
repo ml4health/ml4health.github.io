@@ -1,0 +1,168 @@
+PAPERID,AUTHORS,TITLE,SESSION
+3,Albert Haque and Corinna Fukushima, Automatic Documentation of ICD Codes with Far-Field Speech Recognition,PM
+4,Luke O'Connor and Alkes Price, Distinguishing correlation from causation using genome-wide association studies,PM
+5,Xu Chen and Saratendu Sethi, Robust Active Learning for Electrocardiographic Signal Classification,DIGITAL
+7,Viraj Uday Prabhu and Anitha Kannan, Prototypical Clustering Networks for Dermatological Disease Diagnosis,PM
+9,"Albert Haque, Michelle Guo, Adam Miner and Li Fei-Fei", Measuring the Severity of Depressive Symptoms from Spoken Language and 3D Facial Expressions,AM
+13,"Bryan He, James Zou and Matt Thomson", Identification of Predictive Subpopulations in Heterogeneous Samples,DIGITAL
+14,"Karthik Sarma, Brennan M,  R,  Spiegel, Mark W,  Reid, Shawn Chen, Raina M,  Merchant, Emily Seltzer and Corey W, Arnold", Can We Estimate the Health-Related Quality of Life of Twitter Users Using Tweets? A Feasibility Study,DIGITAL
+15,"Arijit Ukil, Soma Bandyopadhyay, Chetanya Puri and Arpan Pal", Class Augmented Semi-Supervised Learning for Practical Clinical Analytics on Physiological Signals,DIGITAL
+16,"Girmaw Abebe Tadesse, Tingting Zhu and David Clifton", Cross-domain Transfer Learning for Cardiovascular Diseases,DIGITAL
+17,Md-Nafiz Hamid and Iddo Friedberg, Reliable uncertainty estimate for antibiotic resistance classification with Stochastic Gradient Langevin Dynamics,DIGITAL
+18,"Craig A Glastonbury, Michael Ferlaino, Christoffer Nellaker and Cecilia Lindgren", Adjusting for Confounding in Unsupervised Latent Representations of Images,DIGITAL
+19,"Nathaniel Braman, David Beymer and Ehsan Dehghan", Disease Detection in Weakly Annotated Volumetric Medical Images using a Convolutional LSTM Network,PM
+21,"Mina Rezaei, Haojin Yang and Christoph Meinel", Generative Adversarial Frameworkfor Learning Multiple Clinical Tasks,DIGITAL
+23,Ruidi Chen and Ioannis Paschalidis, Learning Optimal Personalized Treatment Rules Using Robust Regression Informed K-NN,DIGITAL
+24,Aaron Masino and Kaitlin Folweiler, Unsupervised learning with GLRM feature selection reveals novel traumatic brain injury phenotypes,DIGITAL
+27,Shazia Akbar and Anne Martel, Cluster-Based Learning from Weakly Labeled Bags in Digital Pathology,PM
+28,"Owen Lahav, Nicholas Mastronarde and Mihaela van der Schaar", What is Interpretable? Using Machine Learning to Design Interpretable Decision-Support Systems,AM
+29,"Xue Teng, Fuad Gwadry, Haley McConkey, Scott Ernst and Femida Gwadry-Sridhar", An adaptive treatment recommendation and outcome prediction model for metastatic melanoma,DIGITAL
+30,Byung-Hoon Kim and Jong Chul Ye, Decorrelating the Brain Dynamics with Recurrent Neural Network for Schizophrenia Classification,PM
+31,"Antoine Neuraz, Leonardo Campillos Llanos, Anita Burgun and Sophie Rosset", Natural language understanding for task oriented dialog in the biomedical domain in a low ressources context,AM
+32,"Henghui Zhu, Ioannis Paschalidis and Amir Tahmasebi", Clinical Concept Extraction with Contextual Word Embedding,AM
+33,"Changhee Lee, Nicholas Mastronarde and Mihaela van der Schaar", Estimation of Individual Treatment Effect in Latent Confounder Models via Adversarial Learning,PM
+35,"Carl Rietschel, Jinsung Yoon and Mihaela van der Schaar", Feature Selection for Survival Analysis with Competing Risks using Deep Learning,DIGITAL
+36,"Daniel Jarrett, Jinsung Yoon and Mihaela van der Schaar", MATCH-Net: Dynamic Prediction in Survival Analysis using Convolutional Neural Networks,AM
+37,"Spiros Denaxas, Pontus Stenetorp, Sebastian Riedel, Maria Pikoula, Richard Dobson and Harry Hemingway", Application of Clinical Concept Embeddings for Heart Failure Prediction in UK EHR data,DIGITAL
+38,"Sina Rashidian, Janos Hajagos, Richard Moffitt, Fusheng Wang, Xinyu Dong, Kayley Abell-Hart, Kimberly Noel, Rajarsi Gupta, Mathew Tharakan, Veena Lingam, Joel Saltz and Mary Saltz", Disease phenotyping using deep learning: A diabetes case study,AM
+39,"Gurunath Reddy M, Tanumay Mandal and K", Sreenivasa Rao,DIGITAL
+39,"Gurunath Reddy M, Tanumay Mandal and K. Sreenivasa Rao", Glottal Closure Instants Detection From Pathological Acoustic Speech Signal Using Deep Learning,AM
+41,"Aniruddh Raghu, Matthieu Komorowski and Sumeetpal Singh", Model-Based Reinforcement Learning for Sepsis Treatment,AM
+42,"Sandesh Ghimire, Jwala Dhamala, Prashnna Kumar Gyawali and Linwei Wang", Generative Modeling and Inverse Imaging of CardiacTransmembrane Potential,PM
+47,"Kristen Severson, Soumya Ghosh and Kenney Ng", Unsupervised learning with contrastive latent variable models,PM
+48,"Chun-Hung Chao, Yen-Chi Cheng, Hsien-Tzu Cheng, Chi-Wen Huang, Tsung-Ying Ho, Chen-Kan Tseng, Le Lu and Min Sun", Radiotherapy Target Contouring with Convolutional Gated Graph Neural Network,PM
+49,"Thomas Janssoone, Pierre Rinder, Pierre Hornus, Clémence Bic and Dora Kanoun", Machine Learning on Electronic Health Records: Models and Features Usages to predict Medication Non-Adherence,DIGITAL
+52,"Nikita Moriakov, Koen Michielsen, Jonas Adler, Ritse Mann, Ioannis Sechopoulos and Jonas Teuwen", Digital Breast Tomosynthesis Reconstruction using Deep Learning,DIGITAL
+53,"Cedric Beaulac, Jeffrey S,  Rosenthal and David Hodgson", A Deep Latent-Variable Model application to Select Treatment Intensity in Survival Analysis,DIGITAL
+54,"Dianbo Liu, Tim Miller, Raheel Sayeed and Kenneth Mandl", FADL:Federated-Autonomous Deep Learning for Distributed Electronic Health Record,DIGITAL
+55,"Wen Wang, Rema Padman and Nirav Shah", Early Stratification of Patients at Risk for Postoperative Complications after Elective Colectomy,DIGITAL
+56,"Edmond Cunningham, Dana Schlegel and Andrew DeOrio", Explainable Genetic Inheritance Pattern Prediction,DIGITAL
+57,"Bo Liu, Shuyang Shi, Yongshang Wu, Laura Symul, Emma Pierson and Jure Leskovec", Predicting pregnancy using large-scale data from a women's health tracking mobile application,AM
+58,"Matthew O'Kelly, Aman Sinha, Justin Norden and Hongseok Namkoong", In-silico Risk Analysis of Personalized Artificial Pancreas Controllers via Rare-event Simulation,DIGITAL
+60,"Jen-Tang Lu, Stefano Pedemonte, Bernardo Bizzo, Sean Doyle, Katherine Andriole, Mark Michalski, R,  Gilberto Gonzalez and Stuart Pomerantz", DeepSPINE: automated lumbar spinal stenosis grading using deep learning,PM
+61,Beidi Chen, Sub-linear Privacy-preserving Search with Unsecured Server and Semi-honest Parties,DIGITAL
+62,"Jiening Zhan, Hector Yee, Ian Covert, Jiang Wu, Albee Ling, Matthew Shore, Eric Teasley, Rebecca Davies, Tiffany Kung, Justin Tansuwan, John Hixson and Ming Jack Po", EEG Seizure Detection via Deep Neural Networks: Application and Interpretation,DIGITAL
+63,"Kazuki Tachikawa, Yuji Kawai, Jihoon Park and Minoru Asada", Compensated Integrated Gradients to Reliably Interpret EEG Classification,PM
+64,"Tatsuki Koga, Naoki Nonaka, Jun Sakuma and Jun Seita", General-to-Detailed GAN for Infrequent Class Medical Images,DIGITAL
+65,"Lars Lorch, Abir De, Samir Bhatt, William Trouleau, Utkarsh Upadhyay and Manuel Gomez Rodriguez", Stochastic Optimal Control of Epidemic Processes in Networks,DIGITAL
+66,"Jwala Dhamala, Emmanuel Azuh, Abdullah Al-Dujaili, Jonathan Rubin and Una-May O'Reilly", Multivariate Time-series Similarity Assessment via Unsupervised Representation Learning and Stratified Locality Sensitive Hashing: Application to Early Acute Hypotensive Episode Detection,DIGITAL
+68,"Hagai Rossman, Smadar Shilo, Nitzan Artzi and Eran Segal", Childhood obesity prediction and risk factor analysis from nationwide health records,PM
+69,"Monica Agrawal, Griffin Adams, Nathan Nussbaum and Benjamin Birnbaum", TIFTI: A Framework for Extracting Drug Intervals from Longitudinal Clinic Notes,PM
+70,"Rafael Sousa, Anderson Soares and Lucas Pereira", Predicting Diabetes Disease Evolution Using Financial Records and Recurrent Neural Networks,DIGITAL
+71,"Maggie Makar, Adith Swaminathan and Emre Kiciman", A Distillation Approach to Data Efficient Individual Treatment Effect Estimation,DIGITAL
+72,Seth Stafford and Christoph Kurz, Isolating Cost Drivers in Interstitial Lung Disease Treatment Using Nonparametric Bayesian Methods,PM
+75,"Sejin Park, Woochan Hwang and Kyu-Hwan Jung", Integrating Reinforcement Learning to Self Training for Pulmonary Nodule Segmentation in Chest X-rays,DIGITAL
+77,"Adityanarayanan Radhakrishnan, Charles Durham, Ali Soylemezoglu and Caroline Uhler", PatchNet: Context-Restricted Architectures to Provide Visual Features for Image Classification,AM
+78,"Evan Darke, Anin Sayana, Kelly Shen, David Xue, Jun-Ting Hsieh, Zelun Luo, Li-Jia Li, N,  Lance Downing, Arnold Milstein and Li Fei-Fei", Vision-Based Gait Analysis for Senior Care,DIGITAL
+79,"Sabri Boughorbel, Fethi Jarray, Neethu Venugopal and Haithum Elhadi", Alternating Loss Correction for Preterm-Birth Prediction from EHR Data with Noisy Labels,DIGITAL
+80,"Mandikal Vikram, Aditya Anantharaman, Suhas B S and Sowmya Kamath S", Multimodal Medical Image Retrieval based on Latent Topic Modeling,DIGITAL
+81,"Edward De Brouwer, Jaak Simm, Adam Arany and Yves Moreau", Deep Ensemble Tensor Factorization for Longitudinal Patient Trajectories Classification,PM
+82,"Antonio H,  Ribeiro, Manoel Horta Ribeiro, Gabriela Paixão, Derick Oliveira, Paulo R,  Gomes, Jéssica A,  Canazart, Milton Pifano, Wagner Meira Jr, Thomas B,  Schön and Antonio Luiz Ribeiro", Automatic Diagnosis of Short-Duration 12-Lead ECG using Deep Convolutional Network,PM
+83,"Yuhui Zhang, Allen Nie and James Zou", Large-scale Generative Modeling to Improve Automated Veterinary Disease Coding,AM
+84,Parvathy Sudhir Pillai and Tze Yun Leong, Knowledge-driven generative subspaces for modeling multi-view dependencies in medical data,DIGITAL
+87,"Marko Järvenpää, Mohamad Sater, Georgia Lagoudas, Paul Blainey, Loren Miller, James McKinnell, Susan Huang, Yonatan Grad and Pekka Marttinen", A Bayesian model of acquisition and clearance of bacterial colonization,PM
+88,"Rahul V, Hariharan Ravishankar and Saihareesh Anamandra", Towards Continuous Domain adaptation for Healthcare,DIGITAL
+89,"Cătălina Cangea, Arturas Grauslys, Francesco Falciani and Pietro Liò", Structure-Based Networks for Drug Validation,DIGITAL
+90,"Sabina Tomkins, Susan Murphy and Predrag Klasnja", Personalizing Intervention Probabilities By Pooling,DIGITAL
+91,"Sonali Parbhoo, Mario Wieser and Volker Roth", Estimating Causal Effects With Partial Covariates For Clinical Interpretability,AM
+92,"Veronica Tozzo, Federico Tomasi, Margherita Squillario and Annalisa Barla", Group induced graphical lasso allows for discovery of molecular pathways-pathways interactions,AM
+93,"Sebastian Keller, Maxim Samarin and Volker Roth", Computational EEG in Personalized Medicine: A study in Parkinson’s Disease,DIGITAL
+94,"Matthew Willetts, Aiden Doherty, Chris Holmes and Stephen Roberts", Semi-unsupervised Learning of Human Activity using Deep Generative Models,DIGITAL
+97,"Andrew Miller, Sendhil Mullainathan, Ziad Obermeyer, John Cunningham and David Blei", A Probabilistic Model of Cardiac Physiology and Electrocardiograms,PM
+98,"Rasheed El-Bouri, David Clifton and Tingting Zhu", Curriculum Learning for Training Neural Networks on Medical Data,PM
+99,"Aaron Babier, Rafid Mahmood, Andrea McNiven, Adam Diamant and Timothy Chan", Automated Radiation Therapy Treatment Planning using 3-D Generative Adversarial Networks,PM
+102,"Geoffroy Dubourg-Felonneau, Fergal Cotter, Timothy Cannings, Hannah Thompson, Nirmesh Patel, John W Cassidy, Belle Taylor and Harry W Clifford", A Framework for Implementing Machine Learning on Omics Data,AM
+103,"Luke Harries, Suyi Zhang, John Shawe-Taylor, Jonathan Sinai, Nirmesh Patel, John W Cassidy, Belle Taylor and Harry W Clifford", Interlacing Personal and Reference Genomes for Machine Learning Disease-Variant Detection,DIGITAL
+104,"Yonghao Jin, Fei Li and Hong Yu", HYPE: A High Performing NLP System for Automatically Detecting Hypoglycemia Events from Electronic Health Record Notes,DIGITAL
+105,"Vishwali Mhasawade, Nabeel Abdur Rehman and Rumi Chunara", Population-aware Hierarchical Bayesian Domain Adaptation,AM
+106,Arijit Patra, Structured RNNs and spatio-temporal graphs for motion analysis in echocardiography videos,DIGITAL
+107,"Dimitris Bertsimas, Agni Orfanoudaki and Colin Pawlowski", Imputation of Clinical Covariates in Time Series,PM
+108,Anthony Bonifonte and Turgay Ayer, An Analytics Approach to Randomized Controlled Trial Design for Hypertension Management,AM
+110,Di Jin and Peter Szolovits, Advancing PICO Element Detection in Medical Text via Deep Neural Networks,PM
+111,Satya Narayan Shukla and Benjamin Marlin, Modeling Irregularly Sampled Clinical Time Series,AM
+112,"Dimitris Bertsimas, Agni Orfanoudaki and Holly Wiberg", Interpretable Clustering via Optimal Trees,DIGITAL
+113,"Weiyu Huang, Yunlong Wang, Li Zhou, Emily Zhao, Yilian Yuan and Alejandro Ribero", Modeling Treatment Delays for Patients Using Feature Label Pairs in a Time Series,DIGITAL
+114,"Abhay Koushik, Judith Amores Fernandez and Pattie Maes", Real-Time Sleep Staging using Deep Learning on a Smartphone for a Wearable EEG,DIGITAL
+117,Elena Tutubalina and Zulfat Miftakhutdinov, Medical Concept Normalization in Social Media Posts with Recurrent Neural Networks,DIGITAL
+121,"Beau Norgeot, Dmytro Lituiev, Benjamin Glicksberg and Atul Butte", Time Aggregation and Model Interpretation for Deep Multivariate Longitudinal Patient Outcome Forecasting Systems in Chronic Ambulatory Care,PM
+122,Nikhil Galagali and Minnan Xu-Wilson, Patient Subtyping with Disease Progression and Irregular Observation Trajectories,DIGITAL
+124,"Wolfgang Fruehwirt, Adam Cobb, Stephen Roberts and Georg Dorffner", Bayesian deep neural networks for low-cost neurophysiological markers of Alzheimer’s disease severity,DIGITAL
+128,"Vincent Fortuin, Matthias Hüser, Francesco Locatello, Heiko Strathmann and Gunnar Rätsch", Deep Self-Organization: Interpretable Discrete Representation Learning on Medical Time Series,AM
+129,"Stefan Konigorski, Shahryar Khorasani and Christoph Lippert", Integrating omics and MRI data with kernel-based tests and CNNs to identify rare genetic markers for Alzheimer's disease,DIGITAL
+130,Arijit Patra, Task incremental learning of Chest X-ray data on compact architectures,DIGITAL
+131,"Daniel Neil, Joss Briody, Alix Lacoste, Aaron Sim, Paidi Creed and Amir Saffariazar", Interpretable Graph Convolutional Neural Networks for Inference on Noisy Knowledge Graphs,AM
+132,Alena Harley, Deep Discriminative Fine-Tuning for Cancer Type Classification,PM
+133,"Alexander New, Sabbir Rashid, John Erickson, Deborah McGuinness and Kristin Bennett", Semantically-aware population health risk analyses,DIGITAL
+134,"Xiaodan Hu, Audrey G,  Chung, Paul Fieguth and Alexander Wong", ProstateGAN: Mitigating Data Bias via Prostate Diffusion Imaging Synthesis with Generative Adversarial Networks,PM
+135,Waheeda Saib and Tapiwa Chiwewe, Hierarchical Deep Learning Classification of Unstructured Pathology Reports to Automate ICD-O Morphology Grading,DIGITAL
+136,"Guillaume Ausset, Stéphan Clémençon and François Portier", Machine Learning for Survival Analysis: Empirical Risk Minimization for Censored Distribution-Free Regression with Applications,AM
+138,"Wenyuan Li, Yunlong Wang, Yong Cai, Corey Arnold, Emily Zhao and Yilian Yuan", Semi-supervised Rare Disease Detection Using Generative Adversarial Network,AM
+139,"Pouria Mashouri, Andrea Iaboni and Babak Taati", Examining the measurement of quality in healthcare using artificial intelligence methods: a study of quality in long-term care,DIGITAL
+141,"Bhanu Pratap Singh Rawat, Fei Li and Hong Yu", Inferring Causality by Answering Naranjo Questionnaire using Electronic Health Records,AM
+143,"Chun-Hao Chang, Mingjie Mai and Anna Goldenberg", Dynamic Measurement Scheduling for Adverse Event Forecasting using Deep RL,AM
+144,"Yusuf Roohani, Noor Sajid, Pranava Madhyastha, Thomas Hope and Cathy Price", Predicting Language Recovery after Stroke with Convolutional Networks on Stitched MRI,PM
+145,"Aman Verma, Guido Powell, Yu Luo, David Stephens and David Buckeridge", Modeling disease progression in longitudinal EMR data using continuous-time hidden Markov models,DIGITAL
+147,"Aparna Balagopalan, Jekaterina Novikova, Frank Rudzicz and Marzyeh Ghassemi", The Effect of Heterogeneous Data for Alzheimer's Disease Detection from Speech,PM
+148,"Stefan Stark, Stephanie L Hyland, Julia Vogt and Gunnar Rätsch", Unsupervised Phenotype Identification from Clinical Notes for Association Studies in Cancer,DIGITAL
+153,"Yordan Raykov, Luc Evers, Reham Badawy, Marjan Faber, Bastiaan Bloem and Max Little", Probabilistic modelling of gait for remote passive monitoring applications,DIGITAL
+154,"Edward Chou, Matthew Tan, Cherry Zou, Michelle Guo, Albert Haque, Arnold Milstein and Li Fei-Fei", Privacy-Preserving Action Recognition for Smart Hospitals using Low-Resolution Depth Images,AM
+155,"Sven Giesselbach, Katrin Ullrich, Michael Kamp, Daniel Paurat and Thomas Gärtner", Corresponding Projections for Orphan Screening,PM
+156,Nathan Kallus and Angela Zhou, Confounding-Robust Policy Improvement,DIGITAL
+157,Adrià Casamitjana and Veronica Vilaplana, Partial Least Squares Regression in Alzheimer's disease: finding latent shared structures between biomarkers and imaging features,DIGITAL
+158,"Marek Rei, Josh Oppenheimer and Marek Sirendi", Advance Prediction of Ventricular Tachyarrhythmias using Patient Metadata and Multi-Task Networks,DIGITAL
+161,Mengqi Jin, Improving Hospital Mortality Prediction with Medical Named Entities and Multimodal Learning,DIGITAL
+163,"Liyue Shen, Edward Lee, Katie Shpanskaya and Kristen Yeom", Deep Learning with Attention to Predict Gestational Age of the Fetal Brain,PM
+166,"Brett Marinelli, Martin Kang, Michael Martini, John Zech, Joseph Titano, Samuel Cho, Anthony Costa and Eric Oermann", Active Transfer Learning and Natural Language Processing For Deep Learning Liver Volumetry Using Surrogate Metrics,AM
+167,"Charles Onu, Gautam Bhattacharya and Doina Precup", Boosting pathology detection in infants by deep transfer learning from adult speech,DIGITAL
+169,"Kathleen Lewis, Guha Balakrishnan, John Guttag and Adrian Dalca", Registration of Sparse Clinical Images,AM
+171,"Xinrui Lyu, Matthias Hüser, Stephanie Hyland, George Zerveas and Gunnar Rätsch", Improving Clinical Predictions through Unsupervised Time Series Representation Learning,AM
+172,Shiyu Liu and Mehul Motani, Feature Selection Based on Unique Relevant Information for Health Data,AM
+174,"Azin Asgarian, Parinaz Sobhani, Ji Chao Zhang, Madalin Mihailescu, Ahmed Bilal Ashraf and Babak Taati", A Hybrid Instance-based Transfer Learning Method,AM
+176,"Divya Shanmugam, Davis Blalock and John Guttag", Multiple Instance Learning for ECG Risk Stratification,AM
+178,"Siddharth Biswal, Michael Brandon Westover and Jimeng Sun", Predicting Electroencephalogram Impressions using Deep Neural Networks,DIGITAL
+183,"Xinyu Li, Michael R,  Pinsky, Gilles Clermont and Artur Dubrawski", Leveraging Routine Pre-Operative Blood Draws to Predict Hemorrhagic Shock During Surgery,PM
+184,"Maithra Raghu, Jon Kleinberg and Sendhil Mullainathan", Triage and Doctor Effort in Medical Machine Learning Prediction,AM
+185,"Angeline Yasodhara, Mamatha Bhat and Anna Goldenberg", Prediction of New Onset Diabetes after Liver Transplant,DIGITAL
+186,"Jonathan Warrell, Hussein Mohsen and Mark Gerstein", Rank Projection Trees for Multilevel Neural Network Interpretation,PM
+187,"Maithra Raghu, Katy Blumer, Rory Sayres, Ziad Obermeyer, Sendhil Mullainathan and Jon Kleinberg", Direct Uncertainty Prediction for Medical Second Opinions,DIGITAL
+188,Andrew Miller, Measuring the Stability of EHR- and EKG-based Predictive Models,AM
+189,"Bret Nestor, Matthew McDermott, Geeticka Chauhan, Tristan Naumann, Michael Hughes, Anna Goldenberg and Marzyeh Ghassemi", Rethinking clinical prediction: Why machine learning must consider year of care and feature aggregation,DIGITAL
+190,"Emma Pierson, Pang Wei Koh, Tatsunori Hashimoto, Daphne Koller, Jure Leskovec, Nick Eriksson and Percy Liang", Inferring Multidimensional Rates of Aging from Cross-Sectional Data,AM
+191,"Mijung Kim, Ho-Min Park, Jasper Zuallaert, Olivier Janssens, Sofie Van Hoecke and Wesley De Neve", Web Applicable Computer-aided Diagnosis of Glaucoma Using Deep Learning,DIGITAL
+192,"Rumeng Li, Xun Wang and Hong Yu", A New NMT Model for Translating Clinical Texts from English to Spanish,DIGITAL
+193,"Elias Chaibub Neto, Abhishek Pratap, Thanneer Perumal, Meghasyam Tummalacherla, Brian Bot, Lara Mangravite and Larsson Omberg", Using permutations to assess confounding in machine learning applications for digital health,PM
+196,"James Mullenbach, Ioakeim Perros, Xiaoqian Jiang and Jimeng Sun", Cross-Modal Medical Embedding Alignment Without Human Annotations,DIGITAL
+197,"Ligin Solamen, Yipeng Shi and Justice Amoh", Dual Objective Approach Using A Convolutional Neural Network for Magnetic Resonance Elastography,DIGITAL
+198,"Rahul Ladhania, Amelia Haviland, Neeraj Sood and Ateev Mehrotra", A Sequence of Two Studies to Learn & Test Heterogeneous Treatment Sub-groups: Effects of Cost Exposure on Use of Outpatient Care,DIGITAL
+199,"Jose Javier Gonzalez Ortiz, John Guttag, Robert E,  Hillman, Daryush Mehta, Jarrad Van Stan and Marzyeh Ghassemi", Learning from Few Subjects in the Presence of Large Amounts of Ambulatory Data,AM
+200,"Yi-Te Hsu, Zining Zhu, Chi-Te Wang, Shih-Hau Fang, Frank Rudzicz and Yu Tsao", Robustness against the channel effect in pathological voice detection,PM
+201,"Jen Gong, Abigail Jacobs, Toby Stuart and Mathijs de Vaan", Discovering heterogeneous subpopulations for fine-grained analysis of opioid use and opioid use disorders,DIGITAL
+202,"Brett Beaulieu-Jones, Steven Wu, William Yuan, Samuel Finlayson and Isaac Kohane", Privacy-Preserving Distributed Deep Learning for Clinical Data,DIGITAL
+203,"Hamish Tomlinson, Romain Studer, Poojitha Ojamies, Joanna Holbrook and Paidi Creed", A Comparison of Methods for Progression Endotype Detection in Amyotrophic Lateral Sclerosis,DIGITAL
+204,"Hyunkwang Lee, Myeongchan Kim and Synho Do", Practical Window Setting Optimization for Medical Image Deep Learning,DIGITAL
+206,"Vipul Satone, Rachneet Kaur, Faraz Faghri and Roy Campbell", Predicting progressions and clinical subtypes of Alzheimer’s disease using machine learning,DIGITAL
+207,"Ahmed Ashraf, Shehroz Khan, Nikhil Bhagwat, Mallar Chakravarty and Babak Taati", Learning to Unlearn: Building Immunity to Dataset Bias in Medical Imaging Studies,PM
+209,"John Hughes, Taylor Sittler, Anthony Joseph, Jeffrey Olgin, Joseph Gonzalez and Geoffrey Tison", Using Multitask Learning to Improve 12-Lead Electrocardiogram Classification,DIGITAL
+210,Luna Zhang," Effective, Fast, and Memory-Efficient Compressed Multi-function Convolutional Neural Networks for More Accurate Medical Image Classification",AM
+211,"Kabir Manghnani, Adam Drake, Nathan Wan and Imran Haque", METCC: METric learning for Confounder Control Making distance matter in high dimensional biological analysis,DIGITAL
+212,"Denny Wu, Hirofumi Kobayashi, Charles Ding, Cheng Lei, Keisuke Goda and Marzyeh Ghassemi", Modeling the Biological Pathology Continuum with HSIC-regularized Wasserstein Auto-encoders,PM
+213,"Laëtitia Shao, Zaid Nabulsi, Ruchir Rastogi, Bingbin Liu, Francesca Salipur, Serena Yeung, N,  Lance Downing, William Beninati, Arnold Milstein and Li Fei-Fei", Descriptive Analysis of ICU Patient Mobilization from Depth Videos,AM
+214,"Sarah Tan, Rich Caruana, Giles Hooker, Paul Koch and Albert Gordo", Learning Global Additive Explanations for Neural Nets Using Model Distillation,AM
+215,"Tzu-Ming Harry Hsu, Wei-Hung Weng, Willie Boag, Matthew McDermott and Peter Szolovits", Unsupervised Multimodal Representation Learning across Medical Images and Reports,PM
+216,"Fabian Falck, Michael Pinsky and Artur Dubrawski", Deep Sequence Modeling for Hemorrhage Diagnosis,PM
+218,"Adrian Dalca, Guha Balakrishnan, John Guttag and Mert Sabuncu", Atlas Construction and Improved Registration of Medical Images with CNN Frameworks,DIGITAL
+219,"Adrian Dalca, John Guttag and Mert Sabuncu", Unsupervised Medical Image Imputation via Variational Inference of Deep Subspaces,PM
+220,Nelson Johansen and Gerald Quon, Unsupervised Deep Neural Networks Harmonize Multiple Data Sources and Explain Inherent Biases,PM
+221,"Farah Shamout, Tingting Zhu, Peter Watkinson and David Clifton", Uncertainty-Aware LSTM with Attention Early Warning System,DIGITAL
+222,"Ramesh Manyam, Yanqing Zhang, William Keeling, Jose Binongo, Michael Kayatta and Seth Carter", Deep Learning approach for predicting 30 day readmissions after Coronary Artery Bypass Graft Surgery,DIGITAL
+223,"Fahad Shamshad, Awais Muhammad, Muhammad Asim, Zain Lodhi and Muhammad Umair", Leveraging Deep Stein's based Risk Estimator for Unsupervised X-ray Denoising,DIGITAL
+224,"Samuel Finlayson, Hyunkwang Lee, Isaac Kohane and Luke Oakden-Rayner", Towards generative adversarial networks as a new paradigm for radiology education,AM
+226,Victor Rodriguez and Adler Perotte, Phenotype inference with Semi-Supervised Mixed Membership Models,DIGITAL
+227,"Bruno Lecouat, Ken Chang, Chuan-Sheng Foo, Balagopal Unnikrishnan, James Brown, Houssam Zenati, Andrew Beers, Vijay Chandrasekhar, Pavitra Krishnaswamy and Jayashree Kalpathy-Cramer", Semi-Supervised Deep Learning for Abnormality Classification in Retinal Images,AM
+230,"Uma M,  Girkar, Ryo Uchimido, Li-Wei H,  Lehman, Peter Szolovits, Leo A  Celi and Wei-Hung Weng, ", Predicting Blood Pressure Response to Fluid Bolus Therapy Using Attention-Based Neural Networks,DIGITAL
+232,"Xiangan Liu, Keyang Xu, Pengtao Xie and Eric Xing", Unsupervised Pseudo-Labeling for Extractive Summarization on Electronic Health Records,PM
+233,"Alistair Johnson, Tom Pollard and Tristan Naumann", Generalizability of predictive models for intensive care unit patients,DIGITAL
+234,Jyoti Islam and Yanqing Zhang, Towards Robust Lung Segmentation in Chest Radiographs with Deep Learning,DIGITAL
+235,"Sudharshan Chandra Babu, Shishira R Maiya and Sivasankar Elango", Relation Networks for Optic Disc and Fovea Localization in Retinal Images,DIGITAL
+236,"Francesco Paolo Casale, Nicolo Fusi, Jennifer Listgarten and Adrian Dalca", Generative models for clinical imaging genetic analysis,AM
+238,"Haraldur Hallgrimsson, Filip Jankovic, Tim Althoff and Luca Foschini", Learning Individualized Cardiovascular Responses from Large-scale Wearable Sensors Data,DIGITAL

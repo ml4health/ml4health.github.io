@@ -3,10 +3,22 @@ import pandas as pd
 csv_df = pd.read_csv("poster_assignments.csv")
 csv_df['PDFURL'] = ''
 
-camready_df = pd.read_csv("camera_ready.csv")
+# camready_df = pd.read_csv("camera_ready.csv")
 
 item_template_str = \
 """\n
+<!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
+<div class="col-xs-12 col-md-6"> 
+<div class="thumbnail">
+    <div class="caption">
+        <h5>{{TITLE}}</h5>
+        <p>{{AUTHORS}}</p>
+    </div>
+</div>
+</div>
+\n"""
+
+"""
 <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
 <div class="col-xs-12 col-md-6"> 
 <div class="thumbnail">
@@ -16,9 +28,9 @@ item_template_str = \
     </div>
 </div>
 </div>
-\n"""
+"""
 
-out_md_str = "Title: Posters \nDate: 2017-11-15\n"
+out_md_str = "Title: Papers \nDate: 2017-11-23\n"
 out_md_str += (
 """\n
 <!-- THIS PAGE SRC IS AUTO GENERATED. At terminal: $ make accepted_posters -->
@@ -27,18 +39,21 @@ out_md_str += (
 #n_per_row = 100
 out_md_str += \
 """
-We have accepted 97 short papers for poster presentation at the workshop. 
+We have accepted 81 short papers for poster presentation at the workshop. This year we have also established a new category and have selected 86 short papers for digital acceptances. 
 
 These are listed below, with links to the paper on arXiv if provided by the authors.
 
-These will appear at two possible poster sessions on Fri. Dec. 8 in Room 104A of Long Beach Convention Center:
+The poster acceptances will appear at two possible poster sessions on Sat. Dec. 8 in Palais des Congres de Montreal.
 <ul>
-<li><a href="#session1"> Poster Session 1 (10:20-10:50) </a></li>
-<li><a href="#session2"> Poster Session 2 (15:20-15:50) </a></li>
+<li><a href="#session1"> Poster Session 1 (11:30-12:30) </a></li>
+<li><a href="#session2"> Poster Session 2 (13:20-14:30) </a></li>
 </ul>
 
+<a href="#digital">Digital acceptances</a> will be featured on the website and during breaks at the workshop.
+
 <b>Presenters</b>: 
-Remember to follow the <a href="poster-instructions.html">posted poster instructions</a>: **Portrait format. Max size: 20 inches wide and 30 inches tall.**
+Remember to follow the <a href="poster-and-slide-instructions.html">posted poster instructions</a>: **Portrait format. Max size: 24 inches wide and 32 inches tall.** Digital acceptance slides can be <a href="https://goo.gl/forms/aFd2DKqHSJuDMuoh2">submitted here</a>.
+
 """
 
 open_div_str = \
@@ -49,9 +64,11 @@ close_div_str = "</div>"
 
 for sessionid, session_title_html in [
         ('AM',
-            '<h2><a name="session1">Poster Session 1 (10:20-10:50)</a></h2>'),
+            '<h2><a name="session1">Poster Session 1 (11:30-12:30)</a></h2>'),
         ('PM',
-            '<h2><a name="session2">Poster Session 2 (15:20-15:50)</a></h2>')]:
+            '<h2><a name="session2">Poster Session 2 (13:30-14:30)</a></h2>'),
+        ('DIGITAL',
+            '<h2><a name="digital">Digital Acceptances</a></h2>')]:
     out_md_str += session_title_html
     out_md_str += open_div_str
     for item_id, row_obj in enumerate(csv_df.itertuples()):
@@ -60,29 +77,29 @@ for sessionid, session_title_html in [
         if row_dict['SESSION'] != sessionid:
             continue
 
-        q_df = camready_df.query("PAPERID == %d" % row_dict['PAPERID'])
-        if q_df.shape[0] == 1:
-            print "CAM READY INFO:"
-            print "===== BEFORE"
-            print row_dict['TITLE']
-            print row_dict['AUTHORS']
+        # q_df = camready_df.query("PAPERID == %d" % row_dict['PAPERID'])
+        # if q_df.shape[0] == 1:
+        #     print "CAM READY INFO:"
+        #     print "===== BEFORE"
+        #     print row_dict['TITLE']
+        #     print row_dict['AUTHORS']
 
-            row_dict['AUTHORS'] = q_df['AUTHORS'].values[0]
-            row_dict['TITLE'] = q_df['TITLE'].values[0]
+        #     row_dict['AUTHORS'] = q_df['AUTHORS'].values[0]
+        #     row_dict['TITLE'] = q_df['TITLE'].values[0]
 
-            url_str = q_df['PDFURL'].values[0]
-            if not url_str.count('submit'):
-                # only keep good arxiv links
-                row_dict['PDFURL'] = url_str
-            print "===== AFTER"
-            print row_dict['TITLE']
-            print row_dict['AUTHORS']
+        #     url_str = q_df['PDFURL'].values[0]
+        #     if not url_str.count('submit'):
+        #         # only keep good arxiv links
+        #         row_dict['PDFURL'] = url_str
+        #     print "===== AFTER"
+        #     print row_dict['TITLE']
+        #     print row_dict['AUTHORS']
 
         for key, val in row_dict.items():
             default_val = ""
-            if key == 'PDFURL':
-                default_val = 'javascript:void(0);'
-                print default_val, '<<<'
+            # if key == 'PDFURL':
+            #     default_val = 'javascript:void(0);'
+            #     print default_val, '<<<'
             cur_val = str(val)
             if len(cur_val) == 0 or cur_val == 'nan':
                 cur_val = default_val

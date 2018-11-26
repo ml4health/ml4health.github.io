@@ -1,16 +1,22 @@
-Title: Poster Instructions
-Date: 2017-11-20
+Title: Poster and Slide Instructions
+Date: 2018-11-20
 SkipNavBar: 1
 
-TODO UPDATE FOR 2018
+## Slide information
+
+For digital acceptances, please submit your slide using [this link](https://goo.gl/forms/aFd2DKqHSJuDMuoh2) by December 5. We will then play your slides during breaks at the workshop.
+
+You must submit one slide in PDF form. Slide should be 4:3 aspect ratio. If you submit multiple slides, we will use the most recent one.
+
+## Poster information
 
 ### Poster Sizing
 
-**Portrait format. Max size: 20 inches wide and 30 inches tall.**
+**Portrait format. Max size: 24 inches wide and 32 inches tall.**
 
-We have about 50 posters at each session, so PLEASE keep your posters within this size so everyone fits into our assigned room.
+We have about 40 posters at each session, so PLEASE keep your posters within this size so everyone fits into our assigned room.
 
-*Note that this is different than the suggested poster size for the main NIPS conference.*
+*Note that this is different than the [suggested workshop poster size](https://nips.cc/FAQ/PosterBoardSize) from the main NIPS conference.*
 
 ### Poster Session Assignments
 
@@ -36,7 +42,7 @@ Please check our <a href="posters.html">accepted posters page</a> for the assign
 * Refrain from adding too much clutter to figures. Ensure that figures are readable. 
 * Simple, interpretable figures (even if your model is complex) along with well-designed metrics, facilitates the most concrete discussion.
 
-## Tips for System Diagrams
+### Tips for System Diagrams
 
 * Show the full flow of data inputs and outputs in the system.
 * It is helpful to show modular figures when applicable..
@@ -49,4 +55,3 @@ Please check our <a href="posters.html">accepted posters page</a> for the assign
 ### Human subjects
 
 * When working with human subjects, please include acknowledgements, IRBs, any required consent statements, disclosures, and disclose all relevant data collaborations.
-

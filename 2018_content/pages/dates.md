@@ -6,19 +6,19 @@ Date: 2018-06-01
     <tbody>
         <tr>
             <td>
-                2018/10/20
+                <s>2018/10/20</s>
             </td>
             <td>
-                NIPS early registration deadline
+                <s>NIPS early registration deadline</s>
             </td>
         </tr>
 
         <tr>
             <td>
-                2018/10/29
+                <s>2018/10/29</s>
             </td>
             <td>
-                Workshop submission deadline at 11:59pm
+                <s>Workshop submission deadline at 11:59pm</s>
             </td>
         </tr>
 
@@ -27,7 +27,7 @@ Date: 2018-06-01
                 2018/11/12
             </td>
             <td>
-                Acceptance notification (Poster or Spotlight+Poster)
+                <s>Acceptance notification (Poster or Spotlight+Poster)</s>
             </td>
         </tr>
 
@@ -36,7 +36,7 @@ Date: 2018-06-01
                 2018/11/15
             </td>
             <td>
-                NIPS deadline to cancel registration (with full refund)
+                <s>NIPS deadline to cancel registration (with full refund)</s>
 
             </td>
         </tr>

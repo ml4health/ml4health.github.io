@@ -36,7 +36,7 @@ Date: 2018-08-01
         </tr>
         <tr>
             <td>11:30 - 12:30</td>
-            <td><b><a href="https://ml4health.github.io/2017/pages/posters.html#session1">Poster Session 1</a><b>
+            <td><b><a href="https://ml4health.github.io/2018/pages/posters.html#session1">Poster Session 1</a><b>
             </td>
         </tr>
         <tr>
@@ -46,7 +46,7 @@ Date: 2018-08-01
         </tr>
         <tr>
             <td>13:30 - 14:30</td>
-            <td><b><a href="https://ml4health.github.io/2017/pages/posters.html#session2">Poster Session 2</a><b>
+            <td><b><a href="https://ml4health.github.io/2018/pages/posters.html#session2">Poster Session 2</a><b>
             </td>
         </tr>
         <tr>

@@ -12,9 +12,9 @@ You must submit one slide in PDF form. Slide should be 4:3 aspect ratio. If you 
 
 ### Poster Sizing
 
-**Portrait format. Max size: 24 inches wide and 32 inches tall.**
+**Portrait format. Recommended size: 24 inches wide and 32 inches tall.**
 
-We have about 40 posters at each session, so PLEASE keep your posters within this size so everyone fits into our assigned room.
+We have about 40 posters at each session, so PLEASE keep your posters within this size so everyone fits into our assigned room. The poster height may be taller (within reason), but please keep your poster widths to 24 inches.
 
 *Note that this is different than the [suggested workshop poster size](https://nips.cc/FAQ/PosterBoardSize) from the main NIPS conference.*
 

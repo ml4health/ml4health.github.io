@@ -18,7 +18,7 @@ The poster acceptances will appear at two possible poster sessions on Sat. Dec. 
 <a href="#digital">Digital acceptances</a> will be featured on the website and during breaks at the workshop.
 
 <b>Presenters</b>: 
-Remember to follow the <a href="poster-and-slide-instructions.html">posted poster instructions</a>: **Portrait format. Max size: 24 inches wide and 32 inches tall.** Digital acceptance slides can be <a href="https://goo.gl/forms/aFd2DKqHSJuDMuoh2">submitted here</a>.
+Remember to follow the <a href="poster-and-slide-instructions.html">poster and slide instructions</a>: **Portrait format. Max size: 24 inches wide and 32 inches tall.** Digital acceptance slides can be <a href="https://goo.gl/forms/aFd2DKqHSJuDMuoh2">submitted here</a>.
 
 <h2><a name="session1">Poster Session 1 (11:30-12:30)</a></h2>
 <div class="row display-flex" style="display:flex; display:-webkit-flex;  flex-wrap:wrap; margin-top:25px;">

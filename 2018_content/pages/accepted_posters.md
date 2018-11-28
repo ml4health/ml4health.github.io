@@ -460,6 +460,18 @@ Remember to follow the <a href="poster-and-slide-instructions.html">poster and s
 <div class="col-xs-12 col-md-6"> 
 <div class="thumbnail">
     <div class="caption">
+        <h5> Unsupervised Medical Image Imputation via Variational Inference of Deep Subspaces</h5>
+        <p>Adrian Dalca, John Guttag and Mert Sabuncu</p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
+<div class="col-xs-12 col-md-6"> 
+<div class="thumbnail">
+    <div class="caption">
         <h5> Towards generative adversarial networks as a new paradigm for radiology education</h5>
         <p>Samuel Finlayson, Hyunkwang Lee, Isaac Kohane and Luke Oakden-Rayner</p>
     </div>
@@ -956,18 +968,6 @@ Remember to follow the <a href="poster-and-slide-instructions.html">poster and s
     <div class="caption">
         <h5> Deep Sequence Modeling for Hemorrhage Diagnosis</h5>
         <p>Fabian Falck, Michael Pinsky and Artur Dubrawski</p>
-    </div>
-</div>
-</div>
-
-
-
-<!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
-<div class="col-xs-12 col-md-6"> 
-<div class="thumbnail">
-    <div class="caption">
-        <h5> Unsupervised Medical Image Imputation via Variational Inference of Deep Subspaces</h5>
-        <p>Adrian Dalca, John Guttag and Mert Sabuncu</p>
     </div>
 </div>
 </div>

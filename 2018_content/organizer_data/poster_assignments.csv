@@ -151,7 +151,7 @@ PAPERID,AUTHORS,TITLE,SESSION
 215,"Tzu-Ming Harry Hsu, Wei-Hung Weng, Willie Boag, Matthew McDermott and Peter Szolovits", Unsupervised Multimodal Representation Learning across Medical Images and Reports,PM
 216,"Fabian Falck, Michael Pinsky and Artur Dubrawski", Deep Sequence Modeling for Hemorrhage Diagnosis,PM
 218,"Adrian Dalca, Guha Balakrishnan, John Guttag and Mert Sabuncu", Atlas Construction and Improved Registration of Medical Images with CNN Frameworks,DIGITAL
-219,"Adrian Dalca, John Guttag and Mert Sabuncu", Unsupervised Medical Image Imputation via Variational Inference of Deep Subspaces,PM
+219,"Adrian Dalca, John Guttag and Mert Sabuncu", Unsupervised Medical Image Imputation via Variational Inference of Deep Subspaces,AM
 220,Nelson Johansen and Gerald Quon, Unsupervised Deep Neural Networks Harmonize Multiple Data Sources and Explain Inherent Biases,PM
 221,"Farah Shamout, Tingting Zhu, Peter Watkinson and David Clifton", Uncertainty-Aware LSTM with Attention Early Warning System,DIGITAL
 222,"Ramesh Manyam, Yanqing Zhang, William Keeling, Jose Binongo, Michael Kayatta and Seth Carter", Deep Learning approach for predicting 30 day readmissions after Coronary Artery Bypass Graft Surgery,DIGITAL

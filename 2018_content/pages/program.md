@@ -3,6 +3,8 @@ Date: 2018-08-01
 <!-- 35 minutes for keynotes -->
 <!-- 25 minutes for non-keynotes -->
 
+The workshop will be held in Room 517 D. 
+
 <div class="table-responsive">
   <table class="table table-bordered">
     <tbody>

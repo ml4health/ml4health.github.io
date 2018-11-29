@@ -71,8 +71,8 @@ PAPERID,AUTHORS,TITLE,SESSION
 97,"Andrew Miller, Sendhil Mullainathan, Ziad Obermeyer, John Cunningham and David Blei", A Probabilistic Model of Cardiac Physiology and Electrocardiograms,PM
 98,"Rasheed El-Bouri, David Clifton and Tingting Zhu", Curriculum Learning for Training Neural Networks on Medical Data,PM
 99,"Aaron Babier, Rafid Mahmood, Andrea McNiven, Adam Diamant and Timothy Chan", Automated Radiation Therapy Treatment Planning using 3-D Generative Adversarial Networks,PM
-102,"Geoffroy Dubourg-Felonneau, Fergal Cotter, Timothy Cannings, Hannah Thompson, Nirmesh Patel, John W Cassidy, Belle Taylor and Harry W Clifford", A Framework for Implementing Machine Learning on Omics Data,AM
-103,"Luke Harries, Suyi Zhang, John Shawe-Taylor, Jonathan Sinai, Nirmesh Patel, John W Cassidy, Belle Taylor and Harry W Clifford", Interlacing Personal and Reference Genomes for Machine Learning Disease-Variant Detection,DIGITAL
+102,"Geoffroy Dubourg-Felonneau, Timothy Cannings, Fergal Cotter, Hannah Thompson, Nirmesh Patel, John W Cassidy and Harry W Clifford", A Framework for Implementing Machine Learning on Omics Data,AM
+103,"Luke R Harries, Suyi Zhang, Geoffroy Dubourg-Felonneau, James H R Farmery, Jonathan Sinai, Belle Taylor, Nirmesh Patel, John W Cassidy, John Shawe-Taylor and Harry W Clifford", Interlacing Personal and Reference Genomes for Machine Learning Disease-Variant Detection,DIGITAL
 104,"Yonghao Jin, Fei Li and Hong Yu", HYPE: A High Performing NLP System for Automatically Detecting Hypoglycemia Events from Electronic Health Record Notes,DIGITAL
 105,"Vishwali Mhasawade, Nabeel Abdur Rehman and Rumi Chunara", Population-aware Hierarchical Bayesian Domain Adaptation,AM
 106,Arijit Patra, Structured RNNs and spatio-temporal graphs for motion analysis in echocardiography videos,DIGITAL

@@ -173,7 +173,7 @@ Remember to follow the <a href="poster-and-slide-instructions.html">poster and s
 <div class="thumbnail">
     <div class="caption">
         <h5> A Framework for Implementing Machine Learning on Omics Data</h5>
-        <p>Geoffroy Dubourg-Felonneau, Fergal Cotter, Timothy Cannings, Hannah Thompson, Nirmesh Patel, John W Cassidy, Belle Taylor and Harry W Clifford</p>
+        <p>Geoffroy Dubourg-Felonneau, Timothy Cannings, Fergal Cotter, Hannah Thompson, Nirmesh Patel, John W Cassidy and Harry W Clifford</p>
     </div>
 </div>
 </div>
@@ -1461,7 +1461,7 @@ Remember to follow the <a href="poster-and-slide-instructions.html">poster and s
 <div class="thumbnail">
     <div class="caption">
         <h5> Interlacing Personal and Reference Genomes for Machine Learning Disease-Variant Detection</h5>
-        <p>Luke Harries, Suyi Zhang, John Shawe-Taylor, Jonathan Sinai, Nirmesh Patel, John W Cassidy, Belle Taylor and Harry W Clifford</p>
+        <p>Luke R Harries, Suyi Zhang, Geoffroy Dubourg-Felonneau, James H R Farmery, Jonathan Sinai, Belle Taylor, Nirmesh Patel, John W Cassidy, John Shawe-Taylor and Harry W Clifford</p>
     </div>
 </div>
 </div>

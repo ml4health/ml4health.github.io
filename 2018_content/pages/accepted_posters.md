@@ -353,7 +353,7 @@ Remember to follow the <a href="poster-and-slide-instructions.html">poster and s
 <div class="thumbnail">
     <div class="caption">
         <h5> A Hybrid Instance-based Transfer Learning Method</h5>
-        <p>Azin Asgarian, Parinaz Sobhani, Ji Chao Zhang, Madalin Mihailescu, Ahmed Bilal Ashraf and Babak Taati</p>
+        <p>Azin Asgarian, Parinaz Sobhani, Ji Chao Zhang, Madalin Mihailescu, Ariel Sibilia, Ahmed Bilal Ashref and Babak Taati</p>
     </div>
 </div>
 </div>

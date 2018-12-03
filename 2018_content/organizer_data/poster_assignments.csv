@@ -140,7 +140,7 @@ PAPERID,AUTHORS,TITLE,SESSION
 202,"Brett Beaulieu-Jones, Steven Wu, William Yuan, Samuel Finlayson and Isaac Kohane", Privacy-Preserving Distributed Deep Learning for Clinical Data,DIGITAL
 203,"Hamish Tomlinson, Romain Studer, Poojitha Ojamies, Joanna Holbrook and Paidi Creed", A Comparison of Methods for Progression Endotype Detection in Amyotrophic Lateral Sclerosis,DIGITAL
 204,"Hyunkwang Lee, Myeongchan Kim and Synho Do", Practical Window Setting Optimization for Medical Image Deep Learning,DIGITAL
-206,"Vipul Satone, Rachneet Kaur, Faraz Faghri and Roy Campbell", Predicting progressions and clinical subtypes of Alzheimer’s disease using machine learning,DIGITAL
+206,"Vipul Satone, Rachneet Kaur, Faraz Faghri, Mike A Nalls, Andrew B Singleton, Roy H Campbell", Learning the progression and clinical subtypes of Alzheimer’s disease from longitudinal clinical data,DIGITAL
 207,"Ahmed Ashraf, Shehroz Khan, Nikhil Bhagwat, Mallar Chakravarty and Babak Taati", Learning to Unlearn: Building Immunity to Dataset Bias in Medical Imaging Studies,PM
 209,"John Hughes, Taylor Sittler, Anthony Joseph, Jeffrey Olgin, Joseph Gonzalez and Geoffrey Tison", Using Multitask Learning to Improve 12-Lead Electrocardiogram Classification,DIGITAL
 210,Luna Zhang," Effective, Fast, and Memory-Efficient Compressed Multi-function Convolutional Neural Networks for More Accurate Medical Image Classification",AM

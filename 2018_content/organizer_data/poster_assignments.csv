@@ -68,7 +68,8 @@ PAPERID,AUTHORS,TITLE,SESSION
 92,"Veronica Tozzo, Federico Tomasi, Margherita Squillario and Annalisa Barla", Group induced graphical lasso allows for discovery of molecular pathways-pathways interactions,AM
 93,"Sebastian Keller, Maxim Samarin and Volker Roth", Computational EEG in Personalized Medicine: A study in Parkinson’s Disease,DIGITAL
 94,"Matthew Willetts, Aiden Doherty, Chris Holmes and Stephen Roberts", Semi-unsupervised Learning of Human Activity using Deep Generative Models,DIGITAL
-97,"Andrew Miller, Sendhil Mullainathan, Ziad Obermeyer, John Cunningham and David Blei", A Probabilistic Model of Cardiac Physiology and Electrocardiograms,PM
+97,"Andrew Miller, Ziad Obermeyer, David Blei, John Cunningham, and
+Sendhil Mullainathan", A Probabilistic Model of Cardiac Physiology and Electrocardiograms,PM
 98,"Rasheed El-Bouri, David Clifton and Tingting Zhu", Curriculum Learning for Training Neural Networks on Medical Data,PM
 99,"Aaron Babier, Rafid Mahmood, Andrea McNiven, Adam Diamant and Timothy Chan", Automated Radiation Therapy Treatment Planning using 3-D Generative Adversarial Networks,PM
 102,"Geoffroy Dubourg-Felonneau, Timothy Cannings, Fergal Cotter, Hannah Thompson, Nirmesh Patel, John W Cassidy and Harry W Clifford", A Framework for Implementing Machine Learning on Omics Data,AM
@@ -125,7 +126,7 @@ PAPERID,AUTHORS,TITLE,SESSION
 185,"Angeline Yasodhara, Mamatha Bhat and Anna Goldenberg", Prediction of New Onset Diabetes after Liver Transplant,DIGITAL
 186,"Jonathan Warrell, Hussein Mohsen and Mark Gerstein", Rank Projection Trees for Multilevel Neural Network Interpretation,PM
 187,"Maithra Raghu, Katy Blumer, Rory Sayres, Ziad Obermeyer, Sendhil Mullainathan and Jon Kleinberg", Direct Uncertainty Prediction for Medical Second Opinions,DIGITAL
-188,Andrew Miller, Measuring the Stability of EHR- and EKG-based Predictive Models,AM
+188,"Andrew Miller, Ziad Obermeyer, and Sendhil Mullainathan", Measuring the Stability of EHR- and EKG-based Predictive Models,AM
 189,"Bret Nestor, Matthew McDermott, Geeticka Chauhan, Tristan Naumann, Michael Hughes, Anna Goldenberg and Marzyeh Ghassemi", Rethinking clinical prediction: Why machine learning must consider year of care and feature aggregation,DIGITAL
 190,"Emma Pierson, Pang Wei Koh, Tatsunori Hashimoto, Daphne Koller, Jure Leskovec, Nick Eriksson and Percy Liang", Inferring Multidimensional Rates of Aging from Cross-Sectional Data,AM
 191,"Mijung Kim, Ho-Min Park, Jasper Zuallaert, Olivier Janssens, Sofie Van Hoecke and Wesley De Neve", Web Applicable Computer-aided Diagnosis of Glaucoma Using Deep Learning,DIGITAL
@@ -137,7 +138,7 @@ PAPERID,AUTHORS,TITLE,SESSION
 199,"Jose Javier Gonzalez Ortiz, John Guttag, Robert E,  Hillman, Daryush Mehta, Jarrad Van Stan and Marzyeh Ghassemi", Learning from Few Subjects in the Presence of Large Amounts of Ambulatory Data,AM
 200,"Yi-Te Hsu, Zining Zhu, Chi-Te Wang, Shih-Hau Fang, Frank Rudzicz and Yu Tsao", Robustness against the channel effect in pathological voice detection,PM
 201,"Jen Gong, Abigail Jacobs, Toby Stuart and Mathijs de Vaan", Discovering heterogeneous subpopulations for fine-grained analysis of opioid use and opioid use disorders,DIGITAL
-202,"Brett Beaulieu-Jones, Steven Wu, William Yuan, Samuel Finlayson and Isaac Kohane", Privacy-Preserving Distributed Deep Learning for Clinical Data,DIGITAL
+202,"Brett K. Beaulieu-Jones, William Yuan, Samuel G. Finlayson, Zhiwei Steven Wu", Privacy-Preserving Distributed Deep Learning for Clinical Data,DIGITAL
 203,"Hamish Tomlinson, Romain Studer, Poojitha Ojamies, Joanna Holbrook and Paidi Creed", A Comparison of Methods for Progression Endotype Detection in Amyotrophic Lateral Sclerosis,DIGITAL
 204,"Hyunkwang Lee, Myeongchan Kim and Synho Do", Practical Window Setting Optimization for Medical Image Deep Learning,DIGITAL
 206,"Vipul Satone, Rachneet Kaur, Faraz Faghri, Mike A Nalls, Andrew B Singleton, Roy H Campbell", Learning the progression and clinical subtypes of Alzheimer’s disease from longitudinal clinical data,DIGITAL

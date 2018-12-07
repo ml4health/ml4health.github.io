@@ -1,24 +1,14 @@
 import pandas as pd
+import pdb
 
 csv_df = pd.read_csv("poster_assignments.csv")
 csv_df['PDFURL'] = ''
 
-# camready_df = pd.read_csv("camera_ready.csv")
+camready_df = pd.read_csv("camera_ready.csv")
 
 item_template_str = \
-"""\n
-<!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
-<div class="col-xs-12 col-md-6"> 
-<div class="thumbnail">
-    <div class="caption">
-        <h5>{{TITLE}}</h5>
-        <p>{{AUTHORS}}</p>
-    </div>
-</div>
-</div>
-\n"""
-
 """
+\n
 <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
 <div class="col-xs-12 col-md-6"> 
 <div class="thumbnail">
@@ -77,23 +67,24 @@ for sessionid, session_title_html in [
         if row_dict['SESSION'] != sessionid:
             continue
 
-        # q_df = camready_df.query("PAPERID == %d" % row_dict['PAPERID'])
-        # if q_df.shape[0] == 1:
-        #     print "CAM READY INFO:"
-        #     print "===== BEFORE"
-        #     print row_dict['TITLE']
-        #     print row_dict['AUTHORS']
+        q_df = camready_df.query("PAPERID == %d" % row_dict['PAPERID'])
+        if q_df.shape[0] == 1:
+            # print "CAM READY INFO:"
+            # print "===== BEFORE"
+            # print row_dict['TITLE']
+            # print row_dict['AUTHORS']
 
-        #     row_dict['AUTHORS'] = q_df['AUTHORS'].values[0]
-        #     row_dict['TITLE'] = q_df['TITLE'].values[0]
+            # row_dict['AUTHORS'] = q_df['AUTHORS'].values[0]
+            # row_dict['TITLE'] = q_df['TITLE'].values[0]
 
-        #     url_str = q_df['PDFURL'].values[0]
-        #     if not url_str.count('submit'):
-        #         # only keep good arxiv links
-        #         row_dict['PDFURL'] = url_str
-        #     print "===== AFTER"
-        #     print row_dict['TITLE']
-        #     print row_dict['AUTHORS']
+
+            url_str = q_df['PDFURL'].values[0]
+            if not pd.isnull(url_str) and url_str[:4] == 'http':
+                # only keep good arxiv links
+                row_dict['PDFURL'] = url_str
+            # print "===== AFTER"
+            # print row_dict['TITLE']
+            # print row_dict['AUTHORS']
 
         for key, val in row_dict.items():
             default_val = ""

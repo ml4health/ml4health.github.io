@@ -9,11 +9,22 @@ item_template_str = \
 <div class="thumbnail">
     <div class="caption">
         <h5>{{NAME}}</h5>
-        <p>{{INSTITUTION}}</p>
     </div>
 </div>
 </div>
 \n"""
+
+"""
+<!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <h5>{{NAME}}</h5>
+        <p>{{INSTITUTION}}</p>
+    </div>
+</div>
+</div>
+"""
 
 out_md_str = "Title: Travel Awards\nDate: 2017-11-15\nSkipNavBar: 1"
 out_md_str += (
@@ -24,9 +35,9 @@ out_md_str += (
 #n_per_row = 100
 out_md_str += \
 """
-Congratulations to the authors below selected for travel awards.
+Congratulations to the participants below selected for travel awards.
 
-Thanks also to our <a href="sponsors.html">sponsors</a> for their generous support to fund these awards.
+Thanks also to our <a href="sponsors.html">sponsors</a> for the generous support to fund these awards.
 
 <div class="row display-flex" style="display:flex; display:-webkit-flex;  flex-wrap:wrap;">
 """

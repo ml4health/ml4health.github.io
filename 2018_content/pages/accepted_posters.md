@@ -1702,7 +1702,7 @@ Sendhil Mullainathan</p>
 <div class="thumbnail">
     <div class="caption">
         <h5> Improving Hospital Mortality Prediction with Medical Named Entities and Multimodal Learning</h5>
-        <p>Mengqi Jin</p>
+        <p>Mengqi Jin, Mohammad Taha Bahadori, Aaron Colak, Parminder Bhatia, Busra Celikkaya, Ram Bhakta, Selvan Senthivel, Mohammed Khalilia, Daniel Navarro, Borui Zhang, Tiberiu Doman, Arun Ravi, Matthieu Liger, Taha Kass-hout</p>
     </div>
 </div>
 </div>

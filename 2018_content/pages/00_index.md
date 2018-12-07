@@ -52,7 +52,7 @@ save_as: index.html
 <div class="alert alert-warning" role="alert">
 <p> 2017/12/07:
 <emph>
-The workshop is tomorrow (Saturday) in Room 517D! We have posted the <a href="./pages/papers.html">camera ready papers</a>, <a href="./pages/spotlights.html">spotlight awards</a>, and <a href="./pages/travel-awards.html">travel grant recipients</a>. We look forward to seeing everyone starting at 8:30am. Feel free to Tweet about the workshop using <a href="https://twitter.com/search?q=%23ml4h&src=typd">#ML4H</a> .
+The workshop is tomorrow (Saturday) in Room 517D! We have posted the <a href="./pages/papers.html">camera ready papers</a>, <a href="./pages/spotlights.html">spotlight awards</a>, and <a href="./pages/travel-awards.html">travel grant recipients</a>. We look forward to seeing everyone starting at 8:30am. Feel free to Tweet about the workshop using <a href="https://twitter.com/hashtag/ml4h">#ML4H</a> .
 </emph>
 </p>
 </div>

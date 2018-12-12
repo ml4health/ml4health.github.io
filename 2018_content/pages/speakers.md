@@ -12,6 +12,7 @@ Date: 2018-06-01
 <li><a href="#heller">Katherine Heller </a></li>
 <li><a href="#varghese">Paul Varghese</a></li>
 <li><a href="#saria">Suchi Saria </a></li>
+<li><a href="#peter">Peter Schulam</li>
 <br />
 </ul>
 
@@ -45,6 +46,10 @@ Dr. Varghese holds an Sc.B. and M.D. from Brown University, and a MMSc in biomed
 Saria’s interests span machine learning, computational statistics, and its applications to domains where one has to draw inferences from observing a complex, real-world system evolve over time. The emphasis of her research is on Bayesian and probabilistic graphical modeling approaches for addressing challenges associated with modeling and prediction in real-world temporal systems. In the last seven years, she has been particularly drawn to computational solutions for problems in health informatics.
 
 Prior to joining Johns Hopkins, she earned her PhD and Masters at Stanford in Computer Science working with Dr. Daphne Koller. She also spent a year at Harvard University collaborating with Dr. Ken Mandl and Dr. Zak Kohane as an NSF Computing Innovation Fellow. While in the valley, she also spent time as an early employee at Aster Data Systems, a big data startup acquired by Teradata. She enjoys consulting and advising data-related startups. She is an investor and an informal advisor to “Patient Ping”.
+
+### <a id="peter"></a> Peter Schulam
+
+Peter Schulam is a PhD candidate in the Computer Science Department at Johns Hopkins University where he is working with Professor Suchi Saria. His research interests lie at the intersection of machine learning, statistical inference, and healthcare with an emphasis on developing methods to support the personalized medicine initiative. Before coming to JHU, he obtained his MS from Carnegie Mellon’s School of Computer Science and his BA from Princeton University. He has been awarded a National Science Foundation Graduate Research Fellowship and the Dean's Centennial Fellowship within Johns Hopkins' Whiting School of Engineering.
 
 
 <!-- <div class="col-xs-6">

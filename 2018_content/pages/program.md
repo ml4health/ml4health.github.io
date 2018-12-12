@@ -69,7 +69,7 @@ The workshop will be held in Room 517 D.
         <tr>
             <td>16:00 - 16:30</td>
             <td>
-                Suchi Saria (Hopkins)
+                Peter Schulam (Johns Hopkins) on behalf of Suchi Saria (Johns Hopkins)
             </td>
         </tr>
         <tr>

@@ -595,7 +595,7 @@ Remember to follow the <a href="poster-and-slide-instructions.html">poster and s
 <div class="col-xs-12 col-md-6"> 
 <div class="thumbnail">
     <div class="caption">
-        <h5><a href=""> Generative Modeling and Inverse Imaging of CardiacTransmembrane Potential</a></h5>
+        <h5><a href=""> Generative Modeling and Inverse Imaging of Cardiac Transmembrane Potential</a></h5>
         <p>Sandesh Ghimire, Jwala Dhamala, Prashnna Kumar Gyawali and Linwei Wang</p>
     </div>
 </div>

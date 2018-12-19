@@ -317,7 +317,7 @@ Remember to follow the <a href="poster-and-slide-instructions.html">poster and s
 <div class="col-xs-12 col-md-6"> 
 <div class="thumbnail">
     <div class="caption">
-        <h5><a href=""> Registration of Sparse Clinical Images</a></h5>
+        <h5><a href="http://arxiv.org/abs/1812.06932"> Registration of Sparse Clinical Images</a></h5>
         <p>Kathleen Lewis, Guha Balakrishnan, John Guttag and Adrian Dalca</p>
     </div>
 </div>

@@ -2002,7 +2002,7 @@ Sendhil Mullainathan</p>
 <div class="col-xs-12 col-md-6"> 
 <div class="thumbnail">
     <div class="caption">
-        <h5><a href=""> Towards Robust Lung Segmentation in Chest Radiographs with Deep Learning</a></h5>
+        <h5><a href="https://arxiv.org/abs/1811.12638"> Towards Robust Lung Segmentation in Chest Radiographs with Deep Learning</a></h5>
         <p>Jyoti Islam and Yanqing Zhang</p>
     </div>
 </div>

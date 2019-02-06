@@ -872,7 +872,7 @@ Sendhil Mullainathan</p>
 <div class="col-xs-12 col-md-6"> 
 <div class="thumbnail">
     <div class="caption">
-        <h5><a href=""> Deep Learning with Attention to Predict Gestational Age of the Fetal Brain</a></h5>
+        <h5><a href="https://arxiv.org/pdf/1812.07102.pdf"> Deep Learning with Attention to Predict Gestational Age of the Fetal Brain</a></h5>
         <p>Liyue Shen, Edward Lee, Katie Shpanskaya and Kristen Yeom</p>
     </div>
 </div>

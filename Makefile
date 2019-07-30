@@ -68,6 +68,12 @@ organizer_images:
 organizers: organizer_images
 	cd $(INPUTDIR)/organizer_data/ && python make_page__organizers.py
 
+speaker_images:
+	cd $(INPUTDIR)/images/ && bash create_folder_of_square_crops.sh speakers_raw speakers_200x200 200
+
+speakers: speaker_images
+	cd $(INPUTDIR)/speakers_data/ && python make_page__speakers.py
+
 travel_awards:
 	cd $(INPUTDIR)/organizer_data/ && python make_page__travel_awards.py
 

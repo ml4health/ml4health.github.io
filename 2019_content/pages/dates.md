@@ -23,7 +23,7 @@ Please note that these dates may be subject to change.
         </tr>
         <tr>
             <td>
-                2019/09/23
+                2019/09/30
             </td>
             <td>
                 Notification deadline
@@ -35,6 +35,22 @@ Please note that these dates may be subject to change.
             </td>
             <td>
                 NeurIPS registration refund ends
+            </td>
+        </tr>
+        <tr>
+            <td>
+                2019/11/29
+            </td>
+            <td>
+                Papers posted online (with permission)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                2019/12/13-14
+            </td>
+            <td>
+                Machine Learning for Health workshop (one day)
             </td>
         </tr>
     </tbody>

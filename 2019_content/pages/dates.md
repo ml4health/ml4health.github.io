@@ -7,34 +7,34 @@ Please note that these dates may be subject to change.
     <tbody>
         <tr>
             <td>
-                <s>2019/09/06</s>
+                2019/09/06
             </td>
             <td>
-                <s>NeurIPS registration open</s>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <s>2019/09/09</s>
-            </td>
-            <td>
-                <s>Submission deadline</s>
+                NeurIPS registration open
             </td>
         </tr>
         <tr>
             <td>
-                <s>2019/09/23</s>
+                2019/09/09
             </td>
             <td>
-                <s>Notification deadline</s>
+                Submission deadline
             </td>
         </tr>
         <tr>
             <td>
-                <s>2019/11/28</s>
+                2019/09/23
             </td>
             <td>
-                <s>NeurIPS registration refund ends</s>
+                Notification deadline
+            </td>
+        </tr>
+        <tr>
+            <td>
+                2019/11/28
+            </td>
+            <td>
+                NeurIPS registration refund ends
             </td>
         </tr>
     </tbody>

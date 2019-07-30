@@ -4,7 +4,7 @@ This repository contains all the source materials for NIPS ML4Health workshop we
 
 Creating new folder
 1. Copied the `2018_content` to `2019_content`.
-2. Alter in `Makefile` to put to year 2019. Change link in `./index.html`.
+2. Alter in `Makefile` to put to year 2019. Change link in `./index.html`. Switch years in `pelicanconf.py`
 
 ```
 $ make organizers   # Build the organizers page from .csv file of raw data

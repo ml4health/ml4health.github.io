@@ -37,8 +37,6 @@ Please note that these dates may be subject to change.
                 <s>NeurIPS registration refund ends</s>
             </td>
         </tr>
-
-
     </tbody>
   </table>
 </div>

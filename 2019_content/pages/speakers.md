@@ -11,5 +11,4 @@ Date: 2019-06-01
 <li>Daphne Koller</li>
 <li>Luke Oakden-Rayner</li>
 <li>Lily Peng</li>
-<br />
-</ul>     
+</ul>  

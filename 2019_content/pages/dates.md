@@ -1,116 +1,40 @@
 Title: Dates
-Date: 2018-06-01
+Date: 2019-06-01
 
+Please note that these dates may be subject to change. 
 <div class="table-responsive">
   <table class="table table-bordered">
     <tbody>
         <tr>
             <td>
-                <s>2018/10/20</s>
+                <s>2019/09/06</s>
             </td>
             <td>
-                <s>NIPS early registration deadline</s>
-            </td>
-        </tr>
-
-        <tr>
-            <td>
-                <s>2018/10/29</s>
-            </td>
-            <td>
-                <s>Workshop submission deadline at 11:59pm</s>
+                <s>NeurIPS registration open</s>
             </td>
         </tr>
-
         <tr>
             <td>
-                2018/11/12
+                <s>2019/09/09</s>
             </td>
             <td>
-                <s>Acceptance notification (Poster or Spotlight+Poster)</s>
+                <s>Submission deadline</s>
             </td>
         </tr>
-
         <tr>
             <td>
-                2018/11/15
+                <s>2019/09/23</s>
             </td>
             <td>
-                <s>NIPS deadline to cancel registration (with full refund)</s>
-
+                <s>Notification deadline</s>
             </td>
         </tr>
-
         <tr>
             <td>
-                2018/11/30
+                <s>2019/11/28</s>
             </td>
             <td>
-                Final papers posted online (with permission)
-            </td>
-        </tr>
-
-        <!-- <tr>
-            <td>
-                <s>2017/10/30</s>
-            </td>
-            <td>
-                <s>submission deadline (11:59 PM, timezone of your choice)</s>
-                <ul> <li>
-                    <a href="https://easychair.org/conferences/?conf=nipsml4h2017">EasyChair submission website</a>
-                </li></ul>
-            </td>
-        </tr>
-
-        <tr>
-            <td>
-                <s>2017/11/10</s>
-            </td>
-            <td>
-                <s>acceptance notification for all papers</s>
-            </td>
-        </tr>
-
-        <tr>
-            <td>
-                <s>2017/11/16</s>
-            </td>
-            <td>
-                <s>NIPS deadline to cancel registration (with full refund)</s>
-            </td>
-        </tr>
-
-        <tr>
-            <td>
-                2017/12/01
-            </td>
-            <td>
-                Camera-ready deadline. Final papers posted here (with permission)
-                <ul>
-                    <li> Final papers should meet our 
-                        <a href="call-for-papers.html#submission_instructions">
-                        formatting guidelines (4 pages, NIPS style, unlimited appendix).</a>
-                        Please do list the authors (no anonymity).
-                    </li>
-                    <li> Post your final PDF to <a href="https://arxiv.org">arXiv.org</a>
-                    under cs.LG, stat.ML, or similar subjects (note that CS.AI is *not* intended for core machine learning content).
-                    </li>
-                    <li> Fill out 
-                        <a href="https://goo.gl/forms/25Zarl6LRppSt84D2">
-                        our submission form 
-                        </a>
-                        to send us the public arXiv URL.
-                    </li>
-                </ul>
-            </td>
-        </tr> -->
-
-        <tr>
-            <td>
-                2018/12/08
-            </td>
-            <td>
-                Machine Learning for Health Workshop
+                <s>NeurIPS registration refund ends</s>
             </td>
         </tr>
 
@@ -119,5 +43,5 @@ Date: 2018-06-01
   </table>
 </div>
 Please direct questions to: <a href="mailto:ml4h.workshop.nips.2018@gmail.com">
-                    ml4h.workshop.nips.2018@gmail.com
+                    ml4h.workshop.nips.2019@gmail.com
                 </a>

@@ -1,0 +1,1879 @@
+Title: Program Committee
+Date: 2018-11-08
+SkipNavBar: 1
+
+<!-- THIS PAGE SRC IS AUTO GENERATED. At terminal: $ make program_committee -->
+
+
+<h3>Senior Program Committee</h3>
+Many thanks to the Senior Program Committee their help and nomination of program committee members.
+
+<div class="row display-flex" style="display:flex; display:-webkit-flex;  flex-wrap:wrap;">
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Scott Delp</strong><br />Stanford
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Artur Dubrawski</strong><br />CMU
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Noémie Elhadad</strong><br />Columbia University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Joyce Ho</strong><br />Emory
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Samantha Kleinberg</strong><br />Stevens Institute
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Susan Murphy</strong><br />Harvard
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Christopher Re</strong><br />Stanford
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Cynthia Rudin</strong><br />Duke
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Nigam Shah</strong><br />Stanford
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Jimeng Sun</strong><br />Georgia Institute of Technology
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Fei Wang</strong><br />Cornell
+        </p>
+    </div>
+</div>
+</div>
+
+</div>
+
+<br><br>
+<h3>Program Committee</h3>
+
+Many thanks to the 100+ members of our program committee who reviewed submitted papers.
+
+<div class="row display-flex" style="display:flex; display:-webkit-flex;  flex-wrap:wrap;">
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Bryce Allen</strong><br />Harvard University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Emily Alsentzer</strong><br />MIT
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Amelia Averitt</strong><br />Columbia University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Homa B Hashemi</strong><br />Microsoft
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Mohammad Taha Bahadori</strong><br />Georgia Institute of Technology
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Annamarie Bair</strong><br />Massachusetts Institute of Technology
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Jeya Balaji Balasubramanian</strong><br />University of Pittsburgh
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Matt Barnes</strong><br />Carnegie Mellon University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Pouya Bashivan</strong><br />MIT
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Andrew Beam</strong><br />Harvard University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Brett Beaulieu-Jones</strong><br />Harvard Medical School
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Heather Berlin</strong><br />Massachusetts Institute of Technology
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Gabriela Berner</strong><br />Harvard University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Davis Blalock</strong><br />Massachusetts Institute of Technology
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Willie Boag</strong><br />MIT
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>James Brown</strong><br />Harvard University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Alison Callahan</strong><br />Stanford University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Pashmina Cameron</strong><br />Microsoft
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>David Carlson</strong><br />Columbia University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Ken Chang</strong><br />MIT
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Geeticka Chauhan</strong><br />MIT
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Lujie Chen</strong><br />Carnegie Mellon University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Chaofan Chen</strong><br />Duke University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>George Chen</strong><br />Carnegie Mellon University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Irene Chen</strong><br />MIT
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Li-Fang Cheng</strong><br />Princeton University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Corey Chivers</strong><br />University of Pennsylvania
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Edward Choi</strong><br />Georgia Institute of Technology
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Giles Clermont</strong><br />University fo Pittsburgh
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Evan Cofer</strong><br />Princeton University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Adrian Dalca</strong><br />Massachusetts Institute of Technology
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Iman Deznabi</strong><br />Bilkent University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Rasheed El-Bouri</strong><br />University of Oxford
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Hossein Estiri</strong><br />Harvard University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Melanie F. Pradier</strong><br />Harvard University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Chen Fang</strong><br />Florida International University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Sam Finlayson</strong><br />Harvard Medical School, MIT
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Madalina Fiterau</strong><br />Stanford University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Scott Fleming</strong><br />Department of Biomedical Data Science, Stanford University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Jessica Forde</strong><br />Columbia University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Luca Foschini</strong><br />Evidation Health
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Ian Fox</strong><br />University of Michigan
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Jason Fries</strong><br />Stanford University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Steve Gallant</strong><br />MultiModel Research
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Siong Thye Goh</strong><br />Massachusetts Institute of Technology
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Jen Gong</strong><br />University of California, Berkeley
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Omer Gottesman</strong><br />Harvard University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Dev Goyal</strong><br />University of Michigan
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Sean Grullon</strong><br />GlaxoSmithKline
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Michelle Guo</strong><br />Stanford University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Shashank Gupta</strong><br />International Institute of Information Technology, Hyderabad, India
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Katharine Henry</strong><br />Johns Hopkins University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Tzu-Ming Hsu</strong><br />Massachusetts Institute of Technology
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Michael Hughes</strong><br />Tufts University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Nathan Hunt</strong><br />Massachusetts Institute of Technology
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Benjamin Huynh</strong><br />University of Chicago
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Stephanie Hyland</strong><br />ETH Zurich
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Fattaneh Jabbari</strong><br />University of Pittsburgh
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Natasha Jaques</strong><br />Massachusetts Institute of Technology
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Bruno Jedynak</strong><br />Portland State University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Di Jin</strong><br />MIT
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Alistair Johnson</strong><br />Massachusetts Institute of Technology
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Kipp Johnson</strong><br />Icahn School of Medicine at Mount Sinai
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Shalmali Joshi</strong><br />The University of Texas at Austin
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Kenneth Jung Jung</strong><br />Stanford University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Theofanis Karaletsos</strong><br />Uber AI Labs
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Taylor Killian</strong><br />Harvard University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Shilpa Kobren</strong><br />Harvard University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Zhaobin Kuang</strong><br />Stanford University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Eric Laber</strong><br />North Carolina State University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Ya Le</strong><br />Stanford University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>David Ledbetter</strong><br />Children's Hospital Los Angeles
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Hyunkwang Lee</strong><br />Harvard University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Maggie Makar</strong><br />Massachusetts Institute of Technology
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Muhammad Masood</strong><br />Harvard University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Matthew Mcdermott</strong><br />MIT
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Andrew Miller</strong><br />Harvard University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Ramin Moghaddass</strong><br />University of Miami
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Pablo Moreno-Munoz</strong><br />Universidad Carlos III de Madrid
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Bilgel Murat</strong><br />National Institute on Aging
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Samaneh Nasiri Ghosheh Bolagh</strong><br />Emory University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Tristan Naumann</strong><br />MIT
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Sarvesh Nikumbh</strong><br />Max Planck Institute for Informatics, Computational Biology and Applied Algorithmics
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Jeeheh Oh</strong><br />University of Michigan
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Mahdi Pakdaman Naeini</strong><br />University of Pittburgh
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Konstantina Palla</strong><br />University of Oxford
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Weiwei Pan</strong><br />Harvard University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Kruti Pandya</strong><br />Portland State University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Sonali Parbhoo</strong><br />University of Basel
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Yoonyoung Park</strong><br />IBM
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Ioakeim Perros</strong><br />Georgia Institute of Technology
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Tom Pollard</strong><br />Massachusetts Institute of Technology
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Sandhya Prabhakaran</strong><br />Memorial Sloan Kettering Cancer Centre
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Niranjani Prasad</strong><br />Princeton University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Sanjay Purushotham</strong><br />University of Southern California
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Aniruddh Raghu</strong><br />University of Cambridge
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Ognjen Oggi Rudovic</strong><br />Massachusetts Institute of Technology
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Marc-Andre Schulz</strong><br />RWTH Aachen University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Martin Seneviratne</strong><br />Stanford
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Elena Sergeeva</strong><br />MIT
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Farah Shamout</strong><br />University of Oxford
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Bhanu Pratap Singh</strong><br />University of Massachusetts
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Nataliya Sokolovska</strong><br />Sorbonne University, INSERM, NutriOmics
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Hossein Soleimani</strong><br />Johns Hopkins University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Erika Strandberg</strong><br />Stanford University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Adarsh Subbaswamy</strong><br />Johns Hopkins University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Zhaonan Sun</strong><br />IBM
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Madhumita Sushil</strong><br />Antwerp University Hospital; University of Antwerp
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Sara Taylor</strong><br />Massachusetts Institute of Technology
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Jessica Torres</strong><br />Stanford University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Berk Ustun</strong><br />Harvard University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Isabel Valera</strong><br />MPI for Intelligent Systems
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Paroma Varma</strong><br />Stanford University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Rielly Victor</strong><br />Portland State University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Julia E. Vogt</strong><br />University of Basel
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Haishuai Wang</strong><br />Harvard University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Gregory Way</strong><br />University of Pennsylvania
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Wei-Hung Weng</strong><br />Computer Science and Artificial Intelligence Laboratory, MIT
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Sarah Wiegreffe</strong><br />Georgia Institute of Technology
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Zhiwei Steven Wu</strong><br />University of Pennsylvania
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Yanbo Xu</strong><br />Carnegie Mellon University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Alexandre Yahi</strong><br />Columbia University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Hector Yee</strong><br />Google
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Kun-Hsing Yu</strong><br />Harvard University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>William Yuan</strong><br />Harvard University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Lee Zamparo</strong><br />University of Toronto
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Javier Zazo</strong><br />Harvard University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>John Zech</strong><br />California Pacific Medical Center
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Hejia Zhang</strong><br />Princeton University
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Wei Zhang</strong><br />University of Wisconsin-Madison
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Tingting Zhu</strong><br />University of Oxford
+        </p>
+    </div>
+</div>
+</div>
+
+
+
+<!-- 6/12 = full width on mobile, 4/12 screen on laptop -->
+<div class="col-xs-6 col-md-4"> 
+<div class="thumbnail">
+    <div class="caption">
+        <p>
+        <strong>Tempest van Schaik</strong><br />Microsoft
+        </p>
+    </div>
+</div>
+</div>
+
+</div>

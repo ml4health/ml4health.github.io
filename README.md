@@ -1,5 +1,17 @@
 This repository contains all the source materials for NIPS ML4Health workshop website. 
 
+# Usage for 2019
+
+Creating new folder
+1. Copied the `2018_content` to `2019_content`.
+2. Alter in `Makefile` to put to year 2019. Change link in `./index.html`.
+
+```
+$ make organizers   # Build the organizers page from .csv file of raw data
+$ make html         # Build static site on local machine under 2018/ output folder
+$ make serve        # Serve website locally. Point browser to: localhost:8000
+```
+
 # Usage for 2018
 
 ```

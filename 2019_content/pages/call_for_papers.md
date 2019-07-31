@@ -9,7 +9,7 @@ A workshop at the Thirty-Third Annual Conference on Neural Information Processin
  
 Please direct questions to: ml4h.workshop.neurips.2019@gmail.com
  
-NOTE: Historically the main NeurIPS conference has sold out quickly, and this may extend to workshop registrations. If you plan to submit a paper, please register as soon as possible. Registration opens Sep. 6, 2019 (https://nips.cc/Register/view-registration) can be cancelled before November 28, 2019, 11:59 pacific time for a full refund (https://nips.cc/Conferences/2019/Dates).
+NOTE: Historically the main NeurIPS conference has sold out quickly, and this may extend to workshop registrations. If you plan to submit a paper, please register as soon as possible. Registration opens Sep. 6, 2019 (https://neurips.cc/Register/view-registration) can be cancelled before November 28, 2019, 11:59 pacific time for a full refund (https://neurips.cc/Conferences/2019/Dates).
  
 DATES:
 <ul>

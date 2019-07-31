@@ -19,8 +19,8 @@ save_as: index.html
     </p>
 
     <p>Direct questions to:
-                <a href="mailto:ml4h.workshop.nips.2019@gmail.com">
-                    ml4h.workshop.nips.2019@gmail.com
+                <a href="mailto:ml4h.workshop.neurips.2019@gmail.com">
+                    ml4h.workshop.neurips.2019@gmail.com
                 </a>
     </p>        
 

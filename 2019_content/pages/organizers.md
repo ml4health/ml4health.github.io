@@ -6,4 +6,4 @@ Date: 2018-06-01
 
 Our team of many organizers is working together to make this workshop possible.
 
-Please direct all workshop-related questions to: ml4h.workshop.nips.2019@gmail.com
+Please direct all workshop-related questions to: ml4h.workshop.neurips.2019@gmail.com

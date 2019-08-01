@@ -17,3 +17,5 @@ build/
 *.out
 *.ps
 *.toc
+
+venv/

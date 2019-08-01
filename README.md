@@ -48,6 +48,13 @@ $ pip install pelican
 $ pip install markdown
 ```
 
+### With virtualenv
+```
+$ python3 -m venv venv
+$ source venv/bin/activate
+$ pip install -r requirements.txt
+```
+
 ## Usage for 2017 (historical)
 
 All the 2017 Makefiles, etc are preserved in the "release_v2017" branch. 

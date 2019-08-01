@@ -2,15 +2,18 @@ This repository contains all the source materials for NIPS ML4Health workshop we
 
 # Usage for 2019
 
-Creating new folder
+Creating new folder for a new year
 1. Copied the `2018_content` to `2019_content`.
 2. Alter in `Makefile` to put to year 2019. Change link in `./index.html`. Switch years in `pelicanconf.py`
 
-```
-$ make organizers   # Build the organizers page from .csv file of raw data
-$ make html         # Build static site on local machine under 2018/ output folder
-$ make serve        # Serve website locally. Point browser to: localhost:8000
-```
+Editing an existing page
+1. Make edits on page in `2019_content/pages/`
+2. `make html` in root. `make serve` to check it looks fine. Then push to public.
+
+Adding a page from the 2018 website
+1. Copy over the page from `2018_content/pages/.` to `2019_content/pages/.`
+2. If the page looks "complicated", check and see if there is a corresponding `make organizers` or something else in the `Makefile`. In that case, you're meant to update the corresponding csv first and then run `make organizers` or `make accepted_papers`. This will generate the static page from the input files.
+3. `make html` in root. `make serve` to check it looks fine. Then push to public.
 
 # Usage for 2018
 
@@ -43,6 +46,13 @@ $ conda install markdown
 ```
 $ pip install pelican
 $ pip install markdown
+```
+
+### With virtualenv
+```
+$ python3 -m venv venv
+$ source venv/bin/activate
+$ pip install -r requirements.txt
 ```
 
 ## Usage for 2017 (historical)

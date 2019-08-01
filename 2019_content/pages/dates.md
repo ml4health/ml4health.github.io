@@ -56,6 +56,6 @@ Please note that these dates may be subject to change.
     </tbody>
   </table>
 </div>
-Please direct questions to: <a href="mailto:ml4h.workshop.nerips.2018@gmail.com">
-                    ml4h.workshop.nerips.2019@gmail.com
+Please direct questions to: <a href="mailto:ml4h.workshop.neurips.2018@gmail.com">
+                    ml4h.workshop.neurips.2019@gmail.com
                 </a>

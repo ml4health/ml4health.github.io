@@ -8,7 +8,7 @@ ML4H 2019 invites submissions describing innovative machine learning research fo
 
 DATES:
 <ul>
-<li>Monday Sept 9, 2019: Submission deadline at 11:59pm</li>
+<li>Monday Sept 13, 2019: Submission deadline at 11:59pm</li>
 <li>Monday Sept 30, 2019: Acceptance notification</li>
 <li>Friday October 4, 2019: Travel Grant Application Deadline </li>
 <li>Friday Nov 29, 2019: Final papers posted online (with permission)</li>
@@ -55,7 +55,7 @@ Healthcare data is extremely sensitive and is therefore protected by specialized
 
 ## Submission Instructions
 
-Researchers interested in contributing should upload anonymized papers in PDF format by Mon, Sept 9, 2019, 11:59 PM in the timezone of your choice. At the time of submission, authors will indicate whether they would like the submission to
+Researchers interested in contributing should upload anonymized papers in PDF format by Fri, Sept 13, 2019, 11:59 PM in the timezone of your choice. At the time of submission, authors will indicate whether they would like the submission to
 
 **1.)** considered for inclusion in the official proceedings (up to 8 pages excluding references) or
 

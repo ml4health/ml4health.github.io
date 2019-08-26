@@ -1,7 +1,7 @@
 Title: Call for Papers
-Date: 2018-08-01
+Date: 2019-08-01
 
-ML4H 2019 invites submissions describing innovative machine learning research focused on relevant problems in health and biomedicine. **For the first time, ML4H 2019 will accept papers for a formal proceedings as well as accepting traditional, non-archival extended abstract submissions**. Authors are invited to submit works for either track provided the work fits within the purview of Machine Learning for Health.
+ML4H 2019 invites submissions describing innovative machine learning research focused on relevant problems in health and biomedicine. **For the first time, ML4H 2019 will accept papers for a formal proceedings as well as accepting traditional, non-archival extended abstract submissions**. Authors are invited to submit works for either track provided the work fits within the purview of Machine Learning for Health. Travel grants will be made available (application information coming soon).
 
 ## Important Dates
 
@@ -10,7 +10,7 @@ DATES:
 <ul>
 <li>Monday Sept 9, 2019: Submission deadline at 11:59pm</li>
 <li>Monday Sept 30, 2019: Acceptance notification</li>
-<li>Thursday Nov 28, 2019: NeurIPS deadline to cancel registration (with full refund)</li>
+<li>Friday October 4, 2019: Travel Grant Application Deadline </li>
 <li>Friday Nov 29, 2019: Final papers posted online (with permission)</li>
 <li>One day: Friday or Saturday, Dec 13-14, 2019: Workshop</li>
 </ul>

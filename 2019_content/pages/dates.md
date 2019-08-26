@@ -1,7 +1,7 @@
 Title: Dates
 Date: 2019-06-01
 
-Please note that these dates may be subject to change. 
+Please note that these dates may be subject to change.
 <div class="table-responsive">
   <table class="table table-bordered">
     <tbody>
@@ -15,10 +15,10 @@ Please note that these dates may be subject to change.
         </tr>
         <tr>
             <td>
-                2019/09/09
+                2019/09/13
             </td>
             <td>
-                Submission deadline
+                Submission deadline (Updated to September 13 - there will be no further extensions)
             </td>
         </tr>
         <tr>
@@ -27,6 +27,14 @@ Please note that these dates may be subject to change.
             </td>
             <td>
                 Notification deadline
+            </td>
+        </tr>
+        <tr>
+            <td>
+                2019/10/04
+            </td>
+            <td>
+                Travel Grant Application Deadline
             </td>
         </tr>
         <tr>
@@ -56,6 +64,6 @@ Please note that these dates may be subject to change.
     </tbody>
   </table>
 </div>
-Please direct questions to: <a href="mailto:ml4h.workshop.neurips.2018@gmail.com">
+Please direct questions to: <a href="mailto:ml4h.workshop.neurips.2019@gmail.com">
                     ml4h.workshop.neurips.2019@gmail.com
                 </a>

@@ -1,4 +1,4 @@
-Title: Speakers 
+Title: Speakers
 Date: 2019-06-01
 
 
@@ -13,10 +13,10 @@ Date: 2019-06-01
 <div class="row display-flex">
 
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
-    <div class="col-xs-6 col-md-4"> 
+    <div class="col-xs-6 col-md-4">
     <div class="thumbnail">
         <a href="https://bioengineering.stanford.edu/people/russ-b-altman">
-        <img 
+        <img
             src="{filename}/images/speakers_200x200/russ.jpg"
             alt="Russ Altman headshot"
             style="width:88%"
@@ -32,33 +32,11 @@ Date: 2019-06-01
     </div>
 
 
-
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
-    <div class="col-xs-6 col-md-4"> 
-    <div class="thumbnail">
-        <a href="https://ai.google/research/people/jeff">
-        <img 
-            src="{filename}/images/speakers_200x200/jeff.jpg"
-            alt="Jeff Dean headshot"
-            style="width:88%"
-            align="center">
-        <div class="caption">
-            <h5>Jeff Dean</h5>
-            <p>Google AI, Senior Fellow & SVP
-            </p>
-            <p></p>
-        </div>
-        </a>
-    </div>
-    </div>
-
-
-
-    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
-    <div class="col-xs-6 col-md-4"> 
+    <div class="col-xs-6 col-md-4">
     <div class="thumbnail">
         <a href="http://insitro.com/team">
-        <img 
+        <img
             src="{filename}/images/speakers_200x200/daphne.jpg"
             alt="Daphne Koller headshot"
             style="width:88%"
@@ -76,10 +54,10 @@ Date: 2019-06-01
 
 
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
-    <div class="col-xs-6 col-md-4"> 
+    <div class="col-xs-6 col-md-4">
     <div class="thumbnail">
         <a href="https://lukeoakdenrayner.wordpress.com/about-me/">
-        <img 
+        <img
             src="{filename}/images/speakers_200x200/luke.jpg"
             alt="Luke Oakden-Rayner headshot"
             style="width:88%"
@@ -97,10 +75,10 @@ Date: 2019-06-01
 
 
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
-    <div class="col-xs-6 col-md-4"> 
+    <div class="col-xs-6 col-md-4">
     <div class="thumbnail">
         <a href="https://ai-med.io/lily-peng-product-manager-google-brain/">
-        <img 
+        <img
             src="{filename}/images/speakers_200x200/lily.jpg"
             alt="Lily Peng headshot"
             style="width:88%"

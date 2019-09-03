@@ -7,10 +7,6 @@ Our team of many organizers has worked together to make this workshop possible.
 
 Please direct all workshop-related questions to: ml4h.workshop.nips.2019@gmail.com
 
-Thanks also to the
-<a href="program-committee.html">many members of our program committee</a>
-for helping peer review all submissions.
-
 <h2><a name='primary'>Organizers </a></h2>
 <div class="container">
   <div class="row display-flex">
@@ -44,7 +40,7 @@ for helping peer review all submissions.
               align="center">
           <div class="caption">
               <h5>Adrian Dalca</h5>
-              <p>Massachusetts General Hospital
+              <p>HMS,
               <br />
               <emph>Senior Program Chair </emph>
               </p>

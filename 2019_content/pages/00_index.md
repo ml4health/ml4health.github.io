@@ -50,6 +50,15 @@ save_as: index.html
 
 <div class="row">
 <div class="alert alert-info" role="alert">
+<p> Submission link coming soon! (by 9/6)
+<emph>
+</emph>
+</p>
+</div>
+</div>
+
+<div class="row">
+<div class="alert alert-info" role="alert">
 <p> 2018/08/26: Submission Deadline extended from 9/9/2019 to 9/13/2019
 <emph>
 </emph>

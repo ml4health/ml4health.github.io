@@ -3,6 +3,9 @@ Date: 2019-08-01
 
 ML4H 2019 invites submissions describing innovative machine learning research focused on relevant problems in health and biomedicine. **For the first time, ML4H 2019 will accept papers for a formal proceedings as well as accepting traditional, non-archival extended abstract submissions**. Authors are invited to submit works for either track provided the work fits within the purview of Machine Learning for Health. Travel grants will be made available (application information coming soon).
 
+
+## Submission Link will be posted shortly (by 9/6)
+
 ## Important Dates
 
 

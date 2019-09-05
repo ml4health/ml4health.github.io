@@ -4,12 +4,11 @@ Date: 2019-08-01
 ML4H 2019 invites submissions describing innovative machine learning research focused on relevant problems in health and biomedicine. **For the first time, ML4H 2019 will accept papers for a formal proceedings as well as accepting traditional, non-archival extended abstract submissions**. Authors are invited to submit works for either track provided the work fits within the purview of Machine Learning for Health. Travel grants will be made available (application information coming soon).
 
 
-## Submission Link will be posted shortly (by 9/6)
+#### Submission Link: <a href="https://cmt3.research.microsoft.com/ML4H2019/"> Submit Here </a>
 
+<br />
 ## Important Dates
 
-
-DATES:
 <ul>
 <li>Friday Sept 13, 2019: Submission deadline at 11:59pm</li>
 <li>Monday Sept 30, 2019: Acceptance notification</li>
@@ -64,8 +63,7 @@ Researchers interested in contributing should upload anonymized papers in PDF fo
 
 **2.)** considered as a non-archival extended abstract for presentation at the workshop only (up to 4 pages excluding references). Additional pages containing only bibliographic references can be included without penalty.
 
-A submission link and additional details regarding the two submission tracks will be provided on our website at least two weeks prior to the deadline:[ https://ml4health.github.io](https://ml4health.github.io/)
-
+Submission Link: <a href="https://cmt3.research.microsoft.com/ML4H2019/"> Submit Here </a>
 
 
 Submissions should adhere to the NeurIPS conference paper format, via the NeurIPS LaTeX style file: [https://nips.cc/Conferences/2019/PaperInformation/StyleFiles](https://nips.cc/Conferences/2019/PaperInformation/StyleFiles)

@@ -10,7 +10,7 @@ ML4H 2019 invites submissions describing innovative machine learning research fo
 ## Important Dates
 
 <ul>
-<li>Friday Sept 13, 2019: Submission deadline at 11:59pm</li>
+<li>Friday Sept 13, 2019: Submission deadline at 11:59pm Anywhere on Earth</li>
 <li>Monday Sept 30, 2019: Acceptance notification</li>
 <li>Friday October 4, 2019: Travel Grant Application Deadline </li>
 <li>Friday Nov 29, 2019: Final papers posted online (with permission)</li>

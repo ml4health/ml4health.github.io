@@ -18,7 +18,7 @@ Please note that these dates may be subject to change.
                 2019/09/13
             </td>
             <td>
-                Submission deadline (Updated to September 13 - there will be no further extensions)
+                Submission deadline (Updated to September 13 11:59 PM Anywhere on Earth - there will be no further extensions)
             </td>
         </tr>
         <tr>

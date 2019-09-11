@@ -61,7 +61,7 @@ Researchers interested in contributing should upload anonymized papers in PDF fo
 
 **1.)** considered for inclusion in the official proceedings (up to 8 pages excluding references) or
 
-**2.)** considered as a non-archival extended abstract for presentation at the workshop only (up to 4 pages excluding references). Additional pages containing only bibliographic references can be included without penalty.
+**2.)** considered as a non-archival extended abstract for presentation at the workshop only (up to 4 pages excluding references and appendices). Additional pages containing bibliographic references or appendices can be included without penalty. Reviewers will not be required to examine material in appendices.
 
 Submission Link: <a href="https://cmt3.research.microsoft.com/ML4H2019/"> Submit Here </a>
 

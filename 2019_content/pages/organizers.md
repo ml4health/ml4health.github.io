@@ -242,7 +242,7 @@ Please direct all workshop-related questions to: ml4h.workshop.nips.2019@gmail.c
                 <h5>Tristan Naumann</h5>
                 <p>Microsoft Research,
                 <br />
-                <emph>General chair</emph>
+                <emph>Senior Advisory Committee</emph>
                 </p>
                 <p></p>
             </div>

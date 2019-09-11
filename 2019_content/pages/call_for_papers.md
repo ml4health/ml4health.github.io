@@ -59,9 +59,11 @@ Healthcare data is extremely sensitive and is therefore protected by specialized
 
 Researchers interested in contributing should upload anonymized papers in PDF format by Fri, Sept 13, 2019, 11:59 PM in the timezone of your choice. At the time of submission, authors will indicate whether they would like the submission to
 
-**1.)** considered for inclusion in the official proceedings (up to 8 pages excluding references) or
+**1.)** considered for inclusion in the official proceedings (up to 8 pages excluding references and appendices) or
 
-**2.)** considered as a non-archival extended abstract for presentation at the workshop only (up to 4 pages excluding references and appendices). Additional pages containing bibliographic references or appendices can be included without penalty. Reviewers will not be required to examine material in appendices.
+**2.)** considered as a non-archival extended abstract for presentation at the workshop only (up to 4 pages excluding references and appendices).
+
+Additional pages containing bibliographic references or appendices can be included without penalty. Reviewers will not be required to examine material in appendices.
 
 Submission Link: <a href="https://cmt3.research.microsoft.com/ML4H2019/"> Submit Here </a>
 

@@ -30,6 +30,7 @@ save_as: index.html
         </a>
         to receive announcements.
     </p>
+    <p>Apply for a <a href="https://forms.gle/SEc4Nj3RnmN6GN8e8">Travel Grant</a>.</p>
 </div>
 
 <div class="col-md-5" style="padding-left: 0px;  padding-right: 0px;">

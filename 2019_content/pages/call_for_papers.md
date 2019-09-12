@@ -5,6 +5,7 @@ ML4H 2019 invites submissions describing innovative machine learning research fo
 
 
 #### Submission Link: <a href="https://cmt3.research.microsoft.com/ML4H2019/"> Submit Here </a>
+#### Travel Grant Application: <a href="https://forms.gle/SEc4Nj3RnmN6GN8e8"> Submit Here </a>
 
 <br />
 ## Important Dates
@@ -12,7 +13,7 @@ ML4H 2019 invites submissions describing innovative machine learning research fo
 <ul>
 <li>Friday Sept 13, 2019: Submission deadline at 11:59pm Anywhere on Earth</li>
 <li>Monday Sept 30, 2019: Acceptance notification</li>
-<li>Friday October 4, 2019: Travel Grant Application Deadline </li>
+<li>Friday October 4, 2019: <a href="https://forms.gle/SEc4Nj3RnmN6GN8e8">Travel Grant Application</a> Deadline </li>
 <li>Friday Nov 29, 2019: Final papers posted online (with permission)</li>
 <li>One day: Friday or Saturday, Dec 13-14, 2019: Workshop</li>
 </ul>

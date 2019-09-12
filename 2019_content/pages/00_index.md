@@ -50,8 +50,8 @@ save_as: index.html
 <h4>Announcements</h4>
 <div class="row">
 <div class="alert alert-info" role="alert">
-<p> Travel Grant survey is open: <a href="https://forms.gle/SEc4Nj3RnmN6GN8e8"> Submit Here </a>
-<p> Submission deadline is 10/04/2019, but please submit as soon as possible.
+<p> Travel Grant application is open: <a href="https://forms.gle/SEc4Nj3RnmN6GN8e8"> Submit Here </a>
+<p> Application deadline is 10/04/2019, but please submit as soon as possible.
 <emph>
 </emph>
 </p>

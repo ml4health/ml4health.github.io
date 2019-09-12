@@ -34,7 +34,7 @@ Please note that these dates may be subject to change.
                 2019/10/04
             </td>
             <td>
-                Travel Grant Application Deadline
+                <a href="https://forms.gle/SEc4Nj3RnmN6GN8e8">Travel Grant Application</a> Deadline
             </td>
         </tr>
         <tr>

@@ -15,7 +15,7 @@ Please direct all workshop-related questions to: ml4h.workshop.nips.2019@gmail.c
         <div class="thumbnail">
             <a href="https://dbmi.hms.harvard.edu/people/brett-k-beaulieu-jones">
             <img
-                src="{static}/images/headshots_200x200/200x200_brett.jpg"
+                src="{filename}/images/headshots_200x200/200x200_brett.jpg"
                 alt="Brett Beaulieu-Jones headshot"
                 style="width:88%"
                 align="center">
@@ -72,7 +72,7 @@ Please direct all workshop-related questions to: ml4h.workshop.nips.2019@gmail.c
         <div class="thumbnail">
             <a href="">
             <img
-                src="{static}/images/headshots_200x200/200x200_emily.jpg"
+                src="{filename}/images/headshots_200x200/200x200_emily.jpg"
                 alt="Emily Alsentzer headshot"
                 style="width:88%"
                 align="center">
@@ -91,7 +91,7 @@ Please direct all workshop-related questions to: ml4h.workshop.nips.2019@gmail.c
         <div class="thumbnail">
             <a href="https://sgfin.github.io/">
             <img
-                src="{static}/images/headshots_200x200/200x200_sam.jpg"
+                src="{filename}/images/headshots_200x200/200x200_sam.jpg"
                 alt="Samuel Finlayson headshot"
                 style="width:88%"
                 align="center">
@@ -110,7 +110,7 @@ Please direct all workshop-related questions to: ml4h.workshop.nips.2019@gmail.c
         <div class="thumbnail">
             <a href="https://www.csail.mit.edu/person/matthew-mcdermott">
             <img
-                src="{static}/images/headshots_200x200/200x200_matthew.jpg"
+                src="{filename}/images/headshots_200x200/200x200_matthew.jpg"
                 alt="Matthew McDermott headshot"
                 style="width:88%"
                 align="center">
@@ -167,7 +167,7 @@ Please direct all workshop-related questions to: ml4h.workshop.nips.2019@gmail.c
         <div class="thumbnail">
             <a href="">
             <img
-                src="{static}/images/headshots_200x200/200x200_irene.jpg"
+                src="{filename}/images/headshots_200x200/200x200_irene.jpg"
                 alt="Irene Chen Headshot"
                 style="width:88%"
                 align="center">
@@ -186,7 +186,7 @@ Please direct all workshop-related questions to: ml4h.workshop.nips.2019@gmail.c
         <div class="thumbnail">
             <a href="">
             <img
-                src="{static}/images/headshots_200x200/200x200_amelia.jpg"
+                src="{filename}/images/headshots_200x200/200x200_amelia.jpg"
                 alt="Amelia Averitt Headshot"
                 style="width:88%"
                 align="center">
@@ -205,7 +205,7 @@ Please direct all workshop-related questions to: ml4h.workshop.nips.2019@gmail.c
         <div class="thumbnail">
             <a href="">
             <img
-                src="{static}/images/headshots_200x200/200x200_fabian.jpg"
+                src="{filename}/images/headshots_200x200/200x200_fabian.jpg"
                 alt="Fabian Falck Headshot"
                 style="width:88%"
                 align="center">
@@ -234,7 +234,7 @@ Please direct all workshop-related questions to: ml4h.workshop.nips.2019@gmail.c
         <div class="thumbnail">
             <a href="http://tjn.mit.edu/">
             <img
-                src="{static}/images/headshots_200x200/200x200_tristan.jpg"
+                src="{filename}/images/headshots_200x200/200x200_tristan.jpg"
                 alt="Tristan Naumann headshot"
                 style="width:88%"
                 align="center">
@@ -253,7 +253,7 @@ Please direct all workshop-related questions to: ml4h.workshop.nips.2019@gmail.c
         <div class="thumbnail">
             <a href="https://scholar.harvard.edu/beam/home">
             <img
-                src="{static}/images/headshots_200x200/200x200_andrew.jpg"
+                src="{filename}/images/headshots_200x200/200x200_andrew.jpg"
                 alt="Andrew Beam headshot"
                 style="width:88%"
                 align="center">
@@ -272,7 +272,7 @@ Please direct all workshop-related questions to: ml4h.workshop.nips.2019@gmail.c
         <div class="thumbnail">
             <a href="">
             <img
-                src="{static}/images/headshots_200x200/200x200_madalina.jpg"
+                src="{filename}/images/headshots_200x200/200x200_madalina.jpg"
                 alt="Madalina Fiterau headshot"
                 style="width:88%"
                 align="center">

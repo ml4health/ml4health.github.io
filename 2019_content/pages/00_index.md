@@ -61,7 +61,7 @@ save_as: index.html
 <div class="row">
 <div class="alert alert-info" role="alert">
 <p> Submission site is live: <a href="https://cmt3.research.microsoft.com/ML4H2019/"> Submit Here </a>
-<p> Submission deadline is 9/13/2019. If you are interested in reviewing papers please contact ml4h.workshop.neurips.2019@gmail.com
+<p> Submission deadline is 9/13/2019. 
 <emph>
 </emph>
 </p>

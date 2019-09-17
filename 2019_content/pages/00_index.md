@@ -50,7 +50,7 @@ save_as: index.html
 <h4>Announcements</h4>
 <div class="row">
 <div class="alert alert-info" role="alert">
-<p> <a href="{filename}/pdf/reviewer_instructions.pdf"> Reviewer Instructions </a>
+<p> <a href="../2019/pdf/reviewer_instructions.pdf"> Reviewer Instructions </a>
 <p> Reviewer Instructions are public.
 <emph>
 </emph>

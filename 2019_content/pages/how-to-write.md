@@ -1,7 +1,7 @@
 Title: Writing Guidelines
 Date: 2019-08-01
 
-Reviewer Instructions are now available: <a href="../pdf/reviewer_instructions.pdf"> Reviewer Instructions </a>
+Reviewer Instructions are now available: <a href="{filename}/pdf/reviewer_instructions.pdf"> Reviewer Instructions </a>
 
 Both full papers and extended abstracts should be blinded (no author information).
 

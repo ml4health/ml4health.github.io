@@ -39,7 +39,7 @@ THEME = 'themes/customized-pelican-alchemy/alchemy'
 
 SITEIMAGE = '/images/logo.png'
 
-STATIC_PATHS = ['images', 'extra/favicon.ico']
+STATIC_PATHS = ['images', 'extra/favicon.ico', 'pdf']
 EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'}
 }
@@ -62,4 +62,3 @@ LINKS = []
 ICONS = ()
 SOCIAL = ()
 HIDE_AUTHORS = True
-

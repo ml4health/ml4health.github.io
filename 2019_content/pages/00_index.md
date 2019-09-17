@@ -50,6 +50,16 @@ save_as: index.html
 <h4>Announcements</h4>
 <div class="row">
 <div class="alert alert-info" role="alert">
+<p> <a href="../pdf/reviewer_instructions.pdf"> Reviewer Instructions </a>
+<p> Reviewer Instructions are public.
+<emph>
+</emph>
+</p>
+</div>
+</div>
+
+<div class="row">
+<div class="alert alert-info" role="alert">
 <p> Travel Grant application is open: <a href="https://forms.gle/SEc4Nj3RnmN6GN8e8"> Submit Here </a>
 <p> Application deadline is 10/04/2019, but please submit as soon as possible.
 <emph>
@@ -61,7 +71,7 @@ save_as: index.html
 <div class="row">
 <div class="alert alert-info" role="alert">
 <p> Submission site is live: <a href="https://cmt3.research.microsoft.com/ML4H2019/"> Submit Here </a>
-<p> Submission deadline is 9/13/2019. 
+<p> Submission deadline is 9/13/2019.
 <emph>
 </emph>
 </p>

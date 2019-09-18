@@ -11,27 +11,6 @@ Date: 2019-06-01
 
 <div class="container">
 <div class="row display-flex">
-
-    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
-    <div class="col-xs-6 col-md-4">
-    <div class="thumbnail">
-        <a href="https://bioengineering.stanford.edu/people/russ-b-altman">
-        <img
-            src="{filename}/images/speakers_200x200/russ.jpg"
-            alt="Russ Altman headshot"
-            style="width:88%"
-            align="center">
-        <div class="caption">
-            <h5>Russ Altman</h5>
-            <p>Stanford University, Professor
-            </p>
-            <p></p>
-        </div>
-        </a>
-    </div>
-    </div>
-
-
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
     <div class="col-xs-6 col-md-4">
     <div class="thumbnail">
@@ -72,8 +51,6 @@ Date: 2019-06-01
     </div>
     </div>
 
-
-
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
     <div class="col-xs-6 col-md-4">
     <div class="thumbnail">
@@ -92,7 +69,82 @@ Date: 2019-06-01
         </a>
     </div>
     </div>
+</div>
 
+<div class="row display-flex">
+    <div class="col-xs-6 col-md-4">
+    <div class="thumbnail">
+        <a href="https://www.cs.toronto.edu/~goldenberg/Anna_Goldenberg/Home.html">
+        <img
+            src="{filename}/images/speakers_200x200/anna.png"
+            alt="Anna Goldenberg headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5> Anna Goldenberg </h5>
+            <p> Senior Scientist, SickKids Research Institute
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+    <div class="col-xs-6 col-md-4">
+    <div class="thumbnail">
+        <a href="https://homes.cs.washington.edu/~ebfox/">
+        <img
+            src="{filename}/images/speakers_200x200/emily.jpg"
+            alt="Emily Fox headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Emily Fox </h5>
+            <p> Associate Professor, University of Washington. Amazon Professor of Machine Learning.
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+    <div class="col-xs-6 col-md-4">
+      <div class="thumbnail">
+          <a href="https://twitter.com/alan_karthi?lang=en">
+          <img
+              src="{filename}/images/speakers_200x200/alan.png"
+              alt="Alan Karthikesalingam headshot"
+              style="width:88%"
+              align="center">
+          <div class="caption">
+              <h5>Alan Karthikesalingam </h5>
+              <p>Research Lead, Google Health UK.
+              </p>
+              <p></p>
+          </div>
+          </a>
+      </div>
+    </div>
+
+</div>
+<div class="row display-flex">
+    <div class="col-xs-6 col-md-4">
+      <div class="thumbnail">
+          <a href="https://twitter.com/weballergy?lang=en">
+          <img
+              src="{filename}/images/speakers_200x200/nenad.jpg"
+              alt="Nenad Tomasev headshot"
+              style="width:88%"
+              align="center">
+          <div class="caption">
+              <h5>Nenad Tomasev </h5>
+              <p>Senior Research Engineer, Deepmind
+              </p>
+              <p></p>
+          </div>
+          </a>
+      </div>
+    </div>
 </div>
 </div>
 <br />

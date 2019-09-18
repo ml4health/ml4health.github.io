@@ -146,7 +146,7 @@ Please direct all workshop-related questions to: ml4h.workshop.neurips.2019@gmai
       </div>
       <div class="col-xs-6 col-md-4">
         <div class="thumbnail">
-          <a href="">
+          <a href="https://bayesianbiologist.com/">
           <img
               src="{filename}/images/headshots_200x200/200x200_corey.jpg"
               alt="Corey Chivers headshot"
@@ -184,7 +184,7 @@ Please direct all workshop-related questions to: ml4h.workshop.neurips.2019@gmai
       </div>
       <div class="col-xs-6 col-md-4">
         <div class="thumbnail">
-            <a href="">
+            <a href="http://people.dbmi.columbia.edu/AmeliaA/">
             <img
                 src="{filename}/images/headshots_200x200/200x200_amelia.jpg"
                 alt="Amelia Averitt Headshot"

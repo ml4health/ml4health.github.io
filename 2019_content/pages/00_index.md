@@ -95,3 +95,11 @@ save_as: index.html
 </p>
 </div>
 </div>
+
+<div class="row">
+<div class="col-md-7">
+<img src="{filename}/images/flagship.jpg" align="center">
+<p> ML4H 2019 is proudly sponsored by Flagship Pioneering. Flagship
+Pioneering is a team of pioneering scientists and professionals who
+build companies that transform human health and sustainability. </p>
+</div>

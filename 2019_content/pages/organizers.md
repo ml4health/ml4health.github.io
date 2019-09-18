@@ -13,7 +13,7 @@ Please direct all workshop-related questions to: ml4h.workshop.neurips.2019@gmai
       <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
       <div class="col-xs-6 col-md-4">
         <div class="thumbnail">
-            <a href="https://dbmi.hms.harvard.edu/people/brett-k-beaulieu-jones">
+            <a href="https://twitter.com/beaulieujones">
             <img
                 src="{filename}/images/headshots_200x200/200x200_brett.jpg"
                 alt="Brett Beaulieu-Jones headshot"
@@ -51,7 +51,7 @@ Please direct all workshop-related questions to: ml4h.workshop.neurips.2019@gmai
       </div>
       <div class="col-xs-6 col-md-4">
         <div class="thumbnail">
-          <a href="">
+          <a href="http://apeiroto.pe/">
           <img
               src="{filename}/images/headshots_200x200/200x200_stephanie.jpg"
               alt="Stephanie Hyland headshot"
@@ -70,7 +70,7 @@ Please direct all workshop-related questions to: ml4h.workshop.neurips.2019@gmai
       </div>
       <div class="col-xs-6 col-md-4">
         <div class="thumbnail">
-            <a href="">
+            <a href="https://twitter.com/Emily_Alsentzer">
             <img
                 src="{filename}/images/headshots_200x200/200x200_emily.jpg"
                 alt="Emily Alsentzer headshot"
@@ -203,7 +203,7 @@ Please direct all workshop-related questions to: ml4h.workshop.neurips.2019@gmai
       </div>
       <div class="col-xs-6 col-md-4">
         <div class="thumbnail">
-            <a href="">
+            <a href="http://www.fabianfalck.com">
             <img
                 src="{filename}/images/headshots_200x200/200x200_fabian.jpg"
                 alt="Fabian Falck Headshot"
@@ -212,6 +212,25 @@ Please direct all workshop-related questions to: ml4h.workshop.neurips.2019@gmai
             <div class="caption">
                 <h5>Fabian Falck </h5>
                 <p> Carnegie Mellon University
+                <br />
+                <emph>Program </emph>
+                </p>
+                <p></p>
+            </div>
+            </a>
+        </div>
+      </div>
+      <div class="col-xs-6 col-md-4">
+        <div class="thumbnail">
+            <a href="http://michaelkoberst.com">
+            <img
+                src="{filename}/images/headshots_200x200/200x200_michael.jpg"
+                alt="Michael Oberst Headshot"
+                style="width:88%"
+                align="center">
+            <div class="caption">
+                <h5>Michael Oberst </h5>
+                <p> MIT
                 <br />
                 <emph>Program </emph>
                 </p>
@@ -232,7 +251,7 @@ Please direct all workshop-related questions to: ml4h.workshop.neurips.2019@gmai
       <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
       <div class="col-xs-6 col-md-4">
         <div class="thumbnail">
-            <a href="http://tjn.mit.edu/">
+            <a href="https://www.microsoft.com/en-us/research/people/tristan/">
             <img
                 src="{filename}/images/headshots_200x200/200x200_tristan.jpg"
                 alt="Tristan Naumann headshot"
@@ -251,7 +270,7 @@ Please direct all workshop-related questions to: ml4h.workshop.neurips.2019@gmai
       </div>
       <div class="col-xs-6 col-md-4">
         <div class="thumbnail">
-            <a href="https://scholar.harvard.edu/beam/home">
+            <a href="http://beamlab.org">
             <img
                 src="{filename}/images/headshots_200x200/200x200_andrew.jpg"
                 alt="Andrew Beam headshot"

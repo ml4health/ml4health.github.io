@@ -165,7 +165,7 @@ Please direct all workshop-related questions to: ml4h.workshop.neurips.2019@gmai
       </div>
       <div class="col-xs-6 col-md-4">
         <div class="thumbnail">
-            <a href="">
+            <a href="http://irenechen.net">
             <img
                 src="{filename}/images/headshots_200x200/200x200_irene.jpg"
                 alt="Irene Chen Headshot"

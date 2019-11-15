@@ -100,9 +100,9 @@ Date: 2019-06-01
             align="center">
         <div class="caption">
             <h5>Emily Fox </h5>
-            <p> Associate Professor, University of Washington. Amazon Professor of Machine Learning.
+            <p> Director of Health AI, Apple. <BR/>
+            Associate Professor, University of Washington
             </p>
-            <p></p>
         </div>
         </a>
     </div>

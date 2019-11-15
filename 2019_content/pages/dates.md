@@ -55,7 +55,7 @@ Please note that these dates may be subject to change.
         </tr>
         <tr>
             <td>
-                2019/12/13-14
+                2019/12/13
             </td>
             <td>
                 Machine Learning for Health workshop (one day)

@@ -15,7 +15,7 @@ ML4H 2019 invites submissions describing innovative machine learning research fo
 <li>Monday Sept 30, 2019: Acceptance notification</li>
 <li>Friday October 4, 2019: <a href="https://forms.gle/SEc4Nj3RnmN6GN8e8">Travel Grant Application</a> Deadline </li>
 <li>Friday Nov 29, 2019: Final papers posted online (with permission)</li>
-<li>One day: Friday or Saturday, Dec 13-14, 2019: Workshop</li>
+<li>One day: Friday, Dec 13, 2019: Workshop</li>
 </ul>
 
 ## Topics

@@ -145,6 +145,23 @@ Date: 2019-06-01
           </a>
       </div>
     </div>
+    <div class="col-xs-6 col-md-4">
+      <div class="thumbnail">
+          <a href="https://ai.google/research/people/DaleWebster/">
+          <img
+              src="{filename}/images/speakers_200x200/dale.jpg"
+              alt="Dale Webster headshot"
+              style="width:88%"
+              align="center">
+          <div class="caption">
+              <h5>Dale Webster </h5>
+              <p>Senior Software Engineer, Google Health
+              </p>
+              <p></p>
+          </div>
+          </a>
+      </div>
+    </div>
 </div>
 </div>
 <br />

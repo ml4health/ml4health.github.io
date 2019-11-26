@@ -50,6 +50,18 @@ save_as: index.html
 <h4>Announcements</h4>
 <div class="row">
 <div class="alert alert-info" role="alert">
+<h3>Poster Instructions</h3>
+<p> Size: 36 W X 48 H (inches) or 90 W X 122 H (cm)
+Paper Type: Light-weight (e.g., not-laminated)
+Attaching to Wall: There are no poster boards, we will have tape or some other means of attaching the posters to the wall.
+<emph>
+</emph>
+</p>
+</div>
+</div>
+
+<div class="row">
+<div class="alert alert-info" role="alert">
 <p> <a href="../2019/pdf/reviewer_instructions.pdf"> Reviewer Instructions </a>
 <p> Reviewer Instructions are public.
 <emph>

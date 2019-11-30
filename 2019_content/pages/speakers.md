@@ -43,7 +43,7 @@ Date: 2019-06-01
             align="center">
         <div class="caption">
             <h5>Luke Oakden-Rayner</h5>
-            <p>nRAH Medical Imaging, Director of Research
+            <p>RAH Medical Imaging, Director of Research
             </p>
             <p></p>
         </div>

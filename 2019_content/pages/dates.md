@@ -47,14 +47,6 @@ Please note that these dates may be subject to change.
         </tr>
         <tr>
             <td>
-                2019/11/29
-            </td>
-            <td>
-                Papers posted online (with permission)
-            </td>
-        </tr>
-        <tr>
-            <td>
                 2019/12/13
             </td>
             <td>

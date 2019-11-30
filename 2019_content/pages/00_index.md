@@ -50,58 +50,17 @@ save_as: index.html
 <h4>Announcements</h4>
 <div class="row">
 <div class="alert alert-info" role="alert">
-<h3>Poster Instructions</h3>
-<p> Size: 36 W X 48 H (inches) or 90 W X 122 H (cm)
-Paper Type: Light-weight (e.g., not-laminated)
+<p> <a href="./pages/program.html"> Day of Schedule </a>
+<p> 2019/11/30 Schedule Posted </p>
+</div>
+</div>
+
+<div class="row">
+<div class="alert alert-info" role="alert">
+<p>Poster Instructions</p>
+<p> Size: 36 W X 48 H (inches) or 90 W X 122 H (cm) <br />
+Paper Type: Light-weight (e.g., not-laminated) <br />
 Attaching to Wall: There are no poster boards, we will have tape or some other means of attaching the posters to the wall.
-<emph>
-</emph>
-</p>
-</div>
-</div>
-
-<div class="row">
-<div class="alert alert-info" role="alert">
-<p> <a href="../2019/pdf/reviewer_instructions.pdf"> Reviewer Instructions </a>
-<p> Reviewer Instructions are public.
-<emph>
-</emph>
-</p>
-</div>
-</div>
-
-<div class="row">
-<div class="alert alert-info" role="alert">
-<p> Travel Grant application is open: <a href="https://forms.gle/SEc4Nj3RnmN6GN8e8"> Submit Here </a>
-<p> Application deadline is 10/04/2019, but please submit as soon as possible.
-<emph>
-</emph>
-</p>
-</div>
-</div>
-
-<div class="row">
-<div class="alert alert-info" role="alert">
-<p> Submission site is live: <a href="https://cmt3.research.microsoft.com/ML4H2019/"> Submit Here </a>
-<p> Submission deadline is 9/13/2019.
-<emph>
-</emph>
-</p>
-</div>
-</div>
-
-<div class="row">
-<div class="alert alert-info" role="alert">
-<p> 2018/08/26: Submission Deadline extended from 9/9/2019 to 9/13/2019
-<emph>
-</emph>
-</p>
-</div>
-</div>
-
-<div class="row">
-<div class="alert alert-info" role="alert">
-<p>  2019/07/20: Website is Live
 <emph>
 </emph>
 </p>

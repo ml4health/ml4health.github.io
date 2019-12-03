@@ -16,16 +16,16 @@ The workshop will be held in West Ballroom A at the Vancouver Convention Center.
             <td> Daphne Koller (insitro)</td>
         </tr>
         <tr>
-            <td>9:15 - 10:00 </td>
+            <td>9:15 - 9:45 </td>
             <td> Spotlight Paper Talks </td>
         </tr>
         <tr>
-            <td>10:00 - 10:30 </td>
+            <td>9:45 - 10:30 </td>
             <td>Coffee Break </td>
         </tr>
         <tr>
             <td>10:30 - 11:00</td>
-            <td> Alan Karthikesalingam (Google Health UK)& Nenad Tomasev (Google Health)
+            <td> Alan Karthikesalingam (Google Health UK) & Nenad Tomasev (Google Health)
             </td>
         </tr>
         <tr>
@@ -56,7 +56,7 @@ The workshop will be held in West Ballroom A at the Vancouver Convention Center.
         </tr>
         <tr>
             <td>15:00-15:30</td>
-            <td> Lily Peng (Google Brain AI) & Dale Webster (Google Health)
+            <td> Anna Goldenberg (SickKids Research Institute)
             </td>
         </tr>
         <tr>
@@ -67,13 +67,13 @@ The workshop will be held in West Ballroom A at the Vancouver Convention Center.
         </tr>
         <tr>
             <td>16:15 - 16:45</td>
-            <td> Anna Goldenberg (SickKids Research Institute)
+            <td> Lily Peng (Google Brain AI) & Dale Webster (Google Health)
             </td>
         </tr>
         <tr>
             <td>16:45 - 17:45</td>
             <td>
-                Panel + Closing remarks
+                Panel (Luke Oakden-Rayner, Emily Fox, Alan Karthikesalingam, Daphne Koller, Anna Goldenberg) + Closing remarks
             </td>
         </tr>
     </tbody>

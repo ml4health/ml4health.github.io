@@ -1,8 +1,8 @@
-Title: Program
+Title: Schedule
 Date: 2018-08-01
 <!-- 25 minutes + 5 for invited -->
 
-The workshop will be held in West Ballroom A at the Vancouver Convention Center.
+The workshop will be held December 13 in the West Ballroom A at the Vancouver Convention Center.
 
 <div class="table-responsive">
   <table class="table table-bordered">

@@ -52,7 +52,7 @@ DISPLAY_PAGES_ON_MENU = True
 
 DESCRIPTION = 'TODO'
 # Links
-LINKS = []
+#LINKS = [('prorgram committee', '/pages/program-committee.html')]
 #LINKS = ()
 #        ('somedates', 'call-for-papers.html#dates'),
 #        ('Pelican', 'http://getpelican.com/'),

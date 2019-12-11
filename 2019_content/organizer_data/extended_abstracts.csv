@@ -1,0 +1,90 @@
+Title|Authors|URL
+Differentially Private Survival Function Estimation|Lovedeep Gondara, Ke Wang|
+Migration through Machine Learning Lens - Predicting Sexual and Reproductive Health Vulnerability of Young Migrants | Amber Nigam, Pragati Jaiswal, Uma Girkar, Teertha Arora, Leo A Celi | 
+Individualized Feature Importance for Time Series Risk Prediction Models | Sana Tonekaboni; Shalmali Joshi; Anna Goldenberg | 
+Multimodal Multitask Representation Learning for Pathology Biobank Metadata Prediction | Wei-Hung Weng, Yuannan Cai, Angela Lin, Fraser Tan, Po-Hsuan Cameron Chen | 
+Hurtful Words: Quantifying Biases in Clinical Contextual Word Embeddings | Haoran Zhang*, Amy X. Lu*, Mohamed Abdalla, Matthew McDermott, Marzyeh Ghassemi | 
+Global Saliency: Aggregating Saliency Maps to Assess Dataset Artefact Bias | Jacob Pfau, Albert T. Young, Maria L. Wei, Michael J. Keiser | https://arxiv.org/abs/1910.07604v2
+Learning the Graphical Structure of Electronic Health Records with\\Graph Convolutional Transformer for Predictive Healthcare | Edward Choi, Zhen Xu, Yujia Li, Michael W. Dusenberry, Gerardo Flores, Emily Xue, Andrew M. Dai | 
+Few Labeled Atlases are Necessary for Deep-Learning-Based Segmentation | Hyeon-Woo Lee, Mert R. Sabuncu, Adrian V. Dalca | 
+Few Labeled Atlases are Necessary for Deep-Learning-Based Segmentation | Hyeon-Woo Lee, Mert R. Sabuncu, Adrian V. Dalca | 
+Deep Learning Mobile Application Towards Malaria Diagnosis | Martha Shaka*, Nyamos Waigama, Emilian Ngatunga, Halidi Maneno, Said Said, Said Mmaka, Frederick Apina,Simon Chaula, Emani Sulutya and Merikiadi Mashaka | 
+Stochastic Channel-Based Federated Learning for Medical Data Privacy Preserving | Rulin Shao, Hongyu He, Hui Liu, Dianbo Liu | https://arxiv.org/abs/1910.11160
+A Bayesian Approach to Modelling Longitudinal Data in Electronic Health Records | Alexis Bellot, Mihaela van der Schaar | 
+Cellular State Transformations using Generative Adversarial Networks | Colin Targonski, Benjamin T. Shealy, Melissa C. Smith, F. Alex Feltus | 
+Errors-in-variables Modeling of Personalized Treatment-Response Trajectories | Guangyi Zhang, Reza A. Ashrafi, Anne Juuti, Kirsi Pietiläinen, Pekka Marttinen | 
+Phenotyping of Clinical Notes with Improved Document Classification Models Using Contextualized Neural Language Models | Andriy Mulyar, Elliot Schumacher, Masoud Rouhizadeh, Mark Dredze | https://arxiv.org/abs/1910.13664
+A Neural Topic-Attention Model for Medical Term Abbreviation Disambiguation | Irene Li, Michihiro Yasunaga, Muhammed Yavuz Nuzumlalı, Cesar Caraballo, Shiwani Mahajan, Harlan Krumholz and Dragomir Radev | https://arxiv.org/abs/1910.14076
+Synthetic Epileptic Brain Activities using GANs | Damian Pascual, Amir Aminifar, David Atienza, Philippe Ryvlin, Roger Wattenhofer | https://arxiv.org/abs/1907.10518
+Human-centric Metric for Accelerating Pathology Reports Annotation | Ruibin Ma, Po-Hsuan Cameron Chen, Gang Li, Wei-Hung Weng, Angela Lin, Krishna Gadepalli, Yuannan Cai | https://arxiv.org/abs/1911.01226
+Explainable Prediction of Adverse Outcomes Using Clinical Notes | Justin R. Lovelace, Nathan C. Hurley, Adrian D. Haimovich, Bobak J. Mortazavi | https://arxiv.org/abs/1910.14095
+Federated Uncertainty-Aware Learning for Distributed Hospital EHR Data | Sabri Boughorbel, Fethi Jarray, Neethu Venugopal, Shabir Moosa, Haithum Elhadi, Michel Makhlouf | https://arxiv.org/abs/1910.12191
+Modeling glaucoma progression in a population from spatiotemporal measurements | Supriya Nagesh, Alexander Moreno, Hiroshi Ishikawa, Gadi Wollstein, Joel S. Schuman, James M. Rehg  | 
+Generation of heterogeneous EHRs using GANs | Kieran Chin-Cheong, Thomas Sutter, Julia E. Vogt | 
+Deep Survival Experts: A Fully Parametric Survival Regression Model | Xinyu Li*, Chirag Nagpal*, Artur Dubrawski | 
+Classification as Decoder: Trading Flexibility for Control in Medical Dialogue | Sam Shleifer, Manish Chablani, Namit Katariya, Anitha Kannan, Xavier Amatriain | https://arxiv.org/abs/1911.08554
+Are Deep Learning Chest X-ray Classifiers Fair? |  Laleh Seyyed-Kalantari, Guanxiong Liu, Matthew McDermott, Marzyeh Ghassemi  | 
+Advancing PICO Element Detection in Biomedical Text via Deep Neural Networks | Di Jin, Peter Szolovits | https://arxiv.org/abs/1810.12780
+Transfer Learning in 4D for Breast Cancer Diagnosis using Dynamic Contrast-Enhanced Magnetic Resonance Imaging | Qiyuan Hu, Heather M. Whitney, Maryellen L. Giger | http://arxiv.org/abs/1911.03022
+Co-Attentive Cross-Modal Deep Learning for Medical Evidence Synthesis and Decision Making | Devin Taylor, Simeon Spasov, Pietro Lio | https://arxiv.org/abs/1909.06442
+Time-Series Analysis via Low-Rank Matrix Factorization Applied to Infant-Sleep Data | Sheng Liu, Mark Cheng, Hayley Brooks, Wayne Mackey, David J. Heeger, Esteban G. Tabak, Carlos Fernandez-Granda | https://arxiv.org/abs/1904.04780
+Towards the Use of Neural Networks for Influenza Prediction at Multiple Spatial Resolutions | Emily L. Aiken, Andre T. Nguyen, Mauricio Santillana | https://arxiv.org/abs/1911.02673
+Combining human cell line transcriptome analysis and Bayesian inference to build trustworthy machine learning models for prediction of animal toxicity in drug development | Laura-Jayne Gardiner, Anna Paola Carrieri, Jenny Wilshaw, Stephen Checkley, Edward O Pyzer-Knapp, Ritesh Krishna | https://arxiv.org/abs/1911.04374
+Discovering Invariances in Healthcare Neural Networks | Mohammad Taha Bahadori, Layne C. Price | 
+Migration through Machine Learning Lens - Predicting Sexual and Reproductive Health Vulnerability of Young Migrants | Amber Nigam, Pragati Jaiswal, Uma Girkar, Teertha Arora, Leo A. Celi | https://arxiv.org/abs/1910.02390
+Deep Discriminative Fine-Tuning for Cancer Type Classification | Alena Harley | https://arxiv.org/abs/1911.07654
+Generating an Explainable ECG Beat Space With Variational Auto-Encoders | Tom Van Steenkiste, Dirk Deschrijver, Tom Dhaene | https://arxiv.org/abs/1911.04898
+Estimating counterfactual treatment outcomes over time through adversarially balanced representations | Ioana Bica, Ahmed M. Alaa, Mihaela van der Schaar | 
+Time Series Deconfounder: Estimating Treatment Effects over Time in the Presence of Hidden Confounders | Ioana Bica, Ahmed M. Alaa, Mihaela van der Schaar | 
+Globally-aware multiple instance classifier for breast cancer screening | Yiqiu Shen, Nan Wu, Jason Phang, Jungkyu Park, Kyunghyun Cho, Gene Kim, Linda Moy, Krzysztof J. Geras | 
+Globally-aware multiple instance classifier for breast cancer screening | Yiqiu Shen, Nan Wu, Jason Phang, Jungkyu Park, Gene Kim, Linda Moy, Kyunghyun Cho, Krzysztof J. Geras | 
+Modeling patterns of smartphone usage and their relationship to cognitive health | Jonas Rauber, Emily B. Fox, Leon A. Gatys | https://arxiv.org/pdf/1911.05683.pdf
+SAVEHR: Self Attention Vector Representations for EHR based Personalized Chronic Disease Onset Prediction and Interpretability | Sunil Mallya, Marc Overhage, Sravan Bodapati, Navneet Srivastava, Sahika Genc | https://arxiv.org/abs/1911.05370
+Detecting Patterns of Physiological Response to Hemodynamic Stress via Unsupervised Deep Learning | Chufan Gao, Fabian Falck, Mononito Goswami, Anthony Wertz, Michael R. Pinsky, Artur Dubrawski | https://arxiv.org/abs/1911.05121
+Learning the Graphical Structure of Electronic Health Records with Graph Convolutional Transformer | Edward Choi, Zhen Xu, Yujia Li, Michael W. Dusenberry, Gerardo Flores, Emily Xue, Andrew M. Dai | 
+Differential Privacy-enabled Federated Learning for Sensitive Health Data | Olivia Choudhury, Aris Gkoulalas-Divanis, Theodoros Salonidis, Issa Sylla, Yoonyoung Park, Grace Hsu, Amar Das | https://arxiv.org/pdf/1910.02578.pdf
+Learning from Data-Rich Problems: A Case Study on Genetic Variant Calling | Ren Yi, Pi-Chuan Chang, Gunjan Baid, Andrew Carroll | https://arxiv.org/abs/1911.05151
+Causality-based tests to detect the influence of confounders on mobile health diagnostic applications: a comparison with restricted permutations | Elias Chaibub Neto, Meghasyam Tummalacherla, Lara Mangravite, Larsson Omberg | https://arxiv.org/abs/1911.05139
+ZiMM: a deep learning model for long term adverse events with non-clinical claims data | Emmanuel Bacry, Stéphane Gaïffas, Anastasiia Kabeshova, Yiyang Yu | https://arxiv.org/abs/1911.05346
+Extracting evidence of supplement-drug interactions from literature | Lucy L. Wang, Oyvind Tafjord, Sarthak Jain, Arman Cohan, Sam Skjonsberg, Carissa Schoenick, Nick Botner, Waleed Ammar | https://arxiv.org/abs/1909.08135
+Global Saliency: Aggregating Saliency Maps to Assess Dataset Artefact Bias | Jacob Pfau, Albert T. Young, Maria L. Wei, Michael J. Keiser | https://arxiv.org/abs/1910.07604
+Harmonic Mean Point Processes: Proportional Rate Error Minimization for Obtundation Prediction | Yoonjung Kim,  Jeremy C. Weiss | 
+Evaluating robustness of language models for chief complaint extraction from patient-generated text | Ilya Valmianski, Caleb Goodwin, Ian M. Finn, Naqi Khan, Daniel S. Zisook | https://arxiv.org/abs/1911.06915
+Modelling EHR timeseries by restricting feature interaction | Kun Zhang, Yuan Xue, Gerardo Flores, Alvin Rajkomar, Claire Cui, Andrew M. Dai | https://arxiv.org/abs/1911.06410
+Domain-Relevant Embeddings for Medical Question Similarity | Clara McCreery, Namit Katariya, Anitha Kannan, Manish Chablani, Xavier Amatriain | https://arxiv.org/abs/1910.04192
+Improved Hierarchical Patient Classification with Language Model Pretraining over Clinical Notes | Jonas Kemp, Alvin Rajkomar, Andrew M. Dai | https://arxiv.org/abs/1909.03039v3
+Intelligent Pooling with Dynamic Populations: Thompson Sampling for Mobile Health | Sabina Tomkins, Peng Liao, Predrag Klasnja, Serena Yeung, Susan Murphy | 
+Long-range Prediction of Vital Signs Using Generative Boosting via LSTM Networks | Shiyu Liu and Mehul Motani | https://arxiv.org/abs/1911.06621
+Detecting cutaneous basal cell carcinomas in ultra-high resolution and weakly labelled histopathological images | Susanne Kimeswenger, Elisabeth Rumetshofer, Markus Hofmarcher, Philipp   Tschandl, Harald Kittler, Sepp Hochreiter, Wolfram Hötzenecker, Günter   Klambauer | https://arxiv.org/abs/1911.06616
+Hidden Stratification Causes Clinically Meaningful Failures in Machine Learning for Medical Imaging | Luke Oakden-Rayner*, Jared Dunnmon*, Gustavo Carneiro, Christopher Ré | https://arxiv.org/abs/1909.12475v2
+Stochastic Channel-Based Federated Learning for Medical Data Privacy Preserving | Rulin Shao, Hongyu He, Hui Liu, Dianbo Liu | https://arxiv.org/abs/1910.11160
+Embryo Staging with Weakly-Supervised Region Selection and Dynamically-Decoded Predictions | Tingfung Lau, Nathan Ng, Julian Gingold, Nina Desai, Julian McAuley, Zachary C. Lipton | https://arxiv.org/submit/2930716/view
+Open Set Diagnosis | Viraj Prabhu, Anitha Kannan, Geoffrey J. Tso, Namit Katariya, Manish Chablani, David Sontag, Xavier Amatriain | 
+Temporal PSOM - An Interpretable Clustering Method for Tracking Health States in the ICU | Laura Manduchi, Matthias Hüser, Gunnar Rätsch, Vincent Fortuin | 
+Deep Generalized Method of Moments for Instrumental Variable Analysis | Andrew Bennett, Nathan Kallus, Tobias Schnabel | 
+Assigning Medical Codes at the Encounter Level by Paying Attention to Documents | Han-Chin Shing, Guoli Wang, Philip Resnik | 
+Federated and Differentially Private Learning for Electronic Health Records | Stephen R. Pfohl, Andrew M. Dai, Katherine Heller | https://arxiv.org/abs/1911.05861
+The medical deconfounder: assessing treatment effects with electronic health records | Linying Zhang, Yixin Wang, Anna Ostropolets, Jami J. Mulgrave, David M. Blei, George Hripcsak | 
+Text2Node: a Cross-Domain System for Mapping Arbitrary Phrases to a Taxonomy | Rohollah Soltani, Alexandre Tomberg | https://arxiv.org/abs/1905.01958
+Prediction Focused Topic Models for Electronic Health Records | Jason Ren*, Russell Kunes*, Finale Doshi-Velez | 
+Granular Motor State Monitoring of Free-Living Parkinson’s Disease Patients via Deep Learning | Kamer Ali Yuksel; Jann Goschenhofer; Hrydia V. Varna; Urban Fietzek; Franz MJ Pfister | 
+Advancing Seq2seq Semantic Parsing with Joint Paraphrase Learning | So Yeon Min, Preethi Raghavan, Peter Szolovits | 
+Analyzing the Role of Model Uncertainty for Electronic Health Records | Michael W. Dusenberry, Dustin Tran, Edward Choi, Jonas Kemp, Jeremy Nixon, Ghassen Jerfel, Katherine Heller, Andrew M. Dai | https://arxiv.org/abs/1906.03842v2
+Give me (un)certainty - An exploration of parameters that affect segmentation uncertainty | Katharina V Hoebel, Ken Chang, Jay B Patel, Praveer Singh, Jayashree Kalpathy-Cramer | https://arxiv.org/abs/1911.06357
+Accelerating Psychometric Screening Tests With Bayesian Active Differential Selection | Trevor J. Larsen; Gustavo Malkomes; Dennis L. Barbour | 
+Semi-Supervised Histology Classification using Deep Multiple Instance Learning and Contrastive Predictive Coding | Ming Y. Lu, Richard J. Chen, Jingwen Wang, Debora Dillon, Faisal Mahmood  | 
+Synthesizing Histology Images from Molecular Profiles | Richard J Chen, Faisal Mahmood | 
+Deep Learning for the Digital Pathologic Diagnosis of Cholangiocarcinoma and Hepatocellular Carcinoma: Evaluating the Impact of a Web-based Diagnostic Assistant | Bora Uyumazturk, Amirhossein Kiani, Pranav Rajpurkar, Alex Wang, Robyn L. Ball, Rebecca Gao, Yifan Yu, Erik Jones, Curtis P. Langlotz, Brock Martin, Gerald J. Berry, Michael G. Ozawa,  Florette K. Hazard, Ryanne A. Brown, Simon B. Chen, Mona Wood, Libby S. Allard, Lourdes Ylagan, Andrew Y. Ng, Jeanne Shen | 
+A fully 3D multi-path convolutional neural network with feature fusion and feature weighting for automatic lesion identification in brain MRI images | Yunzhe Xue, Meiyan Xie, Fadi Farhat, Olga Boukrina, A. M. Barrett, Jeffrey R. Binder, Usman W. Roshan, William W. Graves | https://arxiv.org/abs/1907.07807v2
+A Causal Inference Framework for Antidiabetic Drug Repurposing Using Observational Data from United States Electronic Health Records | Marie Charpignon*, Sudeshna Das*, Bella Vakulenko-Lagun*, Colin Magdamo*, Deborah Blacker, Yi-Han Sheu, Stan Finkelstein, Roy Welsch, Mark Albers* | 
+Missingness as Stability: Understanding the Structure of Missingness in Longitudinal EHR data and its Impact on Reinforcement Learning in Healthcare | Scott L Fleming, Kuhan Jeyapragasan, Tony Duan, Daisy Ding, Saurabh Gombar, Nigam Shah, Emma Brunskill | 
+A semi-supervised deep learning algorithm for abnormal EEG identification | Subhrajit Roy, Kiran Kate, Martin Hirzel | https://arxiv.org/abs/1903.07822
+Synthetic Event Time Series Health Data Generation | Saloni Dash, Ritik Dutta, Isabelle Guyon, Adrien Pavao, Andrew Yale, Kristin P. Bennett | 
+Transfer Learning of fMRI Dynamics | Usman Mahmood*, Md Mahfuzur Rahman*, Alex Fedorov*, Zening Fu, Sergey Plis | https://arxiv.org/abs/1911.06813
+Fairness With Minimal Harm: A Pareto-Optimal Approach For Healthcare | Natalia Martinez, Martin Bertran, Guillermo Sapiro | https://arxiv.org/abs/1911.06935
+Bayesian Recurrent Framework for Missing Data Imputation and Prediction with Clinical Time Series | Yang Guo, Zhengyuan Liu, Pavitra Krishnswamy*, Savitha Ramasamy* | https://arxiv.org/abs/1911.07572
+Drug Repurposing for Cancer: An NLP Approach to Identify Low-Cost Therapies | Shivashankar Subramanian, Ioana Baldini, Sushma Ravichandran, Dmitriy A. Katz-Rogozhnikov, Karthikeyan Natesan Ramamurthy, Prasanna Sattigeri, Kush R. Varshney, Annmarie Wang, Pradeep Mangalath, Laura B. Kleiman | https://arxiv.org/abs/1911.07819
+Deep Learning for the Digital Pathologic Diagnosis of Cholangiocarcinoma and Hepatocellular Carcinoma: Evaluating the Impact of a Web-based Diagnostic Assistant | Bora Uyumazturk, Amirhossein Kiani, Pranav Rajpurkar, Alex Wang, Robyn L. Ball, Rebecca Gao, Yifan Yu, Erik Jones, Curtis P. Langlotz, Brock Martin, Gerald J. Berry, Michael G. Ozawa,  Florette K. Hazard, Ryanne A. Brown, Simon B. Chen, Mona Wood, Libby S. Allard, Lourdes Ylagan, Andrew Y. Ng, Jeanne Shen | https://arxiv.org/abs/1911.07372
+Prediction Focused Topic Models for Electronic Health Records | Jason Ren, Russell Kunes, Finale Doshi-Velez | https://arxiv.org/pdf/1911.08551.pdf
+Assessing Variance in Predictions of a Deep Learning Model to Identify Findings in Chest Radiography | John R. Zech, Jessica Z. Forde | 
+Deep Physiological State Space Model for Clinical Forecasting | Yuan Xue | https://arxiv.org/abs/1912.01762v1

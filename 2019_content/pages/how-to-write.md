@@ -1,5 +1,6 @@
 Title: Writing Guidelines
 Date: 2019-08-01
+SkipNavBar: 1
 
 Reviewer Instructions are now available: <a href="{filename}/pdf/reviewer_instructions.pdf"> Reviewer Instructions </a>
 

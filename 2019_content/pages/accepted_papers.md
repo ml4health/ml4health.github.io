@@ -1,68 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <!-- Required meta tags always come first -->
-  <meta charset="utf-8">
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-  <title>Papers | ML4H: Machine Learning for Health
-</title>
-  <link rel="canonical" href="../pages/papers.html">
+Title: Papers 
+Date: 2019-12-11
 
 
-
-  <link rel="stylesheet" href="../theme/css/bootstrap.min.css">
-  <link rel="stylesheet" href="../theme/css/font-awesome.min.css">
-  <link rel="stylesheet" href="../theme/css/pygments/default.min.css">
-  <link rel="stylesheet" href="../theme/css/style.css">
-  <link rel="stylesheet" href="../theme/css/custom.css">
+<!-- THIS PAGE SRC IS AUTO GENERATED. At terminal: $ make accepted_posters -->
 
 
-<meta name="description" content="We have accepted 17 papers to be included in the 2019 ML4H Proceedings to be published in PMLR. These are listed below, with links to be posted shortly. Papers will be presented as spotlight talks or poster presentations Friday Dec 13 in Vancouver. Generative Image Translation for Data Augmentation in …">
-</head>
-
-<body>
-  <header class="header">
-    <div class="container">
-      <div class="row">
-        <div class="col-xs-2">
-          <a href="../">
-            <img class="img-fluid" src=../images/logo.png alt="ML4H: Machine Learning for Health">
-          </a>
-        </div>
-        <div class="col-xs-10">
-          <h1 class="title"><a href="../">ML4H: Machine Learning for Health</a></h1>
-          <p class="text-muted">Workshop at NeurIPS 2019</p>
-          <ul class="list-inline">
-            <li class="list-inline-item"><a href="../pages/papers.html">Papers</a></li>
-            <li class="list-inline-item"><a href="../pages/extended-abstracts.html">Extended Abstracts</a></li>
-            <li class="list-inline-item"><a href="../pages/organizers.html">Organizers</a></li>
-            <li class="list-inline-item"><a href="../pages/program-committee.html">Program Committee</a></li>
-            <li class="list-inline-item"><a href="../pages/schedule.html">Schedule</a></li>
-            <li class="list-inline-item"><a href="../pages/speakers.html">Speakers</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </header>
-
-  <div class="main">
-    <div class="container">
-      <h1>Papers
-</h1>
-      <hr>
-<article class="article">
-  <div class="content">
-    <!-- THIS PAGE SRC IS AUTO GENERATED. At terminal: $ make accepted_posters -->
-
-<p>We have accepted 17 papers to be included in the 2019 ML4H Proceedings to be published in PMLR.
+We have accepted 17 papers to be included in the 2019 ML4H Proceedings to be published in PMLR.
 These are listed below, with links to be posted shortly. 
-Papers will be presented as spotlight talks or poster presentations Friday Dec 13 in Vancouver.</p>
+Papers will be presented as spotlight talks or poster presentations Friday Dec 13 in Vancouver.
+
 <div class="row display-flex" style="display:flex; display:-webkit-flex;  flex-wrap:wrap; margin-top:25px;">
 
-
+    
 
     <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
     <div class="col-xs-12 col-md-12"> 
@@ -73,8 +22,8 @@ Papers will be presented as spotlight talks or poster presentations Friday Dec 1
         </div>
     </div>
     </div>
-
-
+    
+    
 
     <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
     <div class="col-xs-12 col-md-12"> 
@@ -85,8 +34,8 @@ Papers will be presented as spotlight talks or poster presentations Friday Dec 1
         </div>
     </div>
     </div>
-
-
+    
+    
 
     <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
     <div class="col-xs-12 col-md-12"> 
@@ -97,8 +46,8 @@ Papers will be presented as spotlight talks or poster presentations Friday Dec 1
         </div>
     </div>
     </div>
-
-
+    
+    
 
     <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
     <div class="col-xs-12 col-md-12"> 
@@ -109,8 +58,8 @@ Papers will be presented as spotlight talks or poster presentations Friday Dec 1
         </div>
     </div>
     </div>
-
-
+    
+    
 
     <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
     <div class="col-xs-12 col-md-12"> 
@@ -121,8 +70,8 @@ Papers will be presented as spotlight talks or poster presentations Friday Dec 1
         </div>
     </div>
     </div>
-
-
+    
+    
 
     <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
     <div class="col-xs-12 col-md-12"> 
@@ -133,8 +82,8 @@ Papers will be presented as spotlight talks or poster presentations Friday Dec 1
         </div>
     </div>
     </div>
-
-
+    
+    
 
     <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
     <div class="col-xs-12 col-md-12"> 
@@ -145,8 +94,8 @@ Papers will be presented as spotlight talks or poster presentations Friday Dec 1
         </div>
     </div>
     </div>
-
-
+    
+    
 
     <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
     <div class="col-xs-12 col-md-12"> 
@@ -157,8 +106,8 @@ Papers will be presented as spotlight talks or poster presentations Friday Dec 1
         </div>
     </div>
     </div>
-
-
+    
+    
 
     <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
     <div class="col-xs-12 col-md-12"> 
@@ -169,8 +118,8 @@ Papers will be presented as spotlight talks or poster presentations Friday Dec 1
         </div>
     </div>
     </div>
-
-
+    
+    
 
     <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
     <div class="col-xs-12 col-md-12"> 
@@ -181,8 +130,8 @@ Papers will be presented as spotlight talks or poster presentations Friday Dec 1
         </div>
     </div>
     </div>
-
-
+    
+    
 
     <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
     <div class="col-xs-12 col-md-12"> 
@@ -193,8 +142,8 @@ Papers will be presented as spotlight talks or poster presentations Friday Dec 1
         </div>
     </div>
     </div>
-
-
+    
+    
 
     <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
     <div class="col-xs-12 col-md-12"> 
@@ -205,8 +154,8 @@ Papers will be presented as spotlight talks or poster presentations Friday Dec 1
         </div>
     </div>
     </div>
-
-
+    
+    
 
     <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
     <div class="col-xs-12 col-md-12"> 
@@ -217,8 +166,8 @@ Papers will be presented as spotlight talks or poster presentations Friday Dec 1
         </div>
     </div>
     </div>
-
-
+    
+    
 
     <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
     <div class="col-xs-12 col-md-12"> 
@@ -229,8 +178,8 @@ Papers will be presented as spotlight talks or poster presentations Friday Dec 1
         </div>
     </div>
     </div>
-
-
+    
+    
 
     <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
     <div class="col-xs-12 col-md-12"> 
@@ -241,8 +190,8 @@ Papers will be presented as spotlight talks or poster presentations Friday Dec 1
         </div>
     </div>
     </div>
-
-
+    
+    
 
     <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
     <div class="col-xs-12 col-md-12"> 
@@ -253,8 +202,8 @@ Papers will be presented as spotlight talks or poster presentations Friday Dec 1
         </div>
     </div>
     </div>
-
-
+    
+    
 
     <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
     <div class="col-xs-12 col-md-12"> 
@@ -266,32 +215,3 @@ Papers will be presented as spotlight talks or poster presentations Friday Dec 1
     </div>
     </div>
     </div>
-  </div>
-</article>
-    </div>
-  </div>
-
-  <footer class="footer">
-    <div class="container">
-      <div class="row">
-       <ul class="col-sm-6 list-inline">
-
-
-          <li class="list-inline-item"><a href="../categories.html">Categories</a></li>
-
-        </ul>
-        <p class="col-sm-6 text-sm-right text-muted">
-          <a href="https://github.com/ml4health/ml4health.github.io">
-          source on github
-          </a>
-          /
-          <a href="https://github.com/getpelican/pelican" target="_blank">powered by Pelican</a>
-          /
-          <a href="https://github.com/nairobilug/pelican-alchemy" target="_blank">&#x2728;</a>
-        </p>
-      </div>
-    </div>
-  </footer>
-</body>
-
-</html>

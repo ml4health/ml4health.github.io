@@ -42,7 +42,7 @@ Papers will be presented as spotlight talks or poster presentations Friday Dec 1
     <div class="thumbnail">
         <div class="caption">
             <h5>Privacy Preserving Human Fall Detection using Video Data</h5>
-            <p>Umar Asif;Benjamin Mashford;Stefan von Cavallar;Shivanthan Yohanandan;Subhrajit Roy;Jianbin Tang;Stefan Harrer</p>
+            <p>Umar Asif,Benjamin Mashford,Stefan von Cavallar,Shivanthan Yohanandan,Subhrajit Roy,Jianbin Tang,Stefan Harrer</p>
         </div>
     </div>
     </div>
@@ -114,7 +114,7 @@ Papers will be presented as spotlight talks or poster presentations Friday Dec 1
     <div class="thumbnail">
         <div class="caption">
             <h5>Baselines for Chest X-Ray Report Generation</h5>
-            <p>William Boag, Tzu-Ming Harry Hsu, Matthew McDermott, Gabriela Berner, Emily Alesentzer, Peter Szolovits</p>
+            <p>William Boag, Tzu-Ming Harry Hsu, Matthew McDermott, Gabriela Berner, Emily Alsentzer, Peter Szolovits</p>
         </div>
     </div>
     </div>

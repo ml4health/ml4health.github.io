@@ -1,13 +1,13 @@
 Title|Authors
 Generative Image Translation for Data Augmentation in Colorectal Histopathology Images|Jerry Wei, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, Jason Wei, Saeed Hassanpour
 Non-Invasive Silent Speech Recognition in Multiple Sclerosis with Dysphonia|Arnav Kapur, Utkarsh Sarawgi, Eric Wadkins, Matthew Wu, Nora Hollenstein, Pattie Maes
-Privacy Preserving Human Fall Detection using Video Data|Umar Asif;Benjamin Mashford;Stefan von Cavallar;Shivanthan Yohanandan;Subhrajit Roy;Jianbin Tang;Stefan Harrer
+Privacy Preserving Human Fall Detection using Video Data|Umar Asif,Benjamin Mashford,Stefan von Cavallar,Shivanthan Yohanandan,Subhrajit Roy,Jianbin Tang,Stefan Harrer
 Localization with Limited Annotation for Chest X-rays|Eyal Rozenberg, Daniel Freedman, Alex Bronstein
 Minimax Classifier with Box Constraint on the Priors|Cyprien Gilet, Susana Barbosa, Lionel Fillatre
 Generative Smoke Removal|Oleksii Sidorov, Congcong Wang, Faouzi Alaya Cheikh
 Predicting utilization of healthcare services from individual disease trajectories using RNNs with multi-headed attention|Yogesh Kumar, Henri Salo, Tuomo Nieminen, Kristian Vepsäläinen, Sangita Kulathinal, Pekka Marttinen
 Sensor Fusion using Backward Shortcut Connections for Sleep Apnea Detection in Multi-Modal data|Tom Van Steenkiste, Dirk Deschrijver, Tom Dhaene
-Baselines for Chest X-Ray Report Generation|William Boag, Tzu-Ming Harry Hsu, Matthew McDermott, Gabriela Berner, Emily Alesentzer, Peter Szolovits
+Baselines for Chest X-Ray Report Generation|William Boag, Tzu-Ming Harry Hsu, Matthew McDermott, Gabriela Berner, Emily Alsentzer, Peter Szolovits
 Pain Evaluation in Video using Extended Multitask Learning from Multidimensional Measurements|Xiaojing Xu, Jeannie S. Huang, Virginia R. de Sa
 DermGAN: Synthetic Generation of Clinical Skin Images with Pathology|Amirata Ghorbani, Vivek Natarajan, David Coz, Yuan Liu
 Retina U-Net: Embarrassingly Simple Exploitation ofSegmentation Supervision for Medical Object Detection|Paul F. Jaeger, Simon A.A. Kohl, Sebastian Bickelhaupt, Fabian Isensee, Tristan A. Kuder, Heinz-Peter Schlemmer, Klaus H. Maier-Hein

@@ -88,3 +88,7 @@ Deep Learning for the Digital Pathologic Diagnosis of Cholangiocarcinoma and Hep
 Prediction Focused Topic Models for Electronic Health Records | Jason Ren, Russell Kunes, Finale Doshi-Velez | https://arxiv.org/pdf/1911.08551.pdf
 Assessing Variance in Predictions of a Deep Learning Model to Identify Findings in Chest Radiography | John R. Zech, Jessica Z. Forde | 
 Deep Physiological State Space Model for Clinical Forecasting | Yuan Xue | https://arxiv.org/abs/1912.01762v1
+A Biologically Plausible Benchmark for Contextual Bandit Algorithms in Precision Oncology Using in-vitro Data | Niklas Rindtorff, Nisarg Patel, MingYu Lu, Huahua Zheng, Alexander D'Amour |
+Pause-Focussed Sequential Modelling for Predicting Cognitive Impairment on Limited Data | Benjamin Eyre, Aparna Balagopalan, Jekaterina Novikova |
+Inferring the Spatial Organization of Gene Expression and Mutation from Histopathology Images using Convolutional Neural Networks | Mika S. Jain, Tarik F. Massoud |
+Distributed learning in medicine: training machine learning models without sharing patient data | Anup Tuladhar, Sascha Gill, Zahinoor Ismail, Nils D. Forkert |

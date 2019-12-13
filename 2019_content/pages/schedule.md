@@ -30,7 +30,7 @@ The workshop will be held December 13 in the West Ballroom A at the Vancouver Co
         </tr>
         <tr>
             <td>10:30 - 11:00</td>
-            <td> Alan Karthikesalingam (Google Health UK) & Nenad Tomasev (Google Health)
+            <td> Cian Hughes (Google Health UK, filling in for Alan Karthikesalingam) & Nenad Tomasev (Google Health)
             </td>
         </tr>
         <tr>
@@ -87,7 +87,7 @@ The workshop will be held December 13 in the West Ballroom A at the Vancouver Co
         <tr>
             <td>16:45 - 17:45</td>
             <td>
-                Panel (Luke Oakden-Rayner, Emily Fox, Alan Karthikesalingam, Daphne Koller, Anna Goldenberg) + Closing remarks
+                Panel (Luke Oakden-Rayner, Emily Fox, Cian Hughes, Anna Goldenberg) + Closing remarks
             </td>
         </tr>
     </tbody>

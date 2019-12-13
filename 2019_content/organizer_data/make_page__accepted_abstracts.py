@@ -60,5 +60,5 @@ for i, row in csv_df.iterrows():
         """
     out_md_str += item_str
 out_md_str += close_div_str
-with open("../pages/accepted_papers.md", 'w') as f:
+with open("../pages/accepted_posters.md", 'w') as f:
     f.write(out_md_str)

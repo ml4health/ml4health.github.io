@@ -1,15 +1,15 @@
-Title: Extended Abstracts 
-Date: 2017-11-23
+Title: Papers 
+Date: 2019-12-11
 
 
-<!-- THIS PAGE SRC IS AUTO GENERATED. At terminal: $ make accepted_posters -->
+<!-- THIS PAGE SRC IS AUTO GENERATED. At terminal: $ make accepted_papers -->
 
 
 We have accepted 97 extended abstracts for presentation at the workshop.
 
 These are listed below, with links to the paper on arXiv if provided by the authors.
 
-The poster acceptances will appear at two possible poster sessions on Friday Dec. 13 in Vancouver.
+The poster acceptances will appear on Friday Dec. 13 in Vancouver.
 <ul>
 <li><a href="#session1"> Poster Session (11:30-12:30) </a></li>
 </ul>
@@ -1080,6 +1080,54 @@ The poster acceptances will appear at two possible poster sessions on Friday Dec
             <div class="caption">
                 <h5><a href=" https://arxiv.org/abs/1912.01762v1">Deep Physiological State Space Model for Clinical Forecasting </a></h5>
                 <p> Yuan Xue </p>
+            </div>
+        </div>
+        </div>
+        
+        
+
+        <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
+        <div class="col-xs-12 col-md-6"> 
+        <div class="thumbnail">
+            <div class="caption">
+                <h5>A Biologically Plausible Benchmark for Contextual Bandit Algorithms in Precision Oncology Using in-vitro Data </h5>
+                <p> Niklas Rindtorff, Nisarg Patel, MingYu Lu, Huahua Zheng, Alexander D'Amour </p>
+            </div>
+        </div>
+        </div>
+        
+        
+
+        <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
+        <div class="col-xs-12 col-md-6"> 
+        <div class="thumbnail">
+            <div class="caption">
+                <h5>Pause-Focussed Sequential Modelling for Predicting Cognitive Impairment on Limited Data </h5>
+                <p> Benjamin Eyre, Aparna Balagopalan, Jekaterina Novikova </p>
+            </div>
+        </div>
+        </div>
+        
+        
+
+        <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
+        <div class="col-xs-12 col-md-6"> 
+        <div class="thumbnail">
+            <div class="caption">
+                <h5>Inferring the Spatial Organization of Gene Expression and Mutation from Histopathology Images using Convolutional Neural Networks </h5>
+                <p> Mika S. Jain, Tarik F. Massoud </p>
+            </div>
+        </div>
+        </div>
+        
+        
+
+        <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
+        <div class="col-xs-12 col-md-6"> 
+        <div class="thumbnail">
+            <div class="caption">
+                <h5>Distributed learning in medicine: training machine learning models without sharing patient data </h5>
+                <p> Anup Tuladhar, Sascha Gill, Zahinoor Ismail, Nils D. Forkert </p>
             </div>
         </div>
         </div>

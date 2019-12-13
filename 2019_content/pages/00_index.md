@@ -50,7 +50,7 @@ save_as: index.html
 <h4>Announcements</h4>
 <div class="row">
 <div class="alert alert-info" role="alert">
-<p> <a href="./pages/program.html"> Day of Schedule </a>
+<p> <a href="./pages/schedule.html"> Day of Schedule </a>
 <p> 2019/11/30 Schedule Posted </p>
 </div>
 </div>

@@ -14,7 +14,7 @@ out_md_str += (
 out_md_str += \
 """
 We have accepted 17 papers to be included in the 2019 ML4H Proceedings to be published in PMLR.
-These are listed below, with links to be posted shortly. 
+These are listed below, with links to proof versions. These will be updated with the final links in PMLR shortly. 
 Papers will be presented as spotlight talks or poster presentations Friday Dec 13 in Vancouver.
 """
 
@@ -24,6 +24,7 @@ open_div_str = \
 """
 out_md_str += open_div_str
 close_div_str = "</div>"
+filename = "{filename}"
 
 for i, row in csv_df.iterrows():
     # print(row)
@@ -41,13 +42,14 @@ for i, row in csv_df.iterrows():
     #     </div>
     #     """
     # else:
+    print(row)
     item_str = f"""
     \n
     <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
     <div class="col-xs-12 col-md-12"> 
     <div class="thumbnail">
         <div class="caption">
-            <h5>{row.Title}</h5>
+            <h5><a href="{filename}/pdf/{row.ID}_ml4h_preprint.pdf">{row.Title}</a></h5>
             <p>{row.Authors}</p>
         </div>
     </div>

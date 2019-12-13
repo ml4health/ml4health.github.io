@@ -24,7 +24,7 @@ open_div_str = \
 """
 out_md_str += open_div_str
 close_div_str = "</div>"
-filename = "{filename}"
+static = "{static}"
 
 for i, row in csv_df.iterrows():
     # print(row)
@@ -49,7 +49,7 @@ for i, row in csv_df.iterrows():
     <div class="col-xs-12 col-md-12"> 
     <div class="thumbnail">
         <div class="caption">
-            <h5><a href="{filename}/pdf/{row.ID}_ml4h_preprint.pdf">{row.Title}</a></h5>
+            <h5><a href="{static}/pdf/{row.ID}_ml4h_preprint.pdf">{row.Title}</a></h5>
             <p>{row.Authors}</p>
         </div>
     </div>

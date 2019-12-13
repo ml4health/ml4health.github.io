@@ -4,7 +4,7 @@ import pdb
 csv_df = pd.read_csv("extended_abstracts.csv", sep="|")
 csv_df.fillna(0, inplace=True)
 
-out_md_str = "Title: Papers \nDate: 2019-12-11\n"
+out_md_str = "Title: Extended Abstracts \nDate: 2019-12-11\n"
 out_md_str += (
 """\n
 <!-- THIS PAGE SRC IS AUTO GENERATED. At terminal: $ make accepted_papers -->

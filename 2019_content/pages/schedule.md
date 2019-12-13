@@ -20,7 +20,6 @@ The workshop will be held December 13 in the West Ballroom A at the Vancouver Co
             <td> Spotlight Paper Talks </td>
         </tr>
         <tr>
-            <td> "Non-Invasive Silent Speech Recognition in Multiple Sclerosis with Dysphonia”, Arnav Kapur et al. </td>
             <td> “Transfusion: Understanding Transfer Learning for Medical Imaging”, Maithra Raghu et al. </td>
             <td> "Deep Survival Experts: A Fully Parametric Survival Regression Model”, Xinyu Li et al. </td>
         </tr>
@@ -40,6 +39,7 @@ The workshop will be held December 13 in the West Ballroom A at the Vancouver Co
         <tr>
             <td>"Privacy Preserving Human Fall Detection using Video Data”, Umar Asif et al.</td>
             <td>"Retina U-Net: Embarrassingly Simple Exploitation of Segmentation Supervision for Medical Object Detection” Paul Jäger et al.</td>
+            <td> "Generative Image Translation for Data Augmentation in Colorectal Histopathology Images”, Jerry Wei et al. </td>
         </tr>
         <tr>
             <td>11:30 - 12:30</td>
@@ -65,8 +65,8 @@ The workshop will be held December 13 in the West Ballroom A at the Vancouver Co
         </tr>
         <tr>
             <td> "Localization with Limited Annotation for Chest X-rays”, Eyal Rozenberg et al. </td>
-            <td> "Generative Image Translation for Data Augmentation in Colorectal Histopathology Images”, Jerry Wei et al. </td>
             <td> "Pain Evaluation in Video using Extended Multitask Learning from Multidimensional Measurements”, Xiaojing Xu et al. </td>
+            <td> "Non-Invasive Silent Speech Recognition in Multiple Sclerosis with Dysphonia”, Arnav Kapur et al. </td>
         </tr>
         <tr>
             <td>15:00-15:30</td>

@@ -49,7 +49,7 @@ save_as: index.html
 
 <h4>Announcements</h4>
 <div class="row">
-<div class="alert alert-info" role="alert">
+<div class="alert alert-success" role="alert">
 <p> 2019/12/16 </p>
 <p>Thank you to our authors, speakers, reviewers, and sponsors for a great 2019 workshop! Videos of the event have been posted to <a href="./pages/schedule.html">the schedule</a> for those who could not attend.</p>
 </div>
@@ -73,7 +73,8 @@ Attaching to Wall: There are no poster boards, we will have tape or some other m
 </p>
 </div>
 </div> -->
-
+<br>
+<br>
 <div class="row">
 <div class="col-md-12">
 <img src="{filename}/images/flagship.jpg" align="center">

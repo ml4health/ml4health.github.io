@@ -851,7 +851,7 @@ The poster acceptances will appear on Friday Dec. 13 in Vancouver.
         <div class="thumbnail">
             <div class="caption">
                 <h5>Advancing Seq2seq Semantic Parsing with Joint Paraphrase Learning </h5>
-                <p> So Yeon Min, Preethi Raghavan, Peter Szolovits </p>
+                <p>Anonymous Authors</p>
             </div>
         </div>
         </div>
@@ -1115,7 +1115,7 @@ The poster acceptances will appear on Friday Dec. 13 in Vancouver.
         <div class="thumbnail">
             <div class="caption">
                 <h5>Inferring the Spatial Organization of Gene Expression and Mutation from Histopathology Images using Convolutional Neural Networks </h5>
-                <p> Mika S. Jain, Tarik F. Massoud </p>
+                <p> Mika S. Jain*, Tarik F. Massoud </p>
             </div>
         </div>
         </div>
@@ -1128,6 +1128,30 @@ The poster acceptances will appear on Friday Dec. 13 in Vancouver.
             <div class="caption">
                 <h5>Distributed learning in medicine: training machine learning models without sharing patient data </h5>
                 <p> Anup Tuladhar, Sascha Gill, Zahinoor Ismail, Nils D. Forkert </p>
+            </div>
+        </div>
+        </div>
+        
+        
+
+        <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
+        <div class="col-xs-12 col-md-6"> 
+        <div class="thumbnail">
+            <div class="caption">
+                <h5>Task incremental learning of ChestX-ray data on compact architectures </h5>
+                <p> Arijit Patra, Siva M Chamarti </p>
+            </div>
+        </div>
+        </div>
+        
+        
+
+        <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
+        <div class="col-xs-12 col-md-6"> 
+        <div class="thumbnail">
+            <div class="caption">
+                <h5>Integration and batch correction of scRNA-seq data with style-transfer Wasserstein Auto-Encoders </h5>
+                <p> Can Ergen, Pierre Machart, Mohamed Marouf, Stefan Bonn </p>
             </div>
         </div>
         </div>

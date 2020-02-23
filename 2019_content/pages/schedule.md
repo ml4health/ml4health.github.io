@@ -13,13 +13,11 @@ The workshop will be held December 13 in the West Ballroom A at the Vancouver Co
         </tr>
         <tr>
             <td>08:45 - 09:15</td>
-            <td><a href="https://slideslive.com/38921878/machine-learning-for-health-ml4h-what-makes-machine-learning-in-medicine-different-1?t=634s
-">Daphne Koller (insitro)</a></td>
+            <td><a href="https://slideslive.com/38923235/machine-learning-a-new-approach-to-drug-discovery">Daphne Koller (insitro)</a></td>
         </tr>
         <tr>
             <td>9:15 - 9:45 </td>
-            <td><a href="https://slideslive.com/38921878/machine-learning-for-health-ml4h-what-makes-machine-learning-in-medicine-different-1?t=2623s
-">Spotlight Paper Talks</a>
+            <td><a href="https://slideslive.com/38923236/spotlight-paper-talks">Spotlight Paper Talks</a>
         <tr>
             <td>“Transfusion: Understanding Transfer Learning for Medical Imaging”, Maithra Raghu et al. </td>
             <td> "Deep Survival Experts: A Fully Parametric Survival Regression Model”, Xinyu Li et al. </td>
@@ -37,7 +35,7 @@ The workshop will be held December 13 in the West Ballroom A at the Vancouver Co
         </tr>
         <tr>
             <td>11:00 - 11:30</td>
-            <td> <a href="https://slideslive.com/38921879/machine-learning-for-health-ml4h-what-makes-machine-learning-in-medicine-different-2?t=2201s">Spotlight Paper Talks</a>
+            <td> <a href="https://slideslive.com/38923239/spotlight-paper-talks">Spotlight Paper Talks</a>
 <tr><td>"Privacy Preserving Human Fall Detection using Video Data”, Umar Asif et al. </td>
 <td>"Retina U-Net: Embarrassingly Simple Exploitation of Segmentation Supervision for Medical Object Detection” Paul Jäger et al.</td>
 <td>"Generative Image Translation for Data Augmentation in Colorectal Histopathology Images”, Jerry Wei et al.</td>
@@ -59,12 +57,11 @@ The workshop will be held December 13 in the West Ballroom A at the Vancouver Co
         </tr>
         <tr>
             <td>14:00-14:30</td>
-            <td> <a href="https://slideslive.com/38921880/machine-learning-for-health-ml4h-what-makes-machine-learning-in-medicine-different-3?t=1950s
-">Luke Oakden-Rayner (Royal Adelaide Hospital, University of Adelaide) </a></td>
+            <td> <a href="https://slideslive.com/38923243/preventing-disasters-why-safety-is-the-foundation-of-medical-machine-learning">Luke Oakden-Rayner (Royal Adelaide Hospital, University of Adelaide) </a></td>
         </tr>
         <tr>
             <td>14:30-15:00</td>
-            <td> <a href="https://slideslive.com/38921880/machine-learning-for-health-ml4h-what-makes-machine-learning-in-medicine-different-3?t=3485s
+            <td> <a href="https://slideslive.com/38923241/spotlight-paper-talks
 ">Spotlight Paper Talks</a>
             </td>
         </tr>
@@ -74,8 +71,7 @@ The workshop will be held December 13 in the West Ballroom A at the Vancouver Co
                 </tr>
         <tr>
             <td>15:00-15:30</td>
-            <td> <a href="https://slideslive.com/38921880/machine-learning-for-health-ml4h-what-makes-machine-learning-in-medicine-different-3?t=5145s
-">Anna Goldenberg (SickKids Research Institute)</a>
+            <td> <a href="https://slideslive.com/38923245/predicting-cardiac-arrest-design-for-deployment">Anna Goldenberg (SickKids Research Institute)</a>
             </td>
         </tr>
         <tr>
@@ -93,7 +89,7 @@ The workshop will be held December 13 in the West Ballroom A at the Vancouver Co
         <tr>
             <td>16:45 - 17:45</td>
             <td>
-                <a href="https://slideslive.com/38921881/machine-learning-for-health-ml4h-what-makes-machine-learning-in-medicine-different-4?t=2190s">Panel (Luke Oakden-Rayner, Emily Fox, Cian Hughes, Anna Goldenberg) + Closing remarks</a>
+                <a href="https://slideslive.com/38923244/panel">Panel (Luke Oakden-Rayner, Emily Fox, Cian Hughes, Anna Goldenberg) + Closing remarks</a>
             </td>
         </tr>
     </tbody>

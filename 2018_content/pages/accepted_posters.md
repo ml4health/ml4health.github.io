@@ -366,7 +366,7 @@ Remember to follow the <a href="poster-and-slide-instructions.html">poster and s
 <div class="thumbnail">
     <div class="caption">
         <h5><a href="https://arxiv.org/abs/1812.00475"> Multiple Instance Learning for ECG Risk Stratification</a></h5>
-        <p>Divya Shanmugam, Davis Blalock and John Guttag</p>
+        <p>Divya Shanmugam, Davis Blalock, Jen J. Gong, John Guttag</p>
     </div>
 </div>
 </div>

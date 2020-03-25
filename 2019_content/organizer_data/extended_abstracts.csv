@@ -68,7 +68,7 @@ The medical deconfounder: assessing treatment effects with electronic health rec
 Text2Node: a Cross-Domain System for Mapping Arbitrary Phrases to a Taxonomy | Rohollah Soltani, Alexandre Tomberg | https://arxiv.org/abs/1905.01958
 Prediction Focused Topic Models for Electronic Health Records | Jason Ren*, Russell Kunes*, Finale Doshi-Velez | 
 Granular Motor State Monitoring of Free-Living Parkinson’s Disease Patients via Deep Learning | Kamer Ali Yuksel; Jann Goschenhofer; Hrydia V. Varna; Urban Fietzek; Franz MJ Pfister | 
-Advancing Seq2seq Semantic Parsing with Joint Paraphrase Learning | So Yeon Min, Preethi Raghavan, Peter Szolovits | 
+Advancing Seq2seq Semantic Parsing with Joint Paraphrase Learning |Anonymous Authors| 
 Analyzing the Role of Model Uncertainty for Electronic Health Records | Michael W. Dusenberry, Dustin Tran, Edward Choi, Jonas Kemp, Jeremy Nixon, Ghassen Jerfel, Katherine Heller, Andrew M. Dai | https://arxiv.org/abs/1906.03842v2
 Give me (un)certainty - An exploration of parameters that affect segmentation uncertainty | Katharina V Hoebel, Ken Chang, Jay B Patel, Praveer Singh, Jayashree Kalpathy-Cramer | https://arxiv.org/abs/1911.06357
 Accelerating Psychometric Screening Tests With Bayesian Active Differential Selection | Trevor J. Larsen; Gustavo Malkomes; Dennis L. Barbour | 
@@ -88,7 +88,9 @@ Deep Learning for the Digital Pathologic Diagnosis of Cholangiocarcinoma and Hep
 Prediction Focused Topic Models for Electronic Health Records | Jason Ren, Russell Kunes, Finale Doshi-Velez | https://arxiv.org/pdf/1911.08551.pdf
 Assessing Variance in Predictions of a Deep Learning Model to Identify Findings in Chest Radiography | John R. Zech, Jessica Z. Forde | 
 Deep Physiological State Space Model for Clinical Forecasting | Yuan Xue | https://arxiv.org/abs/1912.01762v1
-A Biologically Plausible Benchmark for Contextual Bandit Algorithms in Precision Oncology Using in-vitro Data | Niklas Rindtorff, Nisarg Patel, MingYu Lu, Huahua Zheng, Alexander D'Amour |
-Pause-Focussed Sequential Modelling for Predicting Cognitive Impairment on Limited Data | Benjamin Eyre, Aparna Balagopalan, Jekaterina Novikova |
-Inferring the Spatial Organization of Gene Expression and Mutation from Histopathology Images using Convolutional Neural Networks | Mika S. Jain, Tarik F. Massoud |
-Distributed learning in medicine: training machine learning models without sharing patient data | Anup Tuladhar, Sascha Gill, Zahinoor Ismail, Nils D. Forkert |
+A Biologically Plausible Benchmark for Contextual Bandit Algorithms in Precision Oncology Using in-vitro Data | Niklas Rindtorff, Nisarg Patel, MingYu Lu, Huahua Zheng, Alexander D'Amour | 
+Pause-Focussed Sequential Modelling for Predicting Cognitive Impairment on Limited Data | Benjamin Eyre, Aparna Balagopalan, Jekaterina Novikova | 
+Inferring the Spatial Organization of Gene Expression and Mutation from Histopathology Images using Convolutional Neural Networks | Mika S. Jain*, Tarik F. Massoud | 
+Distributed learning in medicine: training machine learning models without sharing patient data | Anup Tuladhar, Sascha Gill, Zahinoor Ismail, Nils D. Forkert | 
+Task incremental learning of ChestX-ray data on compact architectures | Arijit Patra, Siva M Chamarti | 
+Integration and batch correction of scRNA-seq data with style-transfer Wasserstein Auto-Encoders | Can Ergen, Pierre Machart, Mohamed Marouf, Stefan Bonn | 

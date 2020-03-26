@@ -1990,7 +1990,7 @@ Sendhil Mullainathan</p>
 <div class="col-xs-12 col-md-6"> 
 <div class="thumbnail">
     <div class="caption">
-        <h5><a href=""> Generalizability of predictive models for intensive care unit patients</a></h5>
+        <h5><a href="https://arxiv.org/abs/1812.02275"> Generalizability of predictive models for intensive care unit patients</a></h5>
         <p>Alistair Johnson, Tom Pollard and Tristan Naumann</p>
     </div>
 </div>

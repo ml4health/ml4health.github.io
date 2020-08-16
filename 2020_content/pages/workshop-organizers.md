@@ -31,7 +31,7 @@ for helping peer review all submissions. -->
             align="center">
         <div class="caption">
             <h5>Allen Schmaltz</h5>
-            <p>Postdoctoral Scholar, Harvard University
+            <p>Postdoc, Harvard University
             <br />
             <emph>Finance Chair</emph>
             </p>

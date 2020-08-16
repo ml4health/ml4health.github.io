@@ -1,13 +1,17 @@
 This repository contains all the source materials for NIPS ML4Health workshop website. 
 
-# Usage for 2019
+# Usage for 2020
 
 Creating new folder for a new year
-1. Copied the `2018_content` to `2019_content`.
-2. Alter in `Makefile` to put to year 2019. Change link in `./index.html`. Switch years in `pelicanconf.py`
+1. Copied the `2019_content` to `2020_content`.
+2. Alter in `Makefile` to put to year 2020. Change link in `./index.html`. Switch years in `pelicanconf.py`
+3. Edit homepage in `2020_content/pages/00_index.md`. Remove pages you don't need right now. You can always recopy them from `2019_content`
+4. Website should initially have dates, schedule, speakers, and organizers. Add call for papers when ready.
+  - Wnat to change the order of pages in toolbar? Alphabetical by page filename.
+  - 
 
 Editing an existing page
-1. Make edits on page in `2019_content/pages/`
+1. Make edits on page in `2020_content/pages/`
 2. `make html` in root. `make serve` to check it looks fine. Then push to public.
 
 Adding a page from the 2018 website

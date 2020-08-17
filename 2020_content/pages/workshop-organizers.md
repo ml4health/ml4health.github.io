@@ -178,8 +178,6 @@ for helping peer review all submissions. -->
         <div class="caption">
             <h5>Andrew Beam</h5>
             <p>Harvard Medicine, Faculty
-            <br />
-            <emph>Senior Advisory Committee</emph>
             </p>
             <p></p>
         </div>
@@ -201,8 +199,6 @@ for helping peer review all submissions. -->
         <div class="caption">
             <h5>Brett K. Beaulieu-Jones</h5>
             <p>Harvard Medicine, Research Fellow
-            <br />
-            <emph>Senior Advisory Committee</emph>
             </p>
             <p></p>
         </div>
@@ -224,8 +220,6 @@ for helping peer review all submissions. -->
         <div class="caption">
             <h5>Danielle Belgrave</h5>
             <p>Microsoft Research, Principal Research Manager
-            <br />
-            <emph>Senior Advisory Committee</emph>
             </p>
             <p></p>
         </div>
@@ -247,8 +241,6 @@ for helping peer review all submissions. -->
         <div class="caption">
             <h5>Anna Goldenberg</h5>
             <p>University of Toronto, Associate Professor
-            <br />
-            <emph>Senior Advisory Committee</emph>
             </p>
             <p></p>
         </div>
@@ -270,8 +262,6 @@ for helping peer review all submissions. -->
         <div class="caption">
             <h5>Tristan Naumann</h5>
             <p>Microsoft Research, Senior Researcher
-            <br />
-            <emph>Senior Advisory Committee</emph>
             </p>
             <p></p>
         </div>

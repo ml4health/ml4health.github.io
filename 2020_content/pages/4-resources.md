@@ -1,6 +1,14 @@
 Title: Resources
 Date: 2018-06-01
 
+### Previous years' workshops
+
+Prior years' workshop are archived on this website:
+
+ - [2017](https://ml4health.github.io/2017)
+ - [2018](https://ml4health.github.io/2018)
+ - [2019](https://ml4health.github.io/2019)
+
 ### Other NeurIPS 2020 workshops
 
 <p>For participants interested in this workshop, we wanted to highlight other related NeurIPS 2020 workshops:</p>

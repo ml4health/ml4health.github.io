@@ -51,7 +51,13 @@ To this end, we will actively encourage the submission and presentation of new w
 Awards
 ------
 
-For the first time, ML4H will grant awards to exceptional submissions and reviewers.
+For the first time, thanks to sponsorship from Roche, ML4H will grant awards to exceptional submissions and reviewers. In particular, at this time we plan to feature the following awards:
+
+-   Best Newcomer Submission: This award will honor the best submission from either track with a first author who has not had prior work accepted to the workshop before.
+
+-   Best Thematic Submission: This award will honor the best submission from either track that is aligned with this year's theme: Advancing Healthcare for All.
+
+-   Top Reviewer Award: This award will honor the top reviewers according to review quality.
 
 Awardees will be recognized at the event directly, and more prizes may be announced at a later date. Check back in later to learn more details!
 

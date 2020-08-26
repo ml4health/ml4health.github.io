@@ -6,7 +6,7 @@ csv_df = csv_df.fillna('') # Fill missing values with blanks
 csv_df['WORKSHOP_ROLE'] = csv_df['WORKSHOP_ROLE'].astype('str')
 csv_df['LASTNAME'] = [name.split()[-1] for name in csv_df['NAME'].values]
 
-csv_df.sort_values(["WORKSHOP_ROLE", "LASTNAME"], inplace=True)
+csv_df.sort_values(["LASTNAME"], inplace=True)
 
 # Two categories: main folks with defined roles and aux folks
 main_team_df = csv_df.query("WORKSHOP_ROLE != '' & WORKSHOP_ROLE != 'Senior Advisory Committee'")
@@ -100,6 +100,7 @@ out_md_str += "\n<h2><a name='primary'>Primary Organizers</a></h2>"
 ## Main team names, images, + links
 out_md_str += '\n\n\n<div class="container">'
 out_md_str += '\n<div class="row display-flex">'
+
 for item_id, row_obj in enumerate(main_team_df.to_dict('records')):
     row_dict = row_obj
     item_str = main_item_template_str + ""

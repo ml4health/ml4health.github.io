@@ -23,40 +23,17 @@ for helping peer review all submissions. -->
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
     <div class="col-xs-6 col-md-4"> 
     <div class="thumbnail">
-        <a href="https://scholar.harvard.edu/allen_schmaltz/home">
+        <a href="https://emilyalsentzer.github.io/">
         <img 
-            src="{static}/images/headshots_200x200/allen.jpg"
-            alt="Allen Schmaltz headshot"
+            src="{static}/images/headshots_200x200/emily.jpg"
+            alt="Emily Alsentzer headshot"
             style="width:88%"
             align="center">
         <div class="caption">
-            <h5>Allen Schmaltz</h5>
-            <p>Postdoc, Harvard University
+            <h5>Emily Alsentzer</h5>
+            <p>MIT, PhD Student
             <br />
-            <emph>Finance Chair</emph>
-            </p>
-            <p></p>
-        </div>
-        </a>
-    </div>
-    </div>
-
-
-
-    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
-    <div class="col-xs-6 col-md-4"> 
-    <div class="thumbnail">
-        <a href="http://apeiroto.pe/">
-        <img 
-            src="{static}/images/headshots_200x200/stephanie.jpg"
-            alt="Stephanie Hyland headshot"
-            style="width:88%"
-            align="center">
-        <div class="caption">
-            <h5>Stephanie Hyland</h5>
-            <p>Microsoft Research, 
-            <br />
-            <emph>General Chair</emph>
+            <emph>Senior Program Chair</emph>
             </p>
             <p></p>
         </div>
@@ -92,17 +69,17 @@ for helping peer review all submissions. -->
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
     <div class="col-xs-6 col-md-4"> 
     <div class="thumbnail">
-        <a href=" https://emilyalsentzer.github.io/">
+        <a href="http://apeiroto.pe/">
         <img 
-            src="{static}/images/headshots_200x200/emily.jpg"
-            alt="Emily Alsentzer headshot"
+            src="{static}/images/headshots_200x200/stephanie.jpg"
+            alt="Stephanie Hyland headshot"
             style="width:88%"
             align="center">
         <div class="caption">
-            <h5>Emily Alsentzer</h5>
-            <p>MIT, PhD Student
+            <h5>Stephanie Hyland</h5>
+            <p>Microsoft Research, 
             <br />
-            <emph>Senior Program Chair</emph>
+            <emph>General Chair</emph>
             </p>
             <p></p>
         </div>
@@ -115,7 +92,7 @@ for helping peer review all submissions. -->
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
     <div class="col-xs-6 col-md-4"> 
     <div class="thumbnail">
-        <a href=" https://scholar.google.com/citations?user=_V96PXoAAAAJ&hl=en">
+        <a href="https://scholar.google.com/citations?user=_V96PXoAAAAJ&hl=en">
         <img 
             src="{static}/images/headshots_200x200/matthew.jpg"
             alt="Matthew McDermott headshot"
@@ -149,6 +126,52 @@ for helping peer review all submissions. -->
             <p>Mila/McGill, PhD Student
             <br />
             <emph>Virtual Chair</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="https://spfohl.github.io/">
+        <img 
+            src="{static}/images/headshots_200x200/stephen.jpg"
+            alt="Stephen Pfohl headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Stephen Pfohl</h5>
+            <p>PhD Student, Stanford
+            <br />
+            <emph>Reviewer Mentorship</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="https://scholar.harvard.edu/allen_schmaltz/home">
+        <img 
+            src="{static}/images/headshots_200x200/allen.jpg"
+            alt="Allen Schmaltz headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Allen Schmaltz</h5>
+            <p>Postdoc, Harvard University
+            <br />
+            <emph>Finance Chair</emph>
             </p>
             <p></p>
         </div>

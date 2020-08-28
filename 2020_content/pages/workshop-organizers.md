@@ -184,6 +184,29 @@ for helping peer review all submissions. -->
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
     <div class="col-xs-6 col-md-4"> 
     <div class="thumbnail">
+        <a href="http://suproteem.is/researching">
+        <img 
+            src="{static}/images/headshots_200x200/suproteem.jpg"
+            alt="Suproteem Sarkar headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Suproteem Sarkar</h5>
+            <p>Harvard, PhD Student
+            <br />
+            <emph>Statistics/Surveys</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
         <a href="https://scholar.harvard.edu/allen_schmaltz/home">
         <img 
             src="{static}/images/headshots_200x200/allen.jpg"

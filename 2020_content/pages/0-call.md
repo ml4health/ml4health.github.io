@@ -4,7 +4,7 @@ Date: 2018-06-01
 
 ML4H 2020 invites submissions describing innovative machine learning research focused on relevant problems in health and biomedicine. Similar to the previous year, ML4H 2020 will both accept papers for a formal proceedings as well as accepting traditional, non-archival extended abstract submissions. Authors are invited to submit works for either track provided the work fits within the purview of Machine Learning for Health. In addition, we especially solicit works that speak to this year's ML4H theme: Advancing Healthcare for All.
 
-We are also piloting mentorship programs for authors and reviewers. See <https://ml4health.github.io/pages/mentorship.html> for additional details.
+We are also piloting mentorship programs for authors and reviewers. See <https://ml4health.github.io/pages/2020/mentorship.html> for additional details.
 
 Important Dates
 ---------------

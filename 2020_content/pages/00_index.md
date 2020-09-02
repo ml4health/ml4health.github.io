@@ -11,7 +11,7 @@ save_as: index.html
             ML4H 2020: a workshop at
             <a href="https://neurips.cc">NeurIPS 2020</a>
         </b> <br>
-    December 2020 <br>
+    Fri December 11, 2020 <br>
     Virtual Conference, Anywhere, Earth
     </p>
     <p>This workshop will bring together machine learning researchers, clinicians, and healthcare data experts. The program consists of invited talks, contributed posters, and panel discussions.
@@ -69,10 +69,11 @@ Attaching to Wall: There are no poster boards, we will have tape or some other m
 </p>
 </div>
 </div> -->
-<!-- <br>
+<br>
 <br>
 <div class="row">
 <div class="col-md-12">
-<img src="{static}/images/flagship.jpg" align="center">
-<p> ML4H 2019 is proudly sponsored by Flagship Pioneering. Flagship Pioneering is a team of pioneering scientists and professionals who build companies that transform human health and sustainability. </p>
-</div> -->
+<img src="{static}/images/roche.png" align="center">
+<p> ML4H 2020 is proudly sponsored by Roche. Roche is the world’s largest biotech company, with truly differentiated medicines in oncology, immunology, infectious diseases, ophthalmology and neuroscience.
+ </p>
+</div>

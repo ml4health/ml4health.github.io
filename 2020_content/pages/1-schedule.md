@@ -2,7 +2,7 @@ Title: Schedule
 Date: 2018-08-01
 <!-- 25 minutes + 5 for invited -->
 
-<p> The workshop will be held December 11 or 12 virtually. Tenative schedule is below with possible changes to accommodate virtual format better. Time zone TBD.</p>
+<p> The workshop will be held December 11 virtually. Tenative schedule is below with possible changes to accommodate virtual format better. Time zone TBD.</p>
 
 <p> Videos will be posted here after the conference.</p>
 

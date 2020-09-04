@@ -1,5 +1,6 @@
 Title: Resources
 Date: 2018-06-01
+SkipNavBar: 1
 
 ### Previous years' workshops
 

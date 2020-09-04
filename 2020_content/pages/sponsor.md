@@ -10,20 +10,20 @@ Roche is a leader in research-focused healthcare with combined strengths in phar
 Personalised Healthcare and its impact on people’s lives will only become a reality, if all stakeholders work together. Roche is engaging in partnerships to leverage the power of real world data and  artificial intelligence that can answer some of the most important questions in science and healthcare. 
 
 
-At the same time, it is Roche's unshakeable commitment to be a trusted partner for patients and society by fulfilling the highest standards in terms of protecting the privacy of data shared by patients. For Roche, this is not just an opportunity, it’s an obligation to get this right.
-
-
-Subscribe to Roche's YouTube channel now: https://www.youtube.com/user/roche?sub_confirmation=1
+At the same time, it is Roche's unshakeable commitment to be a trusted partner for patients and society by fulfilling the highest standards in terms of protecting the privacy of data shared by patients. For Roche, this is not just an opportunity, it’s an obligation to get this right. 
 
 
 Get in touch with Roche: 
+
  - https://www.roche.com/ 
  - https://www.facebook.com/RocheCareers
  - https://www.linkedin.com/company/roche
  - https://twitter.com/roche
+ - https://www.youtube.com/user/roche
 
 
 For more information and insights visit:
+
  - https://www.roche.com/
  - https://www.roche.com/careers.htm
  - https://code4life.roche.com/getting-ai-products-to-our-patients

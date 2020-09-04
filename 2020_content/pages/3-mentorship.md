@@ -6,7 +6,9 @@ Date: 2020-08-20
 <p>If you are interested in participating as a mentor or a mentee, please fill <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5zX4B5_VVdbu0V0_66b2i9jtPqnzOvTs1NeXHOCTvQicHUQ/viewform">this interest form</a>, and we will be in touch with additional details.</p>
 
 
-### Submission Mentorship Program
+Submission Mentorship Program
+-----------------------------
+
 The aim of the Submission Mentorship Program is to pair-up less experienced authors with senior researchers that can provide feedback on their submission to the workshop, with the overall goal of improving submission quality and fostering future collaboration and mentorship. If you would like to be involved, please apply using one of the following forms.
 
 ##### Application forms
@@ -41,7 +43,8 @@ Additional resources and guidelines will be provided to the mentors and mentees 
 - September 18th: deadline for mentee to send submission draft to mentor.
 - September 25th: deadline for mentor to send and discuss feedback with mentee in a subsequent call. 
 
-### ML4H Reviewer Mentorship Program
+Reviewer Mentorship Program
+---------------------------
 
 The purpose of the reviewer mentorship program is to train junior reviewers, foster new connections and relationships in the ML4H community, and ultimately improve the quality of the review process. 
 
@@ -49,7 +52,7 @@ The purpose of the reviewer mentorship program is to train junior reviewers, fos
 ###### Mentees
 Mentees are expected to share the PDFs of their assigned papers at the beginning of the review period and to share drafts of their reviews at least one week prior to the end of the review period (by October 9) so that there is time for revision following discussion with their mentor. Mentees are expected to meet with their mentor over a video call to discuss the papers and receive feedback on their reviews. Mentees are expected to update their reviews and share final versions with their mentor prior to submission
 ###### Mentors
-Mentors are expected to read the papers and the reviews that their mentee shares with them. Mentors are expected to provide thoughtful and constructive feedback on the reviews that their mentee shares with them. The provided feedback is expected to assess the scientific validity of the reviews and whether they adhere to reviewer guidelines and best practices.
+Mentors are expected to read the papers and the reviews that their mentee shares with them. Mentors are expected to provide thoughtful and constructive feedback on the reviews that their mentee shares with them. The provided feedback is expected to assess the scientific validity of the reviews and whether they adhere to the reviewer guidelines and best practices.
 ###### Joint Expectations
 Mentors and mentees are expected to jointly agree upon a date and time to meet to discuss the reviews on or before October 14. Both members are expected to be timely, thorough, and constructive in their reviews and feedback.
 

@@ -1,4 +1,4 @@
-Title: Sponsor
+Title: Sponsorship
 Date: 2018-06-01
 
 We are grateful to Roche for the support for this year's 2020 ML4H workshop.

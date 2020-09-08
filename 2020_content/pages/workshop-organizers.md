@@ -92,7 +92,7 @@ for helping peer review all submissions. -->
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
     <div class="col-xs-6 col-md-4"> 
     <div class="thumbnail">
-        <a href="www.fabianfalck.com">
+        <a href="https://www.fabianfalck.com">
         <img 
             src="{static}/images/headshots_200x200/fabian.jpg"
             alt="Fabian Falck headshot"
@@ -138,7 +138,7 @@ for helping peer review all submissions. -->
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
     <div class="col-xs-6 col-md-4"> 
     <div class="thumbnail">
-        <a href="danikiyasseh.github.io">
+        <a href="https://danikiyasseh.github.io">
         <img 
             src="{static}/images/headshots_200x200/dani.jpg"
             alt="Dani Kiyasseh headshot"

@@ -100,7 +100,7 @@ for helping peer review all submissions. -->
             align="center">
         <div class="caption">
             <h5>Fabian Falck</h5>
-            <p>Oxford, Research Assistant
+            <p>Oxford, PhD Student
             <br />
             <emph>Organizer</emph>
             </p>

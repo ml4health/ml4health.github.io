@@ -54,7 +54,7 @@ for helping peer review all submissions. -->
             align="center">
         <div class="caption">
             <h5>Ioana Bica</h5>
-            <p>PhD Student, Oxford
+            <p>Oxford, PhD Student
             <br />
             <emph>Submission Mentorship</emph>
             </p>
@@ -146,7 +146,7 @@ for helping peer review all submissions. -->
             align="center">
         <div class="caption">
             <h5>Dani Kiyasseh</h5>
-            <p>PhD Student, Oxford
+            <p>Oxford, PhD Student
             <br />
             <emph>Email Coordinator</emph>
             </p>
@@ -215,7 +215,7 @@ for helping peer review all submissions. -->
             align="center">
         <div class="caption">
             <h5>Stephen Pfohl</h5>
-            <p>PhD Student, Stanford
+            <p>Stanford, PhD Student
             <br />
             <emph>Reviewer Mentorship</emph>
             </p>
@@ -261,7 +261,7 @@ for helping peer review all submissions. -->
             align="center">
         <div class="caption">
             <h5>Allen Schmaltz</h5>
-            <p>Postdoc, Harvard University
+            <p>Harvard University, Postdoc
             <br />
             <emph>Finance Chair</emph>
             </p>

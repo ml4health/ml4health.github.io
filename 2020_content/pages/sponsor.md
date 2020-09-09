@@ -24,12 +24,8 @@ Get in touch with Roche:
 
 For more information and insights visit:
 
- - https://www.roche.com/
- - https://www.roche.com/careers.htm
- - https://code4life.roche.com/getting-ai-products-to-our-patients
- - https://code4life.roche.com/making-data-meaningful-takes-teamwork
- - https://code4life.roche.com/there-is-always-room-for-improvement
- - [How machine learning is transforming healthcare](https://www.roche.com/about/priorities/personalised_healthcare/machine-learning.htm)
+ - https://code4life.roche.com/
+ - https://www.roche.com/about/priorities/personalised_healthcare/machine-learning.htm
 
 <!-- 
 Code for Life

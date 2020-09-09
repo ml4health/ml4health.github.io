@@ -102,7 +102,7 @@ for helping peer review all submissions. -->
             <h5>Fabian Falck</h5>
             <p>Oxford, PhD Student
             <br />
-            <emph>Organizer</emph>
+            <emph>Submission System</emph>
             </p>
             <p></p>
         </div>

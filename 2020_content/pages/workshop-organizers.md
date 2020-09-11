@@ -31,7 +31,7 @@ for helping peer review all submissions. -->
             align="center">
         <div class="caption">
             <h5>Benjamin Akera</h5>
-            <p>Mila/Université de Montreal, Research Visitor
+            <p>Mila, Research Visitor
             <br />
             <emph>Virtualization</emph>
             </p>

@@ -18,7 +18,7 @@ The aim of the Submission Mentorship Program is to pair-up less experienced auth
     - Eligibility for mentors: 2+ accepted papers in conference proceedings
 
 ##### Application deadline
-The deadline for mentors and mentees to fill in the corresponding application form is Sept 11th. The mentees will be paired up with mentors by Sept 14th.
+The deadline for mentors and mentees to fill in the corresponding application form is Sept 14th. The mentees will be paired up with mentors by Sept 15th.
 
 ##### Expectations
 ###### Mentees

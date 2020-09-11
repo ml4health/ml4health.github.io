@@ -4,7 +4,15 @@ csv_df = pd.read_csv("organizers.csv")
 csv_df = csv_df.fillna('') # Fill missing values with blanks
 
 csv_df['WORKSHOP_ROLE'] = csv_df['WORKSHOP_ROLE'].astype('str')
-csv_df['LASTNAME'] = [name.split()[-1] for name in csv_df['NAME'].values]
+
+def get_lastname(s):
+    s_split = s.split()
+    if len(s_split) < 3:
+        return s_split[-1]
+    else:
+        return ' '.join(s_split[2:])
+
+csv_df['LASTNAME'] = [get_lastname(name) for name in csv_df['NAME'].values]
 
 csv_df.sort_values(["LASTNAME"], inplace=True)
 

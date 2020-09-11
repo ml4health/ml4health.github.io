@@ -31,7 +31,7 @@ for helping peer review all submissions. -->
             align="center">
         <div class="caption">
             <h5>Benjamin Akera</h5>
-            <p>Mila, Research Visitor
+            <p>Mila/UdeM, Research Visitor
             <br />
             <emph>Virtualization</emph>
             </p>
@@ -57,6 +57,29 @@ for helping peer review all submissions. -->
             <p>MIT, PhD Student
             <br />
             <emph>Senior Program Chair</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="">
+        <img 
+            src="{static}/images/headshots_200x200/oliver.jpg"
+            alt="Oliver J. Bear Don't Walk IV headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Oliver J. Bear Don't Walk IV</h5>
+            <p>Columbia, PhD student
+            <br />
+            <emph>Virtualization</emph>
             </p>
             <p></p>
         </div>
@@ -287,29 +310,6 @@ for helping peer review all submissions. -->
             <p>Harvard University, Postdoc
             <br />
             <emph>Finance Chair</emph>
-            </p>
-            <p></p>
-        </div>
-        </a>
-    </div>
-    </div>
-
-
-
-    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
-    <div class="col-xs-6 col-md-4"> 
-    <div class="thumbnail">
-        <a href="">
-        <img 
-            src="{static}/images/headshots_200x200/oliver.jpg"
-            alt="Oliver Bear Don't Walk headshot"
-            style="width:88%"
-            align="center">
-        <div class="caption">
-            <h5>Oliver Bear Don't Walk</h5>
-            <p>Columbia, PhD student
-            <br />
-            <emph>Virtualization</emph>
             </p>
             <p></p>
         </div>

@@ -276,6 +276,29 @@ for helping peer review all submissions. -->
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
     <div class="col-xs-6 col-md-4"> 
     <div class="thumbnail">
+        <a href="https://aahladmanas.github.io/">
+        <img 
+            src="{static}/images/headshots_200x200/aahlad.jpg"
+            alt="Aahlad Manas Puli headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Aahlad Manas Puli</h5>
+            <p>NYU, PhD Student
+            <br />
+            <emph>Finance Coordinator</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
         <a href="http://suproteem.is/researching">
         <img 
             src="{static}/images/headshots_200x200/suproteem.jpg"

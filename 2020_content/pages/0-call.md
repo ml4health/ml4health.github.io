@@ -68,7 +68,7 @@ We strongly encourage examining this document, as they will also be used to comm
 
 ### Proceedings Track
 
-Full proceedings papers can be up to 8 pages (excluding references). Excellent ML4H Proceedings papers should be compelling, cohesive works with a high degree of technical sophistication as well as clear and high-impact relevance to healthcare. Accepted proceedings papers will be published in the Proceedings for Machine Learning Research (PMLR).
+Full proceedings papers can be up to 9 pages (excluding references). Excellent ML4H Proceedings papers should be compelling, cohesive works with a high degree of technical sophistication as well as clear and high-impact relevance to healthcare. Accepted proceedings papers will be published in the Proceedings for Machine Learning Research (PMLR).
 
 Papers that are submitted to the ML4H proceedings track should follow the general NeurIPS dual submission policies, and most notably cannot be already published or under review in any other archival venue. Similarly, papers published to the ML4H proceedings cannot be published again later at any other venue.
 
@@ -81,7 +81,7 @@ An excellent extended abstract is one that leads to insight at the workshop thro
 Submission Instructions
 -----------------------
 
-Researchers interested in contributing will need to first submit their submission title and abstract (simply a short summary paragraph for extended abstract submissions, not the full submission) by Monday, Sep. 28, 2020, 11:59 PM anywhere on earth (AoE). Submission metadata may undergo minor modifications during final submission, but submitting a title/abstract is required for a full submission to be considered. Full submissions will be due on Fri, Oct 2, 2020, 11:59 PM AoE, and will be in the form of anonymized PDF files. At the time of submission, authors will indicate whether they would like the submission to be in the proceedings track (up to 9* pages excluding references) or the extended abstract track (up to 4 pages excluding references).
+Researchers interested in contributing will need to first submit their submission title and abstract (simply a short summary paragraph for extended abstract submissions, not the full submission) by Monday, Sep. 28, 2020, 11:59 PM anywhere on earth (AoE). Submission metadata may undergo minor modifications during final submission, but submitting a title/abstract is required for a full submission to be considered. Full submissions will be due on Fri, Oct 2, 2020, 11:59 PM AoE, and will be in the form of anonymized PDF files. At the time of submission, authors will indicate whether they would like the submission to be in the proceedings track (up to 9 pages excluding references) or the extended abstract track (up to 4 pages excluding references).
 
 All submissions for ML4H 2020 will be managed through the HotCRP system, accessible here: <https://ml4h2020.hotcrp.com/>. All submissions should be formatted using the PMLR style files, in two-column format. A LaTeX template for ML4H 2020 is available here: <https://drive.google.com/file/d/1grA1MbqbqLQV9ZOLBbywpJ7KKzzYadel/view?usp=sharing> 
 

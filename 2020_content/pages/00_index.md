@@ -11,10 +11,13 @@ save_as: index.html
             ML4H 2020: a workshop at
             <a href="https://neurips.cc">NeurIPS 2020</a>
         </b> <br>
+        <b> Advancing Healthcare for All</b>
+        <br> 
     Fri December 11, 2020 <br>
     Virtual Conference, Anywhere, Earth
     </p>
     <p>This workshop will bring together machine learning researchers, clinicians, and healthcare data experts. The program consists of invited talks, contributed posters, and panel discussions.
+    <p>This year, we focus specifically on advancing healthcare for all people. For machine learning to truly revolutionise healthcare, as is so often promised, we must focus on using it to broaden ML access while ensuring our models remain beneficial to all.</p>
     <p>Direct questions to:
                 <a href="mailto:ml4h.workshop.neurips.2020@gmail.com">
                     ml4h.workshop.neurips.2020@gmail.com

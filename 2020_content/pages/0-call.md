@@ -83,13 +83,11 @@ Submission Instructions
 
 Researchers interested in contributing will need to first submit their submission title and abstract (simply a short summary paragraph for extended abstract submissions, not the full submission) by Monday, Sep. 28, 2020, 11:59 PM anywhere on earth (AoE). Submission metadata may undergo minor modifications during final submission, but submitting a title/abstract is required for a full submission to be considered. Full submissions will be due on Fri, Oct 2, 2020, 11:59 PM AoE, and will be in the form of anonymized PDF files. At the time of submission, authors will indicate whether they would like the submission to be in the proceedings track (up to 9 pages excluding references) or the extended abstract track (up to 4 pages excluding references).
 
-All submissions for ML4H 2020 will be managed through the HotCRP system, accessible here: <https://ml4h2020.hotcrp.com/>. All submissions should be formatted using the PMLR style files, in two-column format. A LaTeX template for ML4H 2020 is available here: <https://drive.google.com/file/d/1grA1MbqbqLQV9ZOLBbywpJ7KKzzYadel/view?usp=sharing> 
+All submissions for ML4H 2020 will be managed through the HotCRP system, accessible here: <https://ml4h2020.hotcrp.com/>. All submissions should be formatted using the PMLR style files, in two-column format. A LaTeX template for ML4H 2020 is available here: <https://www.overleaf.com/latex/templates/ml4h-2020-template/bttdvnyhbhpc>
 
 You can also download the raw JMLR source style files here: <https://ctan.org/tex-archive/macros/latex/contrib/jmlr> and prepare your own template, though note that you should use the pmlr,twocolumn as class options when doing so.
 
 Note that all camera ready submissions must use LaTeX systems, and pending submission volume we may desk reject submissions that show a gross violation of formatting guidelines.
-
-Important Note: The current public version of the PMLR style is incompatible with the latest release of TeX Live. To make the template work properly in Overleaf, you must change the TeX Live Version to 2018. This is accessible in the Overleaf project menu (more details on how to do this can be found here: https://www.overleaf.com/blog/new-feature-select-your-tex-live-compiler-version)
 
 Note that we have increased this page limit from the previously stated limit to accommodate this style template.
 

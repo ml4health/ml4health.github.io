@@ -1,4 +1,4 @@
-Title: Writing a good ML4H Paper
+Title: Writing Guidelines
 Date: 2019-08-01
 SkipNavBar: 1
 

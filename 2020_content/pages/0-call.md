@@ -72,6 +72,14 @@ Full proceedings papers can be up to 9 pages (excluding references). Excellent M
 
 Papers that are submitted to the ML4H proceedings track should follow the general NeurIPS dual submission policies, and most notably cannot be already published or under review in any other archival venue. Similarly, papers published to the ML4H proceedings cannot be published again later at any other venue.
 
+Full proceedings papers can be up to **9 pages (excluding references and appendices)**. Excellent ML4H Proceedings papers should be compelling, cohesive works with a high degree of technical sophistication as well as clear and high-impact relevance to healthcare. Accepted proceedings papers will be published in the **Proceedings for Machine Learning Research (PMLR)**.
+
+Papers that are submitted to the ML4H proceedings track should follow the general NeurIPS dual submission policies, and most notably cannot be already published or under review in any other archival venue. Similarly, papers published to the ML4H proceedings cannot be published again later at any other venue. Note that, as usual, reviewers are not required to read any appendices or supplementary material, and the main body of the paper must stand on its own.
+
+### Extended Abstract Track
+
+Non-archival extended abstracts can be up to **4 pages (excluding references and appendices)**, though additional information not critical for understanding the work can be included in an appendix without penalty (reviewers will review the work based predominantly on the main text).
+
 ### Extended Abstract Track
 
 Non-archival extended abstracts can be up to 4 pages (excluding references), though additional information not critical for understanding the work can be included in an appendix without penalty (reviewers will review the work based predominantly on the main text). 

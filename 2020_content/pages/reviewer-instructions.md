@@ -30,6 +30,8 @@ Similar to last year,  we will have two tracks at the ML4H workshop: a formal p
 
 A final but crucial goal is to give good feedback. Please do more than just give a numerical score! Be sure to list positive aspects of the paper, as well as a few constructive things the authors could improve for either a camera ready version (if accepted) or for resubmission elsewhere (if rejected).
 
+**External resources**: To get a sense of what a good review might look like, the [2017 ACL PC chairs blog](https://acl2017.wordpress.com/2017/02/23/last-minute-reviewing-advice/) contains some useful advice. To understand the difference between a negative and a constructive review, check out the review content section of the [NeurIPS 2020 guidelines](https://nips.cc/Conferences/2020/PaperInformation/ReviewerGuidelines). To assess the healthcare-specific aspects of a paper/abstract, [Nature](https://www.nature.com/nature-research/editorial-policies/peer-review#writing-the-review) has a small paragraph on how to assess the authors' contributions.
+
 ### What counts as a good ML4H Paper/Abstract?
 
 All reviewers should refer to the guidelines on [how to write a good ML4H paper or extended abstract](https://ml4health.github.io/2020/pages/writing-guidelines.html). The criteria for the proceedings and abstracts tracks are distinct -- while both tracks require high quality submissions, the abstract submissions should also be judged on their likelihood to lead to a good discussion at the workshop. Please refer to the writing guidelines document for exemplary submissions in each track.

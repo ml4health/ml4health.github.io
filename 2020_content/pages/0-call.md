@@ -8,17 +8,19 @@ We are also piloting mentorship programs for authors and reviewers. See [https:/
 Important Dates
 ---------------
 
-Monday, Sep. 28 AoE: Submission Title/Summary Paragraph Deadline
+Mon Sep 28 AoE: Submission Title/Summary Paragraph Deadline
 
-Friday, Oct. 2 AoE: Submission Deadline
+Fri Oct 2 AoE: Submission Deadline
 
-Friday, Oct. 16 AoE: Reviews Due 
+Fri Oct 16 AoE: Reviews Due 
 
-Tuesday, Oct. 20 AoE: Limited Author Response Deadline
+Tue Oct 20 AoE: Limited Author Response Deadline
 
-Wednesday, Oct. 28th: Final Decisions Released
+Wed Oct 28: Final Decisions Released
 
-Friday or Saturday, Dec 11-12, 2020: Virtual Workshop
+Wed Nov 11 AoE: Camera Ready Deadline
+
+Fri Dec 11: Virtual Workshop
 
 Theme & Topics
 --------------

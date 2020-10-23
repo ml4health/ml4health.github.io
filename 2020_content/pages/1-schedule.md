@@ -4,6 +4,8 @@ Date: 2018-08-01
 
 <p> The workshop will be held December 11 virtually. Tenative schedule is below with possible changes to accommodate virtual format better. Time zone TBD.</p>
 
+<p>The workshop adheres to to the <a href="https://nips.cc/public/CodeOfConduct">NeurIPS Code of Conduct</a>. Please contact the organization committee with any concerns.</p>
+
 <p> Videos will be posted here after the conference.</p>
 
 <h3>Morning Program: 09:00 - 13:00</h3>

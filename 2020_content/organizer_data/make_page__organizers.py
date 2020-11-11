@@ -8,7 +8,11 @@ csv_df['WORKSHOP_ROLE'] = csv_df['WORKSHOP_ROLE'].astype('str')
 def get_lastname(s):
     s_split = s.split()
     if len(s_split) < 3:
-        return s_split[-1]
+        try:
+            return s_split[-1]
+        except:
+            print('ERROR')
+            import pdb; pdb.set_trace()
     else:
         return ' '.join(s_split[2:])
 

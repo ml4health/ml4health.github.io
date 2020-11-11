@@ -23,6 +23,29 @@ for helping peer review all submissions. -->
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
     <div class="col-xs-6 col-md-4"> 
     <div class="thumbnail">
+        <a href="https://www.griffintadams.com/">
+        <img 
+            src="{static}/images/headshots_200x200/griffin.jpg"
+            alt="Griffin Adams headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Griffin Adams</h5>
+            <p>Columbia, PhD Student
+            <br />
+            <emph>Submission Mentorship</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
         <a href="">
         <img 
             src="{static}/images/headshots_200x200/benjamin.jpg"

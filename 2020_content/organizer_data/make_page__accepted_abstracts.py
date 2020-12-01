@@ -4,6 +4,8 @@ import pdb
 csv_df = pd.read_csv("extended_abstracts.csv")
 csv_df.fillna(0, inplace=True)
 
+N = len(csv_df)
+
 morning_df   = csv_df[csv_df['Session'] == 'Morning']
 afternoon_df = csv_df[csv_df['Session'] == 'Afternoon']
 
@@ -16,15 +18,15 @@ out_md_str += (
 #n_per_row = 100
 out_md_str += \
 """
-We have accepted 45 extended abstracts for presentation at the workshop.
+We have accepted %d extended abstracts for presentation at the workshop, which are hosted <a href="https://arxiv.org/html/2011.11554">on the ML4H 2020 arXiv index</a>.
 
-These are listed below, with links to the posters if provided by the authors.
+These are listed below, with links to the posters. Numbers indicate poster session IDs.
 
 <ul>
 <li><a href="#session1"> Poster Session 1 (11:30-12:30) </a></li>
 <li><a href="#session2"> Poster Session 2 (17:15-18:15) </a></li>
 </ul>
-"""
+""" % N
 
 ref_str = """<h3 id="session1">Session 1</h3>"""
 out_md_str += ref_str

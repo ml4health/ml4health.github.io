@@ -4,6 +4,7 @@ import pdb
 csv_df = pd.read_csv("papers.csv")
 csv_df.fillna(0, inplace=True)
 
+N = len(csv_df)
 morning_df = csv_df[csv_df['Session'] == 'Morning']
 afternoon_df = csv_df[csv_df['Session'] == 'Afternoon']
 
@@ -16,17 +17,16 @@ out_md_str += (
 #n_per_row = 100
 out_md_str += \
 """
-We have accepted 37 papers to be included in the 2020 ML4H Proceedings to be published in PMLR.
-These are listed below, with links to proof versions.
+We have accepted %d papers to be included in the Volume 136 of the <a href="http://proceedings.mlr.press/v136/">Proceedings of Machine Learning Research</a>.
+These are listed below, with links to posters. Numbers indicate poster session IDs.
 
 <ul>
 <li><a href="#session1"> Poster Session 1 (11:30-12:30) </a></li>
 <li><a href="#session2"> Poster Session 2 (17:15-18:15) </a></li>
 </ul>
-"""
+""" % N
 
 ref_str = """<h3 id="session1">Session 1</h3>"""
-# ref_str = """<h3>Session 1</h3>"""
 out_md_str += ref_str
 
 open_div_str = \

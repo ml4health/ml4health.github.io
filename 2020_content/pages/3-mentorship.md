@@ -1,5 +1,6 @@
 Title: Mentorship
 Date: 2020-08-20
+SkipNavBar: 1
 
 <p>We are piloting two programs this year: 1) a mentorship program for authors, 2) a mentorship program for reviewers.</p>
 

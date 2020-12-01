@@ -1,76 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <!-- Required meta tags always come first -->
-  <meta charset="utf-8">
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-  <title>Extended Abstracts | ML4H: Machine Learning for Health
-</title>
-  <link rel="canonical" href="../pages/extended-abstracts.html">
+Title: Extended Abstracts 
+Date: 2020-12-01
 
 
-
-  <link rel="stylesheet" href="../theme/css/bootstrap.min.css">
-  <link rel="stylesheet" href="../theme/css/font-awesome.min.css">
-  <link rel="stylesheet" href="../theme/css/pygments/default.min.css">
-  <link rel="stylesheet" href="../theme/css/style.css">
-  <link rel="stylesheet" href="../theme/css/custom.css">
+<!-- THIS PAGE SRC IS AUTO GENERATED. At terminal: $ make accepted_papers -->
 
 
-<meta name="description" content="We have accepted 45 extended abstracts for presentation at the workshop. These are listed below, with links to the posters if provided by the authors. Poster Session 1 (11:30-12:30) Poster Session 2 (17:15-18:15) Session 1 8. Multiomics Data Analysis Predicts Risk of Preeclampsia Ivana Marić, Kévin …">
-</head>
+We have accepted 45 extended abstracts for presentation at the workshop.
 
-<body>
-  <header class="header">
-    <div class="container">
-      <div class="row">
-        <div class="col-xs-2">
-          <a href="../">
-            <img class="img-fluid" src=../images/logo.png alt="ML4H: Machine Learning for Health">
-          </a>
-        </div>
-        <div class="col-xs-10">
-          <h1 class="title"><a href="../">ML4H: Machine Learning for Health</a></h1>
-          <p class="text-muted">Workshop at NeurIPS 2020</p>
-          <ul class="list-inline">
-            <li class="list-inline-item"><a href="../pages/call-for-participation.html">Call for Participation</a></li>
-            <li class="list-inline-item"><a href="../pages/schedule.html">Schedule</a></li>
-            <li class="list-inline-item"><a href="../pages/speakers.html">Speakers</a></li>
-            <li class="list-inline-item"><a href="../pages/mentorship.html">Mentorship</a></li>
-            <li class="list-inline-item"><a href="../pages/papers.html">Papers</a></li>
-            <li class="list-inline-item"><a href="../pages/extended-abstracts.html">Extended Abstracts</a></li>
-            <li class="list-inline-item"><a href="../pages/sponsorship.html">Sponsorship</a></li>
-            <li class="list-inline-item"><a href="../pages/organizers.html">Organizers</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </header>
+These are listed below, with links to the posters if provided by the authors.
 
-  <div class="main">
-    <div class="container">
-      <h1>Extended Abstracts
-</h1>
-      <hr>
-<article class="article">
-  <div class="content">
-    <!-- THIS PAGE SRC IS AUTO GENERATED. At terminal: $ make accepted_papers -->
-
-<p>We have accepted 45 extended abstracts for presentation at the workshop.</p>
-<p>These are listed below, with links to the posters if provided by the authors.</p>
 <ul>
 <li><a href="#session1"> Poster Session 1 (11:30-12:30) </a></li>
 <li><a href="#session2"> Poster Session 2 (17:15-18:15) </a></li>
 </ul>
-
 <h3 id="session1">Session 1</h3>
-
 <div class="row display-flex" style="display:flex; display:-webkit-flex;  flex-wrap:wrap; margin-top:25px;">
 
-
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -81,8 +27,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -93,8 +39,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -105,8 +51,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -117,8 +63,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -129,8 +75,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -141,8 +87,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -153,8 +99,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -165,8 +111,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -177,8 +123,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -189,8 +135,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -201,8 +147,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -213,8 +159,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -225,8 +171,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -237,8 +183,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -249,8 +195,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -261,8 +207,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -273,8 +219,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -285,8 +231,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -297,8 +243,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -309,8 +255,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -321,8 +267,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -333,13 +279,10 @@
             </div>
         </div>
         </div>
-        </div>
-
-<h3 id="session2">Session 2</h3>
-
+        </div><h3 id="session2">Session 2</h3>
 <div class="row display-flex" style="display:flex; display:-webkit-flex;  flex-wrap:wrap; margin-top:25px;">
 
-
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -350,8 +293,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -362,8 +305,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -374,8 +317,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -386,8 +329,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -398,8 +341,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -410,8 +353,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -422,8 +365,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -434,8 +377,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -446,8 +389,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -458,8 +401,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -470,8 +413,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -482,8 +425,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -494,8 +437,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -506,8 +449,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -518,8 +461,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -530,8 +473,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -542,8 +485,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -554,8 +497,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -566,8 +509,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -578,8 +521,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -590,8 +533,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -602,8 +545,8 @@
             </div>
         </div>
         </div>
-
-
+        
+        
 
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->
         <div class="col-xs-12 col-md-6"> 
@@ -615,32 +558,3 @@
         </div>
         </div>
         </div>
-  </div>
-</article>
-    </div>
-  </div>
-
-  <footer class="footer">
-    <div class="container">
-      <div class="row">
-       <ul class="col-sm-6 list-inline">
-
-
-          <li class="list-inline-item"><a href="../categories.html">Categories</a></li>
-
-        </ul>
-        <p class="col-sm-6 text-sm-right text-muted">
-          <a href="https://github.com/ml4health/ml4health.github.io">
-          source on github
-          </a>
-          /
-          <a href="https://github.com/getpelican/pelican" target="_blank">powered by Pelican</a>
-          /
-          <a href="https://github.com/nairobilug/pelican-alchemy" target="_blank">&#x2728;</a>
-        </p>
-      </div>
-    </div>
-  </footer>
-</body>
-
-</html>

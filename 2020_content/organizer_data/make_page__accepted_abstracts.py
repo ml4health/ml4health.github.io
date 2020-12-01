@@ -40,7 +40,8 @@ close_div_str = "</div>"
 
 for i, row in morning_df.iterrows():
     # print(row)
-    if row.URL and len(row.URL) > 3:
+    if False:
+    # if row.URL and len(row.URL) > 3:
         item_str = f"""
         \n
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->

@@ -18,7 +18,7 @@ out_md_str += (
 out_md_str += \
 """
 We have accepted %d papers to be included in the Volume 136 of the <a href="http://proceedings.mlr.press/v136/">Proceedings of Machine Learning Research</a>.
-These are listed below, with links to posters. Numbers indicate poster session IDs.
+These are listed below, with links to posters to be added Dec 11. Numbers indicate poster session IDs.
 
 <ul>
 <li><a href="#session1"> Poster Session 1 (11:30-12:30) </a></li>

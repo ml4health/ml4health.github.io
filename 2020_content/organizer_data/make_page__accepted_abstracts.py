@@ -20,7 +20,7 @@ out_md_str += \
 """
 We have accepted %d extended abstracts for presentation at the workshop, which are hosted <a href="https://arxiv.org/html/2011.11554">on the ML4H 2020 arXiv index</a>.
 
-These are listed below, with links to the posters. Numbers indicate poster session IDs.
+These are listed below, with links to the posters to be added Dec 11. Numbers indicate poster session IDs.
 
 <ul>
 <li><a href="#session1"> Poster Session 1 (11:30-12:30) </a></li>

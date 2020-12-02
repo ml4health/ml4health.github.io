@@ -345,6 +345,29 @@ for helping peer review all submissions. -->
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
     <div class="col-xs-6 col-md-4"> 
     <div class="thumbnail">
+        <a href="">
+        <img 
+            src="{static}/images/headshots_200x200/subhrajit.jpg"
+            alt="Subhrajit Roy headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Subhrajit Roy</h5>
+            <p>Google, Research Scientist
+            <br />
+            <emph>Publication Chair</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
         <a href="http://suproteem.is/researching">
         <img 
             src="{static}/images/headshots_200x200/suproteem.jpg"
@@ -471,27 +494,6 @@ for helping peer review all submissions. -->
         <div class="caption">
             <h5>Adrian Dalca</h5>
             <p>Harvard, Assistant Professor
-            </p>
-            <p></p>
-        </div>
-        </a>
-    </div>
-    </div>
-
-
-
-    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
-    <div class="col-xs-6 col-md-4"> 
-    <div class="thumbnail">
-        <a href="http://goldenberglab.ca/">
-        <img 
-            src="{static}/images/headshots_200x200/anna.jpg"
-            alt="Anna Goldenberg headshot"
-            style="width:88%"
-            align="center">
-        <div class="caption">
-            <h5>Anna Goldenberg</h5>
-            <p>University of Toronto, Associate Professor
             </p>
             <p></p>
         </div>

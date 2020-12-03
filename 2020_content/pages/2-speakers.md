@@ -119,6 +119,8 @@ Date: 2019-06-01
 <br />
 
 
+## Talks and Bios
+
 ### <a id="dredze"></a> Mark Dredze: Reducing Health Disparities in the Future of Medicine
 
 Health disparities in the United States are one of the largest factors in reducing the health of the population. Disparities means some groups have lower life expectancy, are dying at higher rates from COVID-19, and utilize less mental health services, to name just a few examples. The future of medicine will be based on Artificial Intelligence and new technological platforms that promise to improve outcomes and reduce cost. Our role as AI researchers should be to ensure that these new technologies also reduce health disparities. In this talk I will describe recent work showing how we can work to reduce health disparities in the future of medicine. By ensuring that our task, datasets, algorithms and evaluations are equitable and representative of all types of patients, we can ensure that the research we develop will reduce health disparities.

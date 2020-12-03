@@ -119,7 +119,7 @@ Date: 2019-06-01
 <br />
 
 
-## Talks and Bios
+# Talks and Bios
 
 ### <a id="dredze"></a> Mark Dredze: Reducing Health Disparities in the Future of Medicine
 

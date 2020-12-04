@@ -143,7 +143,7 @@ These are listed below, with links to posters to be added Dec 11. Numbers indica
     <div class="col-xs-12 col-md-6"> 
     <div class="thumbnail">
         <div class="caption">
-            <h5><a href="https://drive.google.com/open?id=1qpxXxexy2UhTEUPJ8Wk5Bg78dTOVXs23">48. sEMG Gesture Recognition with a Simple Model of Attention</a></h5>
+            <h5>48. sEMG Gesture Recognition with a Simple Model of Attention</h5>
             <p>David Josephs*, Carson Drake*, Andrew Heroy, John Santerre</p>
         </div>
     </div>
@@ -155,7 +155,7 @@ These are listed below, with links to posters to be added Dec 11. Numbers indica
     <div class="col-xs-12 col-md-6"> 
     <div class="thumbnail">
         <div class="caption">
-            <h5><a href="https://drive.google.com/open?id=16HYN4r-oOj74qV4foOKh_HFSZWJGFZHJ">49. Addressing the Real-world Class Imbalance Problem in Dermatology</a></h5>
+            <h5>49. Addressing the Real-world Class Imbalance Problem in Dermatology</h5>
             <p>Wei-Hung Weng, Jonathan Deaton, Vivek Natarajan, Gamaleldin F. Elsayed, Yuan Liu</p>
         </div>
     </div>
@@ -167,7 +167,7 @@ These are listed below, with links to posters to be added Dec 11. Numbers indica
     <div class="col-xs-12 col-md-6"> 
     <div class="thumbnail">
         <div class="caption">
-            <h5><a href="https://drive.google.com/open?id=1b7bqGKP6v1hYvUhp9VHOuk8IBhY8y29o">50. Appropriate Evaluation of Diagnostic Utility of Machine Learning Algorithm Generated Images</a></h5>
+            <h5>50. Appropriate Evaluation of Diagnostic Utility of Machine Learning Algorithm Generated Images</h5>
             <p>Young Joon (Fred) Kwon, Danielle Toussie, Lea Azour, Jose Concepcion, Corey Eber, G Anthony Reina, Ping Tak Peter Tang, Amish H Doshi, Eric K Oermann, Anthony B Costa</p>
         </div>
     </div>
@@ -179,7 +179,7 @@ These are listed below, with links to posters to be added Dec 11. Numbers indica
     <div class="col-xs-12 col-md-6"> 
     <div class="thumbnail">
         <div class="caption">
-            <h5><a href="https://drive.google.com/open?id=1jUvh1f2x1qF6WHQHc14ObafHxvjKqb8C">52. Contrastive Representation Learning for Electroencephalogram Classification</a></h5>
+            <h5>52. Contrastive Representation Learning for Electroencephalogram Classification</h5>
             <p>Mostafa Mohsenvand, Mohammad Rasool Izadi, Pattie Maes</p>
         </div>
     </div>
@@ -191,7 +191,7 @@ These are listed below, with links to posters to be added Dec 11. Numbers indica
     <div class="col-xs-12 col-md-6"> 
     <div class="thumbnail">
         <div class="caption">
-            <h5><a href="https://drive.google.com/open?id=1r1QdU8psVO6DDoKmsTlqJPjjz9Wfo6qS">55. Interpretable Epilepsy Detection in Routine, Interictal EEG Data using Deep Learning</a></h5>
+            <h5>55. Interpretable Epilepsy Detection in Routine, Interictal EEG Data using Deep Learning</h5>
             <p>Thomas Uyttenhove, Aren Maes, Tom Van Steenkiste, Dirk Deschrijver, Tom Dhaene</p>
         </div>
     </div>
@@ -203,7 +203,7 @@ These are listed below, with links to posters to be added Dec 11. Numbers indica
     <div class="col-xs-12 col-md-6"> 
     <div class="thumbnail">
         <div class="caption">
-            <h5><a href="https://drive.google.com/open?id=1-qV-PcShaeOxZTAwqTtmuW8iDvDbf02M">56. ML4H Auditing: From Paper to Practice</a></h5>
+            <h5>56. ML4H Auditing: From Paper to Practice</h5>
             <p>Luis Oala, Jana Fehr, Luca Gilli, Pradeep Balachandaran, Alixandro Werneck Leite, Saul Calderon-Ramirez, Danny Xie Li, Gabriel Nobis, Erick Alejandro Muñoz Alvarado, Giovanna Jaramillo-Gutierrez, Christian Matek, Arun Shroff, Ferath Kherif, Bruno Sanguinetti, Thomas Wiegand</p>
         </div>
     </div>
@@ -215,7 +215,7 @@ These are listed below, with links to posters to be added Dec 11. Numbers indica
     <div class="col-xs-12 col-md-6"> 
     <div class="thumbnail">
         <div class="caption">
-            <h5><a href="https://drive.google.com/open?id=1e6RikglpZ-_LKTwmOqQljTrq9wz-oQ22">57. EEG-GCNN: Augmenting Electroencephalogram-based Neurological Disease Diagnosis using a Domain-guided Graph Convolutional Neural Network</a></h5>
+            <h5>57. EEG-GCNN: Augmenting Electroencephalogram-based Neurological Disease Diagnosis using a Domain-guided Graph Convolutional Neural Network</h5>
             <p>Neeraj Wagh, Yogatheesan Varatharajah</p>
         </div>
     </div>
@@ -227,7 +227,7 @@ These are listed below, with links to posters to be added Dec 11. Numbers indica
     <div class="col-xs-12 col-md-6"> 
     <div class="thumbnail">
         <div class="caption">
-            <h5><a href="https://drive.google.com/open?id=11uEzkV1nGD81pJSTiRYJEmkpBc6OJeBu">59. A Bayesian Hierarchical Network for Combining Heterogeneous Data Sources in Medical Diagnoses</a></h5>
+            <h5>59. A Bayesian Hierarchical Network for Combining Heterogeneous Data Sources in Medical Diagnoses</h5>
             <p>Claire Donnat, Nina Miolane, Freddy Bunbury, Jack Kreindler</p>
         </div>
     </div>
@@ -239,7 +239,7 @@ These are listed below, with links to posters to be added Dec 11. Numbers indica
     <div class="col-xs-12 col-md-6"> 
     <div class="thumbnail">
         <div class="caption">
-            <h5><a href="https://drive.google.com/open?id=1Ko6mU7U-OEHYVksrEcuvTwYsuUJnX1UU">63. TL-Lite: Visualization and Temporal Learning for Clinical Cohorts</a></h5>
+            <h5>63. TL-Lite: Visualization and Temporal Learning for Clinical Cohorts</h5>
             <p>Jeremy C. Weiss</p>
         </div>
     </div>
@@ -251,7 +251,7 @@ These are listed below, with links to posters to be added Dec 11. Numbers indica
     <div class="col-xs-12 col-md-6"> 
     <div class="thumbnail">
         <div class="caption">
-            <h5><a href="https://drive.google.com/open?id=1538kQmY2Paiac8oEfq4HKm1su5Ay0nKN">65. CheXphoto: 10,000+ Photos and Transformations of Chest X-rays for Benchmarking Deep Learning Robustness</a></h5>
+            <h5>65. CheXphoto: 10,000+ Photos and Transformations of Chest X-rays for Benchmarking Deep Learning Robustness</h5>
             <p>Nicholas Phillips, Pranav Rajpurkar, Mark Sabini, Rayan Krishnan, Sharon Zhou, Anuj Pareek, Nguyet Minh Phu, Chris Wang, Mudit Jain, Nguyễn Dương Du, Steven QH Truong, Andrew Y. Ng, Matthew P. Lungren</p>
         </div>
     </div>
@@ -263,7 +263,7 @@ These are listed below, with links to posters to be added Dec 11. Numbers indica
     <div class="col-xs-12 col-md-6"> 
     <div class="thumbnail">
         <div class="caption">
-            <h5><a href="https://drive.google.com/open?id=1Bg602Izf-WJhytNUalCZj4SfXZO3K-j3">72. Attend and Decode: 4D fMRI Task State Decoding Using Attention Models</a></h5>
+            <h5>72. Attend and Decode: 4D fMRI Task State Decoding Using Attention Models</h5>
             <p>Sam Nguyen, Brenda Ng, Alan D. Kaplan, Priyadip Ray</p>
         </div>
     </div>
@@ -275,7 +275,7 @@ These are listed below, with links to posters to be added Dec 11. Numbers indica
     <div class="col-xs-12 col-md-6"> 
     <div class="thumbnail">
         <div class="caption">
-            <h5><a href="https://drive.google.com/open?id=1LldYUBtVFxe0IIU2XGy5QNapYR1xJ3Po">73. An Empirical Study of Representation Learning for Reinforcement Learning in Healthcare</a></h5>
+            <h5>73. An Empirical Study of Representation Learning for Reinforcement Learning in Healthcare</h5>
             <p>Taylor W. Killian, Haoran Zhang, Jayakumar Subramanian, Mehdi Fatemi, Marzyeh Ghassemi</p>
         </div>
     </div>
@@ -287,7 +287,7 @@ These are listed below, with links to posters to be added Dec 11. Numbers indica
     <div class="col-xs-12 col-md-6"> 
     <div class="thumbnail">
         <div class="caption">
-            <h5><a href="https://drive.google.com/open?id=1Qrd_fUOGqj908gF-ZvE0oj9svgK1jG4s">76. Quantifying Common Support between Multiple Treatment Groups Using a Contrastive VAE</a></h5>
+            <h5>76. Quantifying Common Support between Multiple Treatment Groups Using a Contrastive VAE</h5>
             <p>Wangzhi Dai, Collin M. Stultz</p>
         </div>
     </div>
@@ -299,7 +299,7 @@ These are listed below, with links to posters to be added Dec 11. Numbers indica
     <div class="col-xs-12 col-md-6"> 
     <div class="thumbnail">
         <div class="caption">
-            <h5><a href="https://drive.google.com/open?id=1kxiEwMyJhxfQJXt4sNaYTdPoZ5S5iskt">78. 3D Photography Based Neural Network Craniosynostosis Triaging System</a></h5>
+            <h5>78. 3D Photography Based Neural Network Craniosynostosis Triaging System</h5>
             <p>Pouria Mashouri; Marta Skreta; John Phillips; Dianna McAllister; Melissa Roy; Senthujan Senkaiahliyan; Michael Brudno; Devin Singh</p>
         </div>
     </div>

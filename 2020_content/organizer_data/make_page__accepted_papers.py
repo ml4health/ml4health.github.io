@@ -44,7 +44,7 @@ for i, row in morning_df.iterrows():
     <div class="col-xs-12 col-md-6"> 
     <div class="thumbnail">
         <div class="caption">
-            <h5><a href="{row.URL}">{row.Poster_ID}. {row.Title}</a></h5>
+            <h5>{row.Poster_ID}. {row.Title}</h5>
             <p>{row.Authors}</p>
         </div>
     </div>

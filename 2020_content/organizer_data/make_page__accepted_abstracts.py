@@ -82,7 +82,8 @@ close_div_str = "</div>"
 
 for i, row in afternoon_df.iterrows():
     # print(row)
-    if row.URL and len(row.URL) > 3:
+    # if row.URL and len(row.URL) > 3:
+    if False:
         item_str = f"""
         \n
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->

@@ -396,7 +396,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/open?id=1FliP1EzUmBC5OihAIllqPmn89nJIVDbI">42. Towards Diagnosing Nonalcoholic Fatty Liver Disease with Abdominal MRI Data using Deep Learning</a></h5>
+                <h5>42. Towards Diagnosing Nonalcoholic Fatty Liver Disease with Abdominal MRI Data using Deep Learning</h5>
                 <p>Arvind Pillai, Emmette Hutchison, Kamen Bliznashki, Chanchal Kumar, Sven Moosmang, Benjamin Challis, Mishal Patel</p>
             </div>
         </div>
@@ -408,7 +408,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/file/d/1JDph2z_CjSKHLPg2yoX_7wkLeeFyAoKV/view?usp=sharing">43. Adversarial Factor Models for Confound Disentangled Autism Biomarkers</a></h5>
+                <h5>43. Adversarial Factor Models for Confound Disentangled Autism Biomarkers</h5>
                 <p>William E. Carson IV, Dmitry Isaev, Samantha Major, Guillermo Sapiro, Geraldine Dawson, David Carlson</p>
             </div>
         </div>
@@ -420,7 +420,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/open?id=1wzFW-2iUu7FGgn_-ZIMqGE6KJAZVyPqN">44. Identifying Decision Points for Safe and Interpretable RL in Hypotension Treatment</a></h5>
+                <h5>44. Identifying Decision Points for Safe and Interpretable RL in Hypotension Treatment</h5>
                 <p>Kristine Zhang*, Yuanheng Wang*, Jianzhun Du*, Brian Chu,  Leo Anthony Celi, Ryan Kindle, Finale Doshi-Velez</p>
             </div>
         </div>
@@ -432,7 +432,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/open?id=1GSe9uWwPsCLbI4vzY5Qc9cNiB6JIxj--">45. Neural ODEs for Multi-State Survival Analysis</a></h5>
+                <h5>45. Neural ODEs for Multi-State Survival Analysis</h5>
                 <p>Stefan Groha*, Sebastian M Schmon*, Alexander Gusev</p>
             </div>
         </div>
@@ -444,7 +444,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/open?id=1hX2r1GQ7_xfqR6B4uUqC6pnalvyZad1R">46. Assessing racial inequality in COVID-19 testing with Bayesian threshold tests</a></h5>
+                <h5>46. Assessing racial inequality in COVID-19 testing with Bayesian threshold tests</h5>
                 <p>Emma Pierson</p>
             </div>
         </div>
@@ -456,7 +456,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/open?id=1bocU563WcUjw-qIGbiRTjzUK499nD5H8">47. Learning to Predict and Support for Clinical Risk Stratification</a></h5>
+                <h5>47. Learning to Predict and Support for Clinical Risk Stratification</h5>
                 <p>Aniruddh Raghu, Katherine Young, Eugene Pomerantsev, John Guttag, Adrian V. Dalca, Collin M. Stultz</p>
             </div>
         </div>
@@ -468,7 +468,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/open?id=1m0q0Rm7oo0lcmB7fIc2MZjG10jsv_5bS">51. Exploring Gender Disparities in Time to Diagnosis</a></h5>
+                <h5>51. Exploring Gender Disparities in Time to Diagnosis</h5>
                 <p>Tony Y Sun, Oliver Bear Don't Walk IV, Jennifer L Chen, Harry Reyes Nieva, Noémie Elhadad</p>
             </div>
         </div>
@@ -480,7 +480,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/open?id=1LFFn1TAsSLM0rJ4I9_QH5kVcHVL5uV-i">53. Toward Understanding Clinical Context of Medication Change Events in Clinical Narratives</a></h5>
+                <h5>53. Toward Understanding Clinical Context of Medication Change Events in Clinical Narratives</h5>
                 <p>Diwakar Mahajan, Jennifer J Liang, Ching-Huei Tsou</p>
             </div>
         </div>
@@ -492,7 +492,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/open?id=1682dg6XAoWkhDrFBxnTy1AVNH-YSD3Jd">54. Pneumothorax and chest tube classification on chest x-rays for detection of missed pneumothorax </a></h5>
+                <h5>54. Pneumothorax and chest tube classification on chest x-rays for detection of missed pneumothorax </h5>
                 <p>Benedikt Graf, Arkadiusz Sitek, Amin Katouzian, Yen-Fu Lu,  Arun Krishnan, Justin Rafael, Kirstin Small, Yiting Xie</p>
             </div>
         </div>
@@ -504,7 +504,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/open?id=1Qb0rF5i3L6CgqyIVW_U1_vLx5e7_e_8u">58. GloFlow: Global Image Alignment for Creation of Whole Slide Images for Pathology from Video</a></h5>
+                <h5>58. GloFlow: Global Image Alignment for Creation of Whole Slide Images for Pathology from Video</h5>
                 <p>Viswesh Krishna*, Anirudh Joshi*, Philip Bulterys, Eric Yang, Andrew Ng, Pranav Rajpurkar</p>
             </div>
         </div>
@@ -516,7 +516,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/open?id=12MkQce3d_IWmopNh6RIEEWa-ZqaC4ikn">60. An Interpretable End-to-end Fine-tuning Approach for Long Clinical Text</a></h5>
+                <h5>60. An Interpretable End-to-end Fine-tuning Approach for Long Clinical Text</h5>
                 <p>Kexin Huang, Sankeerth Garapati, Alexander S. Rich</p>
             </div>
         </div>
@@ -528,7 +528,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/open?id=1dytkB3TWgkIpdJSwwarej_68qXIdEhL1">61. A Study of Domain Generalization on Ultrasound-based Multi-Class Segmentation of Arteries, Veins, Ligaments, and Nerves Using Transfer Learning</a></h5>
+                <h5>61. A Study of Domain Generalization on Ultrasound-based Multi-Class Segmentation of Arteries, Veins, Ligaments, and Nerves Using Transfer Learning</h5>
                 <p>Edward Chen, Tejas S. Mathai, Vinit Sarode, Howie Choset, John Galeotti</p>
             </div>
         </div>
@@ -540,7 +540,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/open?id=1EAH2WZ4OKZb_HQBRu7vR_jKt1FHPdwv3">62. CliniQG4QA: Generating Diverse Questions for Domain Adaptation of Clinical Question Answering</a></h5>
+                <h5>62. CliniQG4QA: Generating Diverse Questions for Domain Adaptation of Clinical Question Answering</h5>
                 <p>Xiang Yue*, Xinliang Frederick Zhang*, Ziyu Yao, Simon Lin, Huan Sun</p>
             </div>
         </div>
@@ -552,7 +552,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/open?id=14p6KRZboBXCJpWGmQNilhJ45AWjDNHLY">64. Estimating County-Level COVID-19 Exponential Growth Rates]{Estimating County-Level COVID-19 Exponential Growth Rates Using Generalized Random Forests</a></h5>
+                <h5>64. Estimating County-Level COVID-19 Exponential Growth Rates]{Estimating County-Level COVID-19 Exponential Growth Rates Using Generalized Random Forests</h5>
                 <p>Zhaowei She*, Zilong Wang*, Turgay Ayer, Asmae Toumi, Jagpreet Chhatwal</p>
             </div>
         </div>
@@ -564,7 +564,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/open?id=1ztKya83UD7kxUC9OoMlW0TQKvcVsr6-J">66. Augmenting BERT Carefully with Underrepresented Linguistic Features</a></h5>
+                <h5>66. Augmenting BERT Carefully with Underrepresented Linguistic Features</h5>
                 <p>Aparna Balagopalan, Jekaterina Novikova</p>
             </div>
         </div>
@@ -576,7 +576,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/open?id=1tcPulN5PZHVMuJudJU_KQfpjxhuMkFoT">67. Towards Trainable Saliency Maps in Medical Imaging</a></h5>
+                <h5>67. Towards Trainable Saliency Maps in Medical Imaging</h5>
                 <p>Mehak Aggarwal, Nishanth Arun, Sharut Gupta, Ashwin Vaswani, Bryan Chen, Matthew Li, Ken Chang, Jay Patel, Katherine Hoebel, Mishka Gidwani, Jayashree Kalpathy-Cramer, Praveer Singh</p>
             </div>
         </div>
@@ -588,7 +588,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/open?id=1wtyPsyAHf4-jAEJ3WXrWnroy5ayadV35">68. transferGWAS: GWAS of Images Using Deep Transfer Learning</a></h5>
+                <h5>68. transferGWAS: GWAS of Images Using Deep Transfer Learning</h5>
                 <p>Matthias Kirchler, Stefan Konigorski, Claudia Schurmann, Matthias Norden, Christian Meltendorf, Marius Kloft, Christoph Lippert</p>
             </div>
         </div>
@@ -600,7 +600,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/open?id=1F8vgXToW2knpq6HmxisRs2guWQP47SZP">69. CheXphotogenic: Generalization of Deep Learning Models for Chest X-ray Interpretation to Photos of Chest X-rays</a></h5>
+                <h5>69. CheXphotogenic: Generalization of Deep Learning Models for Chest X-ray Interpretation to Photos of Chest X-rays</h5>
                 <p>Pranav Rajpurkar*, Anirudh Joshi*, Anuj Pareek*, Jeremy Irvin, Andrew Ng, Matthew Lungren</p>
             </div>
         </div>
@@ -612,7 +612,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/open?id=1EltGjcai49rqZyFfUC8_Nld6hBgWaz1x">70. Generating SOAP Notes from Doctor-Patient Conversations</a></h5>
+                <h5>70. Generating SOAP Notes from Doctor-Patient Conversations</h5>
                 <p>Kundan Krishna, Sopan Khosla, Jeffrey Bigham, Zachary Lipton</p>
             </div>
         </div>
@@ -624,7 +624,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/open?id=1S56FYHK_WV1xVVPStAc2qT_Ug5193uU8">71. Personalized Healthcare and Causal Interventions</a></h5>
+                <h5>71. Personalized Healthcare and Causal Interventions</h5>
                 <p> Utkarshani Jaimini, Amit Sheth, Krishnaprasad Thirunarayan, Maninder Kalra, Marco Valtorta </p>
             </div>
         </div>
@@ -636,7 +636,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/open?id=1M-YpxxRV9108kacraz3PQT3DWHXd_PHk">74. Opening a Can of Words: Train-test overlaps in Clinical Natural Language Processing Datasets</a></h5>
+                <h5>74. Opening a Can of Words: Train-test overlaps in Clinical Natural Language Processing Datasets</h5>
                 <p>Aparna Balagopalan, Tristan Naumann, Frank Rudzicz, Marzyeh Ghassemi</p>
             </div>
         </div>
@@ -648,7 +648,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/open?id=1FK19mchEGBbAJFThUna9gZ2xUB4-lU7q">75. A stability-driven protocol for drug response interpretable prediction (staDRIP)</a></h5>
+                <h5>75. A stability-driven protocol for drug response interpretable prediction (staDRIP)</h5>
                 <p>Xiao Li*, Tiffany M. Tang*, Xuewei Wang, Jean-Pierre A. Kocher, Bin Yu</p>
             </div>
         </div>
@@ -660,7 +660,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/open?id=1duYfCTzzOfT5XvqIhCU8eecH4zZP9VbU">77. Learning Optimal Predictive Checklists</a></h5>
+                <h5>77. Learning Optimal Predictive Checklists</h5>
                 <p>Haoran Zhang, Quaid Morris, Berk Ustun*, Marzyeh Ghassemi*</p>
             </div>
         </div>
@@ -672,7 +672,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/open?id=1qfW-CYjmYoVa7IUBXPVsNxRFAI-5OIHQ">79. A Time-Aware Transformer Based Model for Suicide Ideation Detection on Social Media</a></h5>
+                <h5>79. A Time-Aware Transformer Based Model for Suicide Ideation Detection on Social Media</h5>
                 <p>Ramit Sawhney, Harshit Joshi, Saumya Gandhi, Rajiv Ratn Shah</p>
             </div>
         </div>
@@ -684,7 +684,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/open?id=1q0gEwPCXBwKsgGNCvqS82vm9gVmk3CT8">80. Bayesian Recurrent State Space Model For rs-fMRI</a></h5>
+                <h5>80. Bayesian Recurrent State Space Model For rs-fMRI</h5>
                 <p>Arunesh Mittal, Scott Linderman, John Paisley, Paul Sajda</p>
             </div>
         </div>
@@ -696,7 +696,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/open?id=1t2HVFgkoPqTK8M71OKch2W7Qg66xRhuE">81. COVID-19 in Differential Diagnosis of Online Symptom Assessments</a></h5>
+                <h5>81. COVID-19 in Differential Diagnosis of Online Symptom Assessments</h5>
                 <p>Anitha Kannan,Richard Chen,Vignesh Venkataraman,Geoffrey Chen, Xavier Amatriain</p>
             </div>
         </div>
@@ -708,7 +708,7 @@ These are listed below, with links to the posters to be added Dec 11. Numbers in
         <div class="col-xs-12 col-md-6"> 
         <div class="thumbnail">
             <div class="caption">
-                <h5><a href="https://drive.google.com/open?id=1AJQ7yjfiSisIaFyGx1HrM-zoibfIqh17">82. Uncertainty-Aware Multi-Modal Ensembling for Severity Prediction of Alzheimer’s Dementia</a></h5>
+                <h5>82. Uncertainty-Aware Multi-Modal Ensembling for Severity Prediction of Alzheimer’s Dementia</h5>
                 <p>Utkarsh Sarawgi, Wazeer Zulfikar, Rishab Khincha, Pattie Maes</p>
             </div>
         </div>

@@ -54,8 +54,6 @@ save_as: index.html
 <p>The ML4H workshop is here! Please see our <a href="https://docs.google.com/document/d/1p2IjQNUnYWE9iakdy92AlHCJTh9Izto213SoTAPGEUs/edit?usp=sharing">Livestream Guide for Attendees</a> and <a href="https://docs.google.com/document/d/1bE-BoGPpAuqlFlqy_PpljB-t_HSNH0ZFRzgn9yjW0B8/edit?usp=sharing">Instructions for Poster Presenters</a>for information on how to virtually attend the conference.</p>
 </div>
 </div>
-<br>
-<br>
 <div class="row">
 <div class="alert alert-success" role="alert">
 <p> 2020/09/18 </p>

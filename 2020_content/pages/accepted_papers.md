@@ -8,6 +8,8 @@ Date: 2019-12-11
 We have accepted 24 papers to be included in the Volume 136 of the <a href="http://proceedings.mlr.press/v136/">Proceedings of Machine Learning Research</a>.
 These are listed below, with links to posters to be added Dec 11. Numbers indicate poster session IDs.
 
+See the <a href="https://neurips.cc/virtual/2020/protected/workshop_16134.html">NeurIPS workshop page</a> for live video, chat links, and the most updated schedule. We have also created a <a href="https://docs.google.com/document/d/1bE-BoGPpAuqlFlqy_PpljB-t_HSNH0ZFRzgn9yjW0B8/edit?usp=sharing">Guide for Poster Presenters</a> and a <a href="https://docs.google.com/document/d/1p2IjQNUnYWE9iakdy92AlHCJTh9Izto213SoTAPGEUs/edit?usp=sharing">Livestream Guide for Attendees</a>
+
 <ul>
 <li><a href="#session1"> Poster Session 1 (11:30-12:30) </a></li>
 <li><a href="#session2"> Poster Session 2 (17:15-18:15) </a></li>

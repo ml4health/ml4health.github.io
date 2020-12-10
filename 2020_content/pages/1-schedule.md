@@ -2,7 +2,9 @@ Title: Schedule
 Date: 2018-08-01
 <!-- 25 minutes + 5 for invited -->
 
-<p> The workshop will be held December 11 virtually. Tenative schedule is below with possible changes to accommodate virtual format better. Times are listed in EST.</p>
+<p> The workshop will be held December 11 virtually. Times are listed in EST.</p>
+
+<p> See the <a href="https://neurips.cc/virtual/2020/protected/workshop_16134.html">NeurIPS workshop page</a> for live video, chat links, and the most updated schedule. We have also created a <a href="https://docs.google.com/document/d/1p2IjQNUnYWE9iakdy92AlHCJTh9Izto213SoTAPGEUs/edit?usp=sharing">Livestream Guide for Attendees</a></p>
 
 <p>The workshop adheres to to the <a href="https://nips.cc/public/CodeOfConduct">NeurIPS Code of Conduct</a>. Please contact the organization committee with any concerns.</p>
 

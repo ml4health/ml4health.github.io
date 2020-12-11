@@ -18,7 +18,7 @@ out_md_str += (
 out_md_str += \
 """
 We have accepted %d papers to be included in the Volume 136 of the <a href="http://proceedings.mlr.press/v136/">Proceedings of Machine Learning Research</a>.
-These are listed below, with links to posters to be added Dec 11. Numbers indicate poster session IDs.
+These are listed below, with links to posters. Numbers indicate poster session IDs.
 
 See the <a href="https://neurips.cc/virtual/2020/protected/workshop_16134.html">NeurIPS workshop page</a> for live video, chat links, and the most updated schedule. We have also created a <a href="https://docs.google.com/document/d/1bE-BoGPpAuqlFlqy_PpljB-t_HSNH0ZFRzgn9yjW0B8/edit?usp=sharing">Guide for Poster Presenters</a> and a <a href="https://docs.google.com/document/d/1p2IjQNUnYWE9iakdy92AlHCJTh9Izto213SoTAPGEUs/edit?usp=sharing">Livestream Guide for Attendees</a>
 
@@ -46,7 +46,7 @@ for i, row in morning_df.iterrows():
     <div class="col-xs-12 col-md-6"> 
     <div class="thumbnail">
         <div class="caption">
-            <h5>{row.Poster_ID}. {row.Title}</h5>
+            <h5><a href="{row.URL}">{row.Poster_ID}. {row.Title}</a></h5>
             <p>{row.Authors}</p>
         </div>
     </div>
@@ -73,7 +73,7 @@ for i, row in afternoon_df.iterrows():
     <div class="col-xs-12 col-md-6"> 
     <div class="thumbnail">
         <div class="caption">
-            <h5>{row.Poster_ID}. {row.Title}</h5>
+            <h5><a href="{row.URL}">{row.Poster_ID}. {row.Title}</a></h5>
             <p>{row.Authors}</p>
         </div>
     </div>

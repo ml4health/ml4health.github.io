@@ -20,7 +20,7 @@ out_md_str += \
 """
 We have accepted %d extended abstracts for presentation at the workshop, which are hosted <a href="https://arxiv.org/html/2011.11554">on the ML4H 2020 arXiv index</a>.
 
-These are listed below, with links to the posters to be added Dec 11. Numbers indicate poster session IDs.
+These are listed below, with links to the posters. Numbers indicate poster session IDs.
 
 See the <a href="https://neurips.cc/virtual/2020/protected/workshop_16134.html">NeurIPS workshop page</a> for live video, chat links, and the most updated schedule. We have also created a <a href="https://docs.google.com/document/d/1bE-BoGPpAuqlFlqy_PpljB-t_HSNH0ZFRzgn9yjW0B8/edit?usp=sharing">Guide for Poster Presenters</a> and a <a href="https://docs.google.com/document/d/1p2IjQNUnYWE9iakdy92AlHCJTh9Izto213SoTAPGEUs/edit?usp=sharing">Livestream Guide for Attendees</a>
 
@@ -42,7 +42,7 @@ close_div_str = "</div>"
 
 for i, row in morning_df.iterrows():
     # print(row)
-    if False:
+    if True:
     # if row.URL and len(row.URL) > 3:
         item_str = f"""
         \n
@@ -85,7 +85,7 @@ close_div_str = "</div>"
 for i, row in afternoon_df.iterrows():
     # print(row)
     # if row.URL and len(row.URL) > 3:
-    if False:
+    if True:
         item_str = f"""
         \n
         <!-- 12/12 = full width on mobile, 6/12 = 1/2 screen on laptop -->

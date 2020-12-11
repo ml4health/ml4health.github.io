@@ -8,7 +8,7 @@ Date: 2018-08-01
 
 <p>The workshop adheres to to the <a href="https://nips.cc/public/CodeOfConduct">NeurIPS Code of Conduct</a>. Please contact the organization committee with any concerns.</p>
 
-<p> Videos will be posted here after the conference. Feedback and interest in organizing can be <a href="bit.ly/3oA57qr">submitted here</a></p>
+<p> Videos will be posted here after the conference. Feedback and interest in organizing can be <a href="http://bit.ly/3oA57qr">submitted here</a></p>
 
 <div class="table-responsive">
   <table class="table table-bordered">

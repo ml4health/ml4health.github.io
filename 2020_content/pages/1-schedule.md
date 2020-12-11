@@ -8,7 +8,7 @@ Date: 2018-08-01
 
 <p>The workshop adheres to to the <a href="https://nips.cc/public/CodeOfConduct">NeurIPS Code of Conduct</a>. Please contact the organization committee with any concerns.</p>
 
-<p> Videos will be posted here after the conference.</p>
+<p> Videos will be posted here after the conference. Feedback and interest in organizing can be <a href="bit.ly/3oA57qr">submitted here</a></p>
 
 <div class="table-responsive">
   <table class="table table-bordered">
@@ -38,12 +38,12 @@ Date: 2018-08-01
 </b></td></tr>
 <tr> <td>16:10 - 16:45</td> <td>Discussion with Judy Gichoya and Ziad Obermeyer</td></tr>
 <tr> <td>16:45 - 17:15</td> <td>Spotlights B</td></tr>
-<tr> <td>17:15 - 18:15</td> <td>Poster Session B
 <ul>
 	<li>Claire Donnat: "A Bayesian Hierarchical Network for Combining Heterogeneous Data Sources in Medical Diagnoses"</li>
 	<li>Emma Pierson: "Assessing racial inequality in COVID-19 testing with Bayesian threshold tests"</li>
 	<li>Neeraj Wagh: "EEG-GCNN: Augmenting Electroencephalogram-based Neurological Disease Diagnosis using a Domain-guided Graph Convolutional Neural Network"</li>
 </ul>
+<tr> <td>17:15 - 18:15</td> <td>Poster Session B
 </td></tr>
 <tr> <td>18:15 - 18:30</td> <td>Social Break</td><td></tr>
 <tr> <td>18:30 - 18:50</td> <td><b>Andrew Ng: Practical limitations of today's deep learning in healthcare</b></td></tr>

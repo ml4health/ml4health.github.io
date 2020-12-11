@@ -37,12 +37,13 @@ Date: 2018-08-01
 <tr> <td>15:50 - 16:10</td> <td><b>Ziad Obermeyer: Explaining Pain Disparities
 </b></td></tr>
 <tr> <td>16:10 - 16:45</td> <td>Discussion with Judy Gichoya and Ziad Obermeyer</td></tr>
-<tr> <td>16:45 - 17:15</td> <td>Spotlights B</td></tr>
+<tr> <td>16:45 - 17:15</td> <td>Spotlights B
 <ul>
 	<li>Claire Donnat: "A Bayesian Hierarchical Network for Combining Heterogeneous Data Sources in Medical Diagnoses"</li>
 	<li>Emma Pierson: "Assessing racial inequality in COVID-19 testing with Bayesian threshold tests"</li>
 	<li>Neeraj Wagh: "EEG-GCNN: Augmenting Electroencephalogram-based Neurological Disease Diagnosis using a Domain-guided Graph Convolutional Neural Network"</li>
 </ul>
+</td></tr>
 <tr> <td>17:15 - 18:15</td> <td>Poster Session B
 </td></tr>
 <tr> <td>18:15 - 18:30</td> <td>Social Break</td><td></tr>

@@ -6,6 +6,7 @@ Creating new folder for a new year
 1. Copied the `2020_content` to `2021_content`.
 2. Edit homepage in `2021_content/pages/00_index.md`. Change the date, announcements, and sponsor, as appropriate. 
 3. Update information in `2021/index.html`. Remove tabs for which information is currently unavailable e.g., speakers, schedule, etc. (You can add later). 
+4. Update Line 6 and 7 in `Makefile` to reflect year 2021 content. Change link in `./index.html`. Switch years in `pelicanconf.py`
 
 # Usage for 2020
 

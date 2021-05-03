@@ -82,7 +82,7 @@ Attaching to Wall: There are no poster boards, we will have tape or some other m
 <br>
 <div class="row">
 <div class="col-md-12">
-<p> <a href="./pages/sponsorship.html">ML4H 2021 is proudly sponsored by Roche.</a>
+<p> <a href="./pages/sponsorship.html">ML4H 2021.</a>
  </p>
  <img src="{static}/images/roche.png" align="center">
 </div>

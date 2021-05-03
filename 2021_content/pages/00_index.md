@@ -84,5 +84,5 @@ Attaching to Wall: There are no poster boards, we will have tape or some other m
 <div class="col-md-12">
 <p> <a href="./pages/sponsorship.html">ML4H 2021.</a>
  </p>
- <img src="{static}/images/roche.png" align="center">
+<!--  <img src="{static}/images/roche.png" align="center"> -->
 </div>

@@ -5,6 +5,7 @@ This repository contains all the source materials for NIPS ML4Health workshop we
 Creating new folder for a new year
 1. Copied the `2020_content` to `2021_content`.
 2. Edit homepage in `2021_content/pages/00_index.md`. Change the date, announcements, and sponsor, as appropriate. 
+3. Update information in `./2021/index.html.md'.
 
 # Usage for 2020
 

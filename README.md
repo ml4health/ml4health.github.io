@@ -1,5 +1,10 @@
 This repository contains all the source materials for NIPS ML4Health workshop website. 
 
+# Usage for 2021
+
+Creating new folder for a new year
+1. Copied the `2020_content` to `2021_content`.
+
 # Usage for 2020
 
 Creating new folder for a new year

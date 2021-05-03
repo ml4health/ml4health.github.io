@@ -8,7 +8,7 @@ save_as: index.html
 <div class="col-md-7">
     <p>
         <b>
-            ML4H 2021
+            ML4H 2021 
 <!--             : a workshop at
             <a href="https://neurips.cc">NeurIPS 2020</a> -->
         </b> <br>

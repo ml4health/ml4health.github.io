@@ -17,7 +17,9 @@ save_as: index.html
     Date TBD <br>
     Virtual Conference, Anywhere, Earth
     </p>
-    <p>This workshop will bring together machine learning researchers, clinicians, and healthcare data experts. The program consists of invited talks, contributed posters, and panel discussions.
+    <p>This year, ML4H will bring together machine learning researchers, clinicians, and healthcare data experts. The program consists of invited talks, contributed posters, and panel discussions.
+    <p> Until we kick things off, please feel free to direct your questions to the email below and join the ML4H Google Group. 
+    </p>
 <!--     <p>This year, we focus specifically on advancing healthcare for all people. For machine learning to truly revolutionise healthcare, as is so often promised, we must focus on using it to broaden ML access while ensuring our models remain beneficial to all.</p>
     <p>Find live video at the <a href="https://neurips.cc/virtual/2020/protected/workshop_16134.html">Official NeurIPS workshop page (requires registration)</a></p> -->
     <p>Direct questions to:

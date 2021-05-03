@@ -8,20 +8,21 @@ save_as: index.html
 <div class="col-md-7">
     <p>
         <b>
-            ML4H 2020: a workshop at
-            <a href="https://neurips.cc">NeurIPS 2020</a>
+            ML4H 2021
+<!--             : a workshop at
+            <a href="https://neurips.cc">NeurIPS 2020</a> -->
         </b> <br>
-        <b> Advancing Healthcare for All</b>
+<!--         <b> Advancing Healthcare for All</b> -->
         <br> 
     Fri December 11, 2020 <br>
     Virtual Conference, Anywhere, Earth
     </p>
     <p>This workshop will bring together machine learning researchers, clinicians, and healthcare data experts. The program consists of invited talks, contributed posters, and panel discussions.
-    <p>This year, we focus specifically on advancing healthcare for all people. For machine learning to truly revolutionise healthcare, as is so often promised, we must focus on using it to broaden ML access while ensuring our models remain beneficial to all.</p>
-    <p>Find live video at the <a href="https://neurips.cc/virtual/2020/protected/workshop_16134.html">Official NeurIPS workshop page (requires registration)</a></p>
+<!--     <p>This year, we focus specifically on advancing healthcare for all people. For machine learning to truly revolutionise healthcare, as is so often promised, we must focus on using it to broaden ML access while ensuring our models remain beneficial to all.</p>
+    <p>Find live video at the <a href="https://neurips.cc/virtual/2020/protected/workshop_16134.html">Official NeurIPS workshop page (requires registration)</a></p> -->
     <p>Direct questions to:
-                <a href="mailto:ml4h.workshop.neurips.2020@gmail.com">
-                    ml4h.workshop.neurips.2020@gmail.com
+                <a href="mailto:ml4h.2021@gmail.com">
+                    ml4h.2021@gmail.com
                 </a>
     </p>        
     <p>Join the
@@ -48,24 +49,16 @@ save_as: index.html
 </div>
 
 <h4>Announcements</h4>
-<div class="row">
-<div class="alert alert-success" role="alert">
-<p> 2020/12/10 </p>
-<p>The ML4H workshop is here! Please see our <a href="https://docs.google.com/document/d/1p2IjQNUnYWE9iakdy92AlHCJTh9Izto213SoTAPGEUs/edit?usp=sharing">Livestream Guide for Attendees</a> and <a href="https://docs.google.com/document/d/1bE-BoGPpAuqlFlqy_PpljB-t_HSNH0ZFRzgn9yjW0B8/edit?usp=sharing">Instructions for Poster Presenters</a> for information on how to virtually attend the conference. Feedback and interest in organizing can be <a href="http://bit.ly/3oA57qr">submitted here</a></p> 
-</div>
-</div>
-<div class="row">
-<div class="alert alert-success" role="alert">
-<p> 2020/09/18 </p>
-<p>Registration for <a href="https://neurips.cc/Register/view-registration">NeurIPS 2020</a> is now open. Registration is $25 USD for students and $100 USD for non-students. Financial assistance is available <a href="https://nips.cc/Surveys/49">from NeurIPS (due 11/27/2020)</a> and <a href="https://forms.gle/uFw3W84hjQGUQxk66">from ML4H (due 11/27/2020)</a>.</p>
-</div>
-</div>
+
+
 <div class="row">
 <div class="alert alert-success" role="alert">
 <p> 2020/08/14 </p>
-<p>Our <a href="./pages/call-for-participation.html">call for participation</a> is up! We have two tracks, awards, and pilot mentorship programs.</p>
+<p>Please keep an eye out for the call for participation</a>, which will be up soon!</p>
 </div>
 </div>
+<!--<a href="./pages/call-for-participation.html"> -->
+
 <!-- 
 <div class="row">
 <div class="alert alert-info" role="alert">
@@ -89,7 +82,7 @@ Attaching to Wall: There are no poster boards, we will have tape or some other m
 <br>
 <div class="row">
 <div class="col-md-12">
-<p> <a href="./pages/sponsorship.html">ML4H 2020 is proudly sponsored by Roche.</a>
+<p> <a href="./pages/sponsorship.html">ML4H 2021 is proudly sponsored by Roche.</a>
  </p>
  <img src="{static}/images/roche.png" align="center">
 </div>

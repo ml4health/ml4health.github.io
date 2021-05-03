@@ -14,7 +14,7 @@ save_as: index.html
         </b> <br>
 <!--         <b> Advancing Healthcare for All</b> -->
         <br> 
-    Fri December 11, 2020 <br>
+    Date TBD <br>
     Virtual Conference, Anywhere, Earth
     </p>
     <p>This workshop will bring together machine learning researchers, clinicians, and healthcare data experts. The program consists of invited talks, contributed posters, and panel discussions.

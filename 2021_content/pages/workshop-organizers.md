@@ -6,7 +6,7 @@ Date: 2018-06-01
 
 Our team of many organizers is excited to work together to make this workshop possible.
 
-Please direct all workshop-related questions to: <a href="mailto:ml4h.workshop.neurips.2020@gmail.com">ml4h.workshop.neurips.2020@gmail.com</a>
+Please direct all workshop-related questions to: <a href="mailto:ml4h.2021@gmail.com">ml4h.2021@gmail.com</a>
 
 <!-- Thanks also to the
 <a href="program-committee.html">many members of our program committee</a>

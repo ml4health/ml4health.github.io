@@ -1,0 +1,314 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8"/>
+    <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <!-- External Javascript libs_ext  -->
+    <script src="https://cdn.jsdelivr.net/npm/d3@5/dist/d3.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@4.7.3/dist/handlebars.min.js"
+            integrity="sha256-/PJBs6QWvXijOFIX04kZpLb6ZtSQckdOIavLWKKOgXU="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+
+    <script
+            src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+            integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+            crossorigin="anonymous"
+    ></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js"
+            integrity="sha256-WqU1JavFxSAMcLP2WIOI+GB2zWmShMI82mTpLDcqFUg="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/min/moment.min.js"
+            integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment-timezone@0.5.28/builds/moment-timezone-with-data.min.js"
+            integrity="sha256-IWYg4uIC8/erItNXYvLtyYHioRi2zT1TFva8qaAU/ww="
+            crossorigin="anonymous"></script>
+
+
+    <!-- Library libs_ext -->
+    <script src="static/js/libs_ext/typeahead.bundle.js"></script>
+
+
+    <!--    Internal Libs -->
+    <script src="static/js/data/api.js"></script>
+
+    
+
+    <!-- External CSS -->
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+          integrity="sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY="
+          crossorigin="anonymous">
+
+    <!-- External Fonts (no google for china) -->
+    <link
+            href="static/css/Lato.css"
+            rel="stylesheet"
+    />
+    <link href="static/css/Exo.css" rel="stylesheet"/>
+    <link
+            href="static/css/Cuprum.css"
+            rel="stylesheet"
+    />
+    <link rel="stylesheet" href="static/css/main.css"/>
+<!--    <link rel="stylesheet" href="static/css/fa_regular.css"/>-->
+    <link rel="stylesheet" href="static/css/fa_solid.css"/>
+    <link rel="stylesheet" href="static/css/lazy_load.css"/>
+    <link rel="stylesheet" href="static/css/typeahead.css"/>
+
+    <title>ML4H: Reviewer Instructions</title>
+    
+</head>
+
+<body>
+<!-- NAV -->
+
+<nav
+        class="navbar sticky-top navbar-expand-lg navbar-light bg-light mr-auto"
+        id="main-nav"
+>
+    <div class="container">
+        <a class="navbar-brand" href="index.html">
+            <img
+                    class="logo" src="static/images/logo.png"
+                    height="50px"
+            width="auto"
+            />
+        </a>
+        
+        <a class="navbar-brand" href="index.html">ML4H 2021</a>
+        
+        <button
+                class="navbar-toggler"
+                type="button"
+                data-toggle="collapse"
+                data-target="#navbarNav"
+                aria-controls="navbarNav"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+        >
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div
+                class="collapse navbar-collapse text-right flex-grow-1"
+                id="navbarNav"
+        >
+            <ul class="navbar-nav ml-auto">
+
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="index.html">Home</a>
+                </li>
+                
+
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Attend
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                    <!--<li><a class="nav-link" href="registration.html" >Registration</a></li>-->
+                    <li><a class="nav-link" href="participation_guide.html" >Participation Guide</a></li>
+                    <li><a class="nav-link" href="schedule.html" >Schedule</a></li>
+                    <!--li><a class="nav-link" href="chat.html" >Chat</a></li-->
+                    <li><a class="nav-link" href="speakers.html" >Speakers</a></li>
+                    <li><a class="nav-link" href="research_roundtables.html" >Research Roundtables</a></li>
+                    <li><a class="nav-link" href="career_mentorship.html" >Career Mentorship</a></li>
+                    <li><a class="nav-link" href="raffle_terms.html" >Raffle</a></li>
+                    <li><a class="nav-link" href="code_of_conduct.html" >Code of Conduct</a></li>
+                </ul>
+                </li>
+                <li class="nav-item dropdown active">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Submit
+                  </a> 
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                    <li><a class="nav-link" href="call_for_participation.html">Call for Participation</a></li>
+                    <li><a class="nav-link" href="writing_guidelines.html" >Writing Guidelines</a></li>
+                    <li><a class="nav-link" href="reviewer_instructions.html" >Reviewer Instructions</a></li>
+                    <li><a class="nav-link" href="submission_mentorship.html" >Submission Mentorship</a></li>
+                    <li><a class="nav-link" href="reviewer_mentorship.html" >Reviewer Mentorship</a></li>
+                  </ul>
+                </li>
+
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Organization
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                  <li><a class="nav-link" href="about.html" >About</a></li>
+                  <li><a class="nav-link" href="committee.html" >Organizers</a></li>
+                </ul>
+                </li>
+
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Past Events
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="nav-link" href="https://ml4health.github.io/2020">2020</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2019">2019</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2018">2018</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2017">2017</a></li>
+                  <li><a class="nav-link" href="https://nips.cc/Conferences/2016/Schedule?showEvent=6209">2016</a></li>
+                </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+
+<!-- User Overrides -->
+
+
+
+<div class="container">
+    <!-- Tabs -->
+    <div class="tabs">
+        
+  <div class="page-header text-center">
+    <h1>Reviewer Instructions</h1>
+  </div>
+
+    </div>
+    <!-- Content -->
+    <div class="content">
+        
+  <div class="page-content">
+
+<h3>Questions?</h3>
+    <p>Please send any questions to: <a href="mailto:ml4h.2021@gmail.com">ml4h.2021@gmail.com</a> </p>
+<h3>Goals for Reviewing Process</h3>
+<p>Similar to prior years, we will have two tracks at ML4H: a formal proceedings track for polished work with technical sophistication and clear healthcare impact as well as an extended abstract track for non-traditional research artifacts. Our goal in providing two tracks is to establish ML4H as a strong venue for publishing excellent ML4H work while also providing a forum for insightful discussion of creative and probing ideas.</p>
+<p> There are two complementary goals of the reviewing process. One goal is to provide actionable, constructive, and respectful feedback to the authors that will help them improve the work, both through positive recognition of the paper’s strengths and targeted commentary on opportunities for improvement. The other goal is to help meta-reviewers and organizers make decisions such that the highest-impact work is identified and accepted. </p>
+<p> This year, ML4H also features an explicit consensus-building discussion period. In this period, we expect all reviewers to engage with one another and their meta-reviewer to present a unified consensus. In this period, we expect reviewers to consider the author’s rebuttal, align with other reviewers on commonly identified strengths and weaknesses, and update their review in light of these discussions. The goal of this period is not to induce homogeneity, but rather to build consensus and provide a unified recommendation to the author. If you feel after this period that your beliefs about the quality of the work are not reflected by other reviewers, it is acceptable and encouraged to present these beliefs in your final review, provided you have made a good-faith effort to engage with other reviewers and have been open to other perspectives or arguments. Meta-reviewers are encouraged to seek consensus in this period, so you will be asked by your meta-reviewer to justify your stance if you disagree with the majority of reviewers, and failing to do so may result in your review not being featured as heavily in the meta-reviewers overall recommendation. </p> 
+
+<h3>Timeline</h3>
+<p>Sep. 13th AoE: Submission deadline. </p>
+<p>Sep. 16th:  Reviews & Meta-reviews assigned. Reviewing period begins! </p>
+<p>Oct. 6th AoE: Review deadline</p>
+<p>Oct. 11th: Reviewer Discussion Period Starts; Author Response Period Starts</p>
+<p>Oct. 15th AoE: Author Response Period Ends </p>
+<p> Oct. 20th: Reviewer Discussion Period Ends </p>
+<p> Oct. 27th: Final Decisions Released <p>
+
+    <h3>How can I write a good review?</h3>
+<p>There are numerous external resources that provide helpful advice on writing reviews. To get a sense of what a good review might look like, the <a href="https://acl2017.wordpress.com/2017/02/23/last-minute-reviewing-advice/">2017 ACL PC chairs blog</a> contains some useful advice. To understand the difference between a negative and a constructive review, check out the review content section of the <a href="https://neurips.cc/Conferences/2021/Reviewer-Guidelines">NeurIPS 2021 guidelines</a> (for inspiration only; follow the ML4H reviewer guidelines for any specific instructions). To assess the healthcare-specific aspects of a paper/abstract, <a href="https://www.nature.com/nature-research/editorial-policies/peer-review#writing-the-review">Nature</a> has a small paragraph on how to assess the authors’ contributions.</p>
+
+    <h3>What counts as a good ML4H Paper/Abstract?</h3>
+<p>All reviewers should refer to the <a href="writing_guidelines.html">guidelines</a> we provided authors on how to write a good ML4H paper or extended abstract. The criteria for the proceedings and abstracts tracks are distinct -- while both tracks require high quality submissions, the abstract submissions should also be judged on their likelihood to lead to a good discussion at the workshop. Please refer to the writing guidelines document for exemplary submissions in each track. </p>
+    
+    <h3>When should a paper switch to the abstract track?</h3>
+<p>Works submitted to the Proceedings track can be considered for consideration to the extended abstract track. If you are reviewing a paper and think that a shortened 4-page version of the work would be strong enough to warrant consideration in the extended abstract track, make sure to select that option in the reviewer form on HotCRP. </p>
+<p> Keep in mind that the primary goal of the extended abstract track is to generate productive and interesting discussion amongst conference attendees. Creative, insightful, and/or potentially divisive contributions (even if less fully developed or not performant) make great additions to the abstract track.  As a result, an extended abstract may not necessarily meet the same level of technical sophistication as a paper, as long as it meets the criteria of generating productive / interesting discussions. </p>
+    
+    <h3>Confidentiality Guidelines</h3>
+<p>All aspects of the review process should be confidential. Do not discuss or distribute the submissions or reviews or use any ideas from the submissions in your own work until they are publicly available.</p>
+
+    <h3>Conflict Guidelines</h3>
+<p>Please check ASAP that your assigned papers do not represent conflicts of interest. You should not recognize any paper you are reviewing as work done by someone you work closely with.</p>
+<p> If you find a conflict, report it immediately via email: ml4h.2021@gmail.com </p>
+  
+    <h3>Anonymity Guidelines</h3>
+<p>Papers should be anonymous. If you find a major violation, please report it to the organizers:ml4h.2021@gmail.com.</p>
+<p> Our process is double-blind. The authors do not know the reviewers' identities, and the reviewers do not know the authors' identities.  Of course, no process is perfect: the reviewers might be able to guess the authors' identities based on the data set or the approaches used, or by technical reports posted on the internet.  As a reviewer, we expect you will not actively attempt to discover the identity of the author.  We also caution you against assuming that you've discovered an author's identity based on a data set or approach: multiple independent inventions are common, and different groups often share data sets. </p>
+    
+    <h3>Formatting Guidelines</h3>
+<p>All submissions should be formatted using the ML4H 2021 LaTeX template. Proceedings track papers should have their main content limited to 9 pages (including figures and text, but excluding references), and extended abstracts should be limited to 4 pages (excluding references and appendices).</p>
+<p> ML4H 2021 template <a href=https://drive.google.com/drive/folders/1ONzQObbC5kMpEmLXL2F5BVR_D58lim91>files</a> </p>
+<p> ML4H 2021 template on <a href=https://www.overleaf.com/latex/templates/ml4h-2021-template/xdsfdmdchfxg>Overleaf</a> </p>
+<p> Please note that references and appendices can extend beyond the page limit.  However, reviewers should not feel obligated to read any supplementary material. Your time is precious! </p>
+<p> In general, we’d rather accept good work than nitpick about little formatting issues (especially because some clinicians may not be familiar with LaTeX). However, big issues (e.g. a 20 page journal-like paper) would be grounds for rejection. </p>
+    
+     <h3>Reviewing Quota</h3>
+<p>We’ve tried our best to grow a large pool of reviewers, so we expect that each reviewer will be assigned no more than 5 submissions. Please help us keep this number small by completing your assigned reviews on time -- and if you can complete them early, all the better!</p>
+
+    <h3>Review Assignment Process</h3>
+<p>Authors labeled each paper with a set of topic areas, and each reviewer was asked to list their topic areas of expertise. These topic areas are used to assign reviewers to the most relevant papers possible. </p>
+
+    <h3>FAQ</h3>
+<ul>
+<li>Can PC members also be authors of papers or extended abstracts?
+</li>
+</ul>
+<p>Yes. Though of course a PC member will not be assigned to review their own papers. That’s a conflict of interest.</p>
+<ul>
+<li>What if I don't have sufficient expertise to review a paper assigned to me?</li>
+</ul>
+<p>While papers should provide adequate background that nearly all reviewers can provide a reasonable review, we understand that occasionally a paper may fall far outside your area of expertise. If this happens, please contact ml4h.2021@gmail.com immediately.
+</p>    
+
+
+  </div>
+
+    </div>
+</div>
+
+
+
+<!-- Google Analytics -->
+<script
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=UA-"
+></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+
+  gtag("js", new Date());
+  gtag("config", "UA-");
+</script>
+
+<!-- Footer -->
+<footer class="footer bg-light p-4">
+    <div class="container">
+        <p class="float-right"><a href="#">Back to Top</a></p>
+        <p class="text-center">© 2021 ML4H Organization Committee</p>
+    </div>
+</footer>
+
+<!-- Code for hash tags -->
+<script type="text/javascript">
+  $(document).ready(function () {
+    if (window.location.hash !== "") {
+      $(`a[href="${window.location.hash}"]`).tab("show");
+    }
+
+    $("a[data-toggle='tab']").on("shown.bs.tab", function (e) {
+      const hash = $(e.target).attr("href");
+      if (hash.substr(0, 1) === "#") {
+        const position = $(window).scrollTop();
+        window.location.replace(`#${hash.substr(1)}`);
+        $(window).scrollTop(position);
+      }
+    });
+  });
+</script>
+<!--    <script src="static/js/modules/lazyLoad.js"></script>-->
+
+</body>
+</html>

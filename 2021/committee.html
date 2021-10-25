@@ -1,0 +1,939 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8"/>
+    <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <!-- External Javascript libs_ext  -->
+    <script src="https://cdn.jsdelivr.net/npm/d3@5/dist/d3.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@4.7.3/dist/handlebars.min.js"
+            integrity="sha256-/PJBs6QWvXijOFIX04kZpLb6ZtSQckdOIavLWKKOgXU="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+
+    <script
+            src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+            integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+            crossorigin="anonymous"
+    ></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js"
+            integrity="sha256-WqU1JavFxSAMcLP2WIOI+GB2zWmShMI82mTpLDcqFUg="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/min/moment.min.js"
+            integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment-timezone@0.5.28/builds/moment-timezone-with-data.min.js"
+            integrity="sha256-IWYg4uIC8/erItNXYvLtyYHioRi2zT1TFva8qaAU/ww="
+            crossorigin="anonymous"></script>
+
+
+    <!-- Library libs_ext -->
+    <script src="static/js/libs_ext/typeahead.bundle.js"></script>
+
+
+    <!--    Internal Libs -->
+    <script src="static/js/data/api.js"></script>
+
+    
+
+    <!-- External CSS -->
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+          integrity="sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY="
+          crossorigin="anonymous">
+
+    <!-- External Fonts (no google for china) -->
+    <link
+            href="static/css/Lato.css"
+            rel="stylesheet"
+    />
+    <link href="static/css/Exo.css" rel="stylesheet"/>
+    <link
+            href="static/css/Cuprum.css"
+            rel="stylesheet"
+    />
+    <link rel="stylesheet" href="static/css/main.css"/>
+<!--    <link rel="stylesheet" href="static/css/fa_regular.css"/>-->
+    <link rel="stylesheet" href="static/css/fa_solid.css"/>
+    <link rel="stylesheet" href="static/css/lazy_load.css"/>
+    <link rel="stylesheet" href="static/css/typeahead.css"/>
+
+    <title>ML4H: Organizers</title>
+    
+</head>
+
+<body>
+<!-- NAV -->
+
+<nav
+        class="navbar sticky-top navbar-expand-lg navbar-light bg-light mr-auto"
+        id="main-nav"
+>
+    <div class="container">
+        <a class="navbar-brand" href="index.html">
+            <img
+                    class="logo" src="static/images/logo.png"
+                    height="50px"
+            width="auto"
+            />
+        </a>
+        
+        <a class="navbar-brand" href="index.html">ML4H 2021</a>
+        
+        <button
+                class="navbar-toggler"
+                type="button"
+                data-toggle="collapse"
+                data-target="#navbarNav"
+                aria-controls="navbarNav"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+        >
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div
+                class="collapse navbar-collapse text-right flex-grow-1"
+                id="navbarNav"
+        >
+            <ul class="navbar-nav ml-auto">
+
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="index.html">Home</a>
+                </li>
+                
+
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Attend
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                    <!--<li><a class="nav-link" href="registration.html" >Registration</a></li>-->
+                    <li><a class="nav-link" href="participation_guide.html" >Participation Guide</a></li>
+                    <li><a class="nav-link" href="schedule.html" >Schedule</a></li>
+                    <!--li><a class="nav-link" href="chat.html" >Chat</a></li-->
+                    <li><a class="nav-link" href="speakers.html" >Speakers</a></li>
+                    <li><a class="nav-link" href="research_roundtables.html" >Research Roundtables</a></li>
+                    <li><a class="nav-link" href="career_mentorship.html" >Career Mentorship</a></li>
+                    <li><a class="nav-link" href="raffle_terms.html" >Raffle</a></li>
+                    <li><a class="nav-link" href="code_of_conduct.html" >Code of Conduct</a></li>
+                </ul>
+                </li>
+                <li class="nav-item dropdown ">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Submit
+                  </a> 
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                    <li><a class="nav-link" href="call_for_participation.html">Call for Participation</a></li>
+                    <li><a class="nav-link" href="writing_guidelines.html" >Writing Guidelines</a></li>
+                    <li><a class="nav-link" href="reviewer_instructions.html" >Reviewer Instructions</a></li>
+                    <li><a class="nav-link" href="submission_mentorship.html" >Submission Mentorship</a></li>
+                    <li><a class="nav-link" href="reviewer_mentorship.html" >Reviewer Mentorship</a></li>
+                  </ul>
+                </li>
+
+                <li class="nav-item dropdown active">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Organization
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                  <li><a class="nav-link" href="about.html" >About</a></li>
+                  <li><a class="nav-link" href="committee.html" >Organizers</a></li>
+                </ul>
+                </li>
+
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Past Events
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="nav-link" href="https://ml4health.github.io/2020">2020</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2019">2019</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2018">2018</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2017">2017</a></li>
+                  <li><a class="nav-link" href="https://nips.cc/Conferences/2016/Schedule?showEvent=6209">2016</a></li>
+                </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+
+<!-- User Overrides -->
+
+
+
+<div class="container">
+    <!-- Tabs -->
+    <div class="tabs">
+        
+  <div class="page-header text-center">
+    <h1>ML4H Organizers</h1>
+  </div>
+<!--  <ul class="nav nav-pills justify-content-center">
+  
+  <li class="nav-item">
+    <a
+      class="nav-link active text-muted "
+      data-toggle="tab"
+      href="#tab-governing-board"
+      role="tab"
+      aria-controls="nav-home"
+      aria-selected="true"
+      >Governing Board
+    </a>
+  </li>
+  
+  <li class="nav-item">
+    <a
+      class="nav-link  text-muted "
+      data-toggle="tab"
+      href="#tab-steering-committee"
+      role="tab"
+      aria-controls="nav-home"
+      aria-selected="true"
+      >Steering Committee
+    </a>
+  </li>
+  
+</ul> -->
+
+    </div>
+    <!-- Content -->
+    <div class="content">
+        
+  <div class="page-content">
+    <div class="tab-content py-3 px-3 px-sm-0" id="nav-tabContent">
+      <!-- Governing Board tab -->
+      <div
+        class="tab-pane active"
+        id="tab-governing-board"
+        role="tabpanel"
+        aria-labelledby="nav-profile-tab"
+      >
+        <p><center>Our team of organizers is excited to work together to make this symposium possible. </center></p>
+<h2><a name='primary'>Primary Organizers</a></h2>
+
+<div class="container">
+<div class="row display-flex">
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+<!--     <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="https://www.griffintadams.com/">
+        <img 
+            src="static/images/headshots_200x200/griffin.jpg"
+            alt="Griffin Adams headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Griffin Adams</h5>
+            <p>Columbia, PhD Student
+            <br />
+            <emph>Submission Mentorship</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div> -->
+
+
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+<!--     <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="">
+        <img 
+            src="static/images/headshots_200x200/benjamin.jpg"
+            alt="Benjamin Akera headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Benjamin Akera</h5>
+            <p>Mila/UdeM, Research Visitor
+            <br />
+            <emph>Virtualization</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div> -->
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="https://emilyalsentzer.github.io/">
+        <img 
+            src="static/images/headshots_200x200/emily.jpg"
+            alt="Emily Alsentzer headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Emily Alsentzer</h5>
+            <p>MIT, PhD Student
+            <br />
+            <emph>General Chair</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="https://scholar.google.com/citations?user=_V96PXoAAAAJ&hl=en">
+        <img 
+            src="static/images/headshots_200x200/matthew.jpg"
+            alt="Matthew McDermott headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Matthew McDermott</h5>
+            <p>MIT, PhD Student
+            <br />
+            <emph>General Chair</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="https://spfohl.github.io/">
+        <img 
+            src="static/images/headshots_200x200/stephen.jpg"
+            alt="Stephen Pfohl headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Stephen Pfohl</h5>
+            <p>Stanford, PhD Student
+            <br />
+            <emph>Program Chair</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="">
+        <img 
+            src="static/images/headshots_200x200/subhrajit.jpg"
+            alt="Subhrajit headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Subhrajit Roy</h5>
+            <p>Google, Research Scientist
+            <br />
+            <emph>Program Chair</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="">
+        <img 
+            src="static/images/headshots_200x200/elham.jpg"
+            alt="Elham headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Elham Dolatabadi</h5>
+            <p>UoT, Assistant Professor
+            <br />
+            <emph>Program Sub-chair</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="">
+        <img 
+            src="static/images/headshots_200x200/girmaw.jpg"
+            alt="Girmaw headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Girmaw Abebe Tadesse</h5>
+            <p>IBM, Research Scientist
+            <br />
+            <emph>Speaker Coordinator</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="http://www.fabianfalck.com">
+        <img 
+            src="static/images/headshots_200x200/fabian.jpg"
+            alt="Fabian Falck headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Fabian Falck</h5>
+            <p>Oxford, PhD Student
+            <br />
+            <emph>Workflow Chair</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="https://yuyinzhou.github.io/">
+        <img 
+            src="static/images/headshots_200x200/yuyin.jpeg"
+            alt="Yuyin headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Yuyin Zhou</h5>
+            <p>Stanford, Postdoc
+            <br />
+            <emph>Workflow Co-chair</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="https://emmarocheteau.com/">
+        <img 
+            src="static/images/headshots_200x200/emma.jpg"
+            alt="Emma Rocheteau headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Emma Rocheteau</h5>
+            <p>Cambridge, PhD Student
+            <br />
+            <emph>Publications Chair</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="https://ioanabica.github.io/">
+        <img 
+            src="static/images/headshots_200x200/ioana.jpg"
+            alt="Ioana Bica headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Ioana Bica</h5>
+            <p>Oxford, PhD Student
+            <br />
+            <emph>Outreach Chair</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="">
+        <img 
+            src="static/images/headshots_200x200/purity.jpg"
+            alt="Purity Mugambi headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Purity Mugambi</h5>
+            <p>UMass Amherst, PhD Student
+            <br />
+            <emph>Reviewer Mentorship Coordinator</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="">
+        <img 
+            src="static/images/headshots_200x200/ghada.jpeg"
+            alt="Ghada headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Ghada Zamzmi</h5>
+            <p>NIH, Research Scientist
+            <br />
+            <emph>Mentorship Sub-chair</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="https://luisoala.github.io/">
+        <img 
+            src="static/images/headshots_200x200/luis.jpg"
+            alt="Luis headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Luis Oala</h5>
+            <p>Fraunhofer HHI
+            <br />
+            <emph>Thematic Session Coordinator</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="">
+        <img 
+            src="static/images/headshots_200x200/dani.jpg"
+            alt="Dani Kiyasseh headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Dani Kiyasseh</h5>
+            <p>Oxford, PhD Student
+            <br />
+            <emph>Communications Chair</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="">
+        <img 
+            src="static/images/headshots_200x200/ayah.jpg"
+            alt="Ayah headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Ayah Zirikly</h5>
+            <p>JHU, Research Scientist
+            <br />
+            <emph>Email coordinator</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="bkompa.github.io ">
+        <img 
+            src="static/images/headshots_200x200/ben.jpg"
+            alt="Ben Kompa headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Ben Kompa</h5>
+            <p>Harvard, PhD Student
+            <br />
+            <emph>Finance Chair</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="https://twkillian.github.io/">
+        <img 
+            src="static/images/headshots_200x200/taylor.jpg"
+            alt="Taylor Killian headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Taylor Killian</h5>
+            <p>UofToronto, PhD Student
+            <br />
+            <emph>Virtualization Chair</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="https://esizikova.github.io">
+        <img 
+            src="static/images/headshots_200x200/elena.jpg"
+            alt="Elena headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Elena Sizikova</h5>
+            <p>NYU, Faculty Fellow
+            <br />
+            <emph>Website Coordinator Chair</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="">
+        <img 
+            src="static/images/headshots_200x200/fred.jpeg"
+            alt="Fred Kwon headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Young Joon (Fred) Kwon </h5>
+            <p>Mount Sinai, MD-PhD Student
+            <br />
+            <emph>Website Coordinator Sub-chair</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="">
+        <img 
+            src="static/images/headshots_200x200/scott.jpg"
+            alt="Scott headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Scott Fleming</h5>
+            <p>Stanford, PhD Student
+            <br />
+            <emph>Virtualization: Gather.Town Sub-chair</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="">
+        <img 
+            src="static/images/headshots_200x200/defaultpic.jpg"
+            alt="default headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Meg Sharma</h5>
+            <p>UofToronto, Master's Student
+            <br />
+            <emph>Virtualization: Gather.Town Sub-chair</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+<!--    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="">
+        <img 
+            src="static/images/headshots_200x200/defaultpic.jpg"
+            alt="Alexander headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Alexander Jenkins</h5>
+            <p>University of Manchester
+            <br />
+            <emph>General Chair</emph>
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div> -->
+
+
+</div>
+</div>
+
+<p><br /></p>
+<div class="container">
+<h2><a name='additional'>Senior Advisory Committee</a></h2>
+<div class="row display-flex">
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="https://scholar.harvard.edu/beam/home">
+        <img 
+            src="static/images/headshots_200x200/andrew.jpg"
+            alt="Andrew Beam headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Andrew Beam</h5>
+            <p>Harvard Medicine, Faculty
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="http://dbmi.hms.harvard.edu/person/postdoctoral-fellows/brett-beaulieu-jones">
+        <img 
+            src="static/images/headshots_200x200/brett.jpg"
+            alt="Brett K. Beaulieu-Jones headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Brett K. Beaulieu-Jones</h5>
+            <p>Harvard Medicine, Research Fellow
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="https://www.microsoft.com/en-us/research/people/dabelgra/">
+        <img 
+            src="static/images/headshots_200x200/danielle.jpg"
+            alt="Danielle Belgrave headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Danielle Belgrave</h5>
+            <p>Microsoft Research, Principal Research Manager
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="http://www.marzyehghassemi.com/">
+        <img 
+            src="static/images/headshots_200x200/marzyeh.jpg"
+            alt="Marzyeh Ghassemi headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Marzyeh Ghassemi</h5>
+            <p>MIT, Assistant Professor
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="http://apeiroto.pe/">
+        <img 
+            src="static/images/headshots_200x200/stephanie.jpg"
+            alt="Stephanie Hyland headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Stephanie Hyland</h5>
+            <p>Microsoft Research, Senior Researcher
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+</div>
+</div>
+      </div>
+      <!-- Steering Committee tab 
+      <div
+        class="tab-pane fade"
+        id="tab-steering-committee"
+        role="tabpanel"
+        aria-labelledby="nav-profile-tab"
+      >
+        <ul>
+<li>Dr. Yindalon Aphinyanaphongs of NYU</li>
+<li>Dr. Leo Celi of MIT</li>
+<li>Dr. Nigam Shah of Stanford University</li>
+<li>Dr. Stephen Friend of Oxford University</li>
+<li>Dr. Alan Karthikesalingam of Google Health UK</li>
+<li>Dr. Ziad Obermeyer of University of California, Berkeley</li>
+<li>Dr. Samantha Kleinberg of Stevens Institute of Technology</li>
+<li>Dr. Anna Goldenberg of The Hospital for Sick Children Research Institute</li>
+<li>Dr. Lucila Ohno-Machado of University of California, San Diego</li>
+<li>Dr. Noemie Elhadad of Columbia University</li>
+<li>Dr. Katherine Heller at Google Research</li>
+<li>Dr. Laura Rosella of Dalla Lana School of Public Health, University of Toronto</li>
+<li>Dr. Shakir Mohamed of DeepMind</li>
+</ul>
+      </div>
+    </div> -->
+    <p>Contact the Organizing Committee by emailing <a href="mailto:ml4h.2021@gmail.com">ml4h.2021@gmail.com</a></p>
+  </div>
+
+    </div>
+</div>
+
+
+
+<!-- Google Analytics -->
+<script
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=UA-"
+></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+
+  gtag("js", new Date());
+  gtag("config", "UA-");
+</script>
+
+<!-- Footer -->
+<footer class="footer bg-light p-4">
+    <div class="container">
+        <p class="float-right"><a href="#">Back to Top</a></p>
+        <p class="text-center">© 2021 ML4H Organization Committee</p>
+    </div>
+</footer>
+
+<!-- Code for hash tags -->
+<script type="text/javascript">
+  $(document).ready(function () {
+    if (window.location.hash !== "") {
+      $(`a[href="${window.location.hash}"]`).tab("show");
+    }
+
+    $("a[data-toggle='tab']").on("shown.bs.tab", function (e) {
+      const hash = $(e.target).attr("href");
+      if (hash.substr(0, 1) === "#") {
+        const position = $(window).scrollTop();
+        window.location.replace(`#${hash.substr(1)}`);
+        $(window).scrollTop(position);
+      }
+    });
+  });
+</script>
+<!--    <script src="static/js/modules/lazyLoad.js"></script>-->
+
+</body>
+</html>

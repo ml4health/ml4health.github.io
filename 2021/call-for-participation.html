@@ -1,0 +1,402 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8"/>
+    <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <!-- External Javascript libs_ext  -->
+    <script src="https://cdn.jsdelivr.net/npm/d3@5/dist/d3.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@4.7.3/dist/handlebars.min.js"
+            integrity="sha256-/PJBs6QWvXijOFIX04kZpLb6ZtSQckdOIavLWKKOgXU="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+
+    <script
+            src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+            integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+            crossorigin="anonymous"
+    ></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js"
+            integrity="sha256-WqU1JavFxSAMcLP2WIOI+GB2zWmShMI82mTpLDcqFUg="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/min/moment.min.js"
+            integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment-timezone@0.5.28/builds/moment-timezone-with-data.min.js"
+            integrity="sha256-IWYg4uIC8/erItNXYvLtyYHioRi2zT1TFva8qaAU/ww="
+            crossorigin="anonymous"></script>
+
+
+    <!-- Library libs_ext -->
+    <script src="static/js/libs_ext/typeahead.bundle.js"></script>
+
+
+    <!--    Internal Libs -->
+    <script src="static/js/data/api.js"></script>
+
+    
+
+    <!-- External CSS -->
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+          integrity="sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY="
+          crossorigin="anonymous">
+
+    <!-- External Fonts (no google for china) -->
+    <link
+            href="static/css/Lato.css"
+            rel="stylesheet"
+    />
+    <link href="static/css/Exo.css" rel="stylesheet"/>
+    <link
+            href="static/css/Cuprum.css"
+            rel="stylesheet"
+    />
+    <link rel="stylesheet" href="static/css/main.css"/>
+<!--    <link rel="stylesheet" href="static/css/fa_regular.css"/>-->
+    <link rel="stylesheet" href="static/css/fa_solid.css"/>
+    <link rel="stylesheet" href="static/css/lazy_load.css"/>
+    <link rel="stylesheet" href="static/css/typeahead.css"/>
+
+    <title>ML4H: Call for Participation</title>
+    
+</head>
+
+<body>
+<!-- NAV -->
+
+<nav
+        class="navbar sticky-top navbar-expand-lg navbar-light bg-light mr-auto"
+        id="main-nav"
+>
+    <div class="container">
+        <a class="navbar-brand" href="index.html">
+            <img
+                    class="logo" src="static/images/logo.png"
+                    height="50px"
+            width="auto"
+            />
+        </a>
+        
+        <a class="navbar-brand" href="index.html">ML4H 2021</a>
+        
+        <button
+                class="navbar-toggler"
+                type="button"
+                data-toggle="collapse"
+                data-target="#navbarNav"
+                aria-controls="navbarNav"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+        >
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div
+                class="collapse navbar-collapse text-right flex-grow-1"
+                id="navbarNav"
+        >
+            <ul class="navbar-nav ml-auto">
+
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="index.html">Home</a>
+                </li>
+                
+
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Attend
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                    <!--<li><a class="nav-link" href="registration.html" >Registration</a></li>-->
+                    <li><a class="nav-link" href="participation_guide.html" >Participation Guide</a></li>
+                    <li><a class="nav-link" href="schedule.html" >Schedule</a></li>
+                    <!--li><a class="nav-link" href="chat.html" >Chat</a></li-->
+                    <li><a class="nav-link" href="speakers.html" >Speakers</a></li>
+                    <li><a class="nav-link" href="research_roundtables.html" >Research Roundtables</a></li>
+                    <li><a class="nav-link" href="career_mentorship.html" >Career Mentorship</a></li>
+                    <li><a class="nav-link" href="raffle_terms.html" >Raffle</a></li>
+                    <li><a class="nav-link" href="code_of_conduct.html" >Code of Conduct</a></li>
+                </ul>
+                </li>
+                <li class="nav-item dropdown active">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Submit
+                  </a> 
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                    <li><a class="nav-link" href="call_for_participation.html">Call for Participation</a></li>
+                    <li><a class="nav-link" href="writing_guidelines.html" >Writing Guidelines</a></li>
+                    <li><a class="nav-link" href="reviewer_instructions.html" >Reviewer Instructions</a></li>
+                    <li><a class="nav-link" href="submission_mentorship.html" >Submission Mentorship</a></li>
+                    <li><a class="nav-link" href="reviewer_mentorship.html" >Reviewer Mentorship</a></li>
+                  </ul>
+                </li>
+
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Organization
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                  <li><a class="nav-link" href="about.html" >About</a></li>
+                  <li><a class="nav-link" href="committee.html" >Organizers</a></li>
+                </ul>
+                </li>
+
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Past Events
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="nav-link" href="https://ml4health.github.io/2020">2020</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2019">2019</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2018">2018</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2017">2017</a></li>
+                  <li><a class="nav-link" href="https://nips.cc/Conferences/2016/Schedule?showEvent=6209">2016</a></li>
+                </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+
+<!-- User Overrides -->
+
+
+
+<div class="container">
+    <!-- Tabs -->
+    <div class="tabs">
+        
+  <div class="page-header text-center">
+    <h1>Call For Participation</h1>
+  </div>
+
+    </div>
+    <!-- Content -->
+    <div class="content">
+        
+  <h3> Submissions are closed </h3>
+  <p>
+    Submissions to ML4H 2021 are now closed, but thank you for your interest in the event! Additional
+    information on the event itself can be found <a href="index.html">here</a>, and the full original
+    Call for Participation is below.
+  </p>
+  <div class="page-content">
+    <h3> Original Call </h3>
+    <p>ML4H 2021 invites submissions describing innovative machine learning research focused on relevant problems in health and biomedicine. Authors are invited to submit works that fit anywhere within the broad purview of Machine Learning for Health. <b> Similar to the last two years, ML4H 2021 will accept both papers for publication in a formal proceedings and non-archival extended abstract submissions. </b> </p>
+    <p>In response to the growing ML4H community, for the first time, ML4H will be a separate symposium, rather than a NeurIPS workshop. This event represents a continuation of prior ML4H workshops (e.g. <a href=https://nips.cc/Conferences/2016/Schedule?showEvent=6209>2016</a>, <a href=https://ml4health.github.io/2017/>2017</a>, <a href=https://ml4health.github.io/2018/>2018</a>, <a href=https://ml4health.github.io/2019/>2019</a>, <a href=https://ml4health.github.io/2020/>2020</a>) and will continue to be held in December shortly before NeurIPS. This will allow us to expand the reviewing timeline and introduce a formal author response and reviewer discussion period, which we hope will improve the reviewing experience.</p>
+    
+<!--     <p>We are also piloting mentorship programs for authors and reviewers. See <a href="https://ml4health.github.io/pages/mentorship-program.html">https://ml4health.github.io/pages/mentorship.html</a> for additional details.</p> -->
+<p> ML4H 2021 will feature:<p>
+<ul>
+  <li> <a href="#mentorship">Submission and Reviewer Mentorship Programs</a> </li>
+  <li> <a href="#thematic">A Thematic Session on Robustness and Generalization in ML4H</a> </li>
+  <li> <a href="#author">A Full Author Response Period and Reviewer Discussion Period</a> </li>
+  <li> Best Paper, Best Thematic Paper, & Top Reviewer Awards </li>
+</ul>
+  
+<h2>Important Dates</h2>
+<p>Sep 13th AoE: Submission Deadline</p>
+<p>Oct 11th : Author Response Period Starts</p>
+<p>Oct 15th : Author Response Period Ends</p>
+<p>Oct 27th [tentative]: Final Decisions Released</p>
+<p>Nov 21st [tentative]: Camera Ready Deadline</p>
+<p>Dec 4th [tentative]: Virtual Event</p>
+  
+<h2 id="mentorship"> Mentorship Opportunities </h2>
+  <p> This year, ML4H is offering a <b> Submission Mentorship Program </b> which focuses on pairing less experienced authors with senior researchers to provide feedback on their paper submission, with the overall goal of improving submission quality and fostering future collaboration. </p>
+<p> Please fill in the corresponding application form by August 3rd to participate in the second stage of the Submission Mentorship Program which will take place between Aug 5th and September 13th. More details about the Submission Mentorship Program can be found <a href=mentorship.html>here</a>. <p>
+<!-- <p> Please fill out the following <a href=https://forms.gle/k73BySsB9qUWfLsR6>form</a>, and we will be in touch with additional details. </p> -->
+
+<p> Application <a href=https://forms.gle/apTcXab2KkWGyedj6>form</a> for <b> mentees </b> </p>
+<p> Application <a href=https://forms.gle/D3VdE71BJ2SKCqzVA>form</a> for <b> mentors </b> </p>
+  
+ <p> ML4H will also be offering both a Reviewer Mentorship Program which will take place immediately after the submission deadline and its aim is to train junior reviewers, foster new connections and relationships in the ML4H community, and ultimately improve the quality of the review process. To express interest in participating in the Reviewer Mentorship Program, please 
+   fill out this <a href=https://forms.gle/k73BySsB9qUWfLsR6>form</a>, and we will be in touch with additional details. </p>
+ <p> We especially encourage less experienced authors and reviewers and participants from underrepresented backgrounds to sign up as mentees, as well as more senior community members to serve as mentors for these programs. </p>
+
+  
+<!-- <p>Fri Dec 11: Virtual Workshop</p>
+<h2>Theme &amp; Topics</h2>
+<p>We invite submissions from all areas of machine learning for health and biomedicine but we especially encourage submissions that focus on this year's theme, Advancing Healthcare for All.</p>
+<p>The application of machine learning to healthcare is often characterised by the development of cutting-edge technology aiming to improve patient outcomes. By developing sophisticated models on high-quality datasets we hope to better diagnose, forecast, and otherwise characterise the health of individuals. At the same time, when we build tools which aim to assist highly-specialised caregivers, we limit the benefit of machine learning to only those who can access such care. The fragility of healthcare access both globally and locally prompts us to ask, "How can machine learning be used to help enable healthcare for all?"</p>
+<p>To this end, we will actively encourage the submission and presentation of new work which explores any of the following topics:</p>
+<ul>
+<li>Accessible diagnostic and prognostic systems</li>
+<li>Health equity</li>
+<li>Fairness and bias in machine learning systems</li>
+<li>Generalisation across populations or systems</li>
+<li>Improving patient participation in health</li>
+<li>Augmenting and supporting the capabilities of healthcare workers</li>
+<li>Rare or underserved diseases</li>
+<li>Democratising ML4H research</li>
+<li>Non-traditional delivery of healthcare</li>
+</ul> -->
+
+<!-- <h2>Awards</h2>
+  <p>For the first time, thanks to sponsorship from Roche, ML4H will grant awards to exceptional papers and reviewers. In particular, at this time we plan to feature the following awards:</p>
+  <ul>
+  <li>Best Newcomer Submission: This award will honor the best submission from either track with a first author who has not had prior work accepted to the workshop before.</li>
+  <li>Best Thematic Submission: This award will honor the best submission from either track that is aligned with this year's theme: Advancing Healthcare for All.</li>
+  <li>Top Reviewer Award: This award will honor the top reviewers.</li>
+  </ul>
+  <p>Awardees will be recognized at the event directly, and more prizes may be announced at a later date. Check back in later to learn more details!</p>
+  <h2>Mentorship Opportunities</h2>
+  <p>This year, ML4H will also be piloting mentorship programs for authors and reviewers. We especially encourage less experienced authors and reviewers and participants from underrepresented backgrounds to sign up as mentees, as well as more senior community members to serve as mentors for these programs.</p>
+  <p>Please fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5zX4B5_VVdbu0V0_66b2i9jtPqnzOvTs1NeXHOCTvQicHUQ/viewform">this interest form</a>, and we will be in touch with additional details.</p> -->
+
+<h2 >Submission Tracks</h2>
+  <p>Like last year, ML4H 2021 will feature two submission tracks: a full, archival proceedings track and a non-archival, extended abstract track. Submissions to either track will undergo double-blind peer review. It will be up to the authors to ensure the proper anonymization of their papers. Do not include any names or affiliations. Refer to your own past work in the third-person. Malformed, non-blinded, non-healthcare oriented, or grossly insufficient works may be desk rejected without undergoing additional review. In addition, submissions to both tracks will be featured at the event’s virtual poster session, and a subset of works (from either track) will be invited to give a spotlight presentation about their work. </p>
+  <p>Accepted papers and extended abstracts will be chosen based on their technical merit and contribution to the event. More details on how to write an excellent ML4H full paper or extended abstract can be found <a href=writing_guidelines.html>here</a>. </p>
+  <p> Below are the salient differences between both tracks. </p>
+  <!--   <p>We strongly encourage examining this document, as it will also be used to communicate to reviewers what features of submissions are most important to this venue. Below are the salient differences between both tracks.</p>
+ -->
+<h3>(A) Proceedings Track</h3>
+  <p>Excellent ML4H Proceedings papers should be compelling, cohesive works with a high degree of technical sophistication as well as clear and high-impact relevance to healthcare. Accepted proceedings papers will be published in the <b> Proceedings for Machine Learning Research (PMLR) </b>. Full proceedings papers can be up to <b> 9 pages </b> (excluding references and appendices). </p>
+  <p>Papers that are submitted to the ML4H proceedings track cannot be already published or under review in any other archival venue. Similarly, papers published to the ML4H proceedings cannot be published again later at any other venue. </p>
+<!--   <p>Full proceedings papers can be up to <strong>9 pages (excluding references and appendices)</strong>. Excellent ML4H Proceedings papers should be compelling, cohesive works with a high degree of technical sophistication as well as clear and high-impact relevance to healthcare. Accepted proceedings papers will be published in the <strong>Proceedings for Machine Learning Research (PMLR)</strong>.</p> -->
+<!--   <p>Papers that are submitted to the ML4H proceedings track should follow the general NeurIPS dual submission policies, and most notably cannot be already published or under review in any other archival venue. Similarly, papers published to the ML4H proceedings cannot be published again later at any other venue. Note that, as usual, reviewers are not required to read any appendices or supplementary material, and the main body of the paper must stand on its own.</p> -->
+<!-- <h3>Extended Abstract Track</h3>
+<p>Non-archival extended abstracts can be up to <strong>4 pages (excluding references and appendices)</strong>, though additional information not critical for understanding the work can be included in an appendix without penalty (reviewers will review the work based predominantly on the main text).</p> -->
+
+<h3>(B) Extended Abstract Track</h3>
+  <p>An excellent extended abstract is one that leads to insight at the event through interaction with other attendees. This can be through presenting new ideas/ways of thinking, leading to insightful discussion and feedback, dissemination of new valuable resources, or enabling new opportunities for collaborations. We also especially solicit “non-traditional research artifacts” as submissions to the extended abstract track, such as papers highlighting novel datasets, insightful negative results, exciting preliminary results that warrant rapid dissemination, reproducibility studies, and opinion pieces or critiques. </p>
+  <p>Extended abstracts can be up to 4 pages (excluding references and appendices), though additional information not critical for understanding the work can be included in an appendix without penalty (reviewers will review the work based predominantly on the main text). Extended  abstracts will not appear in the ML4H proceedings, but upon acceptance, we invite (but do not require) authors to submit their extended abstract to an ML4H arxiv.org index. </p>
+  <p>Authors of accepted extended abstracts (non-archival submissions) retain full copyright of their work, and acceptance of such a submission to ML4H 2021 does not preclude publication of the same material in another journal or conference. Furthermore, extended abstract submissions that are under review or have been recently published in a conference or a journal are allowed for submission. Authors should clearly state any overlapping published or submitted work at the time of submission, and must ensure that they are not violating any other venue dual submission policies.</p>
+  
+<h2 id="thematic">Thematic Session</h3>
+<p> This year, we are hosting a thematic session on real-world robustness and generalization in machine learning for health. When submitting work to the symposium, authors will have the option to indicate whether or not their work fits within the theme. Any work within the broad purview of machine learning for health will be considered for ML4H, regardless of its suitability to the theme, and selecting this option will have no impact on overall acceptance to the symposium. However, papers submitted to the thematic submissions will be eligible for consideration for the Best Thematic Paper Award. </p>
+<p> If machine learning systems are to be routinely used to support clinical decision making, it is critical that they reliably characterize and forecast patient health. However, machine learning models developed and evaluated with standard practices may underperform dramatically, unexpectedly, and inequitably when integrated into care processes. Furthermore, the magnitude of these failures tends to be exacerbated in settings that do not align with the underlying context of the data used for development, significantly impeding the ability to develop machine learning systems that perform well for underrepresented populations, generalize well across health systems, and are robust to changes in practice patterns over time. A key challenge is to develop procedures to anticipate and mitigate the consequences of these failure modes, both proactively during model development and continuously in deployed systems. ML4H 2021 will feature a thematic session and best thematic paper award on these challenges. Examples of topics within this area include: </p>
+<ul>
+  <li> Methods for learning models that are robust to distribution shift </li>
+  <li> Methods to improve or evaluate generalization across populations and health systems or under temporal non-stationarity </li>
+  <li> The design of models and training pipelines with inductive biases that promote stability </li>
+  <li> Procedures for auditing and monitoring machine learning models and systems </li>
+  <li> The design of stress tests to probe failure modes of machine learning models and systems </li>
+  <li> Case studies that characterize failure modes in the context of real-world datasets or deployed systems </li>
+</ul>  
+<p> Related works: </p>
+<ul>
+  <li> Oala, Luis, et al. <a href=http://proceedings.mlr.press/v136/oala20a.html>"ML4H Auditing: From Paper to Practice."</a> In Machine Learning for Health, pp. 280-317. PMLR, 2020. </li>
+  <li> Subbaswamy, Adarsh, Roy Adams, and Suchi Saria. <a href=http://proceedings.mlr.press/v130/subbaswamy21a.html>"Evaluating Model Robustness and Stability to Dataset Shift."</a> International Conference on Artificial Intelligence and Statistics. PMLR, 2021. </li>
+  <li> Zhang, Haoran, et al. <a href=https://dl.acm.org/doi/10.1145/3450439.3451878>"An empirical framework for domain generalization in clinical settings."</a> Proceedings of the Conference on Health, Inference, and Learning. 2021. </li>
+  <li> Agniel D, Kohane I S, Weber G M. <a href=https://www.bmj.com/content/361/bmj.k1479>"Biases in electronic health record data due to processes within the healthcare system: retrospective observational study"</a> BMJ 2018; 361 :k1479 doi:10.1136/bmj.k1479 </li>
+  <li> D'Amour, Alexander, et al. <a href=https://arxiv.org/abs/2011.03395>"Underspecification presents challenges for credibility in modern machine learning."</a> arXiv preprint arXiv:2011.03395 (2020). </li>
+  <li> Koh, Pang Wei, and Sagawa, Shiori, et al. <a href=https://arxiv.org/abs/2012.07421>"WILDS: A benchmark of in-the-wild distribution shifts."</a> arXiv preprint arXiv:2012.07421 (2020). </li>
+  <li> Singh, Harvineet, et al. <a href=https://dl.acm.org/doi/10.1145/3442188.3445865>"Fairness Violations and Mitigation under Covariate Shift."</a> Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency. 2021. </li>
+</ul>  
+
+<h2>Dual Submission to NeurIPS Workshop</h2>
+<p>ML4H is introducing a new shared submission system program that allows other health-themed venues occurring around the same time as ML4H to accept submissions through ML4H rather than by building their own submission and review platform. This year we are piloting the program with the NeurIPS workshop,<a href=https://www.nightingalescience.org/conferences-2021>"Machine learning from ground truth: New medical imaging datasets for unsolved medical problems"</a>. 
+  Under this program, authors who submit to the ML4H extended abstract track on HotCRP will have the option to select whether they would like their paper to be considered for acceptance to the workshop in addition to ML4H. 
+  Please refer to this <a href=submission.html>page</a> for more details about the dual submission process. 
+  </p>
+  
+<h2>Submission Instructions</h2>
+  <p>Submissions (full papers and extended abstracts) are due on <b> September 13th 11:59 PM AoE </b> in the form of anonymized PDF files. There is no registration deadline. At the time of submission, authors will indicate whether they would like the submission to be in the proceedings track or the extended abstract track. As part of the submission, authors are required to fill out a submission form that will be visible to reviewers to help them assess the work. </p>
+  <p>All submissions for ML4H 2021 will be managed through the HotCRP system, accessible <a href="https://ml4h2021.hotcrp.com/">here</a>. All submissions should be formatted using the ML4H 2021 LaTeX template. </p>
+  <p> ML4H 2021 template <a href=https://drive.google.com/drive/folders/1ONzQObbC5kMpEmLXL2F5BVR_D58lim91>files</a> </p>
+  <p> ML4H 2021 template on <a href=https://www.overleaf.com/latex/templates/ml4h-2021-template/xdsfdmdchfxg>Overleaf</a> </p>
+  <p> Note that all camera ready submissions must use this LaTeX template, and pending submission volume we may desk reject submissions that show a gross violation of formatting guidelines. </p>
+  <!--   <p>You can also download the raw JMLR source style files here: <a href="https://ctan.org/tex-archive/macros/latex/contrib/jmlr">https://ctan.org/tex-archive/macros/latex/contrib/jmlr</a> and prepare your own template, though note that you should use the pmlr,twocolumn as class options when doing so.</p>
+  <p>Note that all camera ready submissions must use LaTeX systems, and pending submission volume we may desk reject submissions that show a gross violation of formatting guidelines.</p>
+  <p>Note that we have increased this page limit from the previously stated limit to accommodate this style template.</p> -->
+  
+<h2 id="author">Author Response Period</h2>
+  <p> Reviews will be released on October 11th. From October 11th to October 15th, 11:59 PM AoE, authors can submit a response to the initial reviews. Author responses may address any aspect of initial reviews, including by adding new results. However, author responses are limited to one page, including all figures, tables, and references, and should not include any links to external material. We reserve the right to solicit additional reviews after the author response period in the rare case that there are not sufficient high quality reviews to make a final decision. </p>
+  <p> Author responses must use the ML4H author response latex style files (to be released), must be fully blinded, and should be uploaded to HotCRP as a PDF file (author responses in the free-text box will be ignored). Author responses are due <b> October 15th 11:59 PM AoE. </b>  </p>
+
+<h2 id="reviewer">Reviewer Discussion Period</h2>
+  <p> During the reviewer discussion period, reviewers and meta-reviewers are encouraged to discuss the paper, their reviews, and the author response. This process is aiming at seeking a consensus between reviewers and meta-reviewers. We ask reviewers to change their initially submitted review scores and recommendations during the discussion period, if applicable, and justify and state this in the discussion. Discussions will take place within HotCRP by using the comment function in a respective submission and should remain double-blind, i.e. comments may not deanonymize the authors or reviewers. </p>
+  <p> In general, these discussions will be between reviewers and meta-reviewers only. However, when further clarifications from the authors are necessary, reviewers may reach out to authors through HotCRP comments. It is only in response to such direct questions that authors should add comments beyond their author response, and said comments should be limited to directly answering the asked question. The reviewer discussion period formally ends on <b> October 21 11:59 PM AoE </b>, but discussions may be finalised earlier. </p>
+  
+<h2>Registration Information</h2>
+  <p>To promote community interaction, at least one presenting author of accepted works must register for the event. Registration details are forthcoming.</p>
+<h2> Contact Us </h2>
+  <p>Please direct questions to: <a href="ml4h.2021@gmail.com">ml4h.2021@gmail.com</a> and follow us on Twitter at <a href=https://twitter.com/symposiumml4h>@symposiumml4h</a>. </p>
+
+<!--   <h2>Related workshops:</h2>
+<p>We would also like to draw attention to <a href="https://neurips.cc/Conferences/2020/Schedule?type=Workshop">other NeurIPS workshops</a> in the space of machine learning for healthcare and biomedicine:</p>
+<ul>
+<li><a href="https://neurips.cc/Conferences/2020/Schedule?showEvent=16119">MLPH: Machine Learning in Public Health</a></li>
+<li><a href="https://neurips.cc/Conferences/2020/Schedule?showEvent=16135">Machine Learning for Mobile Health</a></li>
+<li><a href="https://neurips.cc/Conferences/2020/Schedule?showEvent=16140">Medical Imaging meets NeurIPS</a></li>
+<li><a href="https://neurips.cc/Conferences/2020/Schedule?showEvent=16121">Learning Meaningful Representations for Life</a></li>
+<li><a href="https://neurips.cc/Conferences/2020/Schedule?showEvent=16109">Biological and Artificial Reinforcement Learning</a></li>
+<li><a href="https://neurips.cc/Conferences/2020/Schedule?showEvent=16136">Machine Learning for Molecules</a> </li>
+<li><a href="https://neurips.cc/Conferences/2020/Schedule?showEvent=16137">Machine Learning for Structural Biology</a></li>
+</ul> -->
+
+
+  </div>
+
+    </div>
+</div>
+
+
+
+<!-- Google Analytics -->
+<script
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=UA-"
+></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+
+  gtag("js", new Date());
+  gtag("config", "UA-");
+</script>
+
+<!-- Footer -->
+<footer class="footer bg-light p-4">
+    <div class="container">
+        <p class="float-right"><a href="#">Back to Top</a></p>
+        <p class="text-center">© 2021 ML4H Organization Committee</p>
+    </div>
+</footer>
+
+<!-- Code for hash tags -->
+<script type="text/javascript">
+  $(document).ready(function () {
+    if (window.location.hash !== "") {
+      $(`a[href="${window.location.hash}"]`).tab("show");
+    }
+
+    $("a[data-toggle='tab']").on("shown.bs.tab", function (e) {
+      const hash = $(e.target).attr("href");
+      if (hash.substr(0, 1) === "#") {
+        const position = $(window).scrollTop();
+        window.location.replace(`#${hash.substr(1)}`);
+        $(window).scrollTop(position);
+      }
+    });
+  });
+</script>
+<!--    <script src="static/js/modules/lazyLoad.js"></script>-->
+
+</body>
+</html>

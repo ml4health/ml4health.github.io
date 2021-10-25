@@ -1,210 +1,375 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-  <!-- Required meta tags always come first -->
-  <meta charset="utf-8">
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-  <title>ML4H: Machine Learning for Health
-</title>
-  <link rel="canonical" href="./index.html">
+    <!-- Required meta tags -->
+    <meta charset="utf-8"/>
+    <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <!-- External Javascript libs_ext  -->
+    <script src="https://cdn.jsdelivr.net/npm/d3@5/dist/d3.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@4.7.3/dist/handlebars.min.js"
+            integrity="sha256-/PJBs6QWvXijOFIX04kZpLb6ZtSQckdOIavLWKKOgXU="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+
+    <script
+            src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+            integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+            crossorigin="anonymous"
+    ></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js"
+            integrity="sha256-WqU1JavFxSAMcLP2WIOI+GB2zWmShMI82mTpLDcqFUg="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/min/moment.min.js"
+            integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment-timezone@0.5.28/builds/moment-timezone-with-data.min.js"
+            integrity="sha256-IWYg4uIC8/erItNXYvLtyYHioRi2zT1TFva8qaAU/ww="
+            crossorigin="anonymous"></script>
 
 
-
-  <link rel="stylesheet" href="./theme/css/bootstrap.min.css">
-  <link rel="stylesheet" href="./theme/css/font-awesome.min.css">
-  <link rel="stylesheet" href="./theme/css/pygments/default.min.css">
-  <link rel="stylesheet" href="./theme/css/style.css">
-  <link rel="stylesheet" href="./theme/css/custom.css">
+    <!-- Library libs_ext -->
+    <script src="static/js/libs_ext/typeahead.bundle.js"></script>
 
 
-<meta name="description" content="ML4H 2021">
+    <!--    Internal Libs -->
+    <script src="static/js/data/api.js"></script>
+
+    
+
+    <!-- External CSS -->
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+          integrity="sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY="
+          crossorigin="anonymous">
+
+    <!-- External Fonts (no google for china) -->
+    <link
+            href="static/css/Lato.css"
+            rel="stylesheet"
+    />
+    <link href="static/css/Exo.css" rel="stylesheet"/>
+    <link
+            href="static/css/Cuprum.css"
+            rel="stylesheet"
+    />
+    <link rel="stylesheet" href="static/css/main.css"/>
+<!--    <link rel="stylesheet" href="static/css/fa_regular.css"/>-->
+    <link rel="stylesheet" href="static/css/fa_solid.css"/>
+    <link rel="stylesheet" href="static/css/lazy_load.css"/>
+    <link rel="stylesheet" href="static/css/typeahead.css"/>
+
+    <title>ML4H</title>
+    
 </head>
 
 <body>
-  <header class="header">
-    <div class="container">
-      <div class="row">
-        <div class="col-xs-2">
-          <a href="./">
-            <img class="img-fluid" src=./images/logo.png alt="ML4H: Machine Learning for Health">
-          </a>
-        </div>
-        <div class="col-xs-10">
-          <h1 class="title"><a href="./">ML4H: Machine Learning for Health</a></h1>
-<!--           <p class="text-muted">Workshop at NeurIPS 2020</p> -->
-          <ul class="list-inline">
-<!--             <li class="list-inline-item"><a href="./pages/schedule.html">Schedule</a></li>
-            <li class="list-inline-item"><a href="./pages/speakers.html">Speakers</a></li>
-            <li class="list-inline-item"><a href="./pages/papers.html">Papers</a></li>
-            <li class="list-inline-item"><a href="./pages/extended-abstracts.html">Extended Abstracts</a></li>
-            <li class="list-inline-item"><a href="./pages/sponsorship.html">Sponsorship</a></li> -->
-            <li class="list-inline-item"><a href="./pages/call-for-participation.html">Call for Participation</a></li>     
-            <li class="list-inline-item"><a href="./pages/writing-a-good-ml4h-paper.html">Writing Guidelines</a></li>     
-            <li class="list-inline-item"><a href="./pages/reviewer-instructions.html">Reviewers</a></li>                          
-            <li class="list-inline-item"><a href="./pages/mentorship.html">Mentorship</a></li>
-            <li class="list-inline-item"><a href="./pages/speakers.html">Speakers</a></li>
-            <li class="list-inline-item"><a href="./pages/organizers.html">Organizers</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </header>
+<!-- NAV -->
 
-  <div class="main">
+<nav
+        class="navbar sticky-top navbar-expand-lg navbar-light bg-light mr-auto"
+        id="main-nav"
+>
     <div class="container">
-      <h1>
-</h1>
-      <hr>
-<article class="article">
-  <div class="content">
-    <div class="container">
-
-<div class="row">
-<div class="col-md-7">
-    <p>
-        <b>
-            ML4H 2021
-<!--           : a workshop at
-            <a href="https://neurips.cc">NeurIPS 2020</a>
-        </b> <br>
-        <b> Advancing Healthcare for All</b>
-        <br>  -->
-    Date: December 4th <br>
-    Virtual Conference, Anywhere, Earth, (Mars soon)
-    </p>
-    <p>In response to the growing ML4H community, for the first time, ML4H will be a separate symposium, rather than a NeurIPS workshop. This event represents a continuation of prior ML4H workshops (e.g. <a href=https://nips.cc/Conferences/2016/Schedule?showEvent=6209>2016</a>, <a href=https://ml4health.github.io/2017/>2017</a>, <a href=https://ml4health.github.io/2018/>2018</a>, <a href=https://ml4health.github.io/2019/>2019</a>, <a href=https://ml4health.github.io/2020/>2020</a>) and will continue to be held in December shortly before NeurIPS. This will allow us to expand the reviewing timeline and introduce a formal author response and reviewer discussion period, which we hope will improve the reviewing experience.</p>
-    <p> Until we kick things off, please feel free to direct your questions to the email below and join the ML4H Google Group. 
-    </p>
-  <!--     <p>This year, we focus specifically on advancing healthcare for all people. For machine learning to truly revolutionise healthcare, as is so often promised, we must focus on using it to broaden ML access while ensuring our models remain beneficial to all.</p>
-    <p>Find live video at the <a href="https://neurips.cc/virtual/2020/protected/workshop_16134.html">Official NeurIPS workshop page (requires registration)</a></p> -->
-    <p>Direct questions to:
-                <a href="mailto:ml4h.2021@gmail.com">
-                    ml4h.2021@gmail.com
-                </a>
-    </p>        
-    <p>Join the
-        <a href="https://groups.google.com/d/forum/ml4health">
-        ML4Health Google Group
+        <a class="navbar-brand" href="index.html">
+            <img
+                    class="logo" src="static/images/logo.png"
+                    height="50px"
+            width="auto"
+            />
         </a>
-        to receive announcements.
-    </p>
-    <!-- <p>Apply for a <a href="https://forms.gle/SEc4Nj3RnmN6GN8e8">Travel Grant</a>.</p> -->
-</div>
+        
+        <a class="navbar-brand" href="index.html">ML4H 2021</a>
+        
+        <button
+                class="navbar-toggler"
+                type="button"
+                data-toggle="collapse"
+                data-target="#navbarNav"
+                aria-controls="navbarNav"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+        >
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div
+                class="collapse navbar-collapse text-right flex-grow-1"
+                id="navbarNav"
+        >
+            <ul class="navbar-nav ml-auto">
 
-<div class="col-md-5" style="padding-left: 0px;  padding-right: 0px;">
-<figure class="figure">
-<img
-    src="images/earth_800x800.jpg"
-    class="img-fluid"
-    alt="Picture of Earth.">
-<figcaption class="figure-caption">
-    <a href="https://www.flickr.com/photos/73757473@N07/">
-        Flickr image by RanchoFang</a>
-</figcaption>
-</figure>
-</div>
-</div>
+                
+                <li class="nav-item active">
+                    <a class="nav-link" href="index.html">Home</a>
+                </li>
+                
 
-      
-<h4>Announcements</h4>
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Attend
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                    <!--<li><a class="nav-link" href="registration.html" >Registration</a></li>-->
+                    <li><a class="nav-link" href="participation_guide.html" >Participation Guide</a></li>
+                    <li><a class="nav-link" href="schedule.html" >Schedule</a></li>
+                    <!--li><a class="nav-link" href="chat.html" >Chat</a></li-->
+                    <li><a class="nav-link" href="speakers.html" >Speakers</a></li>
+                    <li><a class="nav-link" href="research_roundtables.html" >Research Roundtables</a></li>
+                    <li><a class="nav-link" href="career_mentorship.html" >Career Mentorship</a></li>
+                    <li><a class="nav-link" href="raffle_terms.html" >Raffle</a></li>
+                    <li><a class="nav-link" href="code_of_conduct.html" >Code of Conduct</a></li>
+                </ul>
+                </li>
+                <li class="nav-item dropdown ">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Submit
+                  </a> 
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                    <li><a class="nav-link" href="call_for_participation.html">Call for Participation</a></li>
+                    <li><a class="nav-link" href="writing_guidelines.html" >Writing Guidelines</a></li>
+                    <li><a class="nav-link" href="reviewer_instructions.html" >Reviewer Instructions</a></li>
+                    <li><a class="nav-link" href="submission_mentorship.html" >Submission Mentorship</a></li>
+                    <li><a class="nav-link" href="reviewer_mentorship.html" >Reviewer Mentorship</a></li>
+                  </ul>
+                </li>
 
-<div class="row">
-<div class="alert alert-success" role="alert">
-<p> 26th August, 2021 </p>
-<p>Submit to ML4H directly via this <a href="https://ml4h2021.hotcrp.com/">link</a></p>
-</div>
-</div>
-  
-<div class="row">
-<div class="alert alert-success" role="alert">
-<p> 25th June, 2021 </p>
-<p>We just opened our <a href=https://ml4health.github.io/2021/pages/mentorship.html>mentorship</a> program and are currently accepting applications!</p>
-</div>
-</div>
-  
-<div class="row">
-<div class="alert alert-success" role="alert">
-<p> 19th May, 2021 </p>
-<p>We just released the <a href=https://ml4health.github.io/2021/pages/call-for-participation.html>call for participation!</a></p>
-</div>
-</div>
-      
-<!-- <div class="row">
-<div class="alert alert-success" role="alert">
-<p> 2020/12/10 </p>
-<p>The ML4H workshop is here! Please see our <a href="https://docs.google.com/document/d/1p2IjQNUnYWE9iakdy92AlHCJTh9Izto213SoTAPGEUs/edit?usp=sharing">Livestream Guide for Attendees</a> and <a href="https://docs.google.com/document/d/1bE-BoGPpAuqlFlqy_PpljB-t_HSNH0ZFRzgn9yjW0B8/edit?usp=sharing">Instructions for Poster Presenters</a> for information on how to virtually attend the conference. Feedback and interest in organizing can be <a href="http://bit.ly/3oA57qr">submitted here</a></p> 
-</div>
-</div>
-<div class="row">
-<div class="alert alert-success" role="alert">
-<p> 2020/09/18 </p>
-<p>Registration for <a href="https://neurips.cc/Register/view-registration">NeurIPS 2020</a> is now open. Registration is $25 USD for students and $100 USD for non-students. Financial assistance is available <a href="https://nips.cc/Surveys/49">from NeurIPS (due 11/27/2020)</a> and <a href="https://forms.gle/uFw3W84hjQGUQxk66">from ML4H (due 11/27/2020)</a>.</p>
-</div>
-</div> -->
-      
-<!-- <div class="row">
-<div class="alert alert-success" role="alert">
-<p> 2020/08/14 </p>
-<p>Our <a href="./pages/call-for-participation.html">call for participation</a> is up! We have two tracks, awards, and pilot mentorship programs.</p>
-</div>
-</div> -->
-      
-<!-- 
-<div class="row">
-<div class="alert alert-info" role="alert">
-<p> <a href="./pages/schedule.html"> Day of Schedule </a>
-<p> 2019/11/30 Schedule Posted </p>
-</div>
-</div>
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Organization
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                  <li><a class="nav-link" href="about.html" >About</a></li>
+                  <li><a class="nav-link" href="committee.html" >Organizers</a></li>
+                </ul>
+                </li>
 
-<div class="row">
-<div class="alert alert-info" role="alert">
-<p>Poster Instructions</p>
-<p> Size: 36 W X 48 H (inches) or 90 W X 122 H (cm) <br />
-Paper Type: Light-weight (e.g., not-laminated) <br />
-Attaching to Wall: There are no poster boards, we will have tape or some other means of attaching the posters to the wall.
-<emph>
-</emph>
-</p>
-</div>
-</div> -->
-<br>
-<br>
-<div class="row">
-<div class="col-md-12">
-<!-- <p> <a href="./pages/sponsorship.html">ML4H 2021</a>
- </p> -->
-<!--  <img src="./images/roche.png" align="center"> -->
-</div>
-  </div>
-</article>
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Past Events
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="nav-link" href="https://ml4health.github.io/2020">2020</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2019">2019</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2018">2018</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2017">2017</a></li>
+                  <li><a class="nav-link" href="https://nips.cc/Conferences/2016/Schedule?showEvent=6209">2016</a></li>
+                </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+
+<!-- User Overrides -->
+
+  <style>
+    .back {
+      background:
+        linear-gradient(
+          rgba(30, 100, 160, 0.90),
+          rgba(0, 0, 0, 0.01)
+        ),
+        url("static/images/main_ml4h.jpg") no-repeat center;
+      background-size: cover;
+    }
+    .back h2 {
+      font-family: "Lato", sans-serif;
+      font-weight: 500;
+      font-size: 3rem;
+    }
+  </style>
+
+<div class="jumbotron jumbotron-fluid back" style="padding-bottom: 20px;">
+  <div class="row header p-6 m-5">
+    <div class="p-1 mx-auto text-center text-white col-md-9 col-sm-12">
+      <h2>
+        Machine Learning for Health (ML4H)
+      </h2>
+      <h2 class="p-5">
+        December 4th, 2021
+      </h2>
     </div>
   </div>
-
-  <footer class="footer">
-    <div class="container">
-      <div class="row">
-       <ul class="col-sm-6 list-inline">
+</div>
 
 
-          <li class="list-inline-item"><a href="./categories.html">Categories</a></li>
+<div class="container">
+    <!-- Tabs -->
+    <div class="tabs">
+         
+    </div>
+    <!-- Content -->
+    <div class="content">
+        
 
-        </ul>
-        <p class="col-sm-6 text-sm-right text-muted">
-          <a href="https://github.com/ml4health/ml4health.github.io">
-          source on github
-          </a>
-          /
-          <a href="https://github.com/getpelican/pelican" target="_blank">powered by Pelican</a>
-          /
-          <a href="https://github.com/nairobilug/pelican-alchemy" target="_blank">&#x2728;</a>
-        </p>
+<p>ML4H 2021 will be a packed virtual symposium via zoom, gather.town, and
+rocket.chat highlighting exciting research and new problems in machine learning
+for health. The event will feature
+<a href="speakers.html">keynote speakers</a>
+including Yoshua Bengio, Karandeep Singh, Xiao Liu, Aisha Walcott-Bryant,
+Shalmali Joshi, Sendhil Mullainathan, and Uri Shalit; Spotlight talks and
+poster sessions of current research by submitting authorsa;
+<a href="research_roundtables.html">research round-table discussions</a>
+by top researchers across diverse topics within machine learning for health;
+the awarding of several top paper, poster, &amp; reviewer awards; and an
+ML4H raffle
+for registered attendees.</p>
+<!--[ML4H Raffle](raffle_terms.html)-->
+
+<p>See the full schedule for ML4H 2021 <a href="schedule.html">here</a>, and stay tuned for
+registration details over the coming days!</p>
+<!--2021 (registration is free), please use the following form: <a
+href=””>TODO</a>. We hope to see you there!-->
+
+<h1>Important Dates</h1>
+<ul>
+<li>October 27th: Final Decisions Released</li>
+<li>November 21st [tentative]: Camera Ready Deadline</li>
+<li>December 4th: Virtual Symposium</li>
+</ul>
+<h1>Announcements</h1>
+<div class="alert alert-success" role="alert">
+<p> 22nd October, 2021 </p>
+<p>ML4H Has a new website!</p>
+</div>
+
+<h1>Contact us</h1>
+<ul>
+<li>For questions/comments, email us at <a href="mailto:ml4h.2021@gmail.com">ml4h.2021@gmail.com</a></li>
+<li>For announcements, follow us on Twitter <a href="https://twitter.com/symposiumml4h">@symposiumml4h</a></li>
+</ul>
+<h1>Sponsored by</h1>
+<p><center>
+<img src="static/images/googlelogo_color_416x140dp.png" width="400px">
+</center></p>
+
+
+<!-- Organizers
+<div class="border-top my-3"></div>
+<div class="row p-4" id="faq">
+  <div class="col-12 bd-content">
+    <h2 class="text-center">Organizers</h2>
+  </div>
+</div>
+<div class="row">
+  
+  <div class="col-md-4 col-xs-6">
+    <div class="pp-card">
+      <div class="pp-card-header" class="text-muted">
+        <h5 class="card-title" align="center">Alexander Rush</h5>
+        <div>
+          <h6 class="card-subtitle text-muted m-1" align="center">
+            Developer
+          </h6>
+        </div>
+        <div>
+          <h6 class="card-subtitle text-muted m-1" align="center">
+            Cornell Tech, Hugging Face /
+            <a class="text-muted" href="http://twitter.com/srush_nlp"
+              >@srush_nlp</a
+            >
+          </h6>
+        </div>
+        <center>
+          <img src="https://avatars0.githubusercontent.com/u/35882?s=400&amp;u=8f382f638b31f13a4754656140256241121c5916&amp;v=4" class="rounded" style="height: 150px;" />
+        </center>
       </div>
     </div>
-  </footer>
-</body>
+  </div>
+  
+  <div class="col-md-4 col-xs-6">
+    <div class="pp-card">
+      <div class="pp-card-header" class="text-muted">
+        <h5 class="card-title" align="center">Hendrik Strobelt</h5>
+        <div>
+          <h6 class="card-subtitle text-muted m-1" align="center">
+            Developer
+          </h6>
+        </div>
+        <div>
+          <h6 class="card-subtitle text-muted m-1" align="center">
+            MIT-IBM Watson AI Lab /
+            <a class="text-muted" href="http://twitter.com/hen_str"
+              >@hen_str</a
+            >
+          </h6>
+        </div>
+        <center>
+          <img src="https://avatars1.githubusercontent.com/u/950990?s=460&amp;u=fba00c4d7c79fd9e4b83a15394dd1bbe7b7d3df5&amp;v=4" class="rounded" style="height: 150px;" />
+        </center>
+      </div>
+    </div>
+  </div>
+  
+</div>
+ -->
 
+
+    </div>
+</div>
+
+
+
+<!-- Google Analytics -->
+<script
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=UA-"
+></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+
+  gtag("js", new Date());
+  gtag("config", "UA-");
+</script>
+
+<!-- Footer -->
+<footer class="footer bg-light p-4">
+    <div class="container">
+        <p class="float-right"><a href="#">Back to Top</a></p>
+        <p class="text-center">© 2021 ML4H Organization Committee</p>
+    </div>
+</footer>
+
+<!-- Code for hash tags -->
+<script type="text/javascript">
+  $(document).ready(function () {
+    if (window.location.hash !== "") {
+      $(`a[href="${window.location.hash}"]`).tab("show");
+    }
+
+    $("a[data-toggle='tab']").on("shown.bs.tab", function (e) {
+      const hash = $(e.target).attr("href");
+      if (hash.substr(0, 1) === "#") {
+        const position = $(window).scrollTop();
+        window.location.replace(`#${hash.substr(1)}`);
+        $(window).scrollTop(position);
+      }
+    });
+  });
+</script>
+<!--    <script src="static/js/modules/lazyLoad.js"></script>-->
+
+</body>
 </html>

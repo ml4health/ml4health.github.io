@@ -1,8 +1,3 @@
----
-layout: forward
-target: https://ml4health.github.io/2021/metareviewer-instructions.html
----
-
 Title: Metareviewer Instructions
 Date: 2019-08-01
 SkipNavBar: 1

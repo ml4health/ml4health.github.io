@@ -1,3 +1,7 @@
+<head>
+   <meta http-equiv = "refresh" content = "0; url =https://ml4health.github.io/2021/metareviewer-instructions.html" />
+</head>
+
 Title: Metareviewer Instructions
 Date: 2019-08-01
 SkipNavBar: 1

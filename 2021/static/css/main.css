@@ -299,6 +299,8 @@ body .carousel-control-prev {
   color: #bed972;
 }
 
+#schedule-table tr:nth-child(odd){background-color: #f7f7f7;}
+
 /*@supports (-webkit-text-stroke: 1px gray) {*/
 /*  .checkbox-paper {*/
 /*    opacity: 0.2;*/

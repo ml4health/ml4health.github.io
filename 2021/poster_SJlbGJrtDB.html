@@ -231,78 +231,43 @@
         </h2>
         <h3 class="card-subtitle mb-2 text-muted text-center">
             
-            <a href="papers.html?filter=authors&search=Junjie LIU"
-               class="text-muted"
-            >Junjie LIU</a
-            >,
+            Junjie LIU,
             
-            <a href="papers.html?filter=authors&search=Zhe XU"
-               class="text-muted"
-            >Zhe XU</a
-            >,
+            Zhe XU,
             
-            <a href="papers.html?filter=authors&search=Runbin SHI"
-               class="text-muted"
-            >Runbin SHI</a
-            >,
+            Runbin SHI,
             
-            <a href="papers.html?filter=authors&search=Ray C. C. Cheung"
-               class="text-muted"
-            >Ray C. C. Cheung</a
-            >,
+            Ray C. C. Cheung,
             
-            <a href="papers.html?filter=authors&search=Hayden K.H. So"
-               class="text-muted"
-            >Hayden K.H. So</a
-            >
+            Hayden K.H. So
             
         </h3>
         <p class="card-text text-center">
-            <span class="">Keywords:</span>
+            <span class=""><b>Keywords:</b></span>
             
-            <a
-                    href="papers.html?filter=keywords&search=compression"
-                    class="text-secondary text-decoration-none"
-            >compression</a
-            >,
+            compression,
             
-            <a
-                    href="papers.html?filter=keywords&search=network compression"
-                    class="text-secondary text-decoration-none"
-            >network compression</a
-            >,
+            network compression,
             
-            <a
-                    href="papers.html?filter=keywords&search=neural architecture search"
-                    class="text-secondary text-decoration-none"
-            >neural architecture search</a
-            >,
+            neural architecture search,
             
-            <a
-                    href="papers.html?filter=keywords&search=optimization"
-                    class="text-secondary text-decoration-none"
-            >optimization</a
-            >,
+            optimization,
             
-            <a
-                    href="papers.html?filter=keywords&search=pruning"
-                    class="text-secondary text-decoration-none"
-            >pruning</a
-            >
+            pruning
             
+            <br>
+            <p style="text-align:left;">
+            <b>Abstract:</b> We present a novel network pruning algorithm called Dynamic Sparse Training that can jointly ﬁnd the optimal network parameters and sparse network structure in a uniﬁed optimization process with trainable pruning thresholds. These thresholds can have ﬁne-grained layer-wise adjustments dynamically via backpropagation. We demonstrate that our dynamic sparse training algorithm can easily train very sparse neural network models with little performance loss using the same training epochs as dense models. Dynamic Sparse Training achieves prior art performance compared with other sparse training algorithms on various network architectures. Additionally, we have several surprising observations that provide strong evidence to the effectiveness and efﬁciency of our algorithm. These observations reveal the underlying problems of traditional three-stage pruning algorithms and present the potential guidance provided by our algorithm to the design of more compact network architectures.
+            </p>
         </p>
         <div class="text-center p-3">
-            <a class="card-link" data-toggle="collapse" role="button"
+            <!--a class="card-link" data-toggle="collapse" role="button"
                href="#details">
-                Abstract
-            </a>
-            <a class="card-link" target="_blank" href="https://arxiv.org/abs/2007.12238">
-                Paper
+                Abstract 
+            </a-->
+            <a class="card-link" target="_blank" href="">
             </a>
             
-            <a href="https://github.com/Mini-Conf/Mini-Conf" target="_blank" class="card-link">
-                Code
-            </a>
             
         </div>
     </div>
@@ -319,62 +284,17 @@
     </div>
 </div>
 
-<h5 style="color: red;">
+<!--h5 style="color: red;">
     Add content for posters. This could be a video, embedded pdf, chat room ....
-</h5>
-
-<!-- Chat -->
-<div class="border-top my-3"></div>
-<div class="row p-4" id="faq">
-  <div class="col-12 bd-content">
-    <h2 class="text-center">Chat</h2>
-  </div>
-</div>
-
-<div class="col-md-12 col-xs-12 p-2">
-    <div id="gitter" class="slp">
-        <center>
-            <iframe frameborder="0"
-                    src="https://chat.ml4h.cc/channel/paper_SJlbGJrtDB?layout=embedded"
-                    height="700px" width="100%"></iframe>
-        </center>
-    </div>
-</div>
-
+</h5-->
 <!-- Slides Live-->
 
-<div class="border-top my-3"></div>
-<div class="row p-4" id="faq">
-  <div class="col-12 bd-content">
-    <h2 class="text-center">Example SlidesLive</h2>
-  </div>
-</div>
 
-<div class="col-md-12 col-xs-12 my-auto p-2">
-    <div id="presentation-embed" class="slp my-auto"></div>
-    <script src='https://slideslive.com/embed_presentation.js'></script>
-    <script>
-      embed = new SlidesLiveEmbed("presentation-embed", {
-        presentationId:
-          "38922815",
-        autoPlay: false, // change to true to autoplay the embedded presentation
-        verticalEnabled: true,
-        verticalWhenWidthLte: 500,
-        allowHiddenControlsWhenPaused: true,
-        hideTitle: true,
-      });
-    </script>
-</div>
+
+
 
 
 <!-- Chat -->
-
-<div class="border-top my-3"></div>
-<div class="row p-4" id="faq">
-  <div class="col-12 bd-content">
-    <h2 class="text-center">Example Poster</h2>
-  </div>
-</div>
 
 <div role="main" id="pdf_view"></div>
 
@@ -390,6 +310,7 @@
     initPDFViewer(pdfFile, "#pdf_view");
   });
 </script>
+
 
 
 

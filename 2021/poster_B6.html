@@ -15,6 +15,7 @@
             name="viewport"
             content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
+    <meta name="google-site-verification" content="B2mVlLOsODDDoAPs7zrMUb95ql1_b4XpFaNEz_WBQf0" />
 
     <!-- External Javascript libs_ext  -->
     <script src="https://cdn.jsdelivr.net/npm/d3@5/dist/d3.min.js"></script>
@@ -77,25 +78,19 @@
     <link rel="stylesheet" href="static/css/lazy_load.css"/>
     <link rel="stylesheet" href="static/css/typeahead.css"/>
 
-    <title>ML4H: Enabling Deep Spiking Neural Networks with Hybrid Conversion and Spike Timing Dependent Backpropagation</title>
+    <title>ML4H: Evaluating Contrastive Learning on Wearable Timeseries for Downstream Clinical Outcomes</title>
     
-<meta name="citation_title" content="Enabling Deep Spiking Neural Networks with Hybrid Conversion and Spike Timing Dependent Backpropagation"/>
+<meta name="citation_title" content="Evaluating Contrastive Learning on Wearable Timeseries for Downstream Clinical Outcomes"/>
 
-<meta name="citation_author" content="Nitin Rathi"/>
-
-<meta name="citation_author" content="Gopalakrishnan Srinivasan"/>
-
-<meta name="citation_author" content="Priyadarshini Panda"/>
-
-<meta name="citation_author" content="Kaushik Roy"/>
+<meta name="citation_author" content="Kevalee Shah, Dimitris Spathis, Chi I. Tang, Cecilia Mascolo"/>
 
 <meta name="citation_publication_date" content="December 2021"/>
 <meta name="citation_conference_title"
       content="Machine Learning For Health (Ml4h)"/>
 <meta name="citation_inbook_title" content="Proceedings of ML4H 2021"/>
-<meta name="citation_abstract" content="Spiking Neural Networks (SNNs) operate with asynchronous discrete events (or spikes) which can potentially lead to higher energy-efficiency in neuromorphic hardware implementations. Many works have shown that an SNN for inference can be formed by copying the weights from a trained Artificial Neural Network (ANN) and setting the firing threshold for each layer as the maximum input received in that layer. These type of converted SNNs require a large number of time steps to achieve competitive accuracy which diminishes the energy savings. The number of time steps can be reduced by training SNNs with spike-based backpropagation from scratch, but that is computationally expensive and slow. To address these challenges, we present a computationally-efficient training technique for deep SNNs. We propose a hybrid training methodology: 1) take a converted SNN and use its weights and thresholds as an initialization step for spike-based backpropagation, and 2) perform incremental spike-timing dependent backpropagation (STDB) on this carefully initialized network to obtain an SNN that converges within few epochs and requires fewer time steps for input processing. STDB is performed with a novel surrogate gradient function defined using neuron&#39;s spike time. The weight update is proportional to the difference in spike timing between the current time step and the most recent time step the neuron generated an output spike. The SNNs trained with our hybrid conversion-and-STDB training perform at $10{\times}{-}25{\times}$ fewer number of time steps and achieve similar accuracy compared to purely converted SNNs. The proposed training methodology converges in less than $20$ epochs of spike-based backpropagation for most standard image classification datasets, thereby greatly reducing the training complexity compared to training SNNs from scratch. We perform experiments on CIFAR-10, CIFAR-100 and ImageNet datasets for both VGG and ResNet architectures. We achieve top-1 accuracy of $65.19\%$ for ImageNet dataset on SNN with $250$ time steps, which is $10{\times}$ faster compared to converted SNNs with similar accuracy."/>
+<meta name="citation_abstract" content="Vast quantities of person-generated health data (wearables) are collected but the process of annotating to feed to machine learning models is impractical. This paper discusses ways in which self-supervised approaches that use contrastive losses, such as SimCLR and BYOL, previously applied to the vision domain, can be applied to high-dimensional health signals for downstream classification tasks of various diseases spanning sleep, heart, and metabolic conditions. To this end, we adapt the data augmentation step and the overall architecture to suit the temporal nature of the data (wearable traces) and evaluate on 5 downstream tasks by comparing other state-of-the-art methods including supervised learning and an adversarial unsupervised representation learning method. We show that SimCLR outperforms the adversarial method and a fully-supervised method in the majority of the downstream evaluation tasks, and that all self-supervised methods outperform the fully-supervised methods. This work provides a comprehensive benchmark for contrastive methods applied to the wearable time-series domain, showing the promise of task-agnostic representations for downstream clinical outcomes."/>
 
-<meta name="citation_keywords" content="imagenet"/>
+<meta name="citation_keywords" content="wearables, timeseries"/>
 
 <meta name="citation_pdf_url" content=""/>
 
@@ -217,27 +212,21 @@
 <div class="pp-card m-3" style="">
     <div class="card-header">
         <h2 class="card-title main-title text-center" style="">
-            Enabling Deep Spiking Neural Networks with Hybrid Conversion and Spike Timing Dependent Backpropagation
+            Evaluating Contrastive Learning on Wearable Timeseries for Downstream Clinical Outcomes
         </h2>
         <h3 class="card-subtitle mb-2 text-muted text-center">
             
-            Nitin Rathi,
-            
-            Gopalakrishnan Srinivasan,
-            
-            Priyadarshini Panda,
-            
-            Kaushik Roy
+            Kevalee Shah, Dimitris Spathis, Chi I. Tang, Cecilia Mascolo
             
         </h3>
         <p class="card-text text-center">
-            <span class=""><b>Keywords:</b></span>
+            <!--span class=""><b>Keywords:</b></span>
             
-            imagenet
+            wearables, timeseries
             
-            <br>
+            <br-->
             <p style="text-align:left;">
-            <b>Abstract:</b> Spiking Neural Networks (SNNs) operate with asynchronous discrete events (or spikes) which can potentially lead to higher energy-efficiency in neuromorphic hardware implementations. Many works have shown that an SNN for inference can be formed by copying the weights from a trained Artificial Neural Network (ANN) and setting the firing threshold for each layer as the maximum input received in that layer. These type of converted SNNs require a large number of time steps to achieve competitive accuracy which diminishes the energy savings. The number of time steps can be reduced by training SNNs with spike-based backpropagation from scratch, but that is computationally expensive and slow. To address these challenges, we present a computationally-efficient training technique for deep SNNs. We propose a hybrid training methodology: 1) take a converted SNN and use its weights and thresholds as an initialization step for spike-based backpropagation, and 2) perform incremental spike-timing dependent backpropagation (STDB) on this carefully initialized network to obtain an SNN that converges within few epochs and requires fewer time steps for input processing. STDB is performed with a novel surrogate gradient function defined using neuron&#39;s spike time. The weight update is proportional to the difference in spike timing between the current time step and the most recent time step the neuron generated an output spike. The SNNs trained with our hybrid conversion-and-STDB training perform at $10{\times}{-}25{\times}$ fewer number of time steps and achieve similar accuracy compared to purely converted SNNs. The proposed training methodology converges in less than $20$ epochs of spike-based backpropagation for most standard image classification datasets, thereby greatly reducing the training complexity compared to training SNNs from scratch. We perform experiments on CIFAR-10, CIFAR-100 and ImageNet datasets for both VGG and ResNet architectures. We achieve top-1 accuracy of $65.19\%$ for ImageNet dataset on SNN with $250$ time steps, which is $10{\times}$ faster compared to converted SNNs with similar accuracy.
+            <b>Abstract:</b> Vast quantities of person-generated health data (wearables) are collected but the process of annotating to feed to machine learning models is impractical. This paper discusses ways in which self-supervised approaches that use contrastive losses, such as SimCLR and BYOL, previously applied to the vision domain, can be applied to high-dimensional health signals for downstream classification tasks of various diseases spanning sleep, heart, and metabolic conditions. To this end, we adapt the data augmentation step and the overall architecture to suit the temporal nature of the data (wearable traces) and evaluate on 5 downstream tasks by comparing other state-of-the-art methods including supervised learning and an adversarial unsupervised representation learning method. We show that SimCLR outperforms the adversarial method and a fully-supervised method in the majority of the downstream evaluation tasks, and that all self-supervised methods outperform the fully-supervised methods. This work provides a comprehensive benchmark for contrastive methods applied to the wearable time-series domain, showing the promise of task-agnostic representations for downstream clinical outcomes.
             </p>
         </p>
         <div class="text-center p-3">
@@ -246,6 +235,10 @@
                 Abstract 
             </a-->
             <a class="card-link" target="_blank" href="">
+            </a>
+            
+            <a href="https://drive.google.com/open?id=1lG9wTLphE0AZALUoZGGTA3iVj8ezoDrA" target="_blank" class="card-link">
+                Poster
             </a>
             
             
@@ -257,7 +250,7 @@
         <div class="card-text">
             <div id="abstractExample">
                 <span class="font-weight-bold">Abstract:</span>
-                Spiking Neural Networks (SNNs) operate with asynchronous discrete events (or spikes) which can potentially lead to higher energy-efficiency in neuromorphic hardware implementations. Many works have shown that an SNN for inference can be formed by copying the weights from a trained Artificial Neural Network (ANN) and setting the firing threshold for each layer as the maximum input received in that layer. These type of converted SNNs require a large number of time steps to achieve competitive accuracy which diminishes the energy savings. The number of time steps can be reduced by training SNNs with spike-based backpropagation from scratch, but that is computationally expensive and slow. To address these challenges, we present a computationally-efficient training technique for deep SNNs. We propose a hybrid training methodology: 1) take a converted SNN and use its weights and thresholds as an initialization step for spike-based backpropagation, and 2) perform incremental spike-timing dependent backpropagation (STDB) on this carefully initialized network to obtain an SNN that converges within few epochs and requires fewer time steps for input processing. STDB is performed with a novel surrogate gradient function defined using neuron&#39;s spike time. The weight update is proportional to the difference in spike timing between the current time step and the most recent time step the neuron generated an output spike. The SNNs trained with our hybrid conversion-and-STDB training perform at $10{\times}{-}25{\times}$ fewer number of time steps and achieve similar accuracy compared to purely converted SNNs. The proposed training methodology converges in less than $20$ epochs of spike-based backpropagation for most standard image classification datasets, thereby greatly reducing the training complexity compared to training SNNs from scratch. We perform experiments on CIFAR-10, CIFAR-100 and ImageNet datasets for both VGG and ResNet architectures. We achieve top-1 accuracy of $65.19\%$ for ImageNet dataset on SNN with $250$ time steps, which is $10{\times}$ faster compared to converted SNNs with similar accuracy.
+                Vast quantities of person-generated health data (wearables) are collected but the process of annotating to feed to machine learning models is impractical. This paper discusses ways in which self-supervised approaches that use contrastive losses, such as SimCLR and BYOL, previously applied to the vision domain, can be applied to high-dimensional health signals for downstream classification tasks of various diseases spanning sleep, heart, and metabolic conditions. To this end, we adapt the data augmentation step and the overall architecture to suit the temporal nature of the data (wearable traces) and evaluate on 5 downstream tasks by comparing other state-of-the-art methods including supervised learning and an adversarial unsupervised representation learning method. We show that SimCLR outperforms the adversarial method and a fully-supervised method in the majority of the downstream evaluation tasks, and that all self-supervised methods outperform the fully-supervised methods. This work provides a comprehensive benchmark for contrastive methods applied to the wearable time-series domain, showing the promise of task-agnostic representations for downstream clinical outcomes.
             </div>
         </div>
         <p></p>

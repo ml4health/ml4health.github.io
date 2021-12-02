@@ -15,6 +15,7 @@
             name="viewport"
             content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
+    <meta name="google-site-verification" content="B2mVlLOsODDDoAPs7zrMUb95ql1_b4XpFaNEz_WBQf0" />
 
     <!-- External Javascript libs_ext  -->
     <script src="https://cdn.jsdelivr.net/npm/d3@5/dist/d3.min.js"></script>
@@ -77,33 +78,19 @@
     <link rel="stylesheet" href="static/css/lazy_load.css"/>
     <link rel="stylesheet" href="static/css/typeahead.css"/>
 
-    <title>ML4H: Scalable Model Compression by Entropy Penalized Reparameterization</title>
+    <title>ML4H: Monte Carlo dropout increases model repeatability</title>
     
-<meta name="citation_title" content="Scalable Model Compression by Entropy Penalized Reparameterization"/>
+<meta name="citation_title" content="Monte Carlo dropout increases model repeatability"/>
 
-<meta name="citation_author" content="Deniz Oktay"/>
-
-<meta name="citation_author" content="Johannes Ballé"/>
-
-<meta name="citation_author" content="Saurabh Singh"/>
-
-<meta name="citation_author" content="Abhinav Shrivastava"/>
+<meta name="citation_author" content="Andreanne Lemay, Katharina Hoebel, Christopher P. Bridge, Didem Egemen, Ana Cecilia Rodriguez, Mark Schiffman, John Peter Campbell, Jayashree Kalpathy-Cramer"/>
 
 <meta name="citation_publication_date" content="December 2021"/>
 <meta name="citation_conference_title"
       content="Machine Learning For Health (Ml4h)"/>
 <meta name="citation_inbook_title" content="Proceedings of ML4H 2021"/>
-<meta name="citation_abstract" content="We describe a simple and general neural network weight compression approach, in which the network parameters (weights and biases) are represented in a “latent” space, amounting to a reparameterization. This space is equipped with a learned probability model, which is used to impose an entropy penalty on the parameter representation during training, and to compress the representation using a simple arithmetic coder after training. Classification accuracy and model compressibility is maximized jointly, with the bitrate–accuracy trade-off specified by a hyperparameter. We evaluate the method on the MNIST, CIFAR-10 and ImageNet classification benchmarks using six distinct model architectures. Our results show that state-of-the-art model compression can be achieved in a scalable and general way without requiring complex procedures such as multi-stage training."/>
+<meta name="citation_abstract" content="The integration of artificial intelligence into clinical workflows requires reliable and robust models. Among the main features of robustness is repeatability. Much attention is given to classification performance without assessing the model repeatability, leading to the development of models that turn out to be unusable in practice. In this work, we evaluate the repeatability of four model types on images from the same patient that were acquired during the same visit. We study the performance of binary, multi-class, ordinal, and regression models on three medical image analysis tasks: cervical cancer screening, breast density estimation, and retinopathy of prematurity classification. Moreover, we assess the impact of sampling Monte Carlo dropout predictions at test time on classification performance and repeatability. Leveraging Monte Carlo predictions significantly increased repeatability for all tasks on the binary, multi-class, and ordinal models leading to an average reduction of the 95% limits of agreement by 17% points."/>
 
-<meta name="citation_keywords" content="compression"/>
-
-<meta name="citation_keywords" content="computer vision"/>
-
-<meta name="citation_keywords" content="imagenet"/>
-
-<meta name="citation_keywords" content="information theory"/>
-
-<meta name="citation_keywords" content="model compression"/>
+<meta name="citation_keywords" content="imaging, uncertainty"/>
 
 <meta name="citation_pdf_url" content=""/>
 
@@ -225,35 +212,21 @@
 <div class="pp-card m-3" style="">
     <div class="card-header">
         <h2 class="card-title main-title text-center" style="">
-            Scalable Model Compression by Entropy Penalized Reparameterization
+            Monte Carlo dropout increases model repeatability
         </h2>
         <h3 class="card-subtitle mb-2 text-muted text-center">
             
-            Deniz Oktay,
-            
-            Johannes Ballé,
-            
-            Saurabh Singh,
-            
-            Abhinav Shrivastava
+            Andreanne Lemay, Katharina Hoebel, Christopher P. Bridge, Didem Egemen, Ana Cecilia Rodriguez, Mark Schiffman, John Peter Campbell, Jayashree Kalpathy-Cramer
             
         </h3>
         <p class="card-text text-center">
-            <span class=""><b>Keywords:</b></span>
+            <!--span class=""><b>Keywords:</b></span>
             
-            compression,
+            imaging, uncertainty
             
-            computer vision,
-            
-            imagenet,
-            
-            information theory,
-            
-            model compression
-            
-            <br>
+            <br-->
             <p style="text-align:left;">
-            <b>Abstract:</b> We describe a simple and general neural network weight compression approach, in which the network parameters (weights and biases) are represented in a “latent” space, amounting to a reparameterization. This space is equipped with a learned probability model, which is used to impose an entropy penalty on the parameter representation during training, and to compress the representation using a simple arithmetic coder after training. Classification accuracy and model compressibility is maximized jointly, with the bitrate–accuracy trade-off specified by a hyperparameter. We evaluate the method on the MNIST, CIFAR-10 and ImageNet classification benchmarks using six distinct model architectures. Our results show that state-of-the-art model compression can be achieved in a scalable and general way without requiring complex procedures such as multi-stage training.
+            <b>Abstract:</b> The integration of artificial intelligence into clinical workflows requires reliable and robust models. Among the main features of robustness is repeatability. Much attention is given to classification performance without assessing the model repeatability, leading to the development of models that turn out to be unusable in practice. In this work, we evaluate the repeatability of four model types on images from the same patient that were acquired during the same visit. We study the performance of binary, multi-class, ordinal, and regression models on three medical image analysis tasks: cervical cancer screening, breast density estimation, and retinopathy of prematurity classification. Moreover, we assess the impact of sampling Monte Carlo dropout predictions at test time on classification performance and repeatability. Leveraging Monte Carlo predictions significantly increased repeatability for all tasks on the binary, multi-class, and ordinal models leading to an average reduction of the 95% limits of agreement by 17% points.
             </p>
         </p>
         <div class="text-center p-3">
@@ -264,14 +237,10 @@
             <a class="card-link" target="_blank" href="">
             </a>
             
-            <a href="https://arxiv.org/pdf/1906.06624.pdf" target="_blank" class="card-link">
-                Paper
+            <a href="https://drive.google.com/open?id=11oSPG6ftfe-83PFRszC1Qj-B1IFwgj7B" target="_blank" class="card-link">
+                Poster
             </a>
             
-            
-            <a href="https://ml4health.github.io/2021/" target="_blank" class="card-link">
-                Code
-            </a>
             
         </div>
     </div>
@@ -281,7 +250,7 @@
         <div class="card-text">
             <div id="abstractExample">
                 <span class="font-weight-bold">Abstract:</span>
-                We describe a simple and general neural network weight compression approach, in which the network parameters (weights and biases) are represented in a “latent” space, amounting to a reparameterization. This space is equipped with a learned probability model, which is used to impose an entropy penalty on the parameter representation during training, and to compress the representation using a simple arithmetic coder after training. Classification accuracy and model compressibility is maximized jointly, with the bitrate–accuracy trade-off specified by a hyperparameter. We evaluate the method on the MNIST, CIFAR-10 and ImageNet classification benchmarks using six distinct model architectures. Our results show that state-of-the-art model compression can be achieved in a scalable and general way without requiring complex procedures such as multi-stage training.
+                The integration of artificial intelligence into clinical workflows requires reliable and robust models. Among the main features of robustness is repeatability. Much attention is given to classification performance without assessing the model repeatability, leading to the development of models that turn out to be unusable in practice. In this work, we evaluate the repeatability of four model types on images from the same patient that were acquired during the same visit. We study the performance of binary, multi-class, ordinal, and regression models on three medical image analysis tasks: cervical cancer screening, breast density estimation, and retinopathy of prematurity classification. Moreover, we assess the impact of sampling Monte Carlo dropout predictions at test time on classification performance and repeatability. Leveraging Monte Carlo predictions significantly increased repeatability for all tasks on the binary, multi-class, and ordinal models leading to an average reduction of the 95% limits of agreement by 17% points.
             </div>
         </div>
         <p></p>
@@ -292,45 +261,6 @@
     Add content for posters. This could be a video, embedded pdf, chat room ....
 </h5-->
 <!-- Slides Live-->
-
-
-<div class="border-top my-3"></div>
-<div class="row p-4" id="faq">
-  <div class="col-12 bd-content">
-    <h2 class="text-center">Presentation</h2>
-  </div>
-</div>
-<div class="col-md-12 col-xs-12 my-auto p-2">
-    <div id="presentation-embed" class="slp my-auto"></div>
-    <script src='https://slideslive.com/embed_presentation.js'></script>
-    <script>
-      embed = new SlidesLiveEmbed("presentation-embed", {
-        presentationId:
-          "38922815",
-        autoPlay: false, // change to true to autoplay the embedded presentation
-        verticalEnabled: true,
-        verticalWhenWidthLte: 500,
-        allowHiddenControlsWhenPaused: true,
-        hideTitle: true,
-      });
-    </script>
-</div>
-
-<!--div class="col-md-12 col-xs-12 my-auto p-2">
-    <div id="presentation-embed" class="slp my-auto"></div>
-    <script src='https://slideslive.com/embed_presentation.js'></script>
-    <script>
-      embed = new SlidesLiveEmbed("presentation-embed", {
-        presentationId:
-          "38922815",
-        autoPlay: false, // change to true to autoplay the embedded presentation
-        verticalEnabled: true,
-        verticalWhenWidthLte: 500,
-        allowHiddenControlsWhenPaused: true,
-        hideTitle: true,
-      });
-    </script>
-</div-->
 
 
 

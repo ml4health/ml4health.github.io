@@ -202,14 +202,6 @@
     }
   </style>
 
-<!--<div class="jumbotron jumbotron-fluid back" style="padding-bottom: 20px; max-height: 10em;">
-<!--    <div class="p-1 mx-auto text-center text-white col-md-9 col-sm-12">
-<!--      <h2>
-<!--        Machine Learning for Health (ML4H): December 4th
-<!--      </h2>
-<!--  </div>
-<!--</div>-->
-
 <div class="jumbotron jumbotron-fluid back" style="padding-bottom: 20px;">
   <div class="row header p-6 m-5">
     <div class="p-1 mx-auto text-center text-white col-md-9 col-sm-12">
@@ -246,63 +238,16 @@
 </script>
 <br>
 
-<h1> Rocket.chat </h1>
-<p> <a href="chat.html">Full-screen link</a> </p>
 
-
-<div class="slp">
-  <iframe id="frame" width="100%" src=""> </iframe>
-</div>
-
-<script type="text/javascript">
-  function getUrlParameter(name) {
-    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
-    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)");
-    var results = regex.exec(location.search);
-    return results === null
-      ? ""
-      : decodeURIComponent(results[1].replace(/\+/g, " "));
-  }
-
-  $(document).ready(function () {
-    console.log("run");
-    var win_height;
-    var frm_height;
-    var oFrame = $("#frame");
-    console.log(oFrame);
-    // Get page height Firefox/IE
-    if (window.innerHeight) win_height = window.innerHeight;
-    //else if (document.body.clientHeight)
-    //  win_height = document.body.clientHeight;
-
-    // Dtermine new height
-    frm_height = 650;//win_height - oFrame.offset().top; // replace 15 accordingly
-
-    // Set iframe height
-    oFrame.attr("height", frm_height + "px");
-    
-    oFrame.attr(
-      "src",
-      "https://chat.ml4h.cc/" + getUrlParameter("room")
-    );
-  });
-</script>
-
-
-<h1>Gathertown</h1>
-<p>Link: <a href="http://tinyurl.com/ML4HGather">Gathertown</a> (password for entry will be provided during the event) </p>
 <h1>Contact us</h1>
 <ul>
 <li>For questions/comments, email us at <a href="mailto:ml4h.2021@gmail.com">ml4h.2021@gmail.com</a></li>
 <li>For announcements, follow us on Twitter <a href="https://twitter.com/symposiumml4h">@symposiumml4h</a></li>
-<li>For questions/comments on day-of, ask on rocket.chat via the "#helpdesk" room.</li>
 </ul>
 <h1>Sponsored by</h1>
 <p><center>
 <img src="static/images/googlelogo_color_416x140dp.png" width="400px">
 </center></p>
-
-
 
 <!-- Organizers
 <div class="border-top my-3"></div>

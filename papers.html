@@ -1,0 +1,337 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+
+    
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8"/>
+    <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta name="google-site-verification" content="B2mVlLOsODDDoAPs7zrMUb95ql1_b4XpFaNEz_WBQf0" />
+
+    <!-- External Javascript libs_ext  -->
+    <script src="https://cdn.jsdelivr.net/npm/d3@5/dist/d3.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@4.7.3/dist/handlebars.min.js"
+            integrity="sha256-/PJBs6QWvXijOFIX04kZpLb6ZtSQckdOIavLWKKOgXU="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+
+    <script
+            src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+            integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+            crossorigin="anonymous"
+    ></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js"
+            integrity="sha256-WqU1JavFxSAMcLP2WIOI+GB2zWmShMI82mTpLDcqFUg="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/min/moment.min.js"
+            integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment-timezone@0.5.28/builds/moment-timezone-with-data.min.js"
+            integrity="sha256-IWYg4uIC8/erItNXYvLtyYHioRi2zT1TFva8qaAU/ww="
+            crossorigin="anonymous"></script>
+
+
+    <!-- Library libs_ext -->
+    <script src="static/js/libs_ext/typeahead.bundle.js"></script>
+
+
+    <!--    Internal Libs -->
+    <script src="static/js/data/api.js"></script>
+
+    
+
+    <!-- External CSS -->
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+          integrity="sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY="
+          crossorigin="anonymous">
+
+    <!-- External Fonts (no google for china) -->
+    <link
+            href="static/css/Lato.css"
+            rel="stylesheet"
+    />
+    <link href="static/css/Exo.css" rel="stylesheet"/>
+    <link
+            href="static/css/Cuprum.css"
+            rel="stylesheet"
+    />
+    <link rel="stylesheet" href="static/css/main.css"/>
+<!--    <link rel="stylesheet" href="static/css/fa_regular.css"/>-->
+    <link rel="stylesheet" href="static/css/fa_solid.css"/>
+    <link rel="stylesheet" href="static/css/lazy_load.css"/>
+    <link rel="stylesheet" href="static/css/typeahead.css"/>
+
+    <title>ML4H: Papers</title>
+    
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.4.0/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/tippy.js@6/dist/tippy-bundle.umd.min.js"></script>
+
+<script src="static/js/modules/icons.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+
+
+</head>
+
+<body>
+<!-- NAV -->
+
+<nav
+        class="navbar sticky-top navbar-expand-lg navbar-light bg-light mr-auto"
+        id="main-nav"
+>
+    <div class="container">
+        <a class="navbar-brand" href="index.html">
+            <img
+                    class="logo" src="static/images/logo.png"
+                    height="50px"
+            width="auto"
+            />
+        </a>
+        
+        <a class="navbar-brand" href="index.html">ML4H 2021</a>
+        
+        <button
+                class="navbar-toggler"
+                type="button"
+                data-toggle="collapse"
+                data-target="#navbarNav"
+                aria-controls="navbarNav"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+        >
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div
+                class="collapse navbar-collapse text-right flex-grow-1"
+                id="navbarNav"
+        >
+            <ul class="navbar-nav ml-auto">
+
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="index.html">Home</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="papers.html">Accepted Papers</a>
+                </li>
+                
+
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Attend
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                    <li><a class="nav-link" href="registration.html" >Registration</a></li>
+                    <li><a class="nav-link" href="participation_guide.html" >Participation Guide</a></li>
+                    <li><a class="nav-link" href="schedule.html" >Schedule</a></li>
+                    <!--li><a class="nav-link" href="chat.html" >Chat</a></li-->
+                    <li><a class="nav-link" href="speakers.html" >Speakers</a></li>
+                    <li><a class="nav-link" href="research_roundtables.html" >Research Roundtables</a></li>
+                    <li><a class="nav-link" href="career_mentorship.html" >Career Mentorship</a></li>
+                    <li><a class="nav-link" href="raffle_terms.html" >Raffle</a></li>
+                    <li><a class="nav-link" href="code_of_conduct.html" >Code of Conduct</a></li>
+                </ul>
+                </li>
+                <li class="nav-item dropdown ">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Submit
+                  </a> 
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                    <li><a class="nav-link" href="call_for_participation.html">Call for Participation</a></li>
+                    <li><a class="nav-link" href="writing_guidelines.html" >Writing Guidelines</a></li>
+                    <li><a class="nav-link" href="reviewer_instructions.html" >Reviewer Instructions</a></li>
+                    <li><a class="nav-link" href="submission_mentorship.html" >Submission Mentorship</a></li>
+                    <li><a class="nav-link" href="reviewer_mentorship.html" >Reviewer Mentorship</a></li>
+                  </ul>
+                </li>
+
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Organization
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                  <li><a class="nav-link" href="about.html" >About</a></li>
+                  <li><a class="nav-link" href="committee.html" >Organizers</a></li>
+                </ul>
+                </li>
+
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Past Events
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="nav-link" href="https://ml4health.github.io/2020">2020</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2019">2019</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2018">2018</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2017">2017</a></li>
+                  <li><a class="nav-link" href="https://nips.cc/Conferences/2016/Schedule?showEvent=6209">2016</a></li>
+                </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+
+<!-- User Overrides -->
+ 
+
+<div class="container">
+    <!-- Tabs -->
+    <div class="tabs">
+        
+
+
+    </div>
+    <!-- Content -->
+    <div class="content">
+        
+<!-- Session -->
+<h2>Papers</h2>
+We have accepted 18 papers to be included in the Volume 158 of the <a href="https://proceedings.mlr.press/v158/">Proceedings of Machine Learning Research</a>.
+<br><br>
+
+
+  <li>Rui Li*, Stephanie Hu*, Mingyu Lu, Yuria Utsumi, Prithwish Chakraborty, Daby M. Sow, Piyush Madan, Mohamed Ghalwash, Zach Shahn, Li-wei H. Lehman: <a href="poster_D4.html">G-Net: a Recurrent Network Approach to G-Computation for Counterfactual Prediction Under a Dynamic Treatment Regime</a> </li>
+
+  <li>Jonathan Rubin, Ramon Erkamp, Ragha Srinivasa Naidu, Anumod Odungatta Thodiyil, Alvin Chen: <a href="poster_F5.html">Attention Distillation for Detection Transformers: Application to Real-Time Video Object Detection in Ultrasound</a> </li>
+
+  <li>Esther Dietrich, Patrick Fuhlert, Anne Ernst, Guido Sauter, Maximilian Lennartz, H. Siegfried Stiehl, Marina Zimmermann*, Stefan Bonn*: <a href="poster_A1.html">Towards Explainable End-to-End Prostate Cancer Relapse Prediction from H&amp;E Images Combining Self-Attention Multiple Instance Learning with a Recurrent Neural Network</a> </li>
+
+  <li>Ajay Jaiswal, Liyan Tang, Meheli Ghosh, Justin F Rousseau, Yifan Peng, Ying Ding: <a href="poster_E1.html">RadBERT-CL: Factually-Aware Contrastive Learning For Radiology Report Classification</a> </li>
+
+  <li>Ilya Valmianski, Nave Frost, Navdeep Sood, Yang Wang, Baodong Liu, James J. Zhu, Sunil Karumuri, Ian M. Finn, Daniel S. Zisook: <a href="poster_H4.html">SmartTriage: A system for personalized patient data capture, documentation generation, and decision support</a> </li>
+
+  <li>Mark Endo*, Rayan Krishnan*, Viswesh Krishna, Andrew Y. Ng, Pranav Rajpurkar: <a href="poster_E2.html">Retrieval-Based Chest X-Ray Report Generation Using a Pre-trained Contrastive Language-Image Model</a> </li>
+
+  <li>Oliver Carr*, Avelino Javer*, Patrick Rockenschaub*, Owen Parsons, Robert Dürichen: <a href="poster_D3.html">Longitudinal patient stratification of electronic health records with flexible adjustment for clinical outcomes</a> </li>
+
+  <li>Ho Danliang, Iain BH Tan, Mehul Motani: <a href="poster_A2.html">Prognosticating Colorectal Cancer Recurrence using an Interpretable Deep Multi-view Network</a> </li>
+
+  <li>Rhys Compton, Ilya Valmianski, Li Deng, Costa Huang, Namit Katariya, Xavier Amatriain, Anitha Kannan: <a href="poster_F2.html">MEDCOD: A Medically-Accurate, Emotive, Diverse, and Controllable Dialog System</a> </li>
+
+  <li>Peiqi Wang, Ruizhi Liao, Daniel Moyer, Seth Berkowitz, Steven Horng, Polina Golland: <a href="poster_D6.html">Image Classification with Consistent Supporting Evidence</a> </li>
+
+  <li>Tianwei Yin*, Zihui Wu*, He Sun, Adrian V. Dalca, Yisong Yue, Katherine L. Bouman: <a href="poster_F4.html">End-to-End Sequential Sampling and Reconstruction for MRI</a> </li>
+
+  <li>Alexander Campbell*, Lorena Qendro*, Pietro Lio, Cecilia Mascolo: <a href="poster_B3.html">Early Exit Ensembles for Uncertainty Quantification</a> </li>
+
+  <li>Seongsu Bae, Daeyoung Kim, Jiho Kim, Edward Choi: <a href="poster_F3.html">Question Answering for Complex Electronic Health Records Database using Unified Encoder-Decoder Architecture</a> </li>
+
+  <li>Chao Pang, Xinzhuo Jiang, Krishna S. Kalluri, Matthew Spotnitz, RuiJun Chen, Adler Perotte, Karthik Natarajan: <a href="poster_C3.html">CEHR-BERT: Incorporating temporal information from structured EHR data to improve prediction tasks</a> </li>
+
+  <li>Tuan Truong, Sadegh Mohammadi, Matthias Lenga: <a href="poster_A3.html">How Transferable are Self-supervised Features in Medical Image Classification Tasks?</a> </li>
+
+  <li>Neeraj Wagh, Jionghao Wei, Samarth Rawal, Leland Barnard, Benjamin Brinkmann, Brent Berry, Gregory Worrell, David Jones, Yogatheesan Varatharajah: <a href="poster_G4.html">Domain-guided Self-supervision of EEG Data Improves Downstream Classification Performance and Generalizability</a> </li>
+
+  <li>Milan Kuzmanovic, Tobias Hatt, Stefan Feuerriegel: <a href="poster_C4.html">Deconfounding Temporal Autoencoder: Estimating Treatment Effects over Time Using Noisy Proxies</a> </li>
+
+  <li>Bryan Gopal*, Ryan Han*, Gautham Raghupathi*, Andrew Ng, Geoff Tison**, Pranav Rajpurkar**: <a href="poster_E3.html">3KG: Contrastive Learning of 12-Lead Electrocardiograms using Physiologically-Inspired Augmentations</a> </li>
+  
+<br><br>
+<h2>Extended Abstracts</h2>
+We have accepted 30 extended abstracts for presentation at the workshop, which are hosted on the <a href="https://arxiv.org/abs/2112.00179">ML4H 2021 arXiv index</a>.
+<br><br>
+
+  <li>Melle B. Vessies*, Sharvaree P. Vadgama*, Rutger R. van de Leur, Pieter A. Doevendans, Rutger J. Hassink, Erik Bekkers, René van Es: <a href="poster_A6.html">Interpretable ECG classification via a query-based latent space traversal (qLST)</a> </li>
+
+  <li>Lin Lawrence Guo, Stephen R Pfohl, Jason Fries, Alistair Johnson, Jose Posada, Catherine Aftandilian, Nigam Shah, Lillian Sung: <a href="poster_C2.html">Evaluation of Domain Generalization and Adaptation on Improving Model Robustness to Temporal Dataset Shift in Clinical Medicine</a> </li>
+
+  <li>Candelaria Mosquera, Luciana Ferrer, Diego H. Milone, Daniel Luna, Enzo Ferrante: <a href="poster_A4.html">Understanding the impact of class imbalance on the performance of chest x-ray image classifiers</a> </li>
+
+  <li>Adedolapo Aishat Toye, Suryaprakash Kompalli: <a href="poster_A5.html">Comparative Study of Speech Analysis Methods to Predict Parkinson&#39;s Disease</a> </li>
+
+  <li>Kyunghoon Hur*, Jiyoung Lee*, Jungwoo Oh, Wesley Price, Young-Hak Kim, Edward Choi: <a href="poster_C1.html">Unifying Heterogenous Electronic Health Records Systems via Text-Based Code Embedding</a> </li>
+
+  <li>Sharmita Dey, Sabri Boughorbel, Arndt F. Schilling: <a href="poster_E6.html">Learning a Shared Model for Motorized Prosthetic Joints to Predict Ankle-Joint Motion</a> </li>
+
+  <li>Neil Band*, Tim G. J. Rudner*, Qixuan Feng, Angelos Filos, Zachary Nado, Michael W. Dusenberry, Ghassen Jerfel, Dustin Tran, Yarin Gal: <a href="poster_B2.html">Benchmarking Bayesian Deep Learning on Diabetic Retinopathy Detection Tasks</a> </li>
+
+  <li>Kevalee Shah, Dimitris Spathis, Chi I. Tang, Cecilia Mascolo: <a href="poster_B6.html">Evaluating Contrastive Learning on Wearable Timeseries for Downstream Clinical Outcomes</a> </li>
+
+  <li>Newton Mwai Kinyanjui*, Fredrik D. Johansson*: <a href="poster_C5.html">ADCB: An Alzheimer&#39;s disease benchmark for evaluating observational estimators of causal effects</a> </li>
+
+  <li>Niall Taylor, Lei Sha, Dan W Joyce, Alejo Nevado-Holgado, Thomas Lukasiewicz, Andrey Kormilitzin: <a href="poster_D5.html">Rationale production to support clinical decision-making</a> </li>
+
+  <li>Subhrajit Roy*, Diana Mincu*, Negar Rostamzadeh, Chintan Ghate, Nenad Tomasev, Jessica Schrouff, Natalie Harris, Christina Chen, Fletcher Lee Hartsell, Katherine Heller.: <a href="poster_B5.html">Disability prediction in multiple sclerosis using performance outcome measures and demographic data</a> </li>
+
+  <li>Merel Kuijs, Catherine R. Jutzeler, Bastian Rieck, Sarah C. Brueningk: <a href="poster_G1.html">Interpretability Aware Model Training to Improve Robustness against OOD Magnetic Resonance Images in Alzheimer&#39;s Disease Classification</a> </li>
+
+  <li>Quentin Blampey, Mehdi Rahim: <a href="poster_F6.html">HAD-Net: Hybrid Attention-based Diffusion Network for Glucose Level Forecast</a> </li>
+
+  <li>Eric Wu*, Kevin Wu*, James Zou: <a href="poster_G2.html">Explaining medical AI performance disparities across sites with confounder Shapley value analysis</a> </li>
+
+  <li>Varun Nair*, Namit Katariya, Xavier Amatriain, Ilya Valmianski, Anitha Kannan: <a href="poster_H2.html">Adding more data does not always help: A study in medical conversation summarization with PEGASUS</a> </li>
+
+  <li>Hassan Baker, Austin J. Brockmeier: <a href="poster_C6.html">Exploring latent networks in resting-state fMRI using voxel-to-voxel causal modeling feature selection</a> </li>
+
+  <li>Usman Mahmood, Zening Fu, Vince Calhoun, Sergey Plis: <a href="poster_G5.html">Multi network InfoMax: A pre-training method involving graph convolutional networks</a> </li>
+
+  <li>Mathieu Godbout, Alexandre Lachance, Fares Antaki, Ali Dirani, Audrey Durand: <a href="poster_H3.html">Predicting Visual Improvement after Macular Hole Surgery: a Cautionary Tale on Deep Learning with Very Limited Data</a> </li>
+
+  <li>Usman Mahmood, Zening Fu, Vince Calhoun, Sergey Plis: <a href="poster_G6.html">Brain dynamics via Cumulative Auto-Regressive Self-Attention</a> </li>
+
+  <li>Jingshu Liu*, Patricia J. Allen*, Luke Benz, Daniel Blickstein, Evon Okidi, Xiao Shi: <a href="poster_E5.html">A Machine Learning Approach for Recruitment Prediction in Clinical Trial Design</a> </li>
+
+  <li>Haoran Zhang, Natalie Dullerud, Karsten Roth, Stephen Pfohl, Marzyeh Ghassemi: <a href="poster_H6.html">Improving the Fairness of Deep Chest X-ray Classifiers</a> </li>
+
+  <li>Roxana Daneshjou*, Kailas Vodrahalli*, Weixin Liang*, Roberto A Novoa, Melissa Jenkins, Veronica Rotemberg, Justin Ko, Susan M Swetter, Elizabeth E Bailey, Olivier Gevaert, Pritam Mukherjee, Michelle Phung, Kiana Yekrang, Bradley Fong, Rachna Sahasrabudhe, Albert Chiou, James Zou: <a href="poster_H1.html">Disparities in Dermatology AI: Assessments Using Diverse Clinical Images</a> </li>
+
+  <li>Amirata Ghorbani, Andre Esteva, James Zou: <a href="poster_F1.html">Grading of Prostate Whole-slide Images Using Weak Self-supervised Learning</a> </li>
+
+  <li>Kristina M. Holton*, Shi Yu Chan*, Austin J. Brockmeier, Dost Öngür, Mei-Hua Hallk: <a href="poster_H5.html">Exploring the influences of functional connectivity architecture on cortical thickness networks in patients with early psychosis</a> </li>
+
+  <li>Odhran O&#39;Donoghue, Paul Duckworth, Giuseppe Ughi, Linus Scheibenreif, Kia Khezeli, Adrienne Hoarfrost, Samuel Budd, Patrick Foley, Nicholas Chia, John Kalantari, Graham Mackintosh, Frank Soboczenski, Lauren Sanders: <a href="poster_G3.html">Invariant Risk Minimisation for Cross-Organism Inference: Substituting Mouse Data for Human Data in Human Risk Factor Discovery</a> </li>
+
+  <li>Tanish Tyagi*, Colin G. Magdamo*, Ayush Noori, Zhaozhi Li, Xiao Liu, Mayuresh Deodhar, Zhuoqiao Hong, Wendong Ge, Elissa M. Ye, Yi-han Sheu, Haitham Alabsi,Laura Brenner, Gregory K. Robbins, Sahar Zafar, Nicole Benson, Lidia Moura, John Hsu, Alberto Serrano-Pozo, Dimitry Prokopenko, Rudolph E. Tanzi, Bradley T.Hyman, Deborah Blacker, Shibani S. Mukerji, M. Brandon Westover, Sudeshna Das: <a href="poster_D1.html">Using Deep Learning to Identify Patients with Cognitive Impairment in Electronic Health Records</a> </li>
+
+  <li>Karina Zadorozhny, Patrick Thoral, Paul Elbers, Giovanni Cinà: <a href="poster_D2.html">Out-of-Distribution Detection for Medical Applications: Guidelines for Practical Evaluation</a> </li>
+
+  <li>Andreanne Lemay, Katharina Hoebel, Christopher P. Bridge, Didem Egemen, Ana Cecilia Rodriguez, Mark Schiffman, John Peter Campbell, Jayashree Kalpathy-Cramer: <a href="poster_B1.html">Monte Carlo dropout increases model repeatability</a> </li>
+
+  <li>Negar Rostamzadeh, Subhrajit Roy, Diana Mincu, Andrew Smart, Lauren Wilcox, Mahima Pushkarna, Razvan Amironesei, Jessica Schrouff, Madeleine Elish, Nyalleng Moorosi, Berk Ustun, Noah Broesti, Katherine Heller: <a href="poster_B4.html">Specialized Healthsheet for Healthcare Datasets</a> </li>
+
+  <li>D. Suo, N. Agarwal, W. Xia, X. Chen, U. Ghai, A. Yu, P. Gradu, K. Singh, C. Zhang, E. Minasyan, J. LaChance, T. Zajdel, M. Schottdorf, D. Cohen, E. Hazan: <a href="poster_E4.html">Machine Learning for Mechanical Ventilation Control</a> </li>
+  
+<br><br>
+
+
+    </div>
+</div>
+
+
+
+<div
+  class="gdpr bg-dark text-light"
+  style="padding: 10pt; position: fixed; bottom: 0; display: none;"
+>
+  We use cookies to store which papers have been visited.
+  <div class="gdpr-btn btn btn-sm btn-info" style="margin-left: 15pt;">
+    I agree
+  </div>
+</div>
+<script src="static/js/modules/gdprCookies.js"></script>
+
+
+</body>
+</html>

@@ -9,10 +9,10 @@ SITENAME = u'ML4H: Machine Learning for Health'
 if 'SITEURL' in os.environ:
     SITEURL = os.environ['SITEURL']
 else:
-    SITEURL = 'https://ml4health.github.io/2021'
+    SITEURL = 'https://ml4health.github.io/2022'
 
-OUTPUT_PATH = '2021/'
-PATH = '2021_content/'
+OUTPUT_PATH = '2022/'
+PATH = '2022_content/'
 
 TIMEZONE = 'Europe/Paris'
 

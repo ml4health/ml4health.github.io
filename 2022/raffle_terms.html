@@ -1,0 +1,287 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8"/>
+    <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta name="google-site-verification" content="B2mVlLOsODDDoAPs7zrMUb95ql1_b4XpFaNEz_WBQf0" />
+
+    <!-- External Javascript libs_ext  -->
+    <script src="https://cdn.jsdelivr.net/npm/d3@5/dist/d3.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@4.7.3/dist/handlebars.min.js"
+            integrity="sha256-/PJBs6QWvXijOFIX04kZpLb6ZtSQckdOIavLWKKOgXU="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+
+    <script
+            src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+            integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+            crossorigin="anonymous"
+    ></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js"
+            integrity="sha256-WqU1JavFxSAMcLP2WIOI+GB2zWmShMI82mTpLDcqFUg="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/min/moment.min.js"
+            integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment-timezone@0.5.28/builds/moment-timezone-with-data.min.js"
+            integrity="sha256-IWYg4uIC8/erItNXYvLtyYHioRi2zT1TFva8qaAU/ww="
+            crossorigin="anonymous"></script>
+
+
+    <!-- Library libs_ext -->
+    <script src="static/js/libs_ext/typeahead.bundle.js"></script>
+
+
+    <!--    Internal Libs -->
+    <script src="static/js/data/api.js"></script>
+
+    
+
+    <!-- External CSS -->
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+          integrity="sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY="
+          crossorigin="anonymous">
+
+    <!-- External Fonts (no google for china) -->
+    <link
+            href="static/css/Lato.css"
+            rel="stylesheet"
+    />
+    <link href="static/css/Exo.css" rel="stylesheet"/>
+    <link
+            href="static/css/Cuprum.css"
+            rel="stylesheet"
+    />
+    <link rel="stylesheet" href="static/css/main.css"/>
+<!--    <link rel="stylesheet" href="static/css/fa_regular.css"/>-->
+    <link rel="stylesheet" href="static/css/fa_solid.css"/>
+    <link rel="stylesheet" href="static/css/lazy_load.css"/>
+    <link rel="stylesheet" href="static/css/typeahead.css"/>
+
+    <title>ML4H: ML4H Raffle</title>
+    
+</head>
+
+<body>
+<!-- NAV -->
+
+<nav
+        class="navbar sticky-top navbar-expand-lg navbar-light bg-light mr-auto"
+        id="main-nav"
+>
+    <div class="container">
+        <a class="navbar-brand" href="index.html">
+            <img
+                    class="logo" src="static/images/logo.png"
+                    height="50px"
+            width="auto"
+            />
+        </a>
+        
+        <a class="navbar-brand" href="index.html">ML4H 2021</a>
+        
+        <button
+                class="navbar-toggler"
+                type="button"
+                data-toggle="collapse"
+                data-target="#navbarNav"
+                aria-controls="navbarNav"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+        >
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div
+                class="collapse navbar-collapse text-right flex-grow-1"
+                id="navbarNav"
+        >
+            <ul class="navbar-nav ml-auto">
+
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="index.html">Home</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="papers.html">Accepted Papers</a>
+                </li>
+                
+
+                <li class="nav-item dropdown active">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Attend
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                    <li><a class="nav-link" href="registration.html" >Registration</a></li>
+                    <li><a class="nav-link" href="participation_guide.html" >Participation Guide</a></li>
+                    <li><a class="nav-link" href="schedule.html" >Schedule</a></li>
+                    <!--li><a class="nav-link" href="chat.html" >Chat</a></li-->
+                    <li><a class="nav-link" href="speakers.html" >Speakers</a></li>
+                    <li><a class="nav-link" href="research_roundtables.html" >Research Roundtables</a></li>
+                    <li><a class="nav-link" href="career_mentorship.html" >Career Mentorship</a></li>
+                    <li><a class="nav-link" href="raffle_terms.html" >Raffle</a></li>
+                    <li><a class="nav-link" href="code_of_conduct.html" >Code of Conduct</a></li>
+                </ul>
+                </li>
+                <li class="nav-item dropdown ">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Submit
+                  </a> 
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                    <li><a class="nav-link" href="call_for_participation.html">Call for Participation</a></li>
+                    <li><a class="nav-link" href="writing_guidelines.html" >Writing Guidelines</a></li>
+                    <li><a class="nav-link" href="reviewer_instructions.html" >Reviewer Instructions</a></li>
+                    <li><a class="nav-link" href="submission_mentorship.html" >Submission Mentorship</a></li>
+                    <li><a class="nav-link" href="reviewer_mentorship.html" >Reviewer Mentorship</a></li>
+                  </ul>
+                </li>
+
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Organization
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                  <li><a class="nav-link" href="about.html" >About</a></li>
+                  <li><a class="nav-link" href="committee.html" >Organizers</a></li>
+                </ul>
+                </li>
+
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Past Events
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="nav-link" href="https://ml4health.github.io/2020">2020</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2019">2019</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2018">2018</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2017">2017</a></li>
+                  <li><a class="nav-link" href="https://nips.cc/Conferences/2016/Schedule?showEvent=6209">2016</a></li>
+                </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+
+<!-- User Overrides -->
+
+
+
+<div class="container">
+    <!-- Tabs -->
+    <div class="tabs">
+        
+  <div class="page-header text-center">
+    <h1>ML4H Raffle</h1>
+  </div>
+
+    </div>
+    <!-- Content -->
+    <div class="content">
+        
+<div class="page-content">
+<p>All ML4H participants will be eligible to earn tickets in a raffle on the basis of their participation in the symposium. Each participant will earn one ticket for their registration with additional tickets available by participating in poster sessions, round tables discussion, and exploring the Gather.Town space. Check out the Rocket Chat for additional raffle codes throughout the day! Prizes include Amazon gift cards and ML4H coffee cups.  </p>
+<p>As you explore the symposium on Gather.Town, make sure to look out for raffle codes. For example: </p>
+<p><img alt="&quot;A sample raffle code&quot;" src="static/images/raffle.png" title="A sample raffle code" /></p>
+<p>Which is a valid raffle code! Thanks for reading this page. </p>
+<p>To redeem your raffle code and submit an entry to the ML4H Raffle, please fill out the form below. You should submit one entry per raffle code you’ve encountered during ML4H   </p>
+<p><center></p>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSec1cZ1_T-vUjWqQOGBszevptef4MMxCDskJ0qE515Ef7li0g/viewform?embedded=true" width="640" height="714" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<p></center></p>
+<p><strong>Raffle Terms</strong></p>
+<ol>
+<li>By entering the 2021 ML4H Symposium (“ML4H”) Raffle (“the raffle”) you are agreeing to these terms and conditions. </li>
+<li>The raffle is free to enter and open to those over 18 years of age and registered for the 2021 ML4H Symposium. ML4H organizers are not eligible for prizes.</li>
+<li>There is a complete release of Google from all liability from this raffle. Google does not sponsor or administer the contest. Google employees, agencies, vendors, and partners and their families are excluded from eligibility.</li>
+<li>Multiple entries can be accumulated by participating on Gather.Town and Rocket Chat. Raffle codes will be able to be found in the poster room, at the roundtable discussions (same code across each discussion to disincentive bouncing between them), and in other spaces in Gather.Town (Go explore!). Codes will periodically be added in the Rocket Chat.  </li>
+<li>All entries must be submitted by the end of December 4th, 2021 anywhere on Earth.</li>
+<li>Entrants will be required to submit their email used for registration and raffle code on ​​<a href="https://docs.google.com/forms/d/e/1FAIpQLSec1cZ1_T-vUjWqQOGBszevptef4MMxCDskJ0qE515Ef7li0g/viewform">https://docs.google.com/forms/d/e/1FAIpQLSec1cZ1_T-vUjWqQOGBszevptef4MMxCDskJ0qE515Ef7li0g/viewform</a> to submit raffle codes</li>
+<li>All registrants of ML4H have one (1) entry by default in the raffle if they elect to participate in the raffle.</li>
+<li>On the ML4H registration form, if you opt in to the raffle, then you must also supply your current country of residence. </li>
+<li>Certain prizes may only be available to those entrants living in the United States due to mailing restrictions. </li>
+<li>Prizes may consist of cloud computing credits, gift cards, or ML4H paraphernalia and are not exchangeable for cash nor are they transferable/exchangeable. </li>
+<li>The winners will be drawn at random.</li>
+<li>Only one prize per participant. Being selected for a prize will make a participant ineligible for other prizes. </li>
+<li>We reserve the right to substitute prizes with another prize of equal or higher value if circumstances beyond our control make it necessary to do so. </li>
+<li>The winners will be notified after December 4th, 2021 via the email they provided during entry. </li>
+<li>ML4H will attempt to contact the winners by email at most two times. If any winner does not respond to the email within 5 days of receipt, another winner will be drawn for the corresponding prize. </li>
+<li>ML4H does not provide any guarantees about delivery of the prizes via mailing systems, but will make a full faith effort to ensure the prizes reach the winners. </li>
+<li>You consent to us collecting your name, email address, and country of mailing address as part of the entry submission process for the purposes of running this raffle. </li>
+<li>ML4H does not accept any liability for any damage, loss, injury suffered by any entracts as a result of entering this raffle or winning a prize. </li>
+<li>ML4H does not provide any warranty or support for any of the prizes provided. </li>
+<li>ML4H reserves the right to amend these terms at any time without prior notice. </li>
+</ol>
+
+</div>
+
+    </div>
+</div>
+
+
+
+<!-- Google Analytics -->
+<script
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=UA-"
+></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+
+  gtag("js", new Date());
+  gtag("config", "UA-");
+</script>
+
+<!-- Footer -->
+<footer class="footer bg-light p-4">
+    <div class="container">
+        <p class="float-right"><a href="#">Back to Top</a></p>
+        <p class="text-center">© 2021 ML4H Organization Committee</p>
+    </div>
+</footer>
+
+<!-- Code for hash tags -->
+<script type="text/javascript">
+  $(document).ready(function () {
+    if (window.location.hash !== "") {
+      $(`a[href="${window.location.hash}"]`).tab("show");
+    }
+
+    $("a[data-toggle='tab']").on("shown.bs.tab", function (e) {
+      const hash = $(e.target).attr("href");
+      if (hash.substr(0, 1) === "#") {
+        const position = $(window).scrollTop();
+        window.location.replace(`#${hash.substr(1)}`);
+        $(window).scrollTop(position);
+      }
+    });
+  });
+</script>
+<!--    <script src="static/js/modules/lazyLoad.js"></script>-->
+
+</body>
+</html>

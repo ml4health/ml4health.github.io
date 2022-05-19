@@ -1,4 +1,14 @@
-This repository contains all the source materials for NIPS ML4Health workshop website. 
+This repository contains all the source materials for ML4Health Symposium and NuerIPS ML4Health workshop website. 
+
+
+# Usage for 2022
+
+Creating new folder for a new year
+1. Copied the `2021_content` to `2022_content`.
+2. Edit homepage in `2022_content/pages/00_index.md`. Change the date, announcements, and sponsor, as appropriate. 
+3. Update information in `2022/index.html`. Remove tabs for which information is currently unavailable e.g., speakers, schedule, etc. (You can add later). 
+4. Change year in `Makefile`. Change link in `./index.html`. Switch years in `pelicanconf.py`
+
 
 # Usage for 2021
 

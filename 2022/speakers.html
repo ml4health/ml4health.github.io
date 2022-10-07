@@ -1,6 +1,3 @@
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -83,7 +80,6 @@
 
 <body>
 <!-- NAV -->
-
 <nav
         class="navbar sticky-top navbar-expand-lg navbar-light bg-light mr-auto"
         id="main-nav"
@@ -97,7 +93,7 @@
             />
         </a>
         
-        <a class="navbar-brand" href="index.html">ML4H 2021</a>
+        <a class="navbar-brand" href="index.html">ML4H 2022</a>
         
         <button
                 class="navbar-toggler"
@@ -117,41 +113,62 @@
             <ul class="navbar-nav ml-auto">
 
                 
-                <li class="nav-item ">
+                <li class="nav-item active">
                     <a class="nav-link" href="index.html">Home</a>
                 </li>
-                
-                <li class="nav-item ">
-                    <a class="nav-link" href="papers.html">Accepted Papers</a>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../online_proceedings.html">Online Proceedings</a>
                 </li>
                 
+<!--                 <li class="nav-item ">
+                    <a class="nav-link" href="papers.html">Accepted Papers</a>
+                </li> -->
 
-                <li class="nav-item dropdown active">
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  About ML4H
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                    <li><a class="nav-link" href="./about.html" >History</a></li> 
+                    <li><a class="nav-link" href="https://ahli.cc">Governing board</a></li> 
+                    <li><a class="nav-link" href="../code_of_conduct.html">Code of Conduct</a></li> 
+                    <li><a class="nav-link" href="../publication_ethics.html">Publication Ethic</a></li> 
+                </ul>
+                </li> 
+
+
+                <li class="nav-item dropdown ">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Attend
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                    <li><a class="nav-link" href="https://www.eventbrite.com/e/397067809507/" >Registration</a></li>
+                    <li><a class="nav-link" href="speakers.html" >Speakers</a></li>
+                    <li><a class="nav-link" href="./career_mentorship.html" >Career Mentorship</a></li> 
+                </ul>
+                </li> 
+                <!--
                     <li><a class="nav-link" href="registration.html" >Registration</a></li>
                     <li><a class="nav-link" href="participation_guide.html" >Participation Guide</a></li>
                     <li><a class="nav-link" href="schedule.html" >Schedule</a></li>
-                    <!--li><a class="nav-link" href="chat.html" >Chat</a></li-->
                     <li><a class="nav-link" href="speakers.html" >Speakers</a></li>
                     <li><a class="nav-link" href="research_roundtables.html" >Research Roundtables</a></li>
-                    <li><a class="nav-link" href="career_mentorship.html" >Career Mentorship</a></li>
+                    
                     <li><a class="nav-link" href="raffle_terms.html" >Raffle</a></li>
                     <li><a class="nav-link" href="code_of_conduct.html" >Code of Conduct</a></li>
-                </ul>
-                </li>
+                -->
+
                 <li class="nav-item dropdown ">
                   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Submit
                   </a> 
                   <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
-                    <li><a class="nav-link" href="call_for_participation.html">Call for Participation</a></li>
-                    <li><a class="nav-link" href="writing_guidelines.html" >Writing Guidelines</a></li>
-                    <li><a class="nav-link" href="reviewer_instructions.html" >Reviewer Instructions</a></li>
-                    <li><a class="nav-link" href="submission_mentorship.html" >Submission Mentorship</a></li>
-                    <li><a class="nav-link" href="reviewer_mentorship.html" >Reviewer Mentorship</a></li>
+                    <li><a class="nav-link" href="./call_for_participation.html">Call for Participation</a></li>
+                    <li><a class="nav-link" href="./submission.html">Concurrent Workshop Submission</a></li>
+                    <li><a class="nav-link" href="./writing_guidelines.html" >Writing Guidelines</a></li>
+                    <li><a class="nav-link" href="./submission_mentorship.html" >Submission Mentorship</a></li>
+                    <li><a class="nav-link" href="./reviewer_instructions.html" >Reviewer Instructions</a></li>
+                    <li><a class="nav-link" href="./reviewer_mentorship.html" >Reviewer Mentorship</a></li>
                   </ul>
                 </li>
 
@@ -160,8 +177,10 @@
                   Organization
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
-                  <li><a class="nav-link" href="about.html" >About</a></li>
-                  <li><a class="nav-link" href="committee.html" >Organizers</a></li>
+                  <li><a class="nav-link" href="./about.html" >About</a></li>
+                  <li><a class="nav-link" href="./committee.html" >Organizers</a></li>
+                  <li><a class="nav-link" href="./become_a_sponsor.html" >Become a Sponsor</a></li>
+
                 </ul>
                 </li>
 
@@ -170,6 +189,7 @@
                   Past Events
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="nav-link" href="https://ml4health.github.io/2021">2021</a></li>
                   <li><a class="nav-link" href="https://ml4health.github.io/2020">2020</a></li>
                   <li><a class="nav-link" href="https://ml4health.github.io/2019">2019</a></li>
                   <li><a class="nav-link" href="https://ml4health.github.io/2018">2018</a></li>
@@ -181,6 +201,7 @@
         </div>
     </div>
 </nav>
+
 
 
 
@@ -211,17 +232,17 @@
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
     <div class="col-xs-6 col-md-4"> 
     <div class="thumbnail">
-        <a href="#karandeep">
+        <a href="#berkman">
         <img 
-            src="static/images/speakers/karandeep_singh.jpg"
-            alt="Karandeep Singh headshot"
+            src="static/images/speakers/berkman.jpeg"
+            alt="Berkman Sahiner headshot"
             style="width:88%"
             align="center">
         <div class="caption">
-            <h5>Karandeep Singh</h5>
-            <p>Uni. of Michigan
+            <h5>Berkman Sahiner</h5>
+            <p>FDA Center for Devices and Radiological Health (CDRH)
               <br />
-              Assistant Professor
+              Senior Biomedical Research Scientist
             </p>
             <p></p>
         </div>
@@ -232,37 +253,79 @@
     <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
     <div class="col-xs-6 col-md-4"> 
     <div class="thumbnail">
-        <a href="#shalmali">
+        <a href="#ben">
         <img 
-            src="static/images/speakers/shalmali_joshi.jpg"
-            alt="Shalmali Joshi headshot"
+            src="static/images/speakers/ben.jpeg"
+            alt="Benjamin Recht headshot"
             style="width:88%"
             align="center">
         <div class="caption">
-            <h5>Shalmali Joshi</h5>
+            <h5>Benjamin Recht</h5>
+            <p>University of California, Berkeley
+              <br />
+              Associate Professor
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+  
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="#nicola">
+        <img 
+            src="static/images/speakers/nicola.jpg"
+            alt="Nicola Pezzotti headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Nicola Pezzotti</h5>
+            <p>Philips Research
+               <br />
+              Senior Research Scientist
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+  
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="#mihaela">
+        <img 
+            src="static/images/speakers/mihaela.jpeg"
+            alt="Mihaela van der Schaarheadshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Mihaela van der Schaar</h5>
+            <p>University of Cambridge
+              <br />
+               Professor
+            </p>
+            <p></p>
+        </div>
+        </a>
+    </div>
+    </div>
+
+    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+    <div class="col-xs-6 col-md-4"> 
+    <div class="thumbnail">
+        <a href="#hima">
+        <img 
+            src="static/images/speakers/hima.jpeg"
+            alt="Himabindu (Hima) Lakkaraju headshot"
+            style="width:88%"
+            align="center">
+        <div class="caption">
+            <h5>Himabindu (Hima) Lakkaraju</h5>
             <p>Harvard University
               <br />
-              Postdoctoral Fellow
-            </p>
-            <p></p>
-        </div>
-        </a>
-    </div>
-    </div>
-  
-    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
-    <div class="col-xs-6 col-md-4"> 
-    <div class="thumbnail">
-        <a href="#uri">
-        <img 
-            src="static/images/speakers/uri_shalit.jpg"
-            alt="Uri Shalit headshot"
-            style="width:88%"
-            align="center">
-        <div class="caption">
-            <h5>Uri Shalit</h5>
-            <p>Technion
-               <br />
               Assistant Professor
             </p>
             <p></p>
@@ -270,21 +333,20 @@
         </a>
     </div>
     </div>
-  
-    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
+
     <div class="col-xs-6 col-md-4"> 
     <div class="thumbnail">
-        <a href="#xiao">
+        <a href="#emmanuel">
         <img 
-            src="static/images/speakers/xiao_liu.jpg"
-            alt="Xiao Liu headshot"
+            src="static/images/speakers/emmanuel.png"
+            alt="Emmanuel Candès headshot"
             style="width:88%"
             align="center">
         <div class="caption">
-            <h5>Xiao Liu</h5>
-            <p>Uni. of Birmingham
+            <h5>Emmanuel Candès</h5>
+            <p>Stanford University
               <br />
-               Postdoctoral Researcher
+            Professor
             </p>
             <p></p>
         </div>
@@ -292,129 +354,40 @@
     </div>
     </div>
 
-    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
-    <div class="col-xs-6 col-md-4"> 
-    <div class="thumbnail">
-        <a href="#yoshua">
-        <img 
-            src="static/images/speakers/yoshua_bengio.jpg"
-            alt="Yoshua Bengio headshot"
-            style="width:88%"
-            align="center">
-        <div class="caption">
-            <h5>Yoshua Bengio</h5>
-            <p>Université de Montreal
-              <br />
-              Professor
-            </p>
-            <p></p>
-        </div>
-        </a>
-    </div>
-    </div>
- 
-    <!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
-    <div class="col-xs-6 col-md-4"> 
-    <div class="thumbnail">
-        <a href="#sendhil">
-        <img 
-            src="static/images/speakers/sendhil_mullainathan.jpg"
-            alt="Sendhil Mullainathan headshot"
-            style="width:88%"
-            align="center">
-        <div class="caption">
-            <h5>Sendhil Mullainathan</h5>
-            <p>Chicago Booth
-              <br />
-              Professor
-            </p>
-            <p></p>
-        </div>
-        </a>
-    </div>
-    </div>
-
-<!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
-    <div class="col-xs-6 col-md-4"> 
-    <div class="thumbnail">
-        <a href="#aisha">
-        <img 
-            src="static/images/speakers/aisha_walcott_bryant.jpg"
-            alt="Aisha Walcott-Bryant headshot"
-            style="width:88%"
-            align="center">
-        <div class="caption">
-            <h5>Aisha Walcott-Bryant</h5>
-            <p>IBM Africa
-              <br />
-              Senior Technical Staff
-            </p>
-            <p></p>
-        </div>
-        </a>
-    </div>
-    </div>
-  
-    <div class="col-xs-6 col-md-4"> 
-    <div class="thumbnail">
-        <a href="#rory">
-        <img 
-            src="static/images/speakers/rory_sayres.jpg"
-            alt="Rory Sayres headshot"
-            style="width:88%"
-            align="center">
-        <div class="caption">
-            <h5>Rory Sayres</h5>
-            <p>Google Health AI
-              <br />
-              Research Scientist
-            </p>
-            <p></p>
-        </div>
-        </a>
-    </div>
-    </div>
   
 </div>
 </div>
 
 <p><br /></p>
 <h1>Bios</h1>
-<h3><a id="uri"></a> Uri Shalit</h3>
-<!-- <p>The year 2020 has brought into focus a second pandemic of social injustice and systemic bias with the disproportionate deaths observed for minority patients infected with COVID. As we observe an increase in development and adoption of AI for medical care, we note variable performance of the models when tested on previously unseen datasets, and also bias when the outcome proxies such as healthcare costs are utilized. Despite progressive maturity in AI development with increased availability of large open source datasets and regulatory guidelines, operationalizing fairness is difficult and remains largely unexplored. In this talk, we review the background/context for FAIR and UNFAIR sequelae of AI algorithms in healthcare, describe practical approaches to FAIR Medical AI, and issue a grand challenge with open/unanswered questions. </p> -->
-<p> Uri Shalit is a senior lecturer (assistant professor) at the Technion - Israel Institute of Technology, Faculty of Industrial Engineering and Management, in the areas of statistics and information systems.
-Uri's research is currently focused on three subjects:
-The first is applying machine learning to the field of healthcare, especially in terms of providing physicians with decision support tools based on big health data. In this capacity he has worked with Clalit Health Services, Rambam Medical Center, and the Israeli Ministry of Health.
-The second subject is the intersection of machine learning and causal inference, especially the problem of learning individual-level causal effects.
-Finally, is interested in bringing ideas from causal inference into the field of machine learning, focusing on problems in robust learning, transfer learning and interpretability.</p>
-<p> Previously, Uri was a postdoctoral researcher in Prof. David Sontag’s Clinical Machine Learning Lab in NYU and then MIT. He completed his PhD studies at the Center for Neural Computation at The Hebrew University of Jerusalem, under the guidance of Prof. Gal Chechik and Prof. Daphna Weinshall. From 2011 to 2014 he was a recipient of Google's European Fellowship in Machine Learning. </p>
+<h3><a id="berkman"></a> Berkman Sahiner</h3>
+<p> 
+Berkman Sahiner is a senior biomedical research scientist with the Office of Science and Engineering Laboratories (OSEL) at CDRH. He has a PhD in electrical engineering and computer science from the University of Michigan, Ann Arbor. Before joining FDA, he was an Associate Professor with the Department of Radiology at the University of Michigan. At the Division of Imaging, Diagnostics and Software Reliability at CDRH/OSEL, he performs research related to the evaluation of medical imaging and computer-assisted diagnosis devices, including devices that incorporate machine learning and artificial intelligence. He has authored/co-authored over 130 peer-reviewed journal publications, and is a fellow of the Society of Photo-optical Instrumentation Engineers (SPIE) and American Institute for Medical and Biological Engineering (AIMBE). His interests include machine learning, computer-aided diagnosis, image perception, clinical study design, and performance assessment methodologies.
+</p>
     
-<h3><a id="shalmali"></a> Shalmali Joshi</h3>
+<h3><a id="ben"></a> Benjamin Recht</h3>
 <!-- <p>Recent advances in training deep learning algorithms have demonstrated potential to accommodate the complex variations present in medical data. In this talk, I will describe technical advancements and challenges in the development and clinical application of deep learning algorithms designed to interpret medical images. I will also describe advances and current challenges in the deployment of medical imaging deep learning algorithms into practice. This talk presents work that is jointly done with Matt Lungren, Curt Langlotz, Nigam Shah, and several more collaborators.</p> -->
-<p> Shalmali Joshi is a Postdoctoral Fellow at the Center for Research on Computation and Society at Harvard University. Previously, she was a Postdoctoral Fellow at the Vector Institute. She received her Ph.D. from the University of Texas at Austin (UT Austin). Shalmali's research expertise is on developing reliable Machine Learning (ML) methods for clinical healthcare. She has contributed to ML research in explainability, algorithmic recourse, probabilistic modeling and causal inference for clinical decision-making.  She has also contributed to interdisciplinary venues on ethical challenges of deploying ML tools in clinical healthcare.</p>
+<p> Benjamin Recht is a Professor in the Department of Electrical Engineering and Computer Sciences at the University of California, Berkeley where he studies the theory and deployment of prediction and decision systems.</p>
     
-<h3><a id="sendhil"></a> Sendhil Mullainathan</h3>
+<h3><a id="nicola"></a> Nicola Pezzotti</h3>
 <!-- <p>Health disparities in the United States are one of the largest factors in reducing the health of the population. Disparities means some groups have lower life expectancy, are dying at higher rates from COVID-19, and utilize less mental health services, to name just a few examples. The future of medicine will be based on Artificial Intelligence and new technological platforms that promise to improve outcomes and reduce cost. Our role as AI researchers should be to ensure that these new technologies also reduce health disparities. In this talk I will describe recent work showing how we can work to reduce health disparities in the future of medicine. By ensuring that our task, datasets, algorithms and evaluations are equitable and representative of all types of patients, we can ensure that the research we develop will reduce health disparities.</p> -->
-<p> Sendhil Mullainathan is the Roman Family University Professor of Computation and Behavioral Science at Chicago Booth. His latest research is on computational medicine—applying machine learning and other data science tools to produce biomedical insights.  In past work he has combined insights from behavioral science with empirical methods—experiments, causal inference tools, and machine learning—to study social problems such as discrimination and poverty. He currently teaches a course on Artificial Intelligence.</p>
-<p> Outside of research, he co-founded a non-profit to apply behavioral science (<a href="http://www.ideas42.org/">ideas42</a>), a center to promote the use of randomized control trials in development (the <a href="https://www.povertyactionlab.org/">Abdul Latif Jameel Poverty Action Lab</a>), has worked in government in various roles, and currently serves on the board of the MacArthur Foundation board. He is also a regular contributor to the New York Times. </p>
+<p> Nicola Pezzotti is a Senior Scientist in Artificial Intelligence at Philips Research, Eindhoven, the Netherlands, and an assistant professor at the Eindhoven University of Technology. His research interests include machine learning, medical imaging, visual analytics, explainable AI, optimization techniques, and software engineering. He received his BSc and MSc degrees in Computer Science and Engineering from the University of Brescia, Italy, in 2009 and 2011. He received his PhD cum Laude from Delft University of Technology, the Netherlands, in 2018. Besides his experience in the startup world, he was a visiting scientist at INRIA Saclay, Paris, in 2017 and Google AI, Zurich, in 2018. He is the recipient of several awards, including the IEEE VGTC Best Dissertation Award, TU Delft Excellence in Research, and the Dirk Bartz Prize for Visual Computing in Medicine.</p>
     
-<h3><a id="aisha"></a> Aisha Walcott-Bryant</h3>
+<h3><a id="mihaela"></a> Mihaela van der Schaar</h3>
 <!-- <p>Recent advances in training deep learning algorithms have demonstrated potential to accommodate the complex variations present in medical data. In this talk, I will describe technical advancements and challenges in the development and clinical application of deep learning algorithms designed to interpret medical images. I will also describe advances and current challenges in the deployment of medical imaging deep learning algorithms into practice. This talk presents work that is jointly done with Matt Lungren, Curt Langlotz, Nigam Shah, and several more collaborators.</p> -->
-<p>Aisha is a Senior Technical Staff Member (STSM) and research manager at IBM Research Africa - Nairobi, Kenya. She leads a team of phenomenal, brilliant researchers and engineers that use AI, Cloud, and other technologies to advance the state-of-the art in the Future of Health and Climate while addressing business and societal needs. She has a strong interest in developing AI tools for Global Health (see our recent work on <a href="https://ibm.github.io/wntrac">COVID-19 interventions</a>), and working across sectors to create innovative, sustainable AI solutions to help transform emerging economies. She is also program co-chair for <a href="https://www.icra2022.org/">ICRA'22</a>. Aisha earned her PhD in the Electrical Engineering and Computer Science Department at MIT in robotics, as a member of the Computer Science and Artificial Intelligence Lab (CSAIL). </p>
+<p>Mihaela van der Schaar is the John Humphrey Plummer Professor of Machine Learning, Artificial Intelligence and Medicine at the University of Cambridge and a Fellow at The Alan Turing Institute in London. In addition to leading the van der Schaar Lab, Mihaela is founder and director of the Cambridge Centre for AI in Medicine (CCAIM). </p>
 
-<h3><a id="yoshua"></a> Yoshua Bengio</h3>
-<p>Yoshua Bengio is Full Professor in the Department of Computer Science and Operations Research at Université de Montreal, as well as the Founder and Scientific Director of Mila and the Scientific Director of IVADO. Considered one of the world’s leaders in artificial intelligence and deep learning, he is the recipient of the 2018 A.M. Turing Award with Geoff Hinton and Yann LeCun, known as the Nobel prize of computing. He is a Fellow of both the Royal Society of London and Canada, an Officer of the Order of Canada, and a Canada CIFAR AI Chair.</p>
- 
-<h3><a id="karandeep"></a> Karandeep Singh</h3>
-<p>Karandeep Singh, MD, MMSc, is an Assistant Professor of Learning Health Sciences, Internal Medicine, Urology, and Information at the University of Michigan. He directs the Machine Learning for Learning Health Systems lab, which focuses on using machine learning and biomedical informatics methods to understand and improve health at scale. He chairs the Michigan Medicine Clinical Intelligence Committee, which oversees the implementation of machine learning models across the health system. He completed his internal medicine residency at UCLA Medical Center, where he served as chief resident, and a nephrology fellowship in the combined Brigham and Women’s Hospital/Massachusetts General Hospital program in Boston, MA. He completed his medical education at the University of Michigan Medical School and holds a master’s degree in medical sciences in Biomedical Informatics from Harvard Medical School. He is board certified in internal medicine, nephrology, and clinical informatics.</p>
-    
-<h3><a id="xiao"></a> Xiao Liu</h3>
-<!-- <p>Recent advances in training deep learning algorithms have demonstrated potential to accommodate the complex variations present in medical data. In this talk, I will describe technical advancements and challenges in the development and clinical application of deep learning algorithms designed to interpret medical images. I will also describe advances and current challenges in the deployment of medical imaging deep learning algorithms into practice. This talk presents work that is jointly done with Matt Lungren, Curt Langlotz, Nigam Shah, and several more collaborators.</p> -->
-<p>Dr Xiao Liu is an ophthalmologist and a post doctoral researcher at the University of Birmingham and University Hospitals Birmingham NHS Foundation Trust. She is interested in evidence standards for AI in healthcare, to ensure AI innovations can safely and effectively improve patient care. Xiao co-led the development of SPIRIT-AI and CONSORT-AI, the first international reporting standards for clinical trials of AI interventions, and is working with other AI reporting standards in development, including STARD-AI, DECIDE-AI and TRIPOD-AI. She also works with regulatory and commissioning bodies, including MHRA, NICE, the UK National Screening Committee and the WHO/ITU AI4H focus groups, on their approaches to evaluating AI in healthcare. </p>
+<p> Mihaela was elected IEEE Fellow in 2009. She has received numerous awards, including the Oon Prize on Preventative Medicine from the University of Cambridge (2018), a National Science Foundation CAREER Award (2004), 3 IBM Faculty Awards, the IBM Exploratory Stream Analytics Innovation Award, the Philips Make a Difference Award and several best paper awards, including the IEEE Darlington Award.</p>
 
-<h3><a id="rory"></a> Rory Sayres</h3>
-<p>Rory Sayres is a researcher in the Google Health AI group. He studies decision making processes related to the development and deployment of medical AI technology. This includes understanding how people make medical decisions; how AI explanations may impact decision making; and how human processes impact the labels used to train and validate AI models. His background includes neuroscience and human/computer interaction.</p>
-    
+<p> Mihaela is personally credited as inventor on 35 USA patents (the majority of which are listed <a href="https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&f=S&l=50&d=PTXT&RS=%28IN%2F%22van+der+schaar%2C+mihaela%22+OR+IN%2F%22schaar%2C+Mihaela%22%29&Refine=Refine+Search&Query=IN%2F%22mitrea%2C+mihaela%22+OR+IN%2F%22schaar%2C+Mihaela%22">here</a>), many of which are still frequently cited and adopted in standards. She has made over 45 contributions to international standards for which she received 3 ISO Awards. In 2019, a Nesta report determined that Mihaela was the most-cited female AI researcher in the U.K. </p>
+
+<h3><a id="hima"></a> Himabindu (Hima) Lakkaraju </h3>
+<p>Himabindu (Hima) Lakkaraju is an assistant professor at Harvard University focusing on explainability, fairness, and robustness of machine learning models. She has also been working with various domain experts in policy and healthcare to understand the real-world implications of explainable and fair ML. Hima has been named as one of the world’s top innovators under 35 by both MIT Tech Review and Vanity Fair. Her research has also received best paper awards at SIAM International Conference on Data Mining (SDM), INFORMS, workshops at ICML, and grants from NSF, Google, Amazon, JP Morgan and Bayer. Hima has given keynote talks at various top ML conferences and workshops including CIKM, ICML, NeurIPS, AAAI, and CVPR, and her research has also been showcased by popular media outlets including the New York Times, MIT Tech Review, TIME magazine, and Forbes. More recently, she co-founded the <a href="https://www.trustworthyml.org/">Trustworthy ML Initiative</a> to enable easy access to resources on trustworthy ML and to build a community of researchers/practitioners working on the topic.</p>
+
+<h3><a id="emmanuel"></a> Emmanuel Candès </h3>
+<p>Emmanuel Candès is the Barnum-Simons Chair in Mathematics and Statistics at Stanford University, and Professor of Electrical Engineering (by courtesy). His research interests lie at the interface of mathematics, statistics, information theory, signal processing and scientific computing. He received his Ph.D. in statistics from Stanford University in 1998. Candès has received several awards including the Alan T. Waterman Award from NSF, which is the highest honor bestowed by NSF to early-career scientists, and the MacArthur Fellowship, popularly known as the ‘genius award’. He has given over 80 plenary lectures at major international conferences, not only in mathematics and statistics but in many other areas as well including biomedical imaging and solid-state physics. He was elected to the National Academy of Sciences and to the American Academy of Arts and Sciences in 2014.
+</p>
+     
   </div>
 
     </div>
@@ -442,7 +415,7 @@ Finally, is interested in bringing ideas from causal inference into the field of
 <footer class="footer bg-light p-4">
     <div class="container">
         <p class="float-right"><a href="#">Back to Top</a></p>
-        <p class="text-center">© 2021 ML4H Organization Committee</p>
+        <p class="text-center">© 2022 ML4H Organization Committee</p>
     </div>
 </footer>
 

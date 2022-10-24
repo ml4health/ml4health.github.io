@@ -78,6 +78,31 @@
     <link rel="stylesheet" href="static/css/typeahead.css"/>
 
     <title>ML4H: Home</title>
+
+    <style>
+
+
+.column-platinum {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+.column-silver {
+  float: left;
+  width: 20%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+</style>
     
 </head>
 
@@ -454,15 +479,22 @@
 </center></p> -->
 
 <h3>Platinum Sponsors</h3>
-<p><center>
-<img src="static/images/optum_logo.png">
-<img src="static/images/genentech_logo.png">
-</center></p>
+
+<div class="row">
+  <div class="column-platinum">
+    <img src="static/images/optum_logo.png" alt="Optum" style="width:100%">
+  </div>
+  <div class="column-platinum">
+    <img src="static/images/genentech_logo.png" alt="Genentech" style="width:100%">
+  </div>
+</div>
 
 <h3> Silver Sponsors</h3>
-<p><center>
-<img src="static/images/insitro_logo.png">
-</center></p> 
+<div class="row">
+  <div class="column-silver">
+    <img src="static/images/insitro.png" alt="Insitro" style="width:100%">
+  </div>
+</div>
 
 
 <!-- Organizers

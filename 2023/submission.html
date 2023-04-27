@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8"/>
+    <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta name="google-site-verification" content="B2mVlLOsODDDoAPs7zrMUb95ql1_b4XpFaNEz_WBQf0" />
+
+    <!-- External Javascript libs_ext  -->
+    <script src="https://cdn.jsdelivr.net/npm/d3@5/dist/d3.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@4.7.3/dist/handlebars.min.js"
+            integrity="sha256-/PJBs6QWvXijOFIX04kZpLb6ZtSQckdOIavLWKKOgXU="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+
+    <script
+            src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+            integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+            crossorigin="anonymous"
+    ></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js"
+            integrity="sha256-WqU1JavFxSAMcLP2WIOI+GB2zWmShMI82mTpLDcqFUg="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/min/moment.min.js"
+            integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment-timezone@0.5.28/builds/moment-timezone-with-data.min.js"
+            integrity="sha256-IWYg4uIC8/erItNXYvLtyYHioRi2zT1TFva8qaAU/ww="
+            crossorigin="anonymous"></script>
+
+
+    <!-- Library libs_ext -->
+    <script src="static/js/libs_ext/typeahead.bundle.js"></script>
+
+
+    <!--    Internal Libs -->
+    <script src="static/js/data/api.js"></script>
+
+    
+
+    <!-- External CSS -->
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+          integrity="sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY="
+          crossorigin="anonymous">
+
+    <!-- External Fonts (no google for china) -->
+    <link
+            href="static/css/Lato.css"
+            rel="stylesheet"
+    />
+    <link href="static/css/Exo.css" rel="stylesheet"/>
+    <link
+            href="static/css/Cuprum.css"
+            rel="stylesheet"
+    />
+    <link rel="stylesheet" href="static/css/main.css"/>
+<!--    <link rel="stylesheet" href="static/css/fa_regular.css"/>-->
+    <link rel="stylesheet" href="static/css/fa_solid.css"/>
+    <link rel="stylesheet" href="static/css/lazy_load.css"/>
+    <link rel="stylesheet" href="static/css/typeahead.css"/>
+
+    <title>ML4H: Submission</title>
+    
+</head>
+
+<body>
+<!-- NAV -->
+<nav
+        class="navbar sticky-top navbar-expand-lg navbar-light bg-light mr-auto"
+        id="main-nav"
+>
+    <div class="container">
+        <a class="navbar-brand" href="index.html">
+            <img
+                    class="logo" src="static/images/logo.png"
+                    height="50px"
+            width="auto"
+            />
+        </a>
+        
+        <a class="navbar-brand" href="index.html">ML4H 2022</a>
+        
+        <button
+                class="navbar-toggler"
+                type="button"
+                data-toggle="collapse"
+                data-target="#navbarNav"
+                aria-controls="navbarNav"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+        >
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div
+                class="collapse navbar-collapse text-right flex-grow-1"
+                id="navbarNav"
+        >
+            <ul class="navbar-nav ml-auto">
+
+                
+                <li class="nav-item active">
+                    <a class="nav-link" href="index.html">Home</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../online_proceedings.html">Online Proceedings</a>
+                </li>
+                
+<!--                 <li class="nav-item ">
+                    <a class="nav-link" href="papers.html">Accepted Papers</a>
+                </li> -->
+
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  About ML4H
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                    <li><a class="nav-link" href="./about.html" >History</a></li> 
+                    <li><a class="nav-link" href="https://ahli.cc">Governing board</a></li> 
+                    <li><a class="nav-link" href="../code_of_conduct.html">Code of Conduct</a></li> 
+                    <li><a class="nav-link" href="../publication_ethics.html">Publication Ethic</a></li> 
+                </ul>
+                </li> 
+
+
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Attend
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                    <li><a class="nav-link" href="https://www.eventbrite.com/e/397067809507/" >Registration</a></li>
+                    <li><a class="nav-link" href="travel_awards.html" >Travel Awards</a></li>
+                    <li><a class="nav-link" href="speakers.html" >Speakers</a></li>
+                    <li><a class="nav-link" href="schedule.html" >Schedule</a></li>
+                    <li><a class="nav-link" href="research_roundtables.html" >Research Roundtables</a></li>
+                    <li><a class="nav-link" href="./career_mentorship.html" >Career Mentorship</a></li> 
+                </ul>
+                </li> 
+                <!--
+                    <li><a class="nav-link" href="registration.html" >Registration</a></li>
+                    <li><a class="nav-link" href="participation_guide.html" >Participation Guide</a></li>
+                    <li><a class="nav-link" href="schedule.html" >Schedule</a></li>
+                    <li><a class="nav-link" href="speakers.html" >Speakers</a></li>
+                    <li><a class="nav-link" href="research_roundtables.html" >Research Roundtables</a></li>
+                    
+                    <li><a class="nav-link" href="raffle_terms.html" >Raffle</a></li>
+                    <li><a class="nav-link" href="code_of_conduct.html" >Code of Conduct</a></li>
+                -->
+
+                <li class="nav-item dropdown ">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Submit
+                  </a> 
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                    <li><a class="nav-link" href="./call_for_participation.html">Call for Participation</a></li>
+                    <li><a class="nav-link" href="./submission.html">Concurrent Workshop Submission</a></li>
+                    <li><a class="nav-link" href="./writing_guidelines.html" >Writing Guidelines</a></li>
+                    <li><a class="nav-link" href="./submission_mentorship.html" >Submission Mentorship</a></li>
+                    <li><a class="nav-link" href="./reviewer_instructions.html" >Reviewer Instructions</a></li>
+                    <li><a class="nav-link" href="./reviewer_mentorship.html" >Reviewer Mentorship</a></li>
+                  </ul>
+                </li>
+
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Organization
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                  <li><a class="nav-link" href="./about.html" >About</a></li>
+                  <li><a class="nav-link" href="./committee.html" >Organizers</a></li>
+                  <li><a class="nav-link" href="./become_a_sponsor.html" >Become a Sponsor</a></li>
+
+                </ul>
+                </li>
+
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Past Events
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="nav-link" href="https://ml4health.github.io/2021">2021</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2020">2020</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2019">2019</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2018">2018</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2017">2017</a></li>
+                  <li><a class="nav-link" href="https://nips.cc/Conferences/2016/Schedule?showEvent=6209">2016</a></li>
+                </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+
+<!-- User Overrides -->
+
+
+
+<div class="container">
+    <!-- Tabs -->
+    <div class="tabs">
+        
+  <div class="page-header text-center">
+    <h1>Concurrent submission to NeurIPS 2022 workshops</h1>
+  </div>
+
+    </div>
+    <!-- Content -->
+    <div class="content">
+        
+  <div class="page-content">
+    <p>
+      This year, ML4H is running a shared submission system that allows other health-themed venues occurring around the same time as ML4H to also accept submissions through ML4H. Under this program, submissions to the ML4H <b><u>extended abstract track</u></b> under appropriate topics can opt in to be also considered for presentation at several NeurIPS workshops. The reviews and meta-reviews will be shared across ML4H and the participating workshops, but ML4H and each workshop will make separate acceptance decisions tailored to the unique goals and themes of each event.
+    </p>
+
+<p>
+  We believe sharing submission systems in this way will offer several benefits to workshop organizers and authors alike. Health-themed workshops at NeurIPS can benefit from our tried-and-tested submission / review system at no cost to them. Authors who submit through ML4H can benefit from our extended review process, which includes a full-length author rebuttal and reviewer discussion period.
+</p>
+
+<h2>
+FAQ
+</h2>
+
+<h5>
+  <b>Which NeurIPS 2022 workshops are participating, and what types of papers can be submitted concurrently?  </b>
+</h5>
+  <p> This year we are partnering with the following NeurIPS 2022 workshops. Please refer to each workshop's website for examples of solicited topics.
+  </p>
+  <ul style="margin-top:-20px;">
+    <li>
+      <a class="nav-link" href="https://timeseriesforhealth.github.io/">TS4H: Learning from Time Series for Health</a></li>
+      <li><a class="nav-link" href="https://sites.google.com/view/glinda2022/home">GLIndA: Graph Learning for Industrial Applications</a></li>
+  </ul>
+
+<h5>
+  <b>Can I submit to the ML4H proceedings track and a NeurIPS workshop?</b>
+</h5>
+  <p> Only submissions to ML4H’s non-archival extended abstract track can elect to be considered for participating workshops. Papers accepted to the ML4H proceedings track are archival, and dual submissions are not allowed. 
+  </p>
+  
+
+<h5>
+  <b> Where in OpenReview do I indicate I want my submission to be considered for a NeurIPS workshop?</b>
+</h5>
+  <p> For an “extended abstract” track submission, simply check the appropriate boxes to the question below and your submission will be included! 
+        <div class="col-xs-6">
+          <a href="./">
+            <img class="img-fluid" src=static/images/submission_snapshot.png alt="ML4H: Machine Learning for Health">
+          </a>
+        </div>
+  </p>
+
+
+<h5>
+  <b>
+    What’s the submission deadline?
+  </b>
+</h5>
+  <p> 
+    Authors have two options: submitting directly to the workshop by the workshop’s submission deadline (typically Sept 22), or submitting through ML4H before the ML4H deadline (Sept 1). Submissions directly to the workshop have a later deadline but typically do not enjoy the full author response and discussion period that ML4H offers.
+  </p>
+
+<h5>
+  <b>
+    How should I format my submission?
+  </b>
+</h5>
+  <p> 
+    Initial submissions should follow the ML4H style guidelines and policies. If your submission is accepted by an archival NeurIPS workshop, please follow the workshop’s formatting instructions for their proceedings only at the camera-ready stage. 
+  </p>
+
+<h5>
+  <b>
+    Can I submit only to the NeurIPS workshops?
+  </b>
+</h5>
+  <p> 
+    Yes, you may submit directly via the workshop’s submission portal, which means your submission cannot benefit from the full author response and discussion period that ML4H offers. 
+  </p>
+
+<h5>
+  <b>
+    How will reviews be shared between ML4H and the participating workshop?
+  </b>
+</h5>
+  <p> 
+    Reviews and meta-reviews will be shared, but final acceptance decisions will be made separately. Reviewers and meta-reviewers will be instructed to provide general feedback and numerical scores in addition to ML4H-specific final recommendations. In this way, the shared reviews and meta-reviews will still be useful for workshop decision committees.
+  </p>
+
+<h5>
+  <b>
+    How will information be released to me about reviews, meta-reviews, and decisions?
+  </b>
+</h5>
+  <p> 
+    Reviews and meta-reviews will be released through OpenReview in the same way for ML4H-only submissions and submissions under joint consideration. Decisions will be communicated independently for participating workshops and ML4H. Note that there may be a slight delay in the release of ML4H final meta-reviews and decisions as compared to workshop-specific decisions (e.g., you may hear a final decision from a workshop prior to your meta-review being released for ML4H). This does not mean that your meta-review / post-rebuttal reviews were not taken into consideration. Final meta-reviews and post-rebuttal updated reviews are shared with workshop decision committees prior to their decisions being made; however, as they are smaller, they can make decisions faster than ML4H’s general track can, so this discrepancy is expected and normal.
+  </p>
+
+  <h3>
+    Questions?
+      </h3>
+      
+     <p> 
+      For questions or feedback please contact us at ml4h.2022@gmail.com. In particular, if participating in this system in future years is of interest to you, or if you can think of other ways ML4H can effectively collaborate with your health-focused event, contact us! We’re eager to discuss new ways to improve all ML for health and biomedical themed events.
+      </p>
+
+  </div>
+
+    </div>
+</div>
+
+
+
+<!-- Google Analytics -->
+<script
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=UA-"
+></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+
+  gtag("js", new Date());
+  gtag("config", "UA-");
+</script>
+
+<!-- Footer -->
+<footer class="footer bg-light p-4">
+    <div class="container">
+        <p class="float-right"><a href="#">Back to Top</a></p>
+        <p class="text-center">© 2021 ML4H Organization Committee</p>
+    </div>
+</footer>
+
+<!-- Code for hash tags -->
+<script type="text/javascript">
+  $(document).ready(function () {
+    if (window.location.hash !== "") {
+      $(`a[href="${window.location.hash}"]`).tab("show");
+    }
+
+    $("a[data-toggle='tab']").on("shown.bs.tab", function (e) {
+      const hash = $(e.target).attr("href");
+      if (hash.substr(0, 1) === "#") {
+        const position = $(window).scrollTop();
+        window.location.replace(`#${hash.substr(1)}`);
+        $(window).scrollTop(position);
+      }
+    });
+  });
+</script>
+<!--    <script src="static/js/modules/lazyLoad.js"></script>-->
+
+</body>
+</html>

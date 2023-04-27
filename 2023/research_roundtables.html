@@ -1,0 +1,447 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8"/>
+    <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta name="google-site-verification" content="B2mVlLOsODDDoAPs7zrMUb95ql1_b4XpFaNEz_WBQf0" />
+
+    <!-- External Javascript libs_ext  -->
+    <script src="https://cdn.jsdelivr.net/npm/d3@5/dist/d3.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@4.7.3/dist/handlebars.min.js"
+            integrity="sha256-/PJBs6QWvXijOFIX04kZpLb6ZtSQckdOIavLWKKOgXU="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+
+    <script
+            src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+            integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+            crossorigin="anonymous"
+    ></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js"
+            integrity="sha256-WqU1JavFxSAMcLP2WIOI+GB2zWmShMI82mTpLDcqFUg="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/min/moment.min.js"
+            integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment-timezone@0.5.28/builds/moment-timezone-with-data.min.js"
+            integrity="sha256-IWYg4uIC8/erItNXYvLtyYHioRi2zT1TFva8qaAU/ww="
+            crossorigin="anonymous"></script>
+
+
+    <!-- Library libs_ext -->
+    <script src="static/js/libs_ext/typeahead.bundle.js"></script>
+
+
+    <!--    Internal Libs -->
+    <script src="static/js/data/api.js"></script>
+
+    
+
+    <!-- External CSS -->
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+          integrity="sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY="
+          crossorigin="anonymous">
+
+    <!-- External Fonts (no google for china) -->
+    <link
+            href="static/css/Lato.css"
+            rel="stylesheet"
+    />
+    <link href="static/css/Exo.css" rel="stylesheet"/>
+    <link
+            href="static/css/Cuprum.css"
+            rel="stylesheet"
+    />
+    <link rel="stylesheet" href="static/css/main.css"/>
+<!--    <link rel="stylesheet" href="static/css/fa_regular.css"/>-->
+    <link rel="stylesheet" href="static/css/fa_solid.css"/>
+    <link rel="stylesheet" href="static/css/lazy_load.css"/>
+    <link rel="stylesheet" href="static/css/typeahead.css"/>
+
+    <title>ML4H: Research Roundtables</title>
+    
+</head>
+
+<body>
+<!-- NAV -->
+
+<nav
+        class="navbar sticky-top navbar-expand-lg navbar-light bg-light mr-auto"
+        id="main-nav"
+>
+    <div class="container">
+        <a class="navbar-brand" href="index.html">
+            <img
+                    class="logo" src="static/images/logo.png"
+                    height="50px"
+            width="auto"
+            />
+        </a>
+        
+        <a class="navbar-brand" href="index.html">ML4H 2022</a>
+        
+        <button
+                class="navbar-toggler"
+                type="button"
+                data-toggle="collapse"
+                data-target="#navbarNav"
+                aria-controls="navbarNav"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+        >
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div
+                class="collapse navbar-collapse text-right flex-grow-1"
+                id="navbarNav"
+        >
+            <ul class="navbar-nav ml-auto">
+
+                
+                <li class="nav-item active">
+                    <a class="nav-link" href="index.html">Home</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../online_proceedings.html">Online Proceedings</a>
+                </li>
+                
+<!--                 <li class="nav-item ">
+                    <a class="nav-link" href="papers.html">Accepted Papers</a>
+                </li> -->
+
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  About ML4H
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                    <li><a class="nav-link" href="./about.html" >History</a></li> 
+                    <li><a class="nav-link" href="https://ahli.cc">Governing board</a></li> 
+                    <li><a class="nav-link" href="../code_of_conduct.html">Code of Conduct</a></li> 
+                    <li><a class="nav-link" href="../publication_ethics.html">Publication Ethic</a></li> 
+                </ul>
+                </li> 
+
+
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Attend
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                    <li><a class="nav-link" href="https://www.eventbrite.com/e/397067809507/" >Registration</a></li>
+                    <li><a class="nav-link" href="travel_awards.html" >Travel Awards</a></li>
+                    <li><a class="nav-link" href="speakers.html" >Speakers</a></li>
+                    <li><a class="nav-link" href="schedule.html" >Schedule</a></li>
+                    <li><a class="nav-link" href="research_roundtables.html" >Research Roundtables</a></li>
+                    <li><a class="nav-link" href="./career_mentorship.html" >Career Mentorship</a></li> 
+                </ul>
+                </li> 
+                <!--
+                    <li><a class="nav-link" href="registration.html" >Registration</a></li>
+                    <li><a class="nav-link" href="participation_guide.html" >Participation Guide</a></li>
+                    <li><a class="nav-link" href="schedule.html" >Schedule</a></li>
+                    <li><a class="nav-link" href="speakers.html" >Speakers</a></li>
+                    <li><a class="nav-link" href="research_roundtables.html" >Research Roundtables</a></li>
+                    
+                    <li><a class="nav-link" href="raffle_terms.html" >Raffle</a></li>
+                    <li><a class="nav-link" href="code_of_conduct.html" >Code of Conduct</a></li>
+                -->
+
+                <li class="nav-item dropdown ">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Submit
+                  </a> 
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                    <li><a class="nav-link" href="./call_for_participation.html">Call for Participation</a></li>
+                    <li><a class="nav-link" href="./submission.html">Concurrent Workshop Submission</a></li>
+                    <li><a class="nav-link" href="./writing_guidelines.html" >Writing Guidelines</a></li>
+                    <li><a class="nav-link" href="./submission_mentorship.html" >Submission Mentorship</a></li>
+                    <li><a class="nav-link" href="./reviewer_instructions.html" >Reviewer Instructions</a></li>
+                    <li><a class="nav-link" href="./reviewer_mentorship.html" >Reviewer Mentorship</a></li>
+                  </ul>
+                </li>
+
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Organization
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                  <li><a class="nav-link" href="./about.html" >About</a></li>
+                  <li><a class="nav-link" href="./committee.html" >Organizers</a></li>
+                  <li><a class="nav-link" href="./become_a_sponsor.html" >Become a Sponsor</a></li>
+
+                </ul>
+                </li>
+
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Past Events
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="nav-link" href="https://ml4health.github.io/2021">2021</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2020">2020</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2019">2019</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2018">2018</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2017">2017</a></li>
+                  <li><a class="nav-link" href="https://nips.cc/Conferences/2016/Schedule?showEvent=6209">2016</a></li>
+                </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+
+<!-- User Overrides -->
+
+
+
+<div class="container">
+    <!-- Tabs -->
+    <div class="tabs">
+        
+  <div class="page-header text-center">
+    <h1>Research Roundtables</h1>
+  </div>
+
+    </div>
+    <!-- Content -->
+    <div class="content">
+        
+<div class="page-content">
+<h3>Overview</h3>
+<p>The goal of the research roundtables is to foster discussion between the participants and senior researchers in the field on several topics of high relevance in the ML4H community. Each roundtable will have a small group of senior researchers and practitioners who are experts in the selected topics and a few junior chairs who will lead the discussion on open problems in ML4H which were crowdsourced from the community. </p>
+
+<h3>How to participate</h3>
+<p>We will host virtual and in-person roundtables that will both take place at 13:00 CST on November 28th, 2022. The virtual roundtables will take place in Zoom  (links will be provided in Gather.Town). The session will be split into two parts, with a 5 minutes break in the middle where participants can move to a different roundtable. Participants are encouraged to pick at most two roundtables that they would like to join and engage in the discussion points proposed by the junior chairs and ask further questions to the senior chairs. To avoid the disruption of conversations, the participants should only move between roundtables during the break.</p>
+
+<h3>Virtual Research Round-tables</h3>
+<h5>1. How machine learning can help prevent and respond to infectious disease outbreaks, were are we now?</h5>
+<p>We can trace the origins of infectious disease modeling to Bernoulli's smallpox models in 1760. Modeling became more and more sophisticated in the 20th century with the mass action law, the Kermack-McKendrick epidemic model, stochastic models, and other advancements in modeling.</p>
+
+<p>In the 21st century, we have seen the rise of machine learning techniques powered by the surge in data collection and cheaper and cheaper computing resources.</p>
+
+<p>Besides modeling the spread of diseases, machine learning has been applied to other areas, such as diagnosing, triaging, and predicting outcomes at the patient level, accelerating the study of protein structures for vaccine development, reducing the time to develop tests, detecting and suppressing misinformation, and predicting future outbreaks caused by complex environmental and climate changes.</p>
+
+<p>In this roundtable we will discuss "how can machine learning help prevent and respond to infectious disease outbreaks?"</p>
+<ul>
+<li><strong>Senior chairs:</strong> Megan Coffee</li>
+<li><strong>Junior chairs:</strong> Christian Garbin</li>
+</ul>
+<h5>2. Are our ML models really making an impact in the hospital? What do care-givers and clinicians want and what is still missing?</h5>
+<p>Machine learning models have shown tremendous promise in advancing clinical care. However, adaptation in clinical practice has been slow due to the numerous barriers that exist in implementation.  ML models can impact healthcare in different ways such as relieving workload through medical note summarization, augmenting clinical workflows through intensive care unit alert systems, and providing high-performing diagnostics and risk-stratification. Despite the promised potential of these methods, concerns about the clinical utility of these models hinder widespread adoption in hospital systems. Further, despite FDA approval of many clinical ML models, few randomized control trials have been conducted to evaluate the utility of these interventions. In this roundtable, we will discuss the current landscape of the use of ML models in hospitals and the impact that they have had. We will also discuss the remaining opportunities and challenges from the perspective of a clinician.</p>
+<ul>
+<li><strong>Senior chairs:</strong> Collin Stultz</li>
+<li><strong>Junior chairs: </strong>Elizabeth Healey</li>
+</ul>
+<h5>3. How to effectively integrate multiple data sources for machine learning applications in healthcare?</h5>
+<p>Healthcare dataset is inherently multi-modal and collected from multi-sources. For example, medical datasets include electronic health records, medical imaging, lab tests, genetics, and patient demographics gathered from various sources and datasets from internet of things (IoT) devices like watches collect fitness and health statistics data. Consolidating such datasets is an essential step for data analysis. This research roundtable will discuss the challenges, opportunities, and possible solutions of healthcare data integration for machine learning applications.</p>
+<ul>
+<li><strong>Senior chairs:</strong> Mert R. Sabuncu</li>
+<li><strong>Junior chairs:</strong> Heejong Kim</li>
+</ul>
+<h5>4. How to evaluate the quality of healthcare data and labels prior to applying machine learning?</h5>
+<p>Understanding the quality and relevance of a dataset used to make predictions in healthcare is a vital step in the research or algorithm development process. In this session we'll discuss common pre-model building pitfalls: picking the right label, and understanding if selection is present in the training dataset. </p>
+
+<p>We often use machine learning to predict important but challenging to define concepts like health, or healthcare needs. When empirical definitions are hard to determine, an obvious next step is to use a proxy label. One example from healthcare is using patient cost as a label when we want to understand future healthcare needs. Ziad's work has shown that not only is cost a bad label for health, but it can be biased. His research has shown how an algorithm that was deployed by a large healthcare organization systematically predicted lower future health needs among Black patients compared to White patients in part because the Black patients had systematically lower past spending. Low past spending, in this case was correlated with higher health needs, not lower. </p> 
+
+<p>In addition to selecting the right label, it is also crucial to evaluate whether the chosen dataset has selective measurement of the outcome. Selection is rampant in healthcare where much of our data exists because a human made a decision. Suppose we try to predict a patient's risk for heart attack: if the patient was tested for heart attack, or had a heart attack, this is straightforward. However, we do not observe test outcomes among patients not tested for heart attack, a decision made by a human who may be biased in various ways.</p>
+<ul>
+<li><strong>Senior chairs:</strong> Ziad Obermeyer</li>
+<li><strong>Junior chairs:</strong> Claire Boone</li>
+</ul>
+
+<h3>In-Person Research Round-tables</h3>
+<h5>1. Are our ML models really making an impact in the hospital? What do care-givers and clinicians want and what is still missing?</h5>
+<p>Machine Learning (ML) has found numerous applications in healthcare - inspiring conferences, degree programs, research programs, and entire institutions at the intersection of
+healthcare and ML. On one hand, there is great promise for improving healthcare outcomes
+and reshaping health systems. On the other, there are equally if not more potential
+harms that can arise if ethics, fairness, and privacy considerations are ignored. We
+draw attention to the translation gap between theoretical/proof-of-concept ML research
+and clinical integration in the hospital posing the following questions: What are there
+common problematic simplifying assumptions? How can we ensure various stakeholders are
+engaged in this pipeline? Who are these technologies helping, and more importantly who
+are they hurting?
+Recent work in explainability, data visualization, and human-computer interaction have
+made some improvements towards what care-givers and clinicians want. However,
+many voices in the healthcare system may not be prioritized - such as nurses, allied health
+care workers, and especially patients. In the discussion that follows, we explore how ML
+fits into the healthcare pipeline, who gets to contribute, and what are key areas of focus
+moving forward.</p>
+<ul>
+<li><strong>Senior chairs:</strong> Roxana Daneshjou, Siyu Shi</li>
+<li><strong>Junior chairs:</strong> Jennifer Chien, Sujay Nagaraj</li>
+</ul>
+<h5>2. Evaluation of healthcare data prior to applying ML, e.g., representation analysis, annotation quality, OOD, clusters of IDs</h5>
+<p>Healthcare datasets often exhibit many challenging properties including non-random missingness processes, label noise and high dimensionality. These datasets also often reflect societal biases and algorithms trained using this data may exacerbate disparities. Each of these properties is further complicated when considering scenarios where there may be dataset shift. Given these challenges, it is important to systematically evaluate datasets for the existence and severity of such pathologies prior to applying any machine learning methods. A related task is interrogating the robustness of methods to the introduction of different dataset shifts in these pathologies. Several types of  approaches exist for this kind of data exploration including dimensionality reduction techniques for visualizing clusters of data, evaluating and improving label quality using active learning and tests for missingness assumptions. The purpose of this session is to discuss existing methods used by the community for exploration of healthcare data, explore what pathologies are rarely addressed or difficult to interrogate using existing methods and how we can mitigate common pitfalls in the analysis of large healthcare datasets.</p>
+<ul>
+<li><strong>Senior chairs:</strong> Nicola Pezzotti, Pin-Yu Chen</li>
+<li><strong>Junior chairs: </strong>Neha Hulkund, Shreyas Bhave</li>
+</ul>
+<h5>3. How to ensure generalizability of ML in healthcare?</h5>
+<p>Despite being deployed widely in practice, predictive models in healthcare can fail to perform well across clinics, patient populations, and time. Two recent examples illustrate the challenge: The University of Michigan Hospital deactivated their sepsis prediction model in April of 2020 due to COVID-related changes in the distribution of patients, and the widely-deployed Epic Sepsis Model was found (in an external validation study) to dramatically under-perform relative to the claims of the developer. Meanwhile, a recent study found that only 23% of ML-based healthcare papers used multiple datasets. A definition of generalizability is the ability of a model to perform well on data from a cohort of patients independent from its training data, whether from a different hospital or demographic subpopulation, or a different point in time. In this roundtable, we will discuss different aspects of what it means for a model to generalize well, the challenges inherent in building generalizable models, and potential paths forward.</p>
+<ul>
+<li><strong>Senior chairs:</strong> Emmanuel Candès, Stephen R. Pfohl, Edwin Fong</li>
+<li><strong>Junior chairs:</strong> Michael Oberst, Amruta Pai</li>
+</ul>
+<h5>4. How do we inject domain knowledge into DL models, in particular when not much data is available?</h5>
+<p>When sampling is difficult or expensive, as is often the case in medicine, biology, language,
+and the social sciences, we typically obtain only a small dataset relating to any particular
+modeling or prediction task. In these situations, we can provide domain knowledge as an
+inductive bias to inform learning tasks and restrict the possible solution spaces of models,
+increasing our sample efficiency in these already sample-sparse domains. Common examples are knowledge graphs, but this representation is often unavailable, and knowledge in
+some domains may not align well with a graphical representation. In this session, we will
+focus on why domain knowledge is important (and when it might not be), and discuss
+the many ways of injecting domain knowledge when it is relevant. Our panelists represent
+diverse backgrounds from natural language processing, bio-informatics, and computational
+medicine, and each have unique experiences utilizing domain knowledge. We aim to provide a comprehensive overview of existing approaches and thrilling discussion about future
+research on injecting domain knowledge into deep learning models.</p>
+<ul>
+<li><strong>Senior chairs:</strong> Aakanksha Naik, Ben Lengerich, Ying Xu, Eran Halperin</li>
+<li><strong>Junior chairs:</strong> Caleb Ellington, Wisdom Ikezogwo</li>
+</ul>
+<h5>5. How to effectively integrate multiple data sources (e.g., EHR, images, genomics) for ML applications in healthcare?</h5>
+<p>Multimodal data sources provide unparalleled opportunities to design models with intelli
+gent capabilities and learn. Often individual decision points situated in complex healthcare decision processes are modelled with the aim of improving and augmenting single outcomes. However, from
+an engineering perspective attaching intelligent solutions into broader decision systems can increase their complexity which in turn increases the risk for fragmented user experiences. This in
+turn may even impact the cognitive load of the consuming domain expert negatively. Instead,
+a potential avenue for research is to move the AI solution upstream with the aim to model entire decision processes end-to-end. A side-effect of this is that the AI may need to be able to (1)
+consume multiple data modalities and model multiple tasks jointly as the scope is broadened
+or (2) translate one data modality into another one. Successful implementations will ultimately
+lead to significant reduction in engineering complexity and more unified user experiences.</p>
+<ul>
+<li><strong>Senior Chairs:</strong> Jonathan Bidwell, Dominik Dahlem, Mark Sendak</li>
+<li><strong>Junior Chairs:</strong> Jason Dou</li>
+</ul>
+<h5>6. How can we utilize foundation models (very large pre-trained models) for healthcare?</h5>
+<p>A recent paradigm in machine learning is the concept of foundation models, very large-
+pretrained models that can be used as a base model for applications. Such models have seen particularly impressive performance at zero- and few-shot generation tasks in text and vision. Given the 'emergent abilities' of such models, they hold remarkable promise for transforming the way we practice medicine and transform care. For example, large language models (LLMs) have already shown potential recently at tasks including clinical information extraction and medical exam question answering. However, there are practical questions and challenges that arise due to the high-stakes of the clinical setting. In this roundtable session, we will discuss "How can we utilize foundation
+models (very large pre-trained models) for healthcare?</p>
+<ul>
+<li><strong>Senior Chairs:</strong> Payel Das, Zachary C. Lipton, Byung-Hak Kim</li>
+<li><strong>Junior Chairs:</strong> Monica Agrawal, Changye Li</li>
+</ul>
+<h5>7. Using ML for population health</h5>
+<p>Population health, in general, can be defined as the health outcome distributions within and
+across populations. The research requires taking into account various cultural, social, and
+environmental factors and investigating their effects on the health of communities. To this
+end, machine learning is emerging as a possible way to automate complex tasks in population
+health that otherwise have required substantial human labor. Machine learning utilizes these
+health outcomes to understand patterns of health determinants in order to identify high-risk
+groups and predict future disease burdens. These models can be especially of interest to
+policy-makers to recommend public health policies and interventions. In this roundtable,
+we will discuss the challenges in generalizability and possible solutions. We will talk about
+the design of evaluation metrics in order to push for clinically and cost-effective models,
+and how to ensure benefits are distributed more uniformly across various socioeconomic and
+geographically diverse groups.</p>
+<ul>
+<li><strong>Senior Chairs:</strong>Nathaniel Hendrix, Dimitrios Spathis</li>
+<li><strong>Junior Chairs: </strong>Peniel Argaw, Arpita Biswas</li>
+</ul>
+<h5>8. How to incentivize creation or publication of new data collections and facilitate international collaboration?</h5>
+<p>While the potential for the application of machine learning in health is enormous, so are the
+challenges. Crucially, ML models require large amounts of training data, yet making this
+data available while respecting patients' privacy has proven to be an immense conundrum.
+Furthermore, while we are constantly reminded that health issues know no borders,
+whether it be outbreaks of infectious diseases or rare genomic disorders, the jurisdictions
+governing health data most certainly do. As such, the global sharing of health data for the
+benefit of the citizen of the world remains elusive. </p>
+
+<p>This roundtable will distil and articulate the exact bottlenecks that currently block
+progress in the greater sharing - in a responsible manner - of health data, both in general
+as well as internationally. Building on the precisely articulated bottlenecks, the roundtable
+will discuss and propose potential ways forward.</p> 
+
+<p>International collaboration in collecting and sharing large medical datasets is the key to
+improving clinical impact of machine learning (ML) in healthcare domain. However, barriers
+such as privacy concerns remain. This roundtable will discuss the challenges and suggestions
+to incentivize creation or publication of new data collections and facilitate international
+collaboration</p>
+<ul>
+<li><strong>Senior Chairs: </strong>Jun Seita, Bastiaan Quast</li>
+<li><strong>Junior Chairs: </strong>Mehak Gupta, Xinhui Li</li>
+</ul>
+<h5>9. Post-approval monitoring and validation of AI systems in health care</h5>
+<p>The rapid development and application of AI systems in healthcare have raised a wide
+range of concerns about their reliability. Even if an AI system is approved, it can become
+brittle when deployed in real-world scenarios, for instance, due to distribution shifts.
+Therefore, post-approval monitoring and validation is a critical quality assurance process
+to ensure that these systems deliver accurate medical predictions in diverse real-world scenarios.
+In this roundtable, we will discuss some of the challenges regarding the post-approval monitoring and validation process and how to address these issues from a policy, technical, 
+and data perspective. In addition, we will discuss the best way to establish collaboration
+between clinicians, ML experts, and the systems themselves to communicate these issues.</p>
+<ul>
+<li><strong>Senior Chairs: </strong>Berkman Sahiner, Anna Decker, Harvineet Singh</li>
+<li><strong>Junior Chairs: </strong>Marta Lemanczyk, Yuhui Zhang</li>
+</ul>
+</div>
+
+    </div>
+</div>
+
+
+
+<!-- Google Analytics -->
+<script
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=UA-"
+></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+
+  gtag("js", new Date());
+  gtag("config", "UA-");
+</script>
+
+<!-- Footer -->
+<footer class="footer bg-light p-4">
+    <div class="container">
+        <p class="float-right"><a href="#">Back to Top</a></p>
+        <p class="text-center">© 2021 ML4H Organization Committee</p>
+    </div>
+</footer>
+
+<!-- Code for hash tags -->
+<script type="text/javascript">
+  $(document).ready(function () {
+    if (window.location.hash !== "") {
+      $(`a[href="${window.location.hash}"]`).tab("show");
+    }
+
+    $("a[data-toggle='tab']").on("shown.bs.tab", function (e) {
+      const hash = $(e.target).attr("href");
+      if (hash.substr(0, 1) === "#") {
+        const position = $(window).scrollTop();
+        window.location.replace(`#${hash.substr(1)}`);
+        $(window).scrollTop(position);
+      }
+    });
+  });
+</script>
+<!--    <script src="static/js/modules/lazyLoad.js"></script>-->
+
+</body>
+</html>

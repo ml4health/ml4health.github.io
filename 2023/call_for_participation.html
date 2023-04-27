@@ -1,0 +1,470 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8"/>
+    <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta name="google-site-verification" content="B2mVlLOsODDDoAPs7zrMUb95ql1_b4XpFaNEz_WBQf0" />
+
+    <!-- External Javascript libs_ext  -->
+    <script src="https://cdn.jsdelivr.net/npm/d3@5/dist/d3.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@4.7.3/dist/handlebars.min.js"
+            integrity="sha256-/PJBs6QWvXijOFIX04kZpLb6ZtSQckdOIavLWKKOgXU="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+
+    <script
+            src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+            integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+            crossorigin="anonymous"
+    ></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js"
+            integrity="sha256-WqU1JavFxSAMcLP2WIOI+GB2zWmShMI82mTpLDcqFUg="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/min/moment.min.js"
+            integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment-timezone@0.5.28/builds/moment-timezone-with-data.min.js"
+            integrity="sha256-IWYg4uIC8/erItNXYvLtyYHioRi2zT1TFva8qaAU/ww="
+            crossorigin="anonymous"></script>
+
+
+    <!-- Library libs_ext -->
+    <script src="static/js/libs_ext/typeahead.bundle.js"></script>
+
+
+    <!--    Internal Libs -->
+    <script src="static/js/data/api.js"></script>
+
+    
+
+    <!-- External CSS -->
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+          integrity="sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY="
+          crossorigin="anonymous">
+
+    <!-- External Fonts (no google for china) -->
+    <link
+            href="static/css/Lato.css"
+            rel="stylesheet"
+    />
+    <link href="static/css/Exo.css" rel="stylesheet"/>
+    <link
+            href="static/css/Cuprum.css"
+            rel="stylesheet"
+    />
+    <link rel="stylesheet" href="static/css/main.css"/>
+<!--    <link rel="stylesheet" href="static/css/fa_regular.css"/>-->
+    <link rel="stylesheet" href="static/css/fa_solid.css"/>
+    <link rel="stylesheet" href="static/css/lazy_load.css"/>
+    <link rel="stylesheet" href="static/css/typeahead.css"/>
+
+    <title>ML4H: Call For Participation</title>
+    
+</head>
+
+<body>
+<!-- NAV -->
+
+<nav
+        class="navbar sticky-top navbar-expand-lg navbar-light bg-light mr-auto"
+        id="main-nav"
+>
+    <div class="container">
+        <a class="navbar-brand" href="index.html">
+            <img
+                    class="logo" src="static/images/logo.png"
+                    height="50px"
+            width="auto"
+            />
+        </a>
+        
+        <a class="navbar-brand" href="index.html">ML4H 2022</a>
+        
+        <button
+                class="navbar-toggler"
+                type="button"
+                data-toggle="collapse"
+                data-target="#navbarNav"
+                aria-controls="navbarNav"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+        >
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div
+                class="collapse navbar-collapse text-right flex-grow-1"
+                id="navbarNav"
+        >
+            <ul class="navbar-nav ml-auto">
+
+                
+                <li class="nav-item active">
+                    <a class="nav-link" href="index.html">Home</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../online_proceedings.html">Online Proceedings</a>
+                </li>
+                
+<!--                 <li class="nav-item ">
+                    <a class="nav-link" href="papers.html">Accepted Papers</a>
+                </li> -->
+
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  About ML4H
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                    <li><a class="nav-link" href="./about.html" >History</a></li> 
+                    <li><a class="nav-link" href="https://ahli.cc">Governing board</a></li> 
+                    <li><a class="nav-link" href="../code_of_conduct.html">Code of Conduct</a></li> 
+                    <li><a class="nav-link" href="../publication_ethics.html">Publication Ethic</a></li> 
+                </ul>
+                </li> 
+
+
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Attend
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                    <li><a class="nav-link" href="https://www.eventbrite.com/e/397067809507/" >Registration</a></li>
+                    <li><a class="nav-link" href="travel_awards.html" >Travel Awards</a></li>
+                    <li><a class="nav-link" href="speakers.html" >Speakers</a></li>
+                    <li><a class="nav-link" href="schedule.html" >Schedule</a></li>
+                    <li><a class="nav-link" href="research_roundtables.html" >Research Roundtables</a></li>
+                    <li><a class="nav-link" href="./career_mentorship.html" >Career Mentorship</a></li> 
+                </ul>
+                </li> 
+                <!--
+                    <li><a class="nav-link" href="registration.html" >Registration</a></li>
+                    <li><a class="nav-link" href="participation_guide.html" >Participation Guide</a></li>
+                    <li><a class="nav-link" href="schedule.html" >Schedule</a></li>
+                    <li><a class="nav-link" href="speakers.html" >Speakers</a></li>
+                    <li><a class="nav-link" href="research_roundtables.html" >Research Roundtables</a></li>
+                    
+                    <li><a class="nav-link" href="raffle_terms.html" >Raffle</a></li>
+                    <li><a class="nav-link" href="code_of_conduct.html" >Code of Conduct</a></li>
+                -->
+
+                <li class="nav-item dropdown ">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Submit
+                  </a> 
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                    <li><a class="nav-link" href="./call_for_participation.html">Call for Participation</a></li>
+                    <li><a class="nav-link" href="./submission.html">Concurrent Workshop Submission</a></li>
+                    <li><a class="nav-link" href="./writing_guidelines.html" >Writing Guidelines</a></li>
+                    <li><a class="nav-link" href="./submission_mentorship.html" >Submission Mentorship</a></li>
+                    <li><a class="nav-link" href="./reviewer_instructions.html" >Reviewer Instructions</a></li>
+                    <li><a class="nav-link" href="./reviewer_mentorship.html" >Reviewer Mentorship</a></li>
+                  </ul>
+                </li>
+
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Organization
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="min-width: 200px;">
+                  <li><a class="nav-link" href="./about.html" >About</a></li>
+                  <li><a class="nav-link" href="./committee.html" >Organizers</a></li>
+                  <li><a class="nav-link" href="./become_a_sponsor.html" >Become a Sponsor</a></li>
+
+                </ul>
+                </li>
+
+                <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Past Events
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="nav-link" href="https://ml4health.github.io/2021">2021</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2020">2020</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2019">2019</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2018">2018</a></li>
+                  <li><a class="nav-link" href="https://ml4health.github.io/2017">2017</a></li>
+                  <li><a class="nav-link" href="https://nips.cc/Conferences/2016/Schedule?showEvent=6209">2016</a></li>
+                </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+
+<!-- User Overrides -->
+
+
+
+<div class="container">
+    <!-- Tabs -->
+    <div class="tabs">
+        
+  <div class="page-header text-center">
+    <h1>Call For Participation</h1>
+  </div>
+
+    </div>
+    <!-- Content -->
+    <div class="content">
+        
+
+
+<!--   <h2>Related workshops:</h2>
+<p>We would also like to draw attention to <a href="https://neurips.cc/Conferences/2020/Schedule?type=Workshop">other NeurIPS workshops</a> in the space of machine learning for healthcare and biomedicine:</p>
+<ul>
+<li><a href="https://neurips.cc/Conferences/2020/Schedule?showEvent=16119">MLPH: Machine Learning in Public Health</a></li>
+<li><a href="https://neurips.cc/Conferences/2020/Schedule?showEvent=16135">Machine Learning for Mobile Health</a></li>
+<li><a href="https://neurips.cc/Conferences/2020/Schedule?showEvent=16140">Medical Imaging meets NeurIPS</a></li>
+<li><a href="https://neurips.cc/Conferences/2020/Schedule?showEvent=16121">Learning Meaningful Representations for Life</a></li>
+<li><a href="https://neurips.cc/Conferences/2020/Schedule?showEvent=16109">Biological and Artificial Reinforcement Learning</a></li>
+<li><a href="https://neurips.cc/Conferences/2020/Schedule?showEvent=16136">Machine Learning for Molecules</a> </li>
+<li><a href="https://neurips.cc/Conferences/2020/Schedule?showEvent=16137">Machine Learning for Structural Biology</a></li>
+</ul> -->
+
+<!-----
+
+Yay, no errors, warnings, or alerts!
+
+Conversion time: 0.53 seconds.
+
+
+Using this HTML file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β33
+* Thu Jun 02 2022 17:45:22 GMT-0700 (PDT)
+* Source doc: Copy of Call for Participation
+----->
+
+
+<p>
+ML4H 2022 invites submissions describing innovative machine learning research focused on relevant problems in health and biomedicine. Authors are invited to submit works that fit anywhere within the broad purview of Machine Learning for Health. <strong>Similar to the last three years, ML4H 2022 will accept both papers for publication in a formal proceedings and non-archival extended abstract submissions.</strong>
+</p>
+<p>
+In response to the growing ML4H community, since 2021, ML4H has transitioned into a separate symposium rather than a NeurIPS workshop. This event represents a continuation of prior ML4H workshops/symposiums (<a href="https://nips.cc/Conferences/2016/Schedule?showEvent=6209">2016</a>,<a href="https://ml4health.github.io/2017/"> 2017</a>,<a href="https://ml4health.github.io/2018/"> 2018</a>,<a href="https://ml4health.github.io/2019/"> 2019</a>,<a href="https://ml4health.github.io/2020/"> 2020</a>, <a href="https://ml4health.github.io/2021/">2021</a>) and will continue to be held in December shortly before NeurIPS. This allows us to expand the reviewing timeline and introduce a formal author response and reviewer discussion period, which we hope will improve the peer-review experience.
+</p>
+<p>
+ML4H 2022 will feature:
+</p>
+<ul>
+
+<li>Submission and Reviewer Mentorship Programs
+
+<li><a href="https://ml4health.github.io/2022/call_for_participation.html#author">A Full Author Response Period and Reviewer Discussion Period</a>
+
+<li>Best Paper & Top Reviewer Awards
+</li>
+</ul>
+<h2><strong>Important Dates</strong></h2>
+
+
+<p>
+Sep 1st AoE: Submission Deadline
+</p>
+<p>
+Sep 30th : Author Response Period Starts
+</p>
+<p>
+Oct 5th : Author Response Period Ends
+</p>
+<p>
+Oct 21st: Final Decisions Released
+</p>
+<p>
+Nov 14th [tentative]: Camera Ready Deadline
+</p>
+<p>
+Nov 28th: Hybrid Event
+</p>
+<h2><strong>Submission Tracks</strong></h2>
+
+
+<p>
+Like last year, ML4H 2022 will feature two submission tracks: a full, archival proceedings track and a non-archival, extended abstract track. Submissions to either track will undergo double-blind peer review. It will be up to the authors to ensure the proper anonymization of their papers. Do not include any names or affiliations. Refer to your own past work in the third-person. Malformed, non-blinded, non-healthcare oriented, or grossly insufficient works may be desk rejected without undergoing additional review. In addition, submissions to both tracks will be featured at the event’s poster session, and a subset of works (from either track) will be invited to give a spotlight presentation about their work.
+</p>
+<p>
+Accepted papers and extended abstracts will be chosen based on their technical merit and contribution to the event. More details on how to write an excellent ML4H full paper or extended abstract can be found<a href="https://ml4health.github.io/2021/writing_guidelines.html"> here</a>.
+</p>
+<p>
+Below are the salient differences between both tracks.
+</p>
+<h3><strong>(A) Proceedings Track</strong></h3>
+
+
+<p>
+Excellent ML4H Proceedings papers should be compelling, cohesive works with a high degree of technical sophistication as well as clear and high-impact relevance to healthcare. Accepted proceedings papers will be published in the <strong>Proceedings for Machine Learning Research (PMLR)</strong>. Full proceedings papers can be up to <strong>9 pages </strong>(excluding references and appendices).
+</p>
+<p>
+Papers that are submitted to the ML4H proceedings track cannot be already published or under review in any other archival venue. Similarly, papers published to the ML4H proceedings cannot be published again later at any other venue.
+</p>
+<h3><strong>(B) Extended Abstract Track</strong></h3>
+
+
+<p>
+An excellent extended abstract is one that leads to insight at the event through interaction with other attendees. This can be through presenting new ideas/ways of thinking, leading to insightful discussion and feedback, dissemination of new valuable resources, or enabling new opportunities for collaborations. We also especially solicit “non-traditional research artifacts” as submissions to the extended abstract track, such as papers highlighting novel datasets, insightful negative results, exciting preliminary results that warrant rapid dissemination, reproducibility studies, and opinion pieces or critiques.
+</p>
+<p>
+Extended abstracts can be up to 4 pages (excluding references and appendices), though additional information not critical for understanding the work can be included in an appendix without penalty (reviewers will review the work based predominantly on the main text). Extended abstracts will not appear in the ML4H proceedings, but upon acceptance, we invite (but do not require) authors to submit their extended abstract to the ML4H arxiv.org index.
+</p>
+<p>
+Authors of accepted extended abstracts (non-archival submissions) retain full copyright of their work, and acceptance of such a submission to ML4H 2022 does not preclude publication of the same material in another archival venue (e.g. journal or conference). Furthermore, extended abstract submissions that are under review or have been recently published in a conference or a journal are allowed; if this is the case, authors should clearly state any overlapping published or submitted work at the time of submission (in the confidential comments), and must ensure that they are not violating any other venue’s dual submission policies.
+</p>
+<p>
+<strong>Submission Topics</strong>
+</p>
+<p>
+Submitted papers should describe innovative machine learning research focused on relevant problems in health and medicine.  
+</p>
+<p>
+This can mean new models, new algorithms, new datasets, or new applications. Topics of interest include but are not limited to model deployment, reinforcement learning, temporal models, deep learning, semi-supervised learning, data integration, few/zero shot learning, learning from missing or biased data, learning from non-stationary data, model criticism, model interpretability, causality, model biases, transfer learning, human-computer interaction, and privacy/security. 
+</p>
+<h2><strong>Concurrent Submission to NeurIPS Workshops</strong></h2>
+
+
+<p>
+ML4H is introducing a new shared submission system program that allows other health-themed venues occurring around the same time as ML4H to accept submissions through ML4H rather than by building their own submission and review platform. More information can be found on this <a href="https://ml4health.github.io/2022/submission.html">page</a>
+</p>
+<h2><strong>Submission Instructions</strong></h2>
+
+
+<p>
+Submissions (full papers and extended abstracts) are due on <strong>September 1st 11:59 PM AoE </strong>in the form of anonymized PDF files. There is no separate submission registration deadline. As part of the submission, authors are required to fill out a submission form that will be visible to reviewers to help them assess the work. Authors will also indicate whether they would like the submission to be in the proceedings track or the extended abstract track. 
+</p>
+<p>
+All submissions for ML4H 2022 will be managed through the <strong>OpenReview</strong> system. Submissions must be formatted using the ML4H 2022 LaTeX template; gross violations of formatting guidelines may be desk-rejected without review. 
+</p>
+<p>Submission Site: <a href="https://openreview.net/group?id=ML4H/2022/Symposium">https://openreview.net/group?id=ML4H/2022/Symposium</a></p>
+<p>
+ML4H 2022 LaTeX template: <a href="https://drive.google.com/file/d/1-ZIIH_CPxbu6ccb2naytoCywpbELitZo/view?usp=sharing">download link</a> or <a href="https://www.overleaf.com/latex/templates/ml4h-2022-template/tszywycsnywh">Overleaf</a> 
+</p>
+<p>
+Data and Code: We encourage anonymized code and data submissions (if it can be made available with appropriate approval and guidelines) as supplemental material during review. If you are not sharing code, you must explicitly state that you are not making your code available. If your paper is accepted, then you should de-anonymize your code for the camera-ready version of the paper.
+</p>
+<p>
+Ethics Board Approval: If your research requires IRB (or equivalent) approval or has been evaluated by your IRB as Not Human Subject Research, then for the camera ready version of the paper, you must provide relevant information. At the time of submission for review, to preserve anonymity, it suffices to include a statement that relevant ethics approval information will be provided if the paper is accepted. If your research does not require IRB approval, please explicitly state this to be the case and provide a justification. 
+</p>
+<h2 id="author"><strong>Author Response Period</strong></h2>
+
+
+<p>
+Initial reviews will be released on September 30th. From September 30th to October 5th, 11:59 PM AoE, authors can submit a response to the reviews. Author responses may address any aspect of the reviews, including by adding specific types of new experimental results as requested by the reviewers, e.g. missing baselines. No conceptual changes to the original formulation are allowed beyond clarifications. After the author response period, the reviewers and meta-reviewer will discuss and reach a final decision for the papers. We reserve the right to solicit additional reviews after the author response period in the rare case that there are not sufficient high quality reviews to make a final decision. 
+</p>
+<h2><strong>Reviewer Discussion Period</strong></h2>
+
+
+<p>
+During the reviewer discussion period, reviewers and meta-reviewers will discuss the paper, their reviews, and the author response. This process aims at seeking a consensus between reviewers and meta-reviewers. We ask reviewers to change their initially submitted review scores and recommendations during the discussion period, if applicable, and justify and state this in the discussion. Discussions will take place within OpenReview by using the comment function in each respective submission and should remain double-blind, i.e. comments may not de-anonymize the authors or reviewers.
+</p>
+<p>
+In general, these discussions will be between reviewers and meta-reviewers only. However, when further clarifications from the authors are necessary, reviewers may reach out to authors through OpenReview comments. It is only in response to such direct questions that authors should add comments beyond their author response, and said comments should be limited to directly answering the asked question. The reviewer discussion period formally ends on <strong>October 11 11:59 PM AoE </strong>, but discussions may be finalized earlier.
+</p>
+<h2 id="mentorship"><strong>Mentorship Opportunities</strong></h2>
+
+
+<p>
+This year, ML4H is offering a <strong>Submission Mentorship Program </strong>which focuses on pairing less experienced authors with senior researchers to provide feedback on their paper submission, with the overall goal of improving submission quality and fostering future collaboration. 
+</p>
+
+<ul>
+
+<li>Application form for mentees : <a href="https://forms.gle/Cm7aXPhBbM1by3yB8">https://forms.gle/Cm7aXPhBbM1by3yB8</a> 
+
+<li>Application form for mentors : <a href="https://forms.gle/Hfz1ELtdHDmFZ5Ak8">https://forms.gle/Hfz1ELtdHDmFZ5Ak8</a> 
+</li>
+</ul>
+
+<p>
+ML4H will also be offering a <strong>Reviewer Mentorship Program</strong> which will take place immediately after the submission deadline and its aim is to train junior reviewers, foster new connections and relationships in the ML4H community, and ultimately improve the quality of the review process. We especially encourage less experienced authors and reviewers and participants from underrepresented backgrounds to sign up as mentees, as well as more senior community members to serve as mentors for these programs. More information will for these programs will be available soon. 
+</p>
+
+<h2><strong>Registration Information</strong></h2>
+
+
+<p>
+To promote community interaction, at least one presenting author of accepted works must register for the event. Registration details are forthcoming.
+</p>
+<h2><strong>Contact Us</strong></h2>
+
+
+<p>
+Please direct questions to:<a href="https://ml4health.github.io/2022/ml4h.2022@gmail.com"> ml4h.2022@gmail.com</a> and follow us on Twitter at<a href="https://twitter.com/symposiumml4h"> @symposiumml4h</a>.
+</p>
+
+  </div>
+
+    </div>
+</div>
+
+
+
+<!-- Google Analytics -->
+<script
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=UA-"
+></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+
+  gtag("js", new Date());
+  gtag("config", "UA-");
+</script>
+
+<!-- Footer -->
+<footer class="footer bg-light p-4">
+    <div class="container">
+        <p class="float-right"><a href="#">Back to Top</a></p>
+        <p class="text-center">© 2021 ML4H Organization Committee</p>
+    </div>
+</footer>
+
+<!-- Code for hash tags -->
+<script type="text/javascript">
+  $(document).ready(function () {
+    if (window.location.hash !== "") {
+      $(`a[href="${window.location.hash}"]`).tab("show");
+    }
+
+    $("a[data-toggle='tab']").on("shown.bs.tab", function (e) {
+      const hash = $(e.target).attr("href");
+      if (hash.substr(0, 1) === "#") {
+        const position = $(window).scrollTop();
+        window.location.replace(`#${hash.substr(1)}`);
+        $(window).scrollTop(position);
+      }
+    });
+  });
+</script>
+<!--    <script src="static/js/modules/lazyLoad.js"></script>-->
+
+</body>
+</html>

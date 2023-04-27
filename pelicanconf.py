@@ -11,8 +11,8 @@ if 'SITEURL' in os.environ:
 else:
     SITEURL = 'https://ml4health.github.io/2022'
 
-OUTPUT_PATH = '2022/'
-PATH = '2022_content/'
+OUTPUT_PATH = '2023/'
+PATH = '2023_content/'
 
 TIMEZONE = 'Europe/Paris'
 

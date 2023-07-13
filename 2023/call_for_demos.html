@@ -6,7 +6,7 @@
 <head>
     
     
-    <link rel="shortcut icon" type="image/x-icon" href="./2022/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
     <!-- Required meta tags -->
     <meta charset="utf-8"/>
@@ -47,11 +47,11 @@
 
 
     <!-- Library libs_ext -->
-    <script src="./2022/static/js/libs_ext/typeahead.bundle.js"></script>
+    <script src="static/js/libs_ext/typeahead.bundle.js"></script>
 
 
     <!--    Internal Libs -->
-    <script src="./2022/static/js/data/api.js"></script>
+    <script src="static/js/data/api.js"></script>
 
     
 
@@ -63,21 +63,25 @@
 
     <!-- External Fonts (no google for china) -->
     <link
-            href="./2022/static/css/Lato.css"
+            href="static/css/Lato.css"
             rel="stylesheet"
     />
-    <link href="./2022/static/css/Exo.css" rel="stylesheet"/>
+    <link href="static/css/Exo.css" rel="stylesheet"/>
     <link
-            href="./2022/static/css/Cuprum.css"
+            href="static/css/Cuprum.css"
             rel="stylesheet"
     />
-    <link rel="stylesheet" href="./2022/static/css/main.css"/>
+    <link rel="stylesheet" href="static/css/main.css"/>
 <!--    <link rel="stylesheet" href="static/css/fa_regular.css"/>-->
-    <link rel="stylesheet" href="./2022/static/css/fa_solid.css"/>
-    <link rel="stylesheet" href="./2022/static/css/lazy_load.css"/>
-    <link rel="stylesheet" href="./2022/static/css/typeahead.css"/>
+    <link rel="stylesheet" href="static/css/fa_solid.css"/>
+    <link rel="stylesheet" href="static/css/lazy_load.css"/>
+    <link rel="stylesheet" href="static/css/typeahead.css"/>
+    <style>img {
+    display: block;
+    margin: 0 auto;
+}</style>
 
-    <title>ML4H: Online Proceedings</title>
+    <title>ML4H: Call For Demonstrations</title>
     
 </head>
 
@@ -208,6 +212,7 @@
 </nav>
 
 
+
 <!-- User Overrides -->
 
 
@@ -217,40 +222,80 @@
     <div class="tabs">
         
   <div class="page-header text-center">
-    <h1>Online Proceedings</h1>
+    <h1>Call For Demonstrations</h1>
   </div>
 
     </div>
     <!-- Content -->
     <div class="content">
         
-<div class="page-content">
+
+<h2>Introduction</h2>
 <p>
-Since 2019, Machine Learning for Health has held two submission tracks: a full, archival proceedings track and a non-archival, extended abstract track. 
-The proceedings of ML4H are published as volumes of the Proceedings of Machine Learning Research series.
+The 2023 Machine Learning for Health (ML4H) Symposium is excited to introduce a new component to the program - the Call for Demonstrations. Increasing numbers of Machine Learning-based Software as Medical Devices are approved by organizations such as US FDA, China NMPA, or EU CE among others. As the ML4H field continues to mature and differentiate, there is a growing need for an interface where assumptions prevalent in ML4H research can be validated against the challenges, solutions, and maturity of real-world ML4H tools.
 </p>
 
-<h3>Proceedings Track:</h3>
+<img src="static/images/timeline_ml4h.png" alt="Timeline" style="width:90%">
+
+
+<p>
+    The ML4H Demo track aims at submissions that demonstrate real-world applications of ML4H technologies, bridging the gap from proof-of-concept to practical utility. Submissions will be evaluated according to the following process and criteria.
+</p>
+
+<h2>Submission Format and Review Process</h2>
+<p>
+A submission to the CfD consists of two components
+</p>
 <ul>
-<li><a href="https://proceedings.mlr.press/v193/">Proceedings of the 2nd Machine Learning for Health symposium 2022 (ML4H 2022), PMLR volume 193, Issn: 2640-3498</a></li>
-<li><a href="https://proceedings.mlr.press/v158/">Proceedings of 1st Machine Learning for Health symposium 2021 (ML4H 2021), PMLR volume 158, Issn: 2640-3498</a></li>
-<li><a href="https://proceedings.mlr.press/v136/">Proceedings of the 6th Machine Learning for Health workshop 2020 (ML4H 2020), PMLR volume 136, Issn: 2640-3498</a></li>
-<li><a href="https://proceedings.mlr.press/v116/">Proceedings of the 5th Machine Learning for Health workshop 2019 (ML4H 2019), PMLR volume 116, Issn: 2640-3498</a></li>
+
+<li>Filling out the submission form which is available here <a href="https://forms.gle/p289mcAa3wC7n2DFA">https://forms.gle/p289mcAa3wC7n2DFA</a> including basic information such as 
+<ul>
+ 
+<li>Application domain
+ 
+<li>Notable ML challenges and solutions faced, if any, during development and deployment of the tool
+ 
+<li>Location of use and manufacture
+</li> 
 </ul>
 
-<h3>Extended Abstract Track:</h3>
-<ul>
-<li><a href="http://arxiv.org/abs/2211.15564">Collection of the accepted abstracts for the ML4H Abstract Track 2022</a></li>
-<li><a href="https://arxiv.org/abs/2112.00179">Collection of the accepted abstracts for the ML4H Abstract Track 2021</a></li>
-<li><a href="https://arxiv.org/abs/2011.11554v1">Collection of the accepted abstracts for the ML4H Abstract Track 2020</a></li>
-<li><a href="https://arxiv.org/abs/2002.01584v1">Collection of the accepted abstracts for the ML4H Abstract Track 2019</a></li>
-<li><a href="https://arxiv.org/abs/1811.07216">Collection of the accepted submissions to ML4H 2018</a></li>
-<li><a href="https://ml4health.github.io/2017/pages/posters.html">Collection of the accepted submissions to ML4H 2017</a></li>
-<li><a href="http://media.nips.cc/Conferences/2016/NIPS-2016-Workshop-Book.pdf">Program of ML4H 2016, NeurIPS 2016 Workshop book (pp. 20-22)</a></li>
+<li>1 page specsheet describing the ML4H tool technology and application. References and appendices, if needed, can be on extra pages, but we encourage you to keep the specsheet short and concise. The document will be submitted as part of the form above. Only .pdf files are accepted. Max file size 10MB. Please use the following LaTeX template to prepare your specsheet, available here<br><br>Drive: <a href="https://drive.google.com/file/d/1Kf-qwqwioNf_7UJx4FOGYzVFWoXXDWtY/view?usp=sharing">https://drive.google.com/file/d/1Kf-qwqwioNf_7UJx4FOGYzVFWoXXDWtY/view?usp=sharing</a><br>and<br>Overleaf: <a href="https://www.overleaf.com/read/mxmvxjznzkxm">https://www.overleaf.com/read/mxmvxjznzkxm</a> 
+</li>
 </ul>
+<p>
+All submissions will undergo a review process by the ML4H Demo Review Committee to uphold the selection criteria and assess the maturity and fit of the submitted demos. 
+</p>
+<p>
+<br>Accepted submissions will have the opportunity to present their work in a poster-like live demo format on the day of the event and roundtables/plenary discussion.<br><br>
+
+<h2>Selection Criteria</h2>
+<p>
+All submitted demos will be evaluated based on the following selection criteria:<br><br>1. Relevance to the ML4H field<br>2. Maturity of the tool or project (e.g., used but approval not necessary, in approval process, approved by a notified body)<br>3. Quality and clarity of the submission
+</p>
+<p>
+4. Highlighting the role of machine learning methods as a source of solutions or challenges during the development or deployment of the tool.<br><br>
+<h2>Important Dates</h2>
+<p>
+<em>All dates in AoE</em><br>1. Call for Demos Opens: Monday, July 3, 2023<br>2. Submission Deadline: Friday, October 13, 2023<br>3. Acceptance Notification: Wednesday, November 1, 2023<br>4. Day of Presentation: Sunday, December 10, 2023
+</p>
+<h2>Contact and Questions</h2>
+<p>
+If you have any questions regarding your submission you can reach demo chairs at
+</p>
+<ul>
+
+<li><a href="mailto:luis.oala@dotphoton.com">luis.oala@dotphoton.com</a> (Luis, he/him)
+
+<li><a href="mailto:xushan@caict.ac.cn">xushan@caict.ac.cn</a> (Shan, she/her)
+</li>
+</ul>
+<p>
+For general questions related to the Symposium please contact <a href="mailto:info@ml4h.cc">info@ml4h.cc</a>. <br><br>We eagerly await your submissions. This is an opportunity to showcase the practical side of ML4H and demonstrate the impact smart machine learning learning solutions can have on improving health outcomes. We look forward to your participation in making the ML4H 2023 Symposium program a success!
+</p>
 
 
-</div>
+
+  </div>
 
     </div>
 </div>
@@ -277,7 +322,7 @@ The proceedings of ML4H are published as volumes of the Proceedings of Machine L
 <footer class="footer bg-light p-4">
     <div class="container">
         <p class="float-right"><a href="#">Back to Top</a></p>
-        <p class="text-center">© 2022 ML4H Organization Committee</p>
+        <p class="text-center">© 2023 ML4H Organization Committee</p>
     </div>
 </footer>
 
